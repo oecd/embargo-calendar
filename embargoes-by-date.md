@@ -2,49 +2,25 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 20 May 2025 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 22 May 2025 at 0:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 May 2025](#19-may-2025)
 * [20 May 2025](#20-may-2025)
 * [23 May 2025](#23-may-2025)
 * [26 May 2025](#26-may-2025)
 * [27 May 2025](#27-may-2025)
 * [28 May 2025](#28-may-2025)
 * [2 June 2025](#2-june-2025)
+* [3 June 2025](#3-june-2025)
+* [4 June 2025](#4-june-2025)
 * [5 June 2025](#5-june-2025)
+* [9 June 2025](#9-june-2025)
+* [10 June 2025](#10-june-2025)
 * [11 June 2025](#11-june-2025)
 * [16 June 2025](#16-june-2025)
 * [17 June 2025](#17-june-2025)
 * [19 June 2025](#19-june-2025)
 * [20 June 2025](#20-june-2025)
 * [30 June 2025](#30-june-2025)
-
-------
-
-# 19 May 2025
-
-## [Reinforcing Rural Resilience](https://doi.org/10.1787/7cd485e3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 May 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -76,29 +52,6 @@ Tuesday 20 May 2025 at 4:00 | no launch event
 ------
 
 # 23 May 2025
-
-## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 May 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ## [OECD Economic Surveys: Finland 2025](https://doi.org/10.1787/985d0555-en)
 
@@ -204,7 +157,7 @@ Monday 26 May 2025 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -213,7 +166,7 @@ Monday 26 May 2025 at 12:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -350,7 +303,7 @@ Wednesday 28 May 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -359,9 +312,9 @@ Wednesday 28 May 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -463,6 +416,60 @@ Monday 2 June 2025 at 8:00 | no launch event
 
 ------
 
+# 3 June 2025
+
+## [OECD Economic Outlook, Volume 2025 Issue 1 - Preliminary version](https://doi.org/10.1787/83363382-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 4 June 2025
+
+## [OECD Economic Surveys: Sweden 2025](https://doi.org/10.1787/75e94b2f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 June 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 5 June 2025
 
 ## [Education and Skills in Croatia](https://doi.org/10.1787/bace00c4-en)
@@ -484,6 +491,60 @@ Thursday 5 June 2025 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 9 June 2025
+
+## [Investing in Climate for Growth and Development - The Case for Enhanced NDCs](https://doi.org/10.1787/16b7cbc7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 June 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 10 June 2025
+
+## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
