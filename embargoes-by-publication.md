@@ -2,36 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 22 May 2025 at 0:09* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The State of Global Teenage Career Preparation](https://doi.org/10.1787/d5f8e3f2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 May 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Thursday 22 May 2025 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Finland 2025](https://doi.org/10.1787/985d0555-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 23 May 2025 at 10:00 | no launch event
+Friday 23 May 2025 at 7:00 | no launch event
 
 ### Status Information
 
@@ -211,6 +188,29 @@ Tuesday 27 May 2025 at 7:30 | no launch event
 
 ------
 
+## [Perspectives de l’acier de l’OCDE 2025 (version abrégée)](https://doi.org/10.1787/08ed1cf9-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 May 2025 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
 ## [Revenue Statistics in Latin America and the Caribbean 2025](https://doi.org/10.1787/7594fbdd-en)
 
 Embargo date | Launch date
@@ -254,6 +254,29 @@ Tuesday 27 May 2025 at 14:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Consensus document on Beauveria bassiana strains as microbial plant protection product - Regulatory considerations for Beauveria bassiana strains](https://doi.org/10.1787/cc1d28d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 May 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -372,7 +395,30 @@ Monday 2 June 2025 at 8:00 | no launch event
 
 ------
 
-## [OECD Economic Outlook, Volume 2025 Issue 1 - Preliminary version](https://doi.org/10.1787/83363382-en)
+## [Introducing the OECD AI Capability Indicators](https://doi.org/10.1787/be745f04-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Outlook, Volume 2025 Issue 1 - Preliminary Version](https://doi.org/10.1787/83363382-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -422,7 +468,7 @@ Wednesday 4 June 2025 at 22:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 5 June 2025 at 22:00 | no launch event
+Friday 6 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
@@ -468,7 +514,7 @@ Monday 9 June 2025 at 22:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 10 June 2025 at 7:00 | no launch event
+Tuesday 10 June 2025 at 7:30 | no launch event
 
 ### Status Information
 
