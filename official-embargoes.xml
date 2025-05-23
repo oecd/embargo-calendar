@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-05-22T23:19:49.1099039+02:00">
+<report name="official-embargoes" generated="2025-05-24T01:09:54.6159387+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -707,7 +707,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-05-26</cell>
     <cell name="embargo date">2025-05-26T12:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -717,7 +717,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ed9dbc1</cell>
   </row>
   <row index="36">
@@ -3264,7 +3264,7 @@
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/83363382-en</cell>
     <cell name="title">OECD Economic Outlook, Volume 2025 Issue 1 (en)</cell>
-    <cell name="subtitle">Preliminary Version (en)</cell>
+    <cell name="subtitle">Tackling Uncertainty, Reviving Growth (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
@@ -3284,7 +3284,7 @@
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/83363382-en</cell>
     <cell name="title">OECD Economic Outlook, Volume 2025 Issue 1 (en)</cell>
-    <cell name="subtitle">Preliminary Version (en)</cell>
+    <cell name="subtitle">Tackling Uncertainty, Reviving Growth (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
@@ -3341,6 +3341,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0360b481</cell>
   </row>
   <row index="167">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/7e6a132a-en</cell>
+    <cell name="title">OECD Economic Surveys: South Africa 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-05</cell>
+    <cell name="embargo date">2025-06-05T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4adad4f4</cell>
+  </row>
+  <row index="168">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/bace00c4-en</cell>
     <cell name="title">Education and Skills in Croatia (en)</cell>
@@ -3360,7 +3380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57227c41</cell>
   </row>
-  <row index="168">
+  <row index="169">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/16b7cbc7-en</cell>
     <cell name="title">Investing in Climate for Growth and Development (en)</cell>
@@ -3380,7 +3400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bfe625ee</cell>
   </row>
-  <row index="169">
+  <row index="170">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/bc0babf3-en</cell>
     <cell name="title">Economic Convergence Scoreboard for the Western Balkans 2025 (en)</cell>
@@ -3400,7 +3420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c80b89de</cell>
   </row>
-  <row index="170">
+  <row index="171">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/795de142-en</cell>
     <cell name="title">Governing with Artificial Intelligence (en)</cell>
@@ -3420,7 +3440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69e3f756</cell>
   </row>
-  <row index="171">
+  <row index="172">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/795de142-en</cell>
     <cell name="title">Governing with Artificial Intelligence (en)</cell>
@@ -3440,7 +3460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c912729</cell>
   </row>
-  <row index="172">
+  <row index="173">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/ff0e1d29-fr</cell>
     <cell name="title">Examens de l'OCDE sur la coopération pour le développement : Suisse 2025 (fr)</cell>
@@ -3460,7 +3480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6c47505</cell>
   </row>
-  <row index="173">
+  <row index="174">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/b83b7007-en</cell>
     <cell name="title">OECD Development Co-operation Peer Reviews: Switzerland 2025 (en)</cell>
@@ -3480,7 +3500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d344c6da</cell>
   </row>
-  <row index="174">
+  <row index="175">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ac0229da-en</cell>
     <cell name="title">Education and Skills in Bulgaria (en)</cell>
@@ -3500,7 +3520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52d81891</cell>
   </row>
-  <row index="175">
+  <row index="176">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ac0229da-en</cell>
     <cell name="title">Education and Skills in Bulgaria (en)</cell>
@@ -3520,7 +3540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7fe20d9a</cell>
   </row>
-  <row index="176">
+  <row index="177">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/d492583a-en</cell>
     <cell name="title">Global Drought Outlook (en)</cell>
@@ -3540,7 +3560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b4a93c1</cell>
   </row>
-  <row index="177">
+  <row index="178">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/d492583a-en</cell>
     <cell name="title">Global Drought Outlook (en)</cell>
@@ -3560,7 +3580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b31ff34</cell>
   </row>
-  <row index="178">
+  <row index="179">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/0b8d13ac-en</cell>
     <cell name="title">Strengthening Productivity Analysis for Policymaking in Thailand (en)</cell>
@@ -3580,7 +3600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f794f573</cell>
   </row>
-  <row index="179">
+  <row index="180">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/0b8d13ac-en</cell>
     <cell name="title">Strengthening Productivity Analysis for Policymaking in Thailand (en)</cell>
@@ -3600,7 +3620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e0fc112</cell>
   </row>
-  <row index="180">
+  <row index="181">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/d5ea99b2-en</cell>
     <cell name="title">Closing Broadband Connectivity Divides for All (en)</cell>
@@ -3620,7 +3640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93191187</cell>
   </row>
-  <row index="181">
+  <row index="182">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>
@@ -3640,7 +3660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dddfd872</cell>
   </row>
-  <row index="182">
+  <row index="183">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>

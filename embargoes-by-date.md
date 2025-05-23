@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 22 May 2025 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 24 May 2025 at 1:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 May 2025](#23-may-2025)
 * [26 May 2025](#26-may-2025)
@@ -11,6 +11,7 @@ Data generated on | |
 * [2 June 2025](#2-june-2025)
 * [3 June 2025](#3-june-2025)
 * [4 June 2025](#4-june-2025)
+* [5 June 2025](#5-june-2025)
 * [6 June 2025](#6-june-2025)
 * [9 June 2025](#9-june-2025)
 * [10 June 2025](#10-june-2025)
@@ -106,7 +107,7 @@ Monday 26 May 2025 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -115,7 +116,7 @@ Monday 26 May 2025 at 12:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -459,7 +460,7 @@ Tuesday 3 June 2025 at 7:00 | no launch event
 
 ------
 
-## [OECD Economic Outlook, Volume 2025 Issue 1 - Preliminary Version](https://doi.org/10.1787/83363382-en)
+## [OECD Economic Outlook, Volume 2025 Issue 1 - Tackling Uncertainty, Reviving Growth](https://doi.org/10.1787/83363382-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -506,6 +507,33 @@ Wednesday 4 June 2025 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 5 June 2025
+
+## [OECD Economic Surveys: South Africa 2025](https://doi.org/10.1787/7e6a132a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
