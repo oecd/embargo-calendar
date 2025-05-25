@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 24 May 2025 at 1:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 25 May 2025 at 23:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 May 2025](#23-may-2025)
 * [26 May 2025](#26-may-2025)
 * [27 May 2025](#27-may-2025)
 * [28 May 2025](#28-may-2025)
@@ -21,33 +20,6 @@ Data generated on | |
 * [19 June 2025](#19-june-2025)
 * [20 June 2025](#20-june-2025)
 * [30 June 2025](#30-june-2025)
-
-------
-
-# 23 May 2025
-
-## [OECD Economic Surveys: Finland 2025](https://doi.org/10.1787/985d0555-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 May 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -180,7 +152,7 @@ Tuesday 27 May 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -189,7 +161,7 @@ Tuesday 27 May 2025 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -299,7 +271,7 @@ Wednesday 28 May 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -308,7 +280,7 @@ Wednesday 28 May 2025 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
