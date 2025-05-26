@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-05-25T23:59:20.4496554+02:00">
+<report name="official-embargoes" generated="2025-05-26T22:47:26.7080811+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -1362,6 +1362,46 @@
   </row>
   <row index="68">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/c2e3da22-es</cell>
+    <cell name="title">Uruguay (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/874b3cf8</cell>
+  </row>
+  <row index="69">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/fe341f27-en</cell>
+    <cell name="title">Colombia (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3290e617</cell>
+  </row>
+  <row index="70">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7594fbdd-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2025 (en)</cell>
     <cell name="subtitle"/>
@@ -1380,7 +1420,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/681d91d8</cell>
   </row>
-  <row index="69">
+  <row index="71">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/78b0c38c-en</cell>
+    <cell name="title">Bolivia (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28b0a91f</cell>
+  </row>
+  <row index="72">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/63ada72d-en</cell>
+    <cell name="title">Mexico (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d93c6a7f</cell>
+  </row>
+  <row index="73">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/154a8f70-es</cell>
+    <cell name="title">La República Dominicana (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c58f9b97</cell>
+  </row>
+  <row index="74">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/66837818-es</cell>
     <cell name="title">Clasificación de impuestos de la OCDE y guía de interpretación de la OCDE (es)</cell>
@@ -1400,7 +1500,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25cbd933</cell>
   </row>
-  <row index="70">
+  <row index="75">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/f7ed6d9a-en</cell>
+    <cell name="title">Peru (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29aef3b9</cell>
+  </row>
+  <row index="76">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f0bee3b4-es</cell>
     <cell name="title">Estadísticas tributarias en América Latina y el Caribe 2025 (es)</cell>
@@ -1420,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f02099fd</cell>
   </row>
-  <row index="71">
+  <row index="77">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a74816b2-en</cell>
     <cell name="title">Non-tax revenues in Latin America and the Caribbean (en)</cell>
@@ -1440,7 +1560,147 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81d39dfd</cell>
   </row>
-  <row index="72">
+  <row index="78">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/2ef09e50-en</cell>
+    <cell name="title">Panama (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/724c2155</cell>
+  </row>
+  <row index="79">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9f97d1f0-es</cell>
+    <cell name="title">Argentina (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a6a70781</cell>
+  </row>
+  <row index="80">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/b0ce4cb0-es</cell>
+    <cell name="title">Ecuador (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7166da89</cell>
+  </row>
+  <row index="81">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/bc1fd6d5-es</cell>
+    <cell name="title">Colombia (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7352cd4d</cell>
+  </row>
+  <row index="82">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/1cc672b9-en</cell>
+    <cell name="title">Guatemala (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7182cdff</cell>
+  </row>
+  <row index="83">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/b9365682-es</cell>
+    <cell name="title">Santa Lucía (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21a0d79a</cell>
+  </row>
+  <row index="84">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/51fcb0ad-en</cell>
+    <cell name="title">Argentina (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e5b2f05</cell>
+  </row>
+  <row index="85">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2ca45045-en</cell>
     <cell name="title">Fiscal revenues from non-renewable natural resources in Latin America and the Caribbean (en)</cell>
@@ -1460,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df7b8c54</cell>
   </row>
-  <row index="73">
+  <row index="86">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9e927484-es</cell>
     <cell name="title">Resumen ejecutivo (es)</cell>
@@ -1480,7 +1740,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e4b43eb</cell>
   </row>
-  <row index="74">
+  <row index="87">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9658c31e-es</cell>
+    <cell name="title">Honduras (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c797a74</cell>
+  </row>
+  <row index="88">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f0bee3b4-es</cell>
     <cell name="title">Estadísticas tributarias en América Latina y el Caribe 2025 (es)</cell>
@@ -1500,7 +1780,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05181b80</cell>
   </row>
-  <row index="75">
+  <row index="89">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/c2916a35-es</cell>
+    <cell name="title">Antigua y Barbuda (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6407f85a</cell>
+  </row>
+  <row index="90">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/696f59b6-en</cell>
+    <cell name="title">Cuba (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5eb13a30</cell>
+  </row>
+  <row index="91">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c257a767-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1520,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db5ed508</cell>
   </row>
-  <row index="76">
+  <row index="92">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7594fbdd-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2025 (en)</cell>
@@ -1540,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63052221</cell>
   </row>
-  <row index="77">
+  <row index="93">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7594fbdd-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2025 (en)</cell>
@@ -1560,7 +1880,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51ad0265</cell>
   </row>
-  <row index="78">
+  <row index="94">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/fe9238a2-en</cell>
+    <cell name="title">Costa Rica (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b68998d9</cell>
+  </row>
+  <row index="95">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/734c75b6-en</cell>
+    <cell name="title">El Salvador (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d54fc127</cell>
+  </row>
+  <row index="96">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/b1bf5b3f-en</cell>
+    <cell name="title">Guyana (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8d26d6f</cell>
+  </row>
+  <row index="97">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f0bee3b4-es</cell>
     <cell name="title">Estadísticas tributarias en América Latina y el Caribe 2025 (es)</cell>
@@ -1580,7 +1960,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dcf6868a</cell>
   </row>
-  <row index="79">
+  <row index="98">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/0b7e28fb-en</cell>
+    <cell name="title">Dominican Republic (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61194893</cell>
+  </row>
+  <row index="99">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/4510002e-es</cell>
+    <cell name="title">Belice (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07c09410</cell>
+  </row>
+  <row index="100">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/296d0a4e-es</cell>
+    <cell name="title">Barbados (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f87b8a98</cell>
+  </row>
+  <row index="101">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0b3f6346-es</cell>
     <cell name="title">Ingresos fiscales provenientes de recursos naturales no renovables en América Latina y el Caribe (es)</cell>
@@ -1600,7 +2040,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27abe389</cell>
   </row>
-  <row index="80">
+  <row index="102">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/f6a5cb34-en</cell>
+    <cell name="title">Brazil (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c617ae94</cell>
+  </row>
+  <row index="103">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2e806a9e-en</cell>
     <cell name="title">Tax levels and tax structures, 1990-2023 (en)</cell>
@@ -1620,7 +2080,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/203147f8</cell>
   </row>
-  <row index="81">
+  <row index="104">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9c34cb99-es</cell>
+    <cell name="title">Brasil (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa4e92f8</cell>
+  </row>
+  <row index="105">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f0bee3b4-es</cell>
     <cell name="title">Estadísticas tributarias en América Latina y el Caribe 2025 (es)</cell>
@@ -1640,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43c96508</cell>
   </row>
-  <row index="82">
+  <row index="106">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b9ecdb22-en</cell>
     <cell name="title">Country tables, tax revenues by sub-sectors of general government, 1990-2023 (en)</cell>
@@ -1660,7 +2140,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37d45c64</cell>
   </row>
-  <row index="83">
+  <row index="107">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/768de654-es</cell>
+    <cell name="title">Costa Rica (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bcbd4d3</cell>
+  </row>
+  <row index="108">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f0bee3b4-es</cell>
     <cell name="title">Estadísticas tributarias en América Latina y el Caribe 2025 (es)</cell>
@@ -1680,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9b9d3dc4</cell>
   </row>
-  <row index="84">
+  <row index="109">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/182209e1-es</cell>
     <cell name="title">Ingresos no tributarios en América Latina y el Caribe (es)</cell>
@@ -1700,7 +2200,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/994c812b</cell>
   </row>
-  <row index="85">
+  <row index="110">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/d7f193a4-es</cell>
+    <cell name="title">Paraguay (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/029e1f42</cell>
+  </row>
+  <row index="111">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/265a111b-es</cell>
     <cell name="title">Tendencias tributarias, 1990-2023 (es)</cell>
@@ -1720,7 +2240,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd0b7d7c</cell>
   </row>
-  <row index="86">
+  <row index="112">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/ce670945-es</cell>
+    <cell name="title">Guatemala (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/810e69a3</cell>
+  </row>
+  <row index="113">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/0be32465-es</cell>
+    <cell name="title">El Salvador (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bcddf98</cell>
+  </row>
+  <row index="114">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/af6b30f5-es</cell>
+    <cell name="title">Guyana (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a05fe6df</cell>
+  </row>
+  <row index="115">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7594fbdd-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2025 (en)</cell>
@@ -1740,7 +2320,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/deb58004</cell>
   </row>
-  <row index="87">
+  <row index="116">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/f142b424-es</cell>
+    <cell name="title">Panama (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e89a8be</cell>
+  </row>
+  <row index="117">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/445f920a-es</cell>
     <cell name="title">Niveles impositivos y estructuras tributarias, 1990-2023 (es)</cell>
@@ -1760,7 +2360,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ff2d4d3</cell>
   </row>
-  <row index="88">
+  <row index="118">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/2ae5d000-en</cell>
+    <cell name="title">Paraguay (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a74db1d</cell>
+  </row>
+  <row index="119">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cac86d61-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1780,7 +2400,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c77062f</cell>
   </row>
-  <row index="89">
+  <row index="120">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/fb889744-en</cell>
+    <cell name="title">Nicaragua (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b364369</cell>
+  </row>
+  <row index="121">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d71ae2b4-en</cell>
     <cell name="title">Country tables, 1990-2023 – Tax revenues (en)</cell>
@@ -1800,7 +2440,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54dea199</cell>
   </row>
-  <row index="90">
+  <row index="122">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/37f44cb8-en</cell>
+    <cell name="title">Belize (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f6cea1a</cell>
+  </row>
+  <row index="123">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/71ffa9b8-en</cell>
+    <cell name="title">Antigua and Barbuda (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9b1ad6e3</cell>
+  </row>
+  <row index="124">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/988183b9-en</cell>
+    <cell name="title">Chile (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d73a5a1</cell>
+  </row>
+  <row index="125">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7594fbdd-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2025 (en)</cell>
@@ -1820,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a436625</cell>
   </row>
-  <row index="91">
+  <row index="126">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2cabda25-en</cell>
     <cell name="title">The OECD classification of taxes and interpretative guide (en)</cell>
@@ -1840,7 +2540,87 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e27dd48</cell>
   </row>
-  <row index="92">
+  <row index="127">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/407d21f5-es</cell>
+    <cell name="title">Bolivia (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e9829f55</cell>
+  </row>
+  <row index="128">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/18445ef6-en</cell>
+    <cell name="title">Bahamas (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ba07be1</cell>
+  </row>
+  <row index="129">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/5026735d-es</cell>
+    <cell name="title">Las Bahamas (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24689b41</cell>
+  </row>
+  <row index="130">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/23b9b632-en</cell>
+    <cell name="title">Jamaica (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e866c4e</cell>
+  </row>
+  <row index="131">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c45751ac-es</cell>
     <cell name="title">Presentación (es)</cell>
@@ -1860,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8eb9230e</cell>
   </row>
-  <row index="93">
+  <row index="132">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/47c302ba-es</cell>
     <cell name="title">Cuadros país, 1990-2023 – Ingresos tributarios (es)</cell>
@@ -1880,7 +2660,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3f63636</cell>
   </row>
-  <row index="94">
+  <row index="133">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/30d82a6a-es</cell>
+    <cell name="title">Cuba (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db0dd603</cell>
+  </row>
+  <row index="134">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/8ff3d0fe-es</cell>
+    <cell name="title">Perú (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d00da52</cell>
+  </row>
+  <row index="135">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c012816a-en</cell>
     <cell name="title">Tax revenue trends, 1990-2023 (en)</cell>
@@ -1900,7 +2720,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9cd2506b</cell>
   </row>
-  <row index="95">
+  <row index="136">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/02961add-en</cell>
+    <cell name="title">Uruguay (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0fd1f94e</cell>
+  </row>
+  <row index="137">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/7ccb7466-es</cell>
+    <cell name="title">Chile (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/916c51c9</cell>
+  </row>
+  <row index="138">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/a7643959-es</cell>
+    <cell name="title">Trinidad y Tobago (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1a3c784</cell>
+  </row>
+  <row index="139">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5cde4dfc-es</cell>
     <cell name="title">Cuadros país, ingresos tributarios por subsectores de gobierno general, 1990-2023 (es)</cell>
@@ -1920,7 +2800,167 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5a05bac</cell>
   </row>
-  <row index="96">
+  <row index="140">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/7c46c68b-es</cell>
+    <cell name="title">Nicaragua (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94f8726b</cell>
+  </row>
+  <row index="141">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/993680fd-es</cell>
+    <cell name="title">México (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c20dc4c</cell>
+  </row>
+  <row index="142">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9e81fae0-en</cell>
+    <cell name="title">Saint Lucia (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8aed12a0</cell>
+  </row>
+  <row index="143">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/b2193292-es</cell>
+    <cell name="title">Jamaica (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3d82912d</cell>
+  </row>
+  <row index="144">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/1b9b27f9-en</cell>
+    <cell name="title">Trinidad and Tobago (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9171aa36</cell>
+  </row>
+  <row index="145">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/5a37d27f-en</cell>
+    <cell name="title">Barbados (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/636e56b0</cell>
+  </row>
+  <row index="146">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/0e624ff4-en</cell>
+    <cell name="title">Honduras (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/659de70c</cell>
+  </row>
+  <row index="147">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/826b1c80-en</cell>
+    <cell name="title">Ecuador (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f8715dc</cell>
+  </row>
+  <row index="148">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/cc1d28d9-en</cell>
     <cell name="title">Consensus document on Beauveria bassiana strains as microbial plant protection product (en)</cell>
@@ -1940,7 +2980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49528281</cell>
   </row>
-  <row index="97">
+  <row index="149">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/37d1e230-fr</cell>
     <cell name="title">Privilégier un engagement budgétaire au profit de la protection sociale au fléchage des recettes (fr)</cell>
@@ -1960,7 +3000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9812a355</cell>
   </row>
-  <row index="98">
+  <row index="150">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b7c56b5a-fr</cell>
     <cell name="title">Estimer les besoins de financement en matière de protection sociale (fr)</cell>
@@ -1980,7 +3020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e547eaf</cell>
   </row>
-  <row index="99">
+  <row index="151">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/00d67508-fr</cell>
     <cell name="title">Financement de la protection sociale au Sénégal (fr)</cell>
@@ -2000,7 +3040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4384d75</cell>
   </row>
-  <row index="100">
+  <row index="152">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/00d67508-fr</cell>
     <cell name="title">Financement de la protection sociale au Sénégal (fr)</cell>
@@ -2020,7 +3060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c371e4b7</cell>
   </row>
-  <row index="101">
+  <row index="153">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1600ede7-fr</cell>
     <cell name="title">Développer les régimes contributifs (fr)</cell>
@@ -2040,7 +3080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb179a88</cell>
   </row>
-  <row index="102">
+  <row index="154">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/329b7015-fr</cell>
     <cell name="title">Renforcer l’économie formelle et faire contribuer les travailleurs indépendants (fr)</cell>
@@ -2060,7 +3100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c5ccc98</cell>
   </row>
-  <row index="103">
+  <row index="155">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a24bf4fa-fr</cell>
     <cell name="title">Renforcer la conformité sociale (fr)</cell>
@@ -2080,7 +3120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80f5c740</cell>
   </row>
-  <row index="104">
+  <row index="156">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/00d67508-fr</cell>
     <cell name="title">Financement de la protection sociale au Sénégal (fr)</cell>
@@ -2100,7 +3140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/382584aa</cell>
   </row>
-  <row index="105">
+  <row index="157">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/433aa1aa-fr</cell>
     <cell name="title">Mobiliser plus de recettes fiscales pour le financement de la protection sociale (fr)</cell>
@@ -2120,7 +3160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d939c5e</cell>
   </row>
-  <row index="106">
+  <row index="158">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/00d67508-fr</cell>
     <cell name="title">Financement de la protection sociale au Sénégal (fr)</cell>
@@ -2140,7 +3180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3fb53987</cell>
   </row>
-  <row index="107">
+  <row index="159">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/72e9ae5c-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2160,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b4ae5c0</cell>
   </row>
-  <row index="108">
+  <row index="160">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/10a433ad-fr</cell>
     <cell name="title">Acronymes (fr)</cell>
@@ -2180,7 +3220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9f323a9</cell>
   </row>
-  <row index="109">
+  <row index="161">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5aa32b9d-fr</cell>
     <cell name="title">Vers une stratégie graduelle de financement de la protection sociale (fr)</cell>
@@ -2200,7 +3240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/018d52cd</cell>
   </row>
-  <row index="110">
+  <row index="162">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f119ff4a-fr</cell>
     <cell name="title">Résumé exécutif (fr)</cell>
@@ -2220,7 +3260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0af39bc</cell>
   </row>
-  <row index="111">
+  <row index="163">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9ec1b452-fr</cell>
     <cell name="title">Avant propos (fr)</cell>
@@ -2240,7 +3280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e96dca8c</cell>
   </row>
-  <row index="112">
+  <row index="164">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/00d67508-fr</cell>
     <cell name="title">Financement de la protection sociale au Sénégal (fr)</cell>
@@ -2260,7 +3300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0dfd52ea</cell>
   </row>
-  <row index="113">
+  <row index="165">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f7f7d3cf-fr</cell>
     <cell name="title">L’emploi des femmes (fr)</cell>
@@ -2280,7 +3320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/44243e65</cell>
   </row>
-  <row index="114">
+  <row index="166">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/30220b5e-es</cell>
     <cell name="title">Prólogo (es)</cell>
@@ -2300,7 +3340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd1ac386</cell>
   </row>
-  <row index="115">
+  <row index="167">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/db75af76-es</cell>
     <cell name="title">Estudio sobre comercio y género en América Latina (es)</cell>
@@ -2320,7 +3360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/711e1727</cell>
   </row>
-  <row index="116">
+  <row index="168">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c906a2f7-en</cell>
     <cell name="title">Trade and Gender Review of Latin America (en)</cell>
@@ -2340,7 +3380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55d7a4d1</cell>
   </row>
-  <row index="117">
+  <row index="169">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bb7655f5-fr</cell>
     <cell name="title">Échanges de services en Amérique latine (fr)</cell>
@@ -2360,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a19e7cd</cell>
   </row>
-  <row index="118">
+  <row index="170">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/019938c0-fr</cell>
     <cell name="title">Examen du commerce international et du genre en Amérique latine (fr)</cell>
@@ -2380,7 +3420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d9464e6</cell>
   </row>
-  <row index="119">
+  <row index="171">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5b09ad7e-en</cell>
     <cell name="title">Introduction (en)</cell>
@@ -2400,7 +3440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4938571</cell>
   </row>
-  <row index="120">
+  <row index="172">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/db75af76-es</cell>
     <cell name="title">Estudio sobre comercio y género en América Latina (es)</cell>
@@ -2420,7 +3460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4035dcaf</cell>
   </row>
-  <row index="121">
+  <row index="173">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/019938c0-fr</cell>
     <cell name="title">Examen du commerce international et du genre en Amérique latine (fr)</cell>
@@ -2440,7 +3480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/783b833d</cell>
   </row>
-  <row index="122">
+  <row index="174">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c906a2f7-en</cell>
     <cell name="title">Trade and Gender Review of Latin America (en)</cell>
@@ -2460,7 +3500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c160bd84</cell>
   </row>
-  <row index="123">
+  <row index="175">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ac740e38-es</cell>
     <cell name="title">Acuerdos comerciales y mujeres (es)</cell>
@@ -2480,7 +3520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d641b7b</cell>
   </row>
-  <row index="124">
+  <row index="176">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/44b91857-en</cell>
     <cell name="title">Women consumers (en)</cell>
@@ -2500,7 +3540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f47f0d0</cell>
   </row>
-  <row index="125">
+  <row index="177">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d82b3d9e-en</cell>
     <cell name="title">Trade in services in Latin America (en)</cell>
@@ -2520,7 +3560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3c057fa</cell>
   </row>
-  <row index="126">
+  <row index="178">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/019938c0-fr</cell>
     <cell name="title">Examen du commerce international et du genre en Amérique latine (fr)</cell>
@@ -2540,7 +3580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6a11f7a</cell>
   </row>
-  <row index="127">
+  <row index="179">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/77508a78-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -2560,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97cc51f8</cell>
   </row>
-  <row index="128">
+  <row index="180">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/db75af76-es</cell>
     <cell name="title">Estudio sobre comercio y género en América Latina (es)</cell>
@@ -2580,7 +3620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f28b4927</cell>
   </row>
-  <row index="129">
+  <row index="181">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e6af49af-fr</cell>
     <cell name="title">Facilitation des échanges (fr)</cell>
@@ -2600,7 +3640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/584b35ce</cell>
   </row>
-  <row index="130">
+  <row index="182">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/060a0981-es</cell>
     <cell name="title">Facilitación del comercio (es)</cell>
@@ -2620,7 +3660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a32b8370</cell>
   </row>
-  <row index="131">
+  <row index="183">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6f7d59fb-es</cell>
     <cell name="title">Resumen (es)</cell>
@@ -2640,7 +3680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/723191fe</cell>
   </row>
-  <row index="132">
+  <row index="184">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/019938c0-fr</cell>
     <cell name="title">Examen du commerce international et du genre en Amérique latine (fr)</cell>
@@ -2660,7 +3700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/013f5541</cell>
   </row>
-  <row index="133">
+  <row index="185">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/90e120f2-en</cell>
     <cell name="title">Policy recommendations (en)</cell>
@@ -2680,7 +3720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cabb68fb</cell>
   </row>
-  <row index="134">
+  <row index="186">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3a8428fa-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2700,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/34a2086f</cell>
   </row>
-  <row index="135">
+  <row index="187">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/061579a5-es</cell>
     <cell name="title">Mujeres directivas de empresas en el comercio (es)</cell>
@@ -2720,7 +3760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9359856e</cell>
   </row>
-  <row index="136">
+  <row index="188">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6dfeafb3-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -2740,7 +3780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78726f5b</cell>
   </row>
-  <row index="137">
+  <row index="189">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c906a2f7-en</cell>
     <cell name="title">Trade and Gender Review of Latin America (en)</cell>
@@ -2760,7 +3800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f1c195f</cell>
   </row>
-  <row index="138">
+  <row index="190">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1add2e50-en</cell>
     <cell name="title">Women workers (en)</cell>
@@ -2780,7 +3820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4790caac</cell>
   </row>
-  <row index="139">
+  <row index="191">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3977eb3f-es</cell>
     <cell name="title">Recomendaciones en materia de políticas (es)</cell>
@@ -2800,7 +3840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95392d8b</cell>
   </row>
-  <row index="140">
+  <row index="192">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/018cfa14-fr</cell>
     <cell name="title">Recommandations d’action (fr)</cell>
@@ -2820,7 +3860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/309c32d5</cell>
   </row>
-  <row index="141">
+  <row index="193">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f25df717-es</cell>
     <cell name="title">Mujeres trabajadoras (es)</cell>
@@ -2840,7 +3880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42247edc</cell>
   </row>
-  <row index="142">
+  <row index="194">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b28ec069-en</cell>
     <cell name="title">Trade agreements and women (en)</cell>
@@ -2860,7 +3900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1935704</cell>
   </row>
-  <row index="143">
+  <row index="195">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c9af11a7-fr</cell>
     <cell name="title">Introduction (fr)</cell>
@@ -2880,7 +3920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84c820c7</cell>
   </row>
-  <row index="144">
+  <row index="196">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c35f514f-fr</cell>
     <cell name="title">Les femmes consommatrices (fr)</cell>
@@ -2900,7 +3940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/807ae61f</cell>
   </row>
-  <row index="145">
+  <row index="197">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/db75af76-es</cell>
     <cell name="title">Estudio sobre comercio y género en América Latina (es)</cell>
@@ -2920,7 +3960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/992a2272</cell>
   </row>
-  <row index="146">
+  <row index="198">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/579e2df4-fr</cell>
     <cell name="title">Les accords commerciaux et les femmes (fr)</cell>
@@ -2940,7 +3980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fcf8204</cell>
   </row>
-  <row index="147">
+  <row index="199">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/019938c0-fr</cell>
     <cell name="title">Examen du commerce international et du genre en Amérique latine (fr)</cell>
@@ -2960,7 +4000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2727b798</cell>
   </row>
-  <row index="148">
+  <row index="200">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8d66d042-es</cell>
     <cell name="title">Comercio de servicios en América Latina (es)</cell>
@@ -2980,7 +4020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d57bfb9</cell>
   </row>
-  <row index="149">
+  <row index="201">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c906a2f7-en</cell>
     <cell name="title">Trade and Gender Review of Latin America (en)</cell>
@@ -3000,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4158e3e</cell>
   </row>
-  <row index="150">
+  <row index="202">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/7edc1b73-fr</cell>
     <cell name="title">Les femmes cheffes d’entreprise dans le commerce international (fr)</cell>
@@ -3020,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2b38905f</cell>
   </row>
-  <row index="151">
+  <row index="203">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/db75af76-es</cell>
     <cell name="title">Estudio sobre comercio y género en América Latina (es)</cell>
@@ -3040,7 +4080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28cadddc</cell>
   </row>
-  <row index="152">
+  <row index="204">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/949b5bcb-es</cell>
     <cell name="title">Mujeres consumidoras (es)</cell>
@@ -3060,7 +4100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9befcd6c</cell>
   </row>
-  <row index="153">
+  <row index="205">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/930eaf10-en</cell>
     <cell name="title">Women business leaders in trade (en)</cell>
@@ -3080,7 +4120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31b03dde</cell>
   </row>
-  <row index="154">
+  <row index="206">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/feb24cf8-en</cell>
     <cell name="title">Trade facilitation (en)</cell>
@@ -3100,7 +4140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02531414</cell>
   </row>
-  <row index="155">
+  <row index="207">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c906a2f7-en</cell>
     <cell name="title">Trade and Gender Review of Latin America (en)</cell>
@@ -3120,7 +4160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24a8d10e</cell>
   </row>
-  <row index="156">
+  <row index="208">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f1a20e05-es</cell>
     <cell name="title">Introducción (es)</cell>
@@ -3140,7 +4180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e934729</cell>
   </row>
-  <row index="157">
+  <row index="209">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4cd8da43-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
@@ -3160,7 +4200,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5dd4a81</cell>
   </row>
-  <row index="158">
+  <row index="210">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/2e7db924-en</cell>
+    <cell name="title">Internationally Harmonised Functional, Product and Article Use Categories, Second Edition (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-02</cell>
+    <cell name="embargo date">2025-06-02T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9832e86c</cell>
+  </row>
+  <row index="211">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/94e3a8ea-en</cell>
     <cell name="title">OECD Supply Chain Resilience Review (en)</cell>
@@ -3180,7 +4240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee9f613d</cell>
   </row>
-  <row index="159">
+  <row index="212">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/be745f04-en</cell>
     <cell name="title">Introducing the OECD AI Capability Indicators (en)</cell>
@@ -3200,7 +4260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f50537a</cell>
   </row>
-  <row index="160">
+  <row index="213">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/be745f04-en</cell>
     <cell name="title">Introducing the OECD AI Capability Indicators (en)</cell>
@@ -3220,7 +4280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22bc8e41</cell>
   </row>
-  <row index="161">
+  <row index="214">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/83363382-en</cell>
     <cell name="title">OECD Economic Outlook, Volume 2025 Issue 1 (en)</cell>
@@ -3240,7 +4300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25bc0747</cell>
   </row>
-  <row index="162">
+  <row index="215">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/83363382-en</cell>
     <cell name="title">OECD Economic Outlook, Volume 2025 Issue 1 (en)</cell>
@@ -3260,7 +4320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5173fd6</cell>
   </row>
-  <row index="163">
+  <row index="216">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/75e94b2f-en</cell>
     <cell name="title">OECD Economic Surveys: Sweden 2025 (en)</cell>
@@ -3280,7 +4340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a18987a</cell>
   </row>
-  <row index="164">
+  <row index="217">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/75e94b2f-en</cell>
     <cell name="title">OECD Economic Surveys: Sweden 2025 (en)</cell>
@@ -3300,7 +4360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0360b481</cell>
   </row>
-  <row index="165">
+  <row index="218">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/7e6a132a-en</cell>
     <cell name="title">OECD Economic Surveys: South Africa 2025 (en)</cell>
@@ -3320,7 +4380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4adad4f4</cell>
   </row>
-  <row index="166">
+  <row index="219">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/bace00c4-en</cell>
     <cell name="title">Education and Skills in Croatia (en)</cell>
@@ -3340,14 +4400,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57227c41</cell>
   </row>
-  <row index="167">
+  <row index="220">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/16b7cbc7-en</cell>
     <cell name="title">Investing in Climate for Growth and Development (en)</cell>
     <cell name="subtitle">The Case for Enhanced NDCs (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2025-06-10</cell>
     <cell name="embargo date">2025-06-09T22:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -3360,7 +4420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bfe625ee</cell>
   </row>
-  <row index="168">
+  <row index="221">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/bc0babf3-en</cell>
     <cell name="title">Economic Convergence Scoreboard for the Western Balkans 2025 (en)</cell>
@@ -3380,7 +4440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c80b89de</cell>
   </row>
-  <row index="169">
+  <row index="222">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/795de142-en</cell>
     <cell name="title">Governing with Artificial Intelligence (en)</cell>
@@ -3400,7 +4460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69e3f756</cell>
   </row>
-  <row index="170">
+  <row index="223">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/795de142-en</cell>
     <cell name="title">Governing with Artificial Intelligence (en)</cell>
@@ -3420,7 +4480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c912729</cell>
   </row>
-  <row index="171">
+  <row index="224">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/ff0e1d29-fr</cell>
     <cell name="title">Examens de l'OCDE sur la coopération pour le développement : Suisse 2025 (fr)</cell>
@@ -3440,7 +4500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6c47505</cell>
   </row>
-  <row index="172">
+  <row index="225">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/b83b7007-en</cell>
     <cell name="title">OECD Development Co-operation Peer Reviews: Switzerland 2025 (en)</cell>
@@ -3460,7 +4520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d344c6da</cell>
   </row>
-  <row index="173">
+  <row index="226">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ac0229da-en</cell>
     <cell name="title">Education and Skills in Bulgaria (en)</cell>
@@ -3480,14 +4540,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52d81891</cell>
   </row>
-  <row index="174">
+  <row index="227">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ac0229da-en</cell>
     <cell name="title">Education and Skills in Bulgaria (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2025-06-17</cell>
     <cell name="embargo date">2025-06-16T22:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -3500,7 +4560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7fe20d9a</cell>
   </row>
-  <row index="175">
+  <row index="228">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/d492583a-en</cell>
     <cell name="title">Global Drought Outlook (en)</cell>
@@ -3520,7 +4580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b4a93c1</cell>
   </row>
-  <row index="176">
+  <row index="229">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/d492583a-en</cell>
     <cell name="title">Global Drought Outlook (en)</cell>
@@ -3540,7 +4600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b31ff34</cell>
   </row>
-  <row index="177">
+  <row index="230">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/0b8d13ac-en</cell>
     <cell name="title">Strengthening Productivity Analysis for Policymaking in Thailand (en)</cell>
@@ -3560,7 +4620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f794f573</cell>
   </row>
-  <row index="178">
+  <row index="231">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/0b8d13ac-en</cell>
     <cell name="title">Strengthening Productivity Analysis for Policymaking in Thailand (en)</cell>
@@ -3580,7 +4640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e0fc112</cell>
   </row>
-  <row index="179">
+  <row index="232">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/d5ea99b2-en</cell>
     <cell name="title">Closing Broadband Connectivity Divides for All (en)</cell>
@@ -3600,7 +4660,187 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93191187</cell>
   </row>
-  <row index="180">
+  <row index="233">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/3b264d6a-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Monaco (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-26</cell>
+    <cell name="embargo date">2025-06-26T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68171526</cell>
+  </row>
+  <row index="234">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/651435b8-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Gabon (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-26</cell>
+    <cell name="embargo date">2025-06-26T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a274cd0</cell>
+  </row>
+  <row index="235">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/83a7a929-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Mauritania (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-26</cell>
+    <cell name="embargo date">2025-06-26T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73074336</cell>
+  </row>
+  <row index="236">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/d3520e69-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Jersey (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-26</cell>
+    <cell name="embargo date">2025-06-26T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2686e83a</cell>
+  </row>
+  <row index="237">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/7929902c-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Togo (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-26</cell>
+    <cell name="embargo date">2025-06-26T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9d5e85f</cell>
+  </row>
+  <row index="238">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/87caf950-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Brunei Darussalam (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-26</cell>
+    <cell name="embargo date">2025-06-26T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b85a063a</cell>
+  </row>
+  <row index="239">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/6bb6bb0e-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Azerbaijan (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-26</cell>
+    <cell name="embargo date">2025-06-26T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1752250</cell>
+  </row>
+  <row index="240">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/74c1468e-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Curaçao (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-26</cell>
+    <cell name="embargo date">2025-06-26T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9534a332</cell>
+  </row>
+  <row index="241">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/c6e454c9-en</cell>
+    <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Isle of Man (Stage 1) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-26</cell>
+    <cell name="embargo date">2025-06-26T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e27e5175</cell>
+  </row>
+  <row index="242">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>
@@ -3620,7 +4860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dddfd872</cell>
   </row>
-  <row index="181">
+  <row index="243">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>
