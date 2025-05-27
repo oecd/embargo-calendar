@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 26 May 2025 at 22:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 28 May 2025 at 1:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [26 May 2025](#26-may-2025)
 * [27 May 2025](#27-may-2025)
@@ -14,13 +14,15 @@ Data generated on | |
 * [6 June 2025](#6-june-2025)
 * [9 June 2025](#9-june-2025)
 * [10 June 2025](#10-june-2025)
-* [11 June 2025](#11-june-2025)
 * [16 June 2025](#16-june-2025)
 * [17 June 2025](#17-june-2025)
 * [19 June 2025](#19-june-2025)
 * [20 June 2025](#20-june-2025)
 * [26 June 2025](#26-june-2025)
 * [30 June 2025](#30-june-2025)
+* [8 July 2025](#8-july-2025)
+* [9 July 2025](#9-july-2025)
+* [11 July 2025](#11-july-2025)
 
 ------
 
@@ -142,29 +144,6 @@ Tuesday 27 May 2025 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Customisation Opportunities of IUCLID for the Management of Chemical Data – 4th edition](https://doi.org/10.1787/d8db13f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 May 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
 
 ------
 
@@ -1460,6 +1439,29 @@ Tuesday 27 May 2025 at 14:00 | no launch event
 
 # 28 May 2025
 
+## [Customisation Opportunities of IUCLID for the Management of Chemical Data – 4th edition](https://doi.org/10.1787/d8db13f7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 May 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Consensus document on Beauveria bassiana strains as microbial plant protection product - Regulatory considerations for Beauveria bassiana strains](https://doi.org/10.1787/cc1d28d9-en)
 
 Embargo date | Launch date
@@ -1602,11 +1604,57 @@ Monday 2 June 2025 at 7:00 | no launch event
 
 ------
 
+## [Examen de l’OCDE sur la résilience des chaînes d’approvisionnement - Naviguer face aux risques](https://doi.org/10.1787/efc0e1c0-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Crypto-Asset Reporting Framework Status Message XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/e528d7f5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [OECD Supply Chain Resilience Review - Navigating Risks](https://doi.org/10.1787/94e3a8ea-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 2 June 2025 at 8:00 | no launch event
+Monday 2 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
@@ -1625,9 +1673,55 @@ Monday 2 June 2025 at 8:00 | no launch event
 
 ------
 
+## [Common Reporting Standard Status Message XML Schema - User Guide for Tax Administrations (Version 3.0)](https://doi.org/10.1787/6c08db84-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ------
 
 # 3 June 2025
+
+## [OECD Economic Outlook, Volume 2025 Issue 1 - Tackling Uncertainty, Reviving Growth](https://doi.org/10.1787/83363382-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Introducing the OECD AI Capability Indicators](https://doi.org/10.1787/be745f04-en)
 
@@ -1652,11 +1746,11 @@ Tuesday 3 June 2025 at 7:00 | no launch event
 
 ------
 
-## [OECD Economic Outlook, Volume 2025 Issue 1 - Tackling Uncertainty, Reviving Growth](https://doi.org/10.1787/83363382-en)
+## [Présentation des indicateurs de l’OCDE sur les capacités de l’IA](https://doi.org/10.1787/d321ba78-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 3 June 2025 at 9:00 | no launch event
+Tuesday 3 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
@@ -1667,10 +1761,10 @@ Tuesday 3 June 2025 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Economics Department*
-* Language: *English*
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
 * Availability: *Not yet available*
-* Type of publication: *Issue*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -1795,7 +1889,7 @@ Tuesday 10 June 2025 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1804,36 +1898,9 @@ Tuesday 10 June 2025 at 7:30 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
-
-------
-
-------
-
-# 11 June 2025
-
-## [Governing with Artificial Intelligence - The State of Play and Way Forward in Core Government Functions](https://doi.org/10.1787/795de142-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 11 June 2025 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -1988,6 +2055,29 @@ Friday 20 June 2025 at 4:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Viet Nam 2025](https://doi.org/10.1787/fb37254b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -2226,5 +2316,109 @@ Monday 30 June 2025 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 8 July 2025
+
+## [Revenue Statistics in Asia and the Pacific 2025 - Personal income taxation in Asia and the Pacific](https://doi.org/10.1787/6c04402f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 9 July 2025
+
+## [OECD Employment Outlook 2025 - Can We Get Through the Demographic Crunch?](https://doi.org/10.1787/194a947b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives de l'emploi de l'OCDE 2025 - Pouvons-nous surmonter la crise démographique ?](https://doi.org/10.1787/79445578-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 11 July 2025
+
+## [Governing with Artificial Intelligence - The State of Play and Way Forward in Core Government Functions](https://doi.org/10.1787/795de142-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 July 2025 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
