@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 28 May 2025 at 1:36* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 28 May 2025 at 23:29* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [26 May 2025](#26-may-2025)
 * [27 May 2025](#27-may-2025)
 * [28 May 2025](#28-may-2025)
 * [2 June 2025](#2-june-2025)
@@ -23,102 +22,6 @@ Data generated on | |
 * [8 July 2025](#8-july-2025)
 * [9 July 2025](#9-july-2025)
 * [11 July 2025](#11-july-2025)
-
-------
-
-# 26 May 2025
-
-## [OECD Development Co-operation Peer Reviews: Canada 2025](https://doi.org/10.1787/fcd70ea1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 May 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Examens de l'OCDE sur la coopération pour le développement : Canada 2025](https://doi.org/10.1787/e9a5a8ce-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 May 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Études économiques de l’OCDE : Canada 2025](https://doi.org/10.1787/d806a81d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 May 2025 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Canada 2025](https://doi.org/10.1787/28f9e02c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 May 2025 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -1635,7 +1538,7 @@ Monday 2 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1658,7 +1561,7 @@ Monday 2 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1667,9 +1570,9 @@ Monday 2 June 2025 at 9:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1681,7 +1584,7 @@ Monday 2 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1731,7 +1634,7 @@ Tuesday 3 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1769,6 +1672,29 @@ Tuesday 3 June 2025 at 7:00 | no launch event
 
 ------
 
+## [Perspectives économiques de l'OCDE, Volume 2025 Numéro 1 - Faire face à l’incertitude, relancer la croissance](https://doi.org/10.1787/15a25f4a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
 ------
 
 # 4 June 2025
@@ -1790,7 +1716,7 @@ Wednesday 4 June 2025 at 22:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -1835,7 +1761,7 @@ Friday 6 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1844,9 +1770,9 @@ Friday 6 June 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
