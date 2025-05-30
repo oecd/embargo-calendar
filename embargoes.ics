@@ -2,143 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/d8db13f7-end3e63
-SUMMARY:[Report] Customisation Opportunities of 
- IUCLID for the Management of Chemical Da
- ta – 4th edition
-DESCRIPTION:*[Report] Customisation Opportunities of
-  IUCLID for the Management of Chemical D
- ata – 4th edition*\n\nDirectorate: Envir
- onment Directorate\nLanguage: English\nD
- OI: https://doi.org/10.1787/d8db13f7-en\
- nPublication type: Report\nReleased as: 
- PDF\n\nEmbargo date/time: Wednesday, 28 
- May 2025, 7:00 (GMT)\n\n\niLibrary expor
- t: never\nFreepreview export: never\nOEC
- D.org export: never\nFTI loaded: ✓\n\nFo
- r more information see: https://oecd.git
- hub.io/embargo-calendar/embargoes-by-pub
- lication.html.\n\nPlease note: This info
- rmation was correct as of this afternoon
-  at 23:43, it is updated each night; the
- refore any subsequent updates may not ye
- t be visible here. Also, please be aware
-  that the different released media (PDF,
-  HTML, etc.) are not necessarily release
- d at the same time. For complete and up-
- to-date information see here: http://kap
- pa.oecd.org/v3/search?term=d8db13f7-en.
-DTSTAMP:20250529T234341Z
-DTSTART:20250528T070000Z
-DTEND:20250528T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Report] Customisation Opportu
- nities of IUCLID for the Management of C
- hemical Data – 4th edition
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/cc1d28d9-end3e116
-SUMMARY:[Report] Consensus document on Beauveria
-  bassiana strains as microbial plant pro
- tection product - Regulatory considerati
- ons for Beauveria bassiana strains
-DESCRIPTION:*[Report] Consensus document on Beauveri
- a bassiana strains as microbial plant pr
- otection product - Regulatory considerat
- ions for Beauveria bassiana strains*\n\n
- Directorate: Environment Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/cc1d28d9-en\nPublication type: Rep
- ort\nReleased as: PDF\n\nEmbargo date/ti
- me: Wednesday, 28 May 2025, 7:00 (GMT)\n
- \n\niLibrary export: never\nFreepreview 
- export: never\nOECD.org export: never\nF
- TI loaded: ✓\n\nFor more information see
- : https://oecd.github.io/embargo-calenda
- r/embargoes-by-publication.html.\n\nPlea
- se note: This information was correct as
-  of this afternoon at 23:43, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=cc1d28d9-en.
-DTSTAMP:20250529T234341Z
-DTSTART:20250528T070000Z
-DTEND:20250528T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Report] Consensus document on
-  Beauveria bassiana strains as microbial
-  plant protection product - Regulatory c
- onsiderations for Beauveria bassiana str
- ains
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/00d67508-frd3e331
-SUMMARY:[Stand-alone monograph] Financement de l
- a protection sociale au Sénégal - Le rôl
- e de la fiscalité générale, des cotisati
- ons sociales et de la contribution du se
- cteur informel
-DESCRIPTION:*[Stand-alone monograph] Financement de 
- la protection sociale au Sénégal - Le rô
- le de la fiscalité générale, des cotisat
- ions sociales et de la contribution du s
- ecteur informel*\n\nDirectorate: Centre 
- for Tax Policy and Administration\nLangu
- age: French\nDOI: https://doi.org/10.178
- 7/00d67508-fr\nPublication type: Stand-a
- lone monograph\nReleased as: HTML, Paper
- back, PDF, ZJCR, ZXML\n\nEmbargo date/ti
- me: Wednesday, 28 May 2025, 9:00 (GMT)\n
- \n\niLibrary export: never\nFreepreview 
- export: never\nOECD.org export: never\nF
- TI loaded: ✓\n\nFor more information see
- : https://oecd.github.io/embargo-calenda
- r/embargoes-by-publication.html.\n\nPlea
- se note: This information was correct as
-  of this afternoon at 23:43, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=00d67508-fr.
-DTSTAMP:20250529T234341Z
-DTSTART:20250528T090000Z
-DTEND:20250528T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Financ
- ement de la protection sociale au Sénéga
- l - Le rôle de la fiscalité générale, de
- s cotisations sociales et de la contribu
- tion du secteur informel
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/db75af76-esd3e1819
+UID:10.1787/db75af76-esd3e857
 SUMMARY:[Stand-alone monograph] Estudio sobre co
  mercio y género en América Latina
 DESCRIPTION:*[Stand-alone monograph] Estudio sobre c
@@ -155,7 +19,7 @@ DESCRIPTION:*[Stand-alone monograph] Estudio sobre c
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:43, i
+ correct as of this afternoon at 23:16, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -164,7 +28,7 @@ DESCRIPTION:*[Stand-alone monograph] Estudio sobre c
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=db75af76-es.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250602T060000Z
 DTEND:20250602T061500Z
 TRANSP:TRANSPARENT
@@ -179,7 +43,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Estudi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/019938c0-frd3e2830
+UID:10.1787/019938c0-frd3e1868
 SUMMARY:[Stand-alone monograph] Examen du commer
  ce international et du genre en Amérique
   latine
@@ -198,7 +62,7 @@ DESCRIPTION:*[Stand-alone monograph] Examen du comme
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 23:43, it is updated each night; th
+ n at 23:16, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -206,7 +70,7 @@ DESCRIPTION:*[Stand-alone monograph] Examen du comme
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=019938c0-fr.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250602T060000Z
 DTEND:20250602T061500Z
 TRANSP:TRANSPARENT
@@ -221,7 +85,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Examen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c906a2f7-end3e2936
+UID:10.1787/c906a2f7-end3e1974
 SUMMARY:[Stand-alone monograph] Trade and Gender
   Review of Latin America
 DESCRIPTION:*[Stand-alone monograph] Trade and Gende
@@ -238,7 +102,7 @@ DESCRIPTION:*[Stand-alone monograph] Trade and Gende
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:43, it is upda
+ s of this afternoon at 23:16, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -247,7 +111,7 @@ DESCRIPTION:*[Stand-alone monograph] Trade and Gende
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=c906a2f7-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250602T060000Z
 DTEND:20250602T061500Z
 TRANSP:TRANSPARENT
@@ -261,7 +125,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Trade
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2e7db924-end3e3414
+UID:10.1787/2e7db924-end3e2452
 SUMMARY:[Report] Internationally Harmonised Func
  tional, Product and Article Use Categori
  es, Second Edition
@@ -274,12 +138,12 @@ DESCRIPTION:*[Report] Internationally Harmonised Fun
  : PDF\n\nEmbargo date/time: Monday, 2 Ju
  ne 2025, 7:00 (GMT)\n\n\niLibrary export
  : never\nFreepreview export: never\nOECD
- .org export: never\nFTI loaded: ✗\n\nFor
+ .org export: never\nFTI loaded: ✓\n\nFor
   more information see: https://oecd.gith
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 23:43, it is updated each night; ther
+ at 23:16, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -287,7 +151,7 @@ DESCRIPTION:*[Report] Internationally Harmonised Fun
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=2e7db924-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250602T070000Z
 DTEND:20250602T071500Z
 TRANSP:TRANSPARENT
@@ -302,7 +166,7 @@ DESCRIPTION:Reminder: [Report] Internationally Harmo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/efc0e1c0-frd3e3520
+UID:10.1787/efc0e1c0-frd3e2667
 SUMMARY:[Stand-alone monograph] Examen de l’OCDE
   sur la résilience des chaînes d’approvi
  sionnement - Naviguer face aux risques
@@ -313,24 +177,24 @@ DESCRIPTION:*[Stand-alone monograph] Examen de l’OCD
  irectorate\nLanguage: French\nDOI: https
  ://doi.org/10.1787/efc0e1c0-fr\nPublicat
  ion type: Stand-alone monograph\nRelease
- d as: Paperback, PDF\n\nEmbargo date/tim
- e: Monday, 2 June 2025, 9:00 (GMT)\n\n\n
- iLibrary export: never\nFreepreview expo
- rt: never\nOECD.org export: never\nFTI l
- oaded: ✗\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 23:43, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =efc0e1c0-fr.
-DTSTAMP:20250529T234341Z
+ d as: HTML, Paperback, PDF, ZJCR, ZXML\n
+ \nEmbargo date/time: Monday, 2 June 2025
+ , 9:00 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 23:1
+ 6, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=efc0e1c0-fr.
+DTSTAMP:20250530T231649Z
 DTSTART:20250602T090000Z
 DTEND:20250602T091500Z
 TRANSP:TRANSPARENT
@@ -346,7 +210,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Examen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e528d7f5-end3e3840
+UID:10.1787/e528d7f5-end3e3201
 SUMMARY:[Report] Crypto-Asset Reporting Framewor
  k Status Message XML Schema - User Guide
   for Tax Administrations
@@ -364,7 +228,7 @@ DESCRIPTION:*[Report] Crypto-Asset Reporting Framewo
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:43, it is u
+ t as of this afternoon at 23:16, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -373,7 +237,7 @@ DESCRIPTION:*[Report] Crypto-Asset Reporting Framewo
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=e528d7f5-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250602T090000Z
 DTEND:20250602T091500Z
 TRANSP:TRANSPARENT
@@ -388,7 +252,7 @@ DESCRIPTION:Reminder: [Report] Crypto-Asset Reportin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/94e3a8ea-end3e4481
+UID:10.1787/94e3a8ea-end3e4214
 SUMMARY:[Stand-alone monograph] OECD Supply Chai
  n Resilience Review - Navigating Risks
 DESCRIPTION:*[Stand-alone monograph] OECD Supply Cha
@@ -406,7 +270,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Supply Cha
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 23:
- 43, it is updated each night; therefore 
+ 16, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -414,7 +278,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Supply Cha
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=94e3a8ea-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250602T090000Z
 DTEND:20250602T091500Z
 TRANSP:TRANSPARENT
@@ -429,7 +293,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6c08db84-end3e4535
+UID:10.1787/6c08db84-end3e4321
 SUMMARY:[Report] Common Reporting Standard Statu
  s Message XML Schema - User Guide for Ta
  x Administrations (Version 3.0)
@@ -447,7 +311,7 @@ DESCRIPTION:*[Report] Common Reporting Standard Stat
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:43, 
+  correct as of this afternoon at 23:16, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -456,7 +320,7 @@ DESCRIPTION:*[Report] Common Reporting Standard Stat
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=6c08db84-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250602T090000Z
 DTEND:20250602T091500Z
 TRANSP:TRANSPARENT
@@ -472,7 +336,7 @@ DESCRIPTION:Reminder: [Report] Common Reporting Stan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/83363382-end3e4589
+UID:10.1787/83363382-end3e4430
 SUMMARY:[Issue] OECD Economic Outlook, Volume 20
  25 Issue 1 - Tackling Uncertainty, Reviv
  ing Growth
@@ -490,7 +354,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Volume 2
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 23:43, it is updated each night; ther
+ at 23:16, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -498,7 +362,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Volume 2
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=83363382-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250603T070000Z
 DTEND:20250603T071500Z
 TRANSP:TRANSPARENT
@@ -513,7 +377,7 @@ DESCRIPTION:Reminder: [Issue] OECD Economic Outlook,
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/be745f04-end3e4642
+UID:10.1787/be745f04-end3e4483
 SUMMARY:[Stand-alone monograph] Introducing the 
  OECD AI Capability Indicators
 DESCRIPTION:*[Stand-alone monograph] Introducing the
@@ -530,7 +394,7 @@ DESCRIPTION:*[Stand-alone monograph] Introducing the
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:43, it is updated each 
+  afternoon at 23:16, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -539,7 +403,7 @@ DESCRIPTION:*[Stand-alone monograph] Introducing the
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=be7
  45f04-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250603T070000Z
 DTEND:20250603T071500Z
 TRANSP:TRANSPARENT
@@ -553,7 +417,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Introd
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d321ba78-frd3e4695
+UID:10.1787/d321ba78-frd3e4536
 SUMMARY:[Stand-alone monograph] Présentation des
   indicateurs de l’OCDE sur les capacités
   de l’IA
@@ -571,7 +435,7 @@ DESCRIPTION:*[Stand-alone monograph] Présentation de
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:43, i
+ correct as of this afternoon at 23:16, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -580,7 +444,7 @@ DESCRIPTION:*[Stand-alone monograph] Présentation de
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=d321ba78-fr.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250603T070000Z
 DTEND:20250603T071500Z
 TRANSP:TRANSPARENT
@@ -595,12 +459,12 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Présen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/15a25f4a-frd3e4748
+UID:10.1787/15a25f4a-frd3e4588
 SUMMARY:[Issue] Perspectives économiques de l'OC
- DE, Volume 2025 Numéro 1 - Faire face à 
+ DE, Volume 2025 Numéro 1 - S’attaquer à 
  l’incertitude, relancer la croissance
 DESCRIPTION:*[Issue] Perspectives économiques de l'O
- CDE, Volume 2025 Numéro 1 - Faire face à
+ CDE, Volume 2025 Numéro 1 - S’attaquer à
   l’incertitude, relancer la croissance*\
  n\nDirectorate: Economics Department\nLa
  nguage: French\nDOI: https://doi.org/10.
@@ -613,7 +477,7 @@ DESCRIPTION:*[Issue] Perspectives économiques de l'O
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:43, it is updated e
+ this afternoon at 23:16, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -622,7 +486,7 @@ DESCRIPTION:*[Issue] Perspectives économiques de l'O
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =15a25f4a-fr.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250603T070000Z
 DTEND:20250603T071500Z
 TRANSP:TRANSPARENT
@@ -632,13 +496,13 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: [Issue] Perspectives économiqu
- es de l'OCDE, Volume 2025 Numéro 1 - Fai
- re face à l’incertitude, relancer la cro
+ es de l'OCDE, Volume 2025 Numéro 1 - S’a
+ ttaquer à l’incertitude, relancer la cro
  issance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/75e94b2f-end3e5011
+UID:10.1787/75e94b2f-end3e4852
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Sweden 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -654,7 +518,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:43, it is updated e
+ this afternoon at 23:16, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -663,7 +527,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =75e94b2f-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250604T220000Z
 DTEND:20250604T221500Z
 TRANSP:TRANSPARENT
@@ -677,7 +541,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7e6a132a-end3e5064
+UID:10.1787/7e6a132a-end3e4904
 SUMMARY:[Economic survey] OECD Economic Surveys:
   South Africa 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -693,7 +557,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:43, it is updated each nig
+ ternoon at 23:16, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -702,7 +566,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=7e6a13
  2a-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250605T070000Z
 DTEND:20250605T071500Z
 TRANSP:TRANSPARENT
@@ -716,7 +580,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bace00c4-end3e5222
+UID:10.1787/bace00c4-end3e5063
 SUMMARY:[Book] Education and Skills in Croatia
 DESCRIPTION:*[Book] Education and Skills in Croatia*
  \n\nDirectorate: Directorate for Educati
@@ -731,7 +595,7 @@ DESCRIPTION:*[Book] Education and Skills in Croatia*
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:43, it is upda
+ s of this afternoon at 23:16, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -740,7 +604,7 @@ DESCRIPTION:*[Book] Education and Skills in Croatia*
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=bace00c4-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250606T070000Z
 DTEND:20250606T071500Z
 TRANSP:TRANSPARENT
@@ -754,7 +618,7 @@ DESCRIPTION:Reminder: [Book] Education and Skills in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/16b7cbc7-end3e5859
+UID:10.1787/16b7cbc7-end3e5700
 SUMMARY:[Stand-alone monograph] Investing in Cli
  mate for Growth and Development - The Ca
  se for Enhanced NDCs
@@ -772,7 +636,7 @@ DESCRIPTION:*[Stand-alone monograph] Investing in Cl
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:43, it is update
+ of this afternoon at 23:16, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -781,7 +645,7 @@ DESCRIPTION:*[Stand-alone monograph] Investing in Cl
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=16b7cbc7-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250609T220000Z
 DTEND:20250609T221500Z
 TRANSP:TRANSPARENT
@@ -796,7 +660,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Invest
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bc0babf3-end3e5912
+UID:10.1787/bc0babf3-end3e5753
 SUMMARY:[Stand-alone monograph] Economic Converg
  ence Scoreboard for the Western Balkans 
  2025
@@ -814,7 +678,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Conver
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:43, it is 
+ ct as of this afternoon at 23:16, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -823,7 +687,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Conver
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=bc0babf3-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250610T073000Z
 DTEND:20250610T074500Z
 TRANSP:TRANSPARENT
@@ -838,7 +702,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Econom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ff0e1d29-frd3e5965
+UID:10.1787/ff0e1d29-frd3e5806
 SUMMARY:[Book] Examens de l'OCDE sur la coopérat
  ion pour le développement : Suisse 2025
 DESCRIPTION:*[Book] Examens de l'OCDE sur la coopéra
@@ -854,7 +718,7 @@ DESCRIPTION:*[Book] Examens de l'OCDE sur la coopéra
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:43
+ as correct as of this afternoon at 23:16
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -863,7 +727,7 @@ DESCRIPTION:*[Book] Examens de l'OCDE sur la coopéra
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=ff0e1d29-fr.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250616T070000Z
 DTEND:20250616T071500Z
 TRANSP:TRANSPARENT
@@ -878,7 +742,7 @@ DESCRIPTION:Reminder: [Book] Examens de l'OCDE sur l
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b83b7007-end3e6018
+UID:10.1787/b83b7007-end3e5858
 SUMMARY:[Book] OECD Development Co-operation Pee
  r Reviews: Switzerland 2025
 DESCRIPTION:*[Book] OECD Development Co-operation Pe
@@ -894,7 +758,7 @@ DESCRIPTION:*[Book] OECD Development Co-operation Pe
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:43, it is upd
+ as of this afternoon at 23:16, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -903,7 +767,7 @@ DESCRIPTION:*[Book] OECD Development Co-operation Pe
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=b83b7007-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250616T070000Z
 DTEND:20250616T071500Z
 TRANSP:TRANSPARENT
@@ -917,7 +781,7 @@ DESCRIPTION:Reminder: [Book] OECD Development Co-ope
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ac0229da-end3e6122
+UID:10.1787/ac0229da-end3e5962
 SUMMARY:[Book] Education and Skills in Bulgaria
 DESCRIPTION:*[Book] Education and Skills in Bulgaria
  *\n\nDirectorate: Directorate for Educat
@@ -932,7 +796,7 @@ DESCRIPTION:*[Book] Education and Skills in Bulgaria
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:43, it is updated each night;
+ noon at 23:16, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -941,7 +805,7 @@ DESCRIPTION:*[Book] Education and Skills in Bulgaria
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=ac0229da-
  en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250616T220000Z
 DTEND:20250616T221500Z
 TRANSP:TRANSPARENT
@@ -955,7 +819,7 @@ DESCRIPTION:Reminder: [Book] Education and Skills in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d492583a-end3e6174
+UID:10.1787/d492583a-end3e6015
 SUMMARY:[Stand-alone monograph] Global Drought O
  utlook - Trends, Impacts and Policies to
   Adapt to a Drier World
@@ -973,8 +837,8 @@ DESCRIPTION:*[Stand-alone monograph] Global Drought
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:4
- 3, it is updated each night; therefore a
+ was correct as of this afternoon at 23:1
+ 6, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -982,7 +846,7 @@ DESCRIPTION:*[Stand-alone monograph] Global Drought
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=d492583a-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250617T050000Z
 DTEND:20250617T051500Z
 TRANSP:TRANSPARENT
@@ -997,7 +861,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Global
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b8d13ac-end3e6333
+UID:10.1787/0b8d13ac-end3e6173
 SUMMARY:[Stand-alone monograph] Strengthening Pr
  oductivity Analysis for Policymaking in 
  Thailand
@@ -1015,7 +879,7 @@ DESCRIPTION:*[Stand-alone monograph] Strengthening P
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:43, it is updated 
+  this afternoon at 23:16, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -1024,7 +888,7 @@ DESCRIPTION:*[Stand-alone monograph] Strengthening P
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=0b8d13ac-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250619T020000Z
 DTEND:20250619T021500Z
 TRANSP:TRANSPARENT
@@ -1039,7 +903,46 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Streng
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d5ea99b2-end3e6385
+UID:10.1787/758a7905-frd3e6225
+SUMMARY:[Book] Panorama des administrations publ
+ iques 2025
+DESCRIPTION:*[Book] Panorama des administrations pub
+ liques 2025*\n\nDirectorate: Directorate
+  for Public Governance\nLanguage: French
+ \nDOI: https://doi.org/10.1787/758a7905-
+ fr\nPublication type: Book\nReleased as:
+  Paperback, PDF\n\nEmbargo date/time: Th
+ ursday, 19 June 2025, 12:00 (GMT)\n\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nOECD.org export: never\nFTI lo
+ aded: ✗\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 23:16, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 758a7905-fr.
+DTSTAMP:20250530T231649Z
+DTSTART:20250619T120000Z
+DTEND:20250619T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Panorama des administra
+ tions publiques 2025
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/d5ea99b2-end3e6330
 SUMMARY:[Stand-alone monograph] Closing Broadban
  d Connectivity Divides for All - From Ev
  idence to Practice
@@ -1058,7 +961,7 @@ DESCRIPTION:*[Stand-alone monograph] Closing Broadba
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 23:43, it is updated each night; the
+  at 23:16, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -1066,7 +969,7 @@ DESCRIPTION:*[Stand-alone monograph] Closing Broadba
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=d5ea99b2-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250620T040000Z
 DTEND:20250620T041500Z
 TRANSP:TRANSPARENT
@@ -1081,7 +984,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Closin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fb37254b-end3e6438
+UID:10.1787/fb37254b-end3e6383
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Viet Nam 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -1097,7 +1000,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 23:43, it is updated ea
+ his afternoon at 23:16, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -1106,7 +1009,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  fb37254b-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250620T070000Z
 DTEND:20250620T071500Z
 TRANSP:TRANSPARENT
@@ -1120,7 +1023,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3b264d6a-end3e6542
+UID:10.1787/3b264d6a-end3e6487
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Mona
  co (Stage 1) - Inclusive Framework on BE
@@ -1140,7 +1043,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:43, it is updated e
+ this afternoon at 23:16, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -1149,7 +1052,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =3b264d6a-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250626T090000Z
 DTEND:20250626T091500Z
 TRANSP:TRANSPARENT
@@ -1165,7 +1068,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/651435b8-end3e6595
+UID:10.1787/651435b8-end3e6540
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Gabo
  n (Stage 1) - Inclusive Framework on BEP
@@ -1185,7 +1088,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 23:43, it is updated ea
+ his afternoon at 23:16, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -1194,7 +1097,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  651435b8-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250626T090000Z
 DTEND:20250626T091500Z
 TRANSP:TRANSPARENT
@@ -1210,7 +1113,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/83a7a929-end3e6649
+UID:10.1787/83a7a929-end3e6593
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Maur
  itania (Stage 1) - Inclusive Framework o
@@ -1230,7 +1133,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 23:43, it is updat
+  of this afternoon at 23:16, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -1239,7 +1142,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=83a7a929-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250626T090000Z
 DTEND:20250626T091500Z
 TRANSP:TRANSPARENT
@@ -1255,7 +1158,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d3520e69-end3e6702
+UID:10.1787/d3520e69-end3e6647
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Jers
  ey (Stage 1) - Inclusive Framework on BE
@@ -1275,7 +1178,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:43, it is updated e
+ this afternoon at 23:16, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -1284,7 +1187,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =d3520e69-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250626T090000Z
 DTEND:20250626T091500Z
 TRANSP:TRANSPARENT
@@ -1300,7 +1203,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7929902c-end3e6755
+UID:10.1787/7929902c-end3e6700
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Togo
   (Stage 1) - Inclusive Framework on BEPS
@@ -1320,7 +1223,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:43, it is updated eac
+ is afternoon at 23:16, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -1329,7 +1232,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=7
  929902c-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250626T090000Z
 DTEND:20250626T091500Z
 TRANSP:TRANSPARENT
@@ -1345,7 +1248,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/87caf950-end3e6808
+UID:10.1787/87caf950-end3e6753
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Brun
  ei Darussalam (Stage 1) - Inclusive Fram
@@ -1365,7 +1268,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 23:43, it i
+ rect as of this afternoon at 23:16, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -1374,7 +1277,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=87caf950-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250626T090000Z
 DTEND:20250626T091500Z
 TRANSP:TRANSPARENT
@@ -1390,7 +1293,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6bb6bb0e-end3e6861
+UID:10.1787/6bb6bb0e-end3e6806
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Azer
  baijan (Stage 1) - Inclusive Framework o
@@ -1410,7 +1313,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 23:43, it is updat
+  of this afternoon at 23:16, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -1419,7 +1322,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=6bb6bb0e-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250626T090000Z
 DTEND:20250626T091500Z
 TRANSP:TRANSPARENT
@@ -1435,7 +1338,103 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/74c1468e-end3e6914
+UID:10.1787/17b90904-frd3e6859
+SUMMARY:[Report] Accroître l’efficacité des méca
+ nismes de règlement des différends – Exa
+ men par les pairs simplifié, Mauritanie 
+ (Phase 1) - Cadre inclusif sur le BEPS :
+  Action 14
+DESCRIPTION:*[Report] Accroître l’efficacité des méc
+ anismes de règlement des différends – Ex
+ amen par les pairs simplifié, Mauritanie
+  (Phase 1) - Cadre inclusif sur le BEPS 
+ : Action 14*\n\nDirectorate: Centre for 
+ Tax Policy and Administration\nLanguage:
+  French\nDOI: https://doi.org/10.1787/17
+ b90904-fr\nPublication type: Report\nRel
+ eased as: PDF\n\nEmbargo date/time: Thur
+ sday, 26 June 2025, 9:00 (GMT)\n\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nOECD.org export: never\nFTI loade
+ d: ✗\n\nFor more information see: https:
+ //oecd.github.io/embargo-calendar/embarg
+ oes-by-publication.html.\n\nPlease note:
+  This information was correct as of this
+  afternoon at 23:16, it is updated each 
+ night; therefore any subsequent updates 
+ may not yet be visible here. Also, pleas
+ e be aware that the different released m
+ edia (PDF, HTML, etc.) are not necessari
+ ly released at the same time. For comple
+ te and up-to-date information see here: 
+ http://kappa.oecd.org/v3/search?term=17b
+ 90904-fr.
+DTSTAMP:20250530T231649Z
+DTSTART:20250626T090000Z
+DTEND:20250626T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] Accroître l’efficacit
+ é des mécanismes de règlement des différ
+ ends – Examen par les pairs simplifié, M
+ auritanie (Phase 1) - Cadre inclusif sur
+  le BEPS : Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a0e10015-frd3e6912
+SUMMARY:[Report] Accroître l’efficacité des méca
+ nismes de règlement des différends – Exa
+ men par les pairs simplifié, Gabon (Phas
+ e 1) - Cadre inclusif sur le BEPS : Acti
+ on 14
+DESCRIPTION:*[Report] Accroître l’efficacité des méc
+ anismes de règlement des différends – Ex
+ amen par les pairs simplifié, Gabon (Pha
+ se 1) - Cadre inclusif sur le BEPS : Act
+ ion 14*\n\nDirectorate: Centre for Tax P
+ olicy and Administration\nLanguage: Fren
+ ch\nDOI: https://doi.org/10.1787/a0e1001
+ 5-fr\nPublication type: Report\nReleased
+  as: PDF\n\nEmbargo date/time: Thursday,
+  26 June 2025, 9:00 (GMT)\n\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nOECD.org export: never\nFTI loaded: ✗\
+ n\nFor more information see: https://oec
+ d.github.io/embargo-calendar/embargoes-b
+ y-publication.html.\n\nPlease note: This
+  information was correct as of this afte
+ rnoon at 23:16, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=a0e10015
+ -fr.
+DTSTAMP:20250530T231649Z
+DTSTART:20250626T090000Z
+DTEND:20250626T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] Accroître l’efficacit
+ é des mécanismes de règlement des différ
+ ends – Examen par les pairs simplifié, G
+ abon (Phase 1) - Cadre inclusif sur le B
+ EPS : Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/74c1468e-end3e6966
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Cura
  çao (Stage 1) - Inclusive Framework on B
@@ -1455,7 +1454,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:43, it is updated 
+  this afternoon at 23:16, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -1464,7 +1463,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=74c1468e-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250626T090000Z
 DTEND:20250626T091500Z
 TRANSP:TRANSPARENT
@@ -1480,7 +1479,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c6e454c9-end3e6968
+UID:10.1787/c6e454c9-end3e7019
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Isle
   of Man (Stage 1) - Inclusive Framework 
@@ -1500,7 +1499,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:43, it is upda
+ s of this afternoon at 23:16, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -1509,7 +1508,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=c6e454c9-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250626T090000Z
 DTEND:20250626T091500Z
 TRANSP:TRANSPARENT
@@ -1525,7 +1524,103 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3b96cf8c-end3e7021
+UID:10.1787/70eb0558-frd3e7072
+SUMMARY:[Report] Accroître l’efficacité des méca
+ nismes de règlement des différends – Exa
+ men par les pairs simplifié, Togo (Phase
+  1) - Cadre inclusif sur le BEPS : Actio
+ n 14
+DESCRIPTION:*[Report] Accroître l’efficacité des méc
+ anismes de règlement des différends – Ex
+ amen par les pairs simplifié, Togo (Phas
+ e 1) - Cadre inclusif sur le BEPS : Acti
+ on 14*\n\nDirectorate: Centre for Tax Po
+ licy and Administration\nLanguage: Frenc
+ h\nDOI: https://doi.org/10.1787/70eb0558
+ -fr\nPublication type: Report\nReleased 
+ as: PDF\n\nEmbargo date/time: Thursday, 
+ 26 June 2025, 9:00 (GMT)\n\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nOECD.org export: never\nFTI loaded: ✗\n
+ \nFor more information see: https://oecd
+ .github.io/embargo-calendar/embargoes-by
+ -publication.html.\n\nPlease note: This 
+ information was correct as of this after
+ noon at 23:16, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=70eb0558-
+ fr.
+DTSTAMP:20250530T231649Z
+DTSTART:20250626T090000Z
+DTEND:20250626T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] Accroître l’efficacit
+ é des mécanismes de règlement des différ
+ ends – Examen par les pairs simplifié, T
+ ogo (Phase 1) - Cadre inclusif sur le BE
+ PS : Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/bf564f22-frd3e7125
+SUMMARY:[Report] Accroître l’efficacité des méca
+ nismes de règlement des différends – Exa
+ men par les pairs simplifié, Monaco (Pha
+ se 1) - Cadre inclusif sur le BEPS : Act
+ ion 14
+DESCRIPTION:*[Report] Accroître l’efficacité des méc
+ anismes de règlement des différends – Ex
+ amen par les pairs simplifié, Monaco (Ph
+ ase 1) - Cadre inclusif sur le BEPS : Ac
+ tion 14*\n\nDirectorate: Centre for Tax 
+ Policy and Administration\nLanguage: Fre
+ nch\nDOI: https://doi.org/10.1787/bf564f
+ 22-fr\nPublication type: Report\nRelease
+ d as: PDF\n\nEmbargo date/time: Thursday
+ , 26 June 2025, 9:00 (GMT)\n\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nOECD.org export: never\nFTI loaded: ✗
+ \n\nFor more information see: https://oe
+ cd.github.io/embargo-calendar/embargoes-
+ by-publication.html.\n\nPlease note: Thi
+ s information was correct as of this aft
+ ernoon at 23:16, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=bf564f2
+ 2-fr.
+DTSTAMP:20250530T231649Z
+DTSTART:20250626T090000Z
+DTEND:20250626T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] Accroître l’efficacit
+ é des mécanismes de règlement des différ
+ ends – Examen par les pairs simplifié, M
+ onaco (Phase 1) - Cadre inclusif sur le 
+ BEPS : Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/3b96cf8c-end3e7178
 SUMMARY:[Stand-alone monograph] Measuring Scienc
  e and Innovation for Sustainable Growth
 DESCRIPTION:*[Stand-alone monograph] Measuring Scien
@@ -1542,8 +1637,8 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Scien
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:4
- 3, it is updated each night; therefore a
+ was correct as of this afternoon at 23:1
+ 6, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -1551,7 +1646,7 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Scien
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=3b96cf8c-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250630T070000Z
 DTEND:20250630T071500Z
 TRANSP:TRANSPARENT
@@ -1566,7 +1661,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Measur
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6c04402f-end3e7178
+UID:10.1787/6c04402f-end3e7336
 SUMMARY:[Book] Revenue Statistics in Asia and th
  e Pacific 2025 - Personal income taxatio
  n in Asia and the Pacific
@@ -1585,7 +1680,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Asia and t
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 23:
- 43, it is updated each night; therefore 
+ 16, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -1593,7 +1688,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Asia and t
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=6c04402f-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250708T090000Z
 DTEND:20250708T091500Z
 TRANSP:TRANSPARENT
@@ -1608,7 +1703,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics in A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/194a947b-end3e7338
+UID:10.1787/194a947b-end3e7495
 SUMMARY:[Book] OECD Employment Outlook 2025 - Ca
  n We Get Through the Demographic Crunch?
 DESCRIPTION:*[Book] OECD Employment Outlook 2025 - C
@@ -1625,7 +1720,7 @@ DESCRIPTION:*[Book] OECD Employment Outlook 2025 - C
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:43, it is 
+ ct as of this afternoon at 23:16, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1634,7 +1729,7 @@ DESCRIPTION:*[Book] OECD Employment Outlook 2025 - C
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=194a947b-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250709T090000Z
 DTEND:20250709T091500Z
 TRANSP:TRANSPARENT
@@ -1649,7 +1744,7 @@ DESCRIPTION:Reminder: [Book] OECD Employment Outlook
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/79445578-frd3e7391
+UID:10.1787/79445578-frd3e7548
 SUMMARY:[Book] Perspectives de l'emploi de l'OCD
  E 2025 - Pouvons-nous surmonter la crise
   démographique ?
@@ -1668,7 +1763,7 @@ DESCRIPTION:*[Book] Perspectives de l'emploi de l'OC
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 23:43, it is updated each night; there
+ t 23:16, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -1676,7 +1771,7 @@ DESCRIPTION:*[Book] Perspectives de l'emploi de l'OC
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=79445578-fr.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250709T090000Z
 DTEND:20250709T091500Z
 TRANSP:TRANSPARENT
@@ -1691,7 +1786,7 @@ DESCRIPTION:Reminder: [Book] Perspectives de l'emplo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/795de142-end3e7444
+UID:10.1787/795de142-end3e7602
 SUMMARY:[Stand-alone monograph] Governing with A
  rtificial Intelligence - The State of Pl
  ay and Way Forward in Core Government Fu
@@ -1711,7 +1806,7 @@ DESCRIPTION:*[Stand-alone monograph] Governing with
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:43, it is updated 
+  this afternoon at 23:16, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -1720,7 +1815,7 @@ DESCRIPTION:*[Stand-alone monograph] Governing with
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=795de142-en.
-DTSTAMP:20250529T234341Z
+DTSTAMP:20250530T231649Z
 DTSTART:20250711T120000Z
 DTEND:20250711T121500Z
 TRANSP:TRANSPARENT

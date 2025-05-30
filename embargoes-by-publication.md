@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 29 May 2025 at 23:43* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Customisation Opportunities of IUCLID for the Management of Chemical Data – 4th edition](https://doi.org/10.1787/d8db13f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 May 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Consensus document on Beauveria bassiana strains as microbial plant protection product - Regulatory considerations for Beauveria bassiana strains](https://doi.org/10.1787/cc1d28d9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 May 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Financement de la protection sociale au Sénégal - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/00d67508-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 May 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Friday 30 May 2025 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Estudio sobre comercio y género en América Latina](https://doi.org/10.1787/db75af76-es)
 
@@ -150,7 +81,7 @@ Monday 2 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -159,7 +90,7 @@ Monday 2 June 2025 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -173,7 +104,7 @@ Monday 2 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -182,9 +113,9 @@ Monday 2 June 2025 at 9:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -326,7 +257,7 @@ Tuesday 3 June 2025 at 7:00 | no launch event
 
 ------
 
-## [Perspectives économiques de l'OCDE, Volume 2025 Numéro 1 - Faire face à l’incertitude, relancer la croissance](https://doi.org/10.1787/15a25f4a-fr)
+## [Perspectives économiques de l'OCDE, Volume 2025 Numéro 1 - S’attaquer à l’incertitude, relancer la croissance](https://doi.org/10.1787/15a25f4a-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -579,6 +510,29 @@ Thursday 19 June 2025 at 2:00 | no launch event
 
 ------
 
+## [Panorama des administrations publiques 2025](https://doi.org/10.1787/758a7905-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 June 2025 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Closing Broadband Connectivity Divides for All - From Evidence to Practice](https://doi.org/10.1787/d5ea99b2-en)
 
 Embargo date | Launch date
@@ -786,6 +740,52 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ------
 
+## [Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Mauritanie (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/17b90904-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Gabon (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/a0e10015-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Curaçao (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/74c1468e-en)
 
 Embargo date | Launch date
@@ -826,6 +826,52 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Togo (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/70eb0558-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Monaco (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/bf564f22-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
