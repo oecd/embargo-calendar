@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 30 May 2025 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 1 June 2025 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Estudio sobre comercio y género en América Latina](https://doi.org/10.1787/db75af76-es)
 
