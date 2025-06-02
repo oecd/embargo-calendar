@@ -2,11 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 1 June 2025 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 2 June 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 June 2025](#2-june-2025)
 * [3 June 2025](#3-june-2025)
-* [4 June 2025](#4-june-2025)
 * [5 June 2025](#5-june-2025)
 * [6 June 2025](#6-june-2025)
 * [9 June 2025](#9-june-2025)
@@ -157,7 +156,7 @@ Monday 2 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -203,7 +202,7 @@ Monday 2 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -221,7 +220,7 @@ Tuesday 3 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -230,9 +229,32 @@ Tuesday 3 June 2025 at 7:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Mauritius](https://doi.org/10.1787/001dfd24-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -253,9 +275,32 @@ Tuesday 3 June 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Maurice](https://doi.org/10.1787/2dea8ed8-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -267,7 +312,7 @@ Tuesday 3 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -276,9 +321,9 @@ Tuesday 3 June 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -290,7 +335,7 @@ Tuesday 3 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -299,25 +344,44 @@ Tuesday 3 June 2025 at 7:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
-------
-
-# 4 June 2025
-
-## [OECD Economic Surveys: Sweden 2025](https://doi.org/10.1787/75e94b2f-en)
+## [Maroc](https://doi.org/10.1787/4a87878d-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 4 June 2025 at 22:00 | no launch event
+Tuesday 3 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Morocco](https://doi.org/10.1787/626fd501-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -327,8 +391,8 @@ Wednesday 4 June 2025 at 22:00 | no launch event
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -356,6 +420,29 @@ Thursday 5 June 2025 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Sweden 2025](https://doi.org/10.1787/75e94b2f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 June 2025 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -540,6 +627,29 @@ Tuesday 17 June 2025 at 5:00 | no launch event
 
 ------
 
+## [Tax Administration Digitalisation and Digital Transformation Initiatives](https://doi.org/10.1787/c076d776-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ------
 
 # 19 June 2025
@@ -690,7 +800,53 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ------
 
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Côte d'Ivoire (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a51dd5d0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Mauritania (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/83a7a929-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Bosnia and Herzegovina (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/50e4f757-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -736,6 +892,29 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ------
 
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Democratic Republic of the Congo (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/cce71f94-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Togo (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/7929902c-en)
 
 Embargo date | Launch date
@@ -759,7 +938,76 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ------
 
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Mongolia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c3a657b3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Georgia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/bec4d811-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Brunei Darussalam (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/87caf950-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Panama (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a81fbb81-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -822,6 +1070,52 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Maldives (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/7b3185b9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Armenia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c3488b64-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
@@ -964,7 +1258,7 @@ Monday 30 June 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 

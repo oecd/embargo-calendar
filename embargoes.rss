@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sun, 01 Jun 2025 23:12:10 GMT</pubDate>
+      <pubDate>Mon, 02 Jun 2025 23:07:48 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -142,7 +142,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/83363382-en-d3e4430</guid>
+         <guid isPermaLink="false">10.1787/83363382-en-d3e5434</guid>
          <pubDate>Tue, 03 Jun 2025 09:00:00 GMT</pubDate>
          <title>OECD Economic Outlook, Volume 2025 Issue 1 - Tackling Uncertainty, Reviving Growth</title>
          <link>https://doi.org/10.1787/83363382-en</link>
@@ -151,14 +151,30 @@
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
          <oe:oecdOrgExport/>
          <oe:catalogueType>Issue</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/be745f04-en-d3e4483</guid>
+         <guid isPermaLink="false">10.1787/001dfd24-en-d3e6226</guid>
+         <pubDate>Tue, 03 Jun 2025 09:00:00 GMT</pubDate>
+         <title>Mauritius</title>
+         <link>https://doi.org/10.1787/001dfd24-en</link>
+         <description>Mauritius by Economics Department has an embargo on Tuesday 3 June 2025 at 9:00.</description>
+         <oe:embargoTime>Tue, 03 Jun 2025 09:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Short content</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/be745f04-en-d3e6333</guid>
          <pubDate>Tue, 03 Jun 2025 09:00:00 GMT</pubDate>
          <title>Introducing the OECD AI Capability Indicators</title>
          <link>https://doi.org/10.1787/be745f04-en</link>
@@ -174,7 +190,23 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d321ba78-fr-d3e4536</guid>
+         <guid isPermaLink="false">10.1787/2dea8ed8-fr-d3e6704</guid>
+         <pubDate>Tue, 03 Jun 2025 09:00:00 GMT</pubDate>
+         <title>Maurice</title>
+         <link>https://doi.org/10.1787/2dea8ed8-fr</link>
+         <description>Maurice by Economics Department has an embargo on Tuesday 3 June 2025 at 9:00.</description>
+         <oe:embargoTime>Tue, 03 Jun 2025 09:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>French</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Short content</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/d321ba78-fr-d3e7126</guid>
          <pubDate>Tue, 03 Jun 2025 09:00:00 GMT</pubDate>
          <title>Présentation des indicateurs de l’OCDE sur les capacités de l’IA</title>
          <link>https://doi.org/10.1787/d321ba78-fr</link>
@@ -183,14 +215,14 @@
          <oe:launchTime/>
          <oe:languages>French</oe:languages>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
          <oe:oecdOrgExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/15a25f4a-fr-d3e4588</guid>
+         <guid isPermaLink="false">10.1787/15a25f4a-fr-d3e7974</guid>
          <pubDate>Tue, 03 Jun 2025 09:00:00 GMT</pubDate>
          <title>Perspectives économiques de l'OCDE, Volume 2025 Numéro 1 - S’attaquer à l’incertitude, relancer la croissance</title>
          <link>https://doi.org/10.1787/15a25f4a-fr</link>
@@ -199,30 +231,46 @@
          <oe:launchTime/>
          <oe:languages>French</oe:languages>
          <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
          <oe:oecdOrgExport/>
          <oe:catalogueType>Issue</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/75e94b2f-en-d3e4852</guid>
-         <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-         <title>OECD Economic Surveys: Sweden 2025</title>
-         <link>https://doi.org/10.1787/75e94b2f-en</link>
-         <description>OECD Economic Surveys: Sweden 2025 by Economics Department has an embargo on Thursday 5 June 2025 at 0:00.</description>
-         <oe:embargoTime>Thu, 05 Jun 2025 00:00:00 GMT</oe:embargoTime>
+         <guid isPermaLink="false">10.1787/4a87878d-fr-d3e10670</guid>
+         <pubDate>Tue, 03 Jun 2025 09:00:00 GMT</pubDate>
+         <title>Maroc</title>
+         <link>https://doi.org/10.1787/4a87878d-fr</link>
+         <description>Maroc by Economics Department has an embargo on Tuesday 3 June 2025 at 9:00.</description>
+         <oe:embargoTime>Tue, 03 Jun 2025 09:00:00 GMT</oe:embargoTime>
          <oe:launchTime/>
-         <oe:languages>English</oe:languages>
+         <oe:languages>French</oe:languages>
          <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
          <oe:oecdOrgExport/>
-         <oe:catalogueType>Economic survey</oe:catalogueType>
+         <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/7e6a132a-en-d3e4904</guid>
+         <guid isPermaLink="false">10.1787/626fd501-en-d3e11678</guid>
+         <pubDate>Tue, 03 Jun 2025 09:00:00 GMT</pubDate>
+         <title>Morocco</title>
+         <link>https://doi.org/10.1787/626fd501-en</link>
+         <description>Morocco by Economics Department has an embargo on Tuesday 3 June 2025 at 9:00.</description>
+         <oe:embargoTime>Tue, 03 Jun 2025 09:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Short content</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/7e6a132a-en-d3e12051</guid>
          <pubDate>Thu, 05 Jun 2025 09:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: South Africa 2025</title>
          <link>https://doi.org/10.1787/7e6a132a-en</link>
@@ -238,7 +286,23 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/bace00c4-en-d3e5063</guid>
+         <guid isPermaLink="false">10.1787/75e94b2f-en-d3e12155</guid>
+         <pubDate>Thu, 05 Jun 2025 10:30:00 GMT</pubDate>
+         <title>OECD Economic Surveys: Sweden 2025</title>
+         <link>https://doi.org/10.1787/75e94b2f-en</link>
+         <description>OECD Economic Surveys: Sweden 2025 by Economics Department has an embargo on Thursday 5 June 2025 at 10:30.</description>
+         <oe:embargoTime>Thu, 05 Jun 2025 10:30:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Economic survey</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/bace00c4-en-d3e12313</guid>
          <pubDate>Fri, 06 Jun 2025 09:00:00 GMT</pubDate>
          <title>Education and Skills in Croatia</title>
          <link>https://doi.org/10.1787/bace00c4-en</link>
@@ -254,7 +318,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/16b7cbc7-en-d3e5700</guid>
+         <guid isPermaLink="false">10.1787/16b7cbc7-en-d3e12950</guid>
          <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
          <title>Investing in Climate for Growth and Development - The Case for Enhanced NDCs</title>
          <link>https://doi.org/10.1787/16b7cbc7-en</link>
@@ -270,7 +334,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/bc0babf3-en-d3e5753</guid>
+         <guid isPermaLink="false">10.1787/bc0babf3-en-d3e13004</guid>
          <pubDate>Tue, 10 Jun 2025 09:30:00 GMT</pubDate>
          <title>Economic Convergence Scoreboard for the Western Balkans 2025</title>
          <link>https://doi.org/10.1787/bc0babf3-en</link>
@@ -286,7 +350,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/ff0e1d29-fr-d3e5806</guid>
+         <guid isPermaLink="false">10.1787/ff0e1d29-fr-d3e13057</guid>
          <pubDate>Mon, 16 Jun 2025 09:00:00 GMT</pubDate>
          <title>Examens de l'OCDE sur la coopération pour le développement : Suisse 2025</title>
          <link>https://doi.org/10.1787/ff0e1d29-fr</link>
@@ -302,7 +366,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b83b7007-en-d3e5858</guid>
+         <guid isPermaLink="false">10.1787/b83b7007-en-d3e13109</guid>
          <pubDate>Mon, 16 Jun 2025 09:00:00 GMT</pubDate>
          <title>OECD Development Co-operation Peer Reviews: Switzerland 2025</title>
          <link>https://doi.org/10.1787/b83b7007-en</link>
@@ -318,7 +382,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/ac0229da-en-d3e5962</guid>
+         <guid isPermaLink="false">10.1787/ac0229da-en-d3e13213</guid>
          <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
          <title>Education and Skills in Bulgaria</title>
          <link>https://doi.org/10.1787/ac0229da-en</link>
@@ -334,7 +398,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d492583a-en-d3e6015</guid>
+         <guid isPermaLink="false">10.1787/d492583a-en-d3e13265</guid>
          <pubDate>Tue, 17 Jun 2025 07:00:00 GMT</pubDate>
          <title>Global Drought Outlook - Trends, Impacts and Policies to Adapt to a Drier World</title>
          <link>https://doi.org/10.1787/d492583a-en</link>
@@ -350,7 +414,23 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0b8d13ac-en-d3e6173</guid>
+         <guid isPermaLink="false">10.1787/c076d776-en-d3e13372</guid>
+         <pubDate>Tue, 17 Jun 2025 11:00:00 GMT</pubDate>
+         <title>Tax Administration Digitalisation and Digital Transformation Initiatives</title>
+         <link>https://doi.org/10.1787/c076d776-en</link>
+         <description>Tax Administration Digitalisation and Digital Transformation Initiatives by Centre for Tax Policy and Administration has an embargo on Tuesday 17 June 2025 at 11:00.</description>
+         <oe:embargoTime>Tue, 17 Jun 2025 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/0b8d13ac-en-d3e13476</guid>
          <pubDate>Thu, 19 Jun 2025 04:00:00 GMT</pubDate>
          <title>Strengthening Productivity Analysis for Policymaking in Thailand</title>
          <link>https://doi.org/10.1787/0b8d13ac-en</link>
@@ -366,7 +446,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/758a7905-fr-d3e6225</guid>
+         <guid isPermaLink="false">10.1787/758a7905-fr-d3e13528</guid>
          <pubDate>Thu, 19 Jun 2025 14:00:00 GMT</pubDate>
          <title>Panorama des administrations publiques 2025</title>
          <link>https://doi.org/10.1787/758a7905-fr</link>
@@ -382,7 +462,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d5ea99b2-en-d3e6330</guid>
+         <guid isPermaLink="false">10.1787/d5ea99b2-en-d3e13633</guid>
          <pubDate>Fri, 20 Jun 2025 06:00:00 GMT</pubDate>
          <title>Closing Broadband Connectivity Divides for All - From Evidence to Practice</title>
          <link>https://doi.org/10.1787/d5ea99b2-en</link>
@@ -398,7 +478,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/fb37254b-en-d3e6383</guid>
+         <guid isPermaLink="false">10.1787/fb37254b-en-d3e13686</guid>
          <pubDate>Fri, 20 Jun 2025 09:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Viet Nam 2025</title>
          <link>https://doi.org/10.1787/fb37254b-en</link>
@@ -414,7 +494,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/3b264d6a-en-d3e6487</guid>
+         <guid isPermaLink="false">10.1787/3b264d6a-en-d3e13790</guid>
          <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Monaco (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/3b264d6a-en</link>
@@ -430,7 +510,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/651435b8-en-d3e6540</guid>
+         <guid isPermaLink="false">10.1787/651435b8-en-d3e13843</guid>
          <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Gabon (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/651435b8-en</link>
@@ -446,7 +526,23 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/83a7a929-en-d3e6593</guid>
+         <guid isPermaLink="false">10.1787/a51dd5d0-en-d3e13896</guid>
+         <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
+         <title>Making Dispute Resolution More Effective – Simplified Peer Review, Côte d'Ivoire (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
+         <link>https://doi.org/10.1787/a51dd5d0-en</link>
+         <description>Making Dispute Resolution More Effective – Simplified Peer Review, Côte d'Ivoire (Stage 1) - Inclusive Framework on BEPS: Action 14 by Centre for Tax Policy and Administration has an embargo on Thursday 26 June 2025 at 11:00.</description>
+         <oe:embargoTime>Thu, 26 Jun 2025 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Report</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/83a7a929-en-d3e13950</guid>
          <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Mauritania (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/83a7a929-en</link>
@@ -462,7 +558,23 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d3520e69-en-d3e6647</guid>
+         <guid isPermaLink="false">10.1787/50e4f757-en-d3e14003</guid>
+         <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
+         <title>Making Dispute Resolution More Effective – Simplified Peer Review, Bosnia and Herzegovina (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
+         <link>https://doi.org/10.1787/50e4f757-en</link>
+         <description>Making Dispute Resolution More Effective – Simplified Peer Review, Bosnia and Herzegovina (Stage 1) - Inclusive Framework on BEPS: Action 14 by Centre for Tax Policy and Administration has an embargo on Thursday 26 June 2025 at 11:00.</description>
+         <oe:embargoTime>Thu, 26 Jun 2025 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Report</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/d3520e69-en-d3e14056</guid>
          <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Jersey (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/d3520e69-en</link>
@@ -478,7 +590,23 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/7929902c-en-d3e6700</guid>
+         <guid isPermaLink="false">10.1787/cce71f94-en-d3e14109</guid>
+         <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
+         <title>Making Dispute Resolution More Effective – Simplified Peer Review, Democratic Republic of the Congo (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
+         <link>https://doi.org/10.1787/cce71f94-en</link>
+         <description>Making Dispute Resolution More Effective – Simplified Peer Review, Democratic Republic of the Congo (Stage 1) - Inclusive Framework on BEPS: Action 14 by Centre for Tax Policy and Administration has an embargo on Thursday 26 June 2025 at 11:00.</description>
+         <oe:embargoTime>Thu, 26 Jun 2025 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Report</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/7929902c-en-d3e14162</guid>
          <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Togo (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/7929902c-en</link>
@@ -494,7 +622,39 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/87caf950-en-d3e6753</guid>
+         <guid isPermaLink="false">10.1787/c3a657b3-en-d3e14215</guid>
+         <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
+         <title>Making Dispute Resolution More Effective – Simplified Peer Review, Mongolia (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
+         <link>https://doi.org/10.1787/c3a657b3-en</link>
+         <description>Making Dispute Resolution More Effective – Simplified Peer Review, Mongolia (Stage 1) - Inclusive Framework on BEPS: Action 14 by Centre for Tax Policy and Administration has an embargo on Thursday 26 June 2025 at 11:00.</description>
+         <oe:embargoTime>Thu, 26 Jun 2025 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Report</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/bec4d811-en-d3e14269</guid>
+         <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
+         <title>Making Dispute Resolution More Effective – Simplified Peer Review, Georgia (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
+         <link>https://doi.org/10.1787/bec4d811-en</link>
+         <description>Making Dispute Resolution More Effective – Simplified Peer Review, Georgia (Stage 1) - Inclusive Framework on BEPS: Action 14 by Centre for Tax Policy and Administration has an embargo on Thursday 26 June 2025 at 11:00.</description>
+         <oe:embargoTime>Thu, 26 Jun 2025 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Report</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/87caf950-en-d3e14322</guid>
          <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Brunei Darussalam (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/87caf950-en</link>
@@ -510,7 +670,23 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/6bb6bb0e-en-d3e6806</guid>
+         <guid isPermaLink="false">10.1787/a81fbb81-en-d3e14375</guid>
+         <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
+         <title>Making Dispute Resolution More Effective – Simplified Peer Review, Panama (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
+         <link>https://doi.org/10.1787/a81fbb81-en</link>
+         <description>Making Dispute Resolution More Effective – Simplified Peer Review, Panama (Stage 1) - Inclusive Framework on BEPS: Action 14 by Centre for Tax Policy and Administration has an embargo on Thursday 26 June 2025 at 11:00.</description>
+         <oe:embargoTime>Thu, 26 Jun 2025 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Report</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/6bb6bb0e-en-d3e14428</guid>
          <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Azerbaijan (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/6bb6bb0e-en</link>
@@ -526,7 +702,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/17b90904-fr-d3e6859</guid>
+         <guid isPermaLink="false">10.1787/17b90904-fr-d3e14481</guid>
          <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
          <title>Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Mauritanie (Phase 1) - Cadre inclusif sur le BEPS : Action 14</title>
          <link>https://doi.org/10.1787/17b90904-fr</link>
@@ -542,7 +718,39 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a0e10015-fr-d3e6912</guid>
+         <guid isPermaLink="false">10.1787/7b3185b9-en-d3e14534</guid>
+         <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
+         <title>Making Dispute Resolution More Effective – Simplified Peer Review, Maldives (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
+         <link>https://doi.org/10.1787/7b3185b9-en</link>
+         <description>Making Dispute Resolution More Effective – Simplified Peer Review, Maldives (Stage 1) - Inclusive Framework on BEPS: Action 14 by Centre for Tax Policy and Administration has an embargo on Thursday 26 June 2025 at 11:00.</description>
+         <oe:embargoTime>Thu, 26 Jun 2025 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Report</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/c3488b64-en-d3e14588</guid>
+         <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
+         <title>Making Dispute Resolution More Effective – Simplified Peer Review, Armenia (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
+         <link>https://doi.org/10.1787/c3488b64-en</link>
+         <description>Making Dispute Resolution More Effective – Simplified Peer Review, Armenia (Stage 1) - Inclusive Framework on BEPS: Action 14 by Centre for Tax Policy and Administration has an embargo on Thursday 26 June 2025 at 11:00.</description>
+         <oe:embargoTime>Thu, 26 Jun 2025 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Report</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/a0e10015-fr-d3e14641</guid>
          <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
          <title>Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Gabon (Phase 1) - Cadre inclusif sur le BEPS : Action 14</title>
          <link>https://doi.org/10.1787/a0e10015-fr</link>
@@ -558,7 +766,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/74c1468e-en-d3e6966</guid>
+         <guid isPermaLink="false">10.1787/74c1468e-en-d3e14694</guid>
          <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Curaçao (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/74c1468e-en</link>
@@ -574,7 +782,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/c6e454c9-en-d3e7019</guid>
+         <guid isPermaLink="false">10.1787/c6e454c9-en-d3e14747</guid>
          <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Isle of Man (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/c6e454c9-en</link>
@@ -590,7 +798,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/70eb0558-fr-d3e7072</guid>
+         <guid isPermaLink="false">10.1787/70eb0558-fr-d3e14800</guid>
          <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
          <title>Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Togo (Phase 1) - Cadre inclusif sur le BEPS : Action 14</title>
          <link>https://doi.org/10.1787/70eb0558-fr</link>
@@ -606,7 +814,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/bf564f22-fr-d3e7125</guid>
+         <guid isPermaLink="false">10.1787/bf564f22-fr-d3e14853</guid>
          <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
          <title>Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Monaco (Phase 1) - Cadre inclusif sur le BEPS : Action 14</title>
          <link>https://doi.org/10.1787/bf564f22-fr</link>
@@ -622,7 +830,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/3b96cf8c-en-d3e7178</guid>
+         <guid isPermaLink="false">10.1787/3b96cf8c-en-d3e14907</guid>
          <pubDate>Mon, 30 Jun 2025 09:00:00 GMT</pubDate>
          <title>Measuring Science and Innovation for Sustainable Growth</title>
          <link>https://doi.org/10.1787/3b96cf8c-en</link>
@@ -638,7 +846,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/6c04402f-en-d3e7336</guid>
+         <guid isPermaLink="false">10.1787/6c04402f-en-d3e15064</guid>
          <pubDate>Tue, 08 Jul 2025 11:00:00 GMT</pubDate>
          <title>Revenue Statistics in Asia and the Pacific 2025 - Personal income taxation in Asia and the Pacific</title>
          <link>https://doi.org/10.1787/6c04402f-en</link>
@@ -654,7 +862,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/194a947b-en-d3e7495</guid>
+         <guid isPermaLink="false">10.1787/194a947b-en-d3e15224</guid>
          <pubDate>Wed, 09 Jul 2025 11:00:00 GMT</pubDate>
          <title>OECD Employment Outlook 2025 - Can We Get Through the Demographic Crunch?</title>
          <link>https://doi.org/10.1787/194a947b-en</link>
@@ -670,7 +878,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/79445578-fr-d3e7548</guid>
+         <guid isPermaLink="false">10.1787/79445578-fr-d3e15277</guid>
          <pubDate>Wed, 09 Jul 2025 11:00:00 GMT</pubDate>
          <title>Perspectives de l'emploi de l'OCDE 2025 - Pouvons-nous surmonter la crise démographique ?</title>
          <link>https://doi.org/10.1787/79445578-fr</link>
@@ -686,7 +894,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/795de142-en-d3e7602</guid>
+         <guid isPermaLink="false">10.1787/795de142-en-d3e15330</guid>
          <pubDate>Fri, 11 Jul 2025 14:00:00 GMT</pubDate>
          <title>Governing with Artificial Intelligence - The State of Play and Way Forward in Core Government Functions</title>
          <link>https://doi.org/10.1787/795de142-en</link>
