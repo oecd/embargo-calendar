@@ -2,191 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 3 June 2025 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Estudio sobre comercio y género en América Latina](https://doi.org/10.1787/db75af76-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 June 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Examen du commerce international et du genre en Amérique latine](https://doi.org/10.1787/019938c0-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 June 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Trade and Gender Review of Latin America](https://doi.org/10.1787/c906a2f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 June 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Internationally Harmonised Functional, Product and Article Use Categories, Second Edition](https://doi.org/10.1787/2e7db924-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Examen de l’OCDE sur la résilience des chaînes d’approvisionnement - Naviguer face aux risques](https://doi.org/10.1787/efc0e1c0-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Crypto-Asset Reporting Framework Status Message XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/e528d7f5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Supply Chain Resilience Review - Navigating Risks](https://doi.org/10.1787/94e3a8ea-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Common Reporting Standard Status Message XML Schema - User Guide for Tax Administrations (Version 3.0)](https://doi.org/10.1787/6c08db84-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Wednesday 4 June 2025 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Volume 2025 Issue 1 - Tackling Uncertainty, Reviving Growth](https://doi.org/10.1787/83363382-en)
 
@@ -438,6 +254,29 @@ Friday 6 June 2025 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Investir dans le climat pour la croissance et le développement (version abrégée) - En faveur de CDN renforcées (version abregée)](https://doi.org/10.1787/1a5fe203-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 June 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -1660,6 +1499,52 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ------
 
+## [Making Dispute Resolution More Effective – Simplified Peer Review, San Marino (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/4d5cd4bb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Advancing Adult Skills through Individual Learning Accounts - A Step-by-Step Guide for Policymakers](https://doi.org/10.1787/08e1bdaf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Measuring Science and Innovation for Sustainable Growth](https://doi.org/10.1787/3b96cf8c-en)
 
 Embargo date | Launch date
@@ -1680,6 +1565,29 @@ Monday 30 June 2025 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Tax Inspectors Without Borders Annual Report 2025 - Ten Years of Hands-on Assistance in Developing Countries](https://doi.org/10.1787/e9762366-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
