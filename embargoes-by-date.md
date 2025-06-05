@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 4 June 2025 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 5 June 2025 at 23:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 June 2025](#3-june-2025)
 * [5 June 2025](#5-june-2025)
 * [6 June 2025](#6-june-2025)
 * [9 June 2025](#9-june-2025)
@@ -20,194 +19,6 @@ Data generated on | |
 * [8 July 2025](#8-july-2025)
 * [9 July 2025](#9-july-2025)
 * [11 July 2025](#11-july-2025)
-
-------
-
-# 3 June 2025
-
-## [OECD Economic Outlook, Volume 2025 Issue 1 - Tackling Uncertainty, Reviving Growth](https://doi.org/10.1787/83363382-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Mauritius](https://doi.org/10.1787/001dfd24-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Introducing the OECD AI Capability Indicators](https://doi.org/10.1787/be745f04-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Maurice](https://doi.org/10.1787/2dea8ed8-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Présentation des indicateurs de l’OCDE sur les capacités de l’IA](https://doi.org/10.1787/d321ba78-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives économiques de l'OCDE, Volume 2025 Numéro 1 - S’attaquer à l’incertitude, relancer la croissance](https://doi.org/10.1787/15a25f4a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Maroc](https://doi.org/10.1787/4a87878d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Morocco](https://doi.org/10.1787/626fd501-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
 
 ------
 
@@ -290,7 +101,7 @@ Friday 6 June 2025 at 7:00 | no launch event
 
 # 9 June 2025
 
-## [Investir dans le climat pour la croissance et le développement (version abrégée) - En faveur de CDN renforcées (version abregée)](https://doi.org/10.1787/1a5fe203-fr)
+## [Investir dans le climat pour la croissance et le développement (version abrégée) - En faveur de CDN renforcées](https://doi.org/10.1787/1a5fe203-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -321,7 +132,7 @@ Monday 9 June 2025 at 22:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -330,9 +141,9 @@ Monday 9 June 2025 at 22:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -459,6 +270,29 @@ Monday 16 June 2025 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [The impact of digital technologies on students’ learning in Ireland - Key considerations from peers’ experience](https://doi.org/10.1787/38f23920-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 June 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
