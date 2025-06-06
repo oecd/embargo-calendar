@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 5 June 2025 at 23:56* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 6 June 2025 at 23:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: South Africa 2025](https://doi.org/10.1787/7e6a132a-en)
 
@@ -73,52 +73,6 @@ Friday 6 June 2025 at 7:00 | no launch event
 
 ------
 
-## [Investir dans le climat pour la croissance et le développement (version abrégée) - En faveur de CDN renforcées](https://doi.org/10.1787/1a5fe203-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 June 2025 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Investing in Climate for Growth and Development - The Case for Enhanced NDCs](https://doi.org/10.1787/16b7cbc7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 June 2025 at 22:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
 ## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
 
 Embargo date | Launch date
@@ -142,15 +96,61 @@ Tuesday 10 June 2025 at 7:30 | no launch event
 
 ------
 
+## [Investing in Climate for Growth and Development - The Case for Enhanced NDCs](https://doi.org/10.1787/16b7cbc7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Safe Pathways for Refugees V - OECD-UNHCR Study on Pathways Used by Refugees Linked to Family Reunification, Study Programmes and Labour Mobility Between 2019 and 2023](https://doi.org/10.1787/03ec9a7e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 June 2025 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Germany 2025](https://doi.org/10.1787/39d62aed-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 12 June 2025 at 8:30 | no launch event
+Thursday 12 June 2025 at 9:15 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -169,7 +169,7 @@ Thursday 12 June 2025 at 8:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 12 June 2025 at 8:30 | no launch event
+Thursday 12 June 2025 at 9:15 | no launch event
 
 ### Status Information
 
@@ -311,7 +311,7 @@ Tuesday 17 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -320,9 +320,9 @@ Tuesday 17 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -395,6 +395,29 @@ Thursday 19 June 2025 at 2:00 | no launch event
 
 ------
 
+## [Tax Co-operation for Development - Progress Report on 2024](https://doi.org/10.1787/cf95c967-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Panorama des administrations publiques 2025](https://doi.org/10.1787/758a7905-fr)
 
 Embargo date | Launch date
@@ -441,29 +464,6 @@ Thursday 19 June 2025 at 12:00 | no launch event
 
 ------
 
-## [Closing Broadband Connectivity Divides for All - From Evidence to Practice](https://doi.org/10.1787/d5ea99b2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 20 June 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [OECD Economic Surveys: Viet Nam 2025](https://doi.org/10.1787/fb37254b-en)
 
 Embargo date | Launch date
@@ -484,6 +484,29 @@ Friday 20 June 2025 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Iceland 2025](https://doi.org/10.1787/890dbe05-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 June 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -1496,6 +1519,75 @@ Wednesday 9 July 2025 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Netherlands 2025](https://doi.org/10.1787/2dd1f4aa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 14:15 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Anti-Bribery Convention Phase 4 Report on South Africa - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/32776d08-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 July 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Closing Broadband Connectivity Divides for All - From Evidence to Practice](https://doi.org/10.1787/d5ea99b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 July 2025 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
