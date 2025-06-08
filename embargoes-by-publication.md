@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 June 2025 at 23:43* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: South Africa 2025](https://doi.org/10.1787/7e6a132a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Sweden 2025](https://doi.org/10.1787/75e94b2f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 June 2025 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Education and Skills in Croatia](https://doi.org/10.1787/bace00c4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 6 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Monday 9 June 2025 at 0:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
 

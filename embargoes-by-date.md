@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 June 2025 at 23:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 9 June 2025 at 0:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 June 2025](#5-june-2025)
-* [6 June 2025](#6-june-2025)
 * [10 June 2025](#10-june-2025)
 * [12 June 2025](#12-june-2025)
 * [16 June 2025](#16-june-2025)
@@ -20,83 +18,6 @@ Data generated on | |
 * [9 July 2025](#9-july-2025)
 * [10 July 2025](#10-july-2025)
 * [11 July 2025](#11-july-2025)
-
-------
-
-# 5 June 2025
-
-## [OECD Economic Surveys: South Africa 2025](https://doi.org/10.1787/7e6a132a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Sweden 2025](https://doi.org/10.1787/75e94b2f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 June 2025 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-------
-
-# 6 June 2025
-
-## [Education and Skills in Croatia](https://doi.org/10.1787/bace00c4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 6 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
