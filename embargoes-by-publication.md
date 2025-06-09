@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 June 2025 at 0:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 9 June 2025 at 23:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
 
