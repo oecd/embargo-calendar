@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 June 2025 at 23:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 10 June 2025 at 23:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 June 2025](#10-june-2025)
 * [12 June 2025](#12-june-2025)
@@ -46,6 +46,29 @@ Tuesday 10 June 2025 at 7:30 | no launch event
 
 ------
 
+## [Safe Pathways for Refugees V - OECD-UNHCR Study on Pathways Used by Refugees Linked to Family Reunification, Study Programmes and Labour Mobility Between 2019 and 2023](https://doi.org/10.1787/03ec9a7e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Investing in Climate for Growth and Development - The Case for Enhanced NDCs](https://doi.org/10.1787/16b7cbc7-en)
 
 Embargo date | Launch date
@@ -66,29 +89,6 @@ Tuesday 10 June 2025 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Safe Pathways for Refugees V - OECD-UNHCR Study on Pathways Used by Refugees Linked to Family Reunification, Study Programmes and Labour Mobility Between 2019 and 2023](https://doi.org/10.1787/03ec9a7e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 June 2025 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
 
 ------
 
@@ -113,7 +113,7 @@ Thursday 12 June 2025 at 9:15 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -177,7 +177,7 @@ Monday 16 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -246,7 +246,7 @@ Monday 16 June 2025 at 22:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 17 June 2025 at 5:00 | no launch event
+Tuesday 17 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
@@ -464,6 +464,29 @@ Friday 20 June 2025 at 7:00 | no launch event
 ------
 
 # 25 June 2025
+
+## [OECD-FAO Agricultural Outlook 2025-2034](https://doi.org/10.1787/601276cd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 June 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Surveys: Iceland 2025](https://doi.org/10.1787/890dbe05-en)
 
@@ -1085,7 +1108,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -1387,7 +1410,7 @@ Monday 30 June 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -1433,6 +1456,29 @@ Monday 30 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Inspectores fiscales sin fronteras - Informe anual 2025 - Diez años de asistencia práctica a países en desarrollo](https://doi.org/10.1787/828dcb16-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
