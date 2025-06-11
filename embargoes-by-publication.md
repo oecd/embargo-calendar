@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 10 June 2025 at 23:36* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 11 June 2025 at 23:32* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
 
@@ -104,7 +104,7 @@ Thursday 12 June 2025 at 9:15 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -113,7 +113,7 @@ Thursday 12 June 2025 at 9:15 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -127,7 +127,7 @@ Monday 16 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -136,7 +136,7 @@ Monday 16 June 2025 at 7:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -159,7 +159,7 @@ Monday 16 June 2025 at 7:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -211,7 +211,7 @@ Monday 16 June 2025 at 22:00 | no launch event
 
 ------
 
-## [Global Drought Outlook - Trends, Impacts and Policies to Adapt to a Drier World](https://doi.org/10.1787/d492583a-en)
+## [Perspectives mondiales des sécheresses - Évolution, impacts et politiques d’adaptation](https://doi.org/10.1787/e69575eb-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -227,10 +227,33 @@ Tuesday 17 June 2025 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Global Drought Outlook - Trends, Impacts and Policies to Adapt to a Drier World](https://doi.org/10.1787/d492583a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -418,6 +441,29 @@ Friday 20 June 2025 at 7:00 | no launch event
 
 ------
 
+## [Perspectives agricoles de l’OCDE et de la FAO 2025-2034](https://doi.org/10.1787/af125b62-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 June 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD-FAO Agricultural Outlook 2025-2034](https://doi.org/10.1787/601276cd-en)
 
 Embargo date | Launch date
@@ -472,7 +518,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -481,7 +527,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -495,7 +541,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -504,7 +550,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -541,7 +587,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -550,7 +596,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -610,7 +656,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -619,7 +665,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -702,7 +748,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -711,7 +757,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -771,7 +817,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -780,7 +826,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -886,7 +932,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -895,7 +941,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1024,7 +1070,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1033,7 +1079,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1093,7 +1139,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1102,7 +1148,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1131,7 +1177,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Congo (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c15d931d-en)
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Democratic Republic of the Congo (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c15d931d-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1323,7 +1369,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1332,7 +1378,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1430,7 +1476,7 @@ Monday 30 June 2025 at 9:00 | no launch event
 
 ------
 
-## [Revenue Statistics in Asia and the Pacific 2025 - Personal income taxation in Asia and the Pacific](https://doi.org/10.1787/6c04402f-en)
+## [Revenue Statistics in Asia and the Pacific 2025 - Personal Income Taxation in Asia and the Pacific](https://doi.org/10.1787/6c04402f-en)
 
 Embargo date | Launch date
 -------------|:------------:
