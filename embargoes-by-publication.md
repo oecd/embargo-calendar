@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 11 June 2025 at 23:32* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 June 2025 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Safe Pathways for Refugees V - OECD-UNHCR Study on Pathways Used by Refugees Linked to Family Reunification, Study Programmes and Labour Mobility Between 2019 and 2023](https://doi.org/10.1787/03ec9a7e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Investing in Climate for Growth and Development - The Case for Enhanced NDCs](https://doi.org/10.1787/16b7cbc7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Thursday 12 June 2025 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Germany 2025](https://doi.org/10.1787/39d62aed-en)
 
@@ -192,11 +123,11 @@ Monday 16 June 2025 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 16 June 2025 at 22:00 | no launch event
+Tuesday 17 June 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -205,9 +136,9 @@ Monday 16 June 2025 at 22:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -228,9 +159,9 @@ Tuesday 17 June 2025 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
