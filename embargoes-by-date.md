@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 June 2025 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 13 June 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 June 2025](#12-june-2025)
 * [16 June 2025](#16-june-2025)
@@ -10,6 +10,7 @@ Data generated on | |
 * [18 June 2025](#18-june-2025)
 * [19 June 2025](#19-june-2025)
 * [20 June 2025](#20-june-2025)
+* [23 June 2025](#23-june-2025)
 * [25 June 2025](#25-june-2025)
 * [26 June 2025](#26-june-2025)
 * [30 June 2025](#30-june-2025)
@@ -17,6 +18,7 @@ Data generated on | |
 * [9 July 2025](#9-july-2025)
 * [10 July 2025](#10-july-2025)
 * [11 July 2025](#11-july-2025)
+* [15 July 2025](#15-july-2025)
 
 ------
 
@@ -118,29 +120,6 @@ Monday 16 June 2025 at 7:00 | no launch event
 
 ------
 
-## [The impact of digital technologies on students’ learning in Ireland - Key considerations from peers’ experience](https://doi.org/10.1787/38f23920-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 June 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ------
 
 # 17 June 2025
@@ -176,7 +155,7 @@ Tuesday 17 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -185,7 +164,7 @@ Tuesday 17 June 2025 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -412,13 +391,13 @@ Friday 20 June 2025 at 7:00 | no launch event
 
 ------
 
-# 25 June 2025
+# 23 June 2025
 
-## [Perspectives agricoles de l’OCDE et de la FAO 2025-2034](https://doi.org/10.1787/af125b62-fr)
+## [The impact of digital technologies on students’ learning in Ireland - Key considerations from peers’ experience](https://doi.org/10.1787/38f23920-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 25 June 2025 at 8:00 | no launch event
+Monday 23 June 2025 at 8:00 | no launch event
 
 ### Status Information
 
@@ -429,36 +408,17 @@ Wednesday 25 June 2025 at 8:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD-FAO Agricultural Outlook 2025-2034](https://doi.org/10.1787/601276cd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 June 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
+
+------
+
+# 25 June 2025
 
 ## [OECD Economic Surveys: Iceland 2025](https://doi.org/10.1787/890dbe05-en)
 
@@ -1365,6 +1325,29 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 # 30 June 2025
 
+## [Implementing the OECD Recommendation on Public Procurement in OECD and Partner Countries - 2020-2024 Report](https://doi.org/10.1787/02a46a58-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Advancing Adult Skills through Individual Learning Accounts - A Step-by-Step Guide for Policymakers](https://doi.org/10.1787/08e1bdaf-en)
 
 Embargo date | Launch date
@@ -1628,8 +1611,58 @@ Friday 11 July 2025 at 12:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 15 July 2025
+
+## [Perspectives agricoles de l’OCDE et de la FAO 2025-2034](https://doi.org/10.1787/af125b62-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 July 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD-FAO Agricultural Outlook 2025-2034](https://doi.org/10.1787/601276cd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 July 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
