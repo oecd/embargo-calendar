@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 June 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Germany 2025](https://doi.org/10.1787/39d62aed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 June 2025 at 9:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD-Wirtschaftsberichte: Deutschland 2025](https://doi.org/10.1787/edfb037f-de)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 June 2025 at 9:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Sunday 15 June 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Examens de l'OCDE sur la coopération pour le développement : Suisse 2025](https://doi.org/10.1787/ff0e1d29-fr)
 

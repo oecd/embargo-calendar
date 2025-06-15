@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 June 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 15 June 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 June 2025](#12-june-2025)
 * [16 June 2025](#16-june-2025)
 * [17 June 2025](#17-june-2025)
 * [18 June 2025](#18-june-2025)
@@ -19,56 +18,6 @@ Data generated on | |
 * [10 July 2025](#10-july-2025)
 * [11 July 2025](#11-july-2025)
 * [15 July 2025](#15-july-2025)
-
-------
-
-# 12 June 2025
-
-## [OECD Economic Surveys: Germany 2025](https://doi.org/10.1787/39d62aed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 June 2025 at 9:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD-Wirtschaftsberichte: Deutschland 2025](https://doi.org/10.1787/edfb037f-de)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 June 2025 at 9:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
