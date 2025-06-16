@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-06-15T23:08:20.4972715+02:00">
+<report name="official-embargoes" generated="2025-06-16T23:05:33.1171395+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -1321,26 +1321,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e0fc112</cell>
   </row>
   <row index="66">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/cf95c967-en</cell>
-    <cell name="title">Tax Co-operation for Development (en)</cell>
-    <cell name="subtitle">Progress Report on 2024 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2025-06-19</cell>
-    <cell name="embargo date">2025-06-19T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fcb87e2</cell>
-  </row>
-  <row index="67">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/758a7905-fr</cell>
     <cell name="title">Panorama des administrations publiques 2025 (fr)</cell>
@@ -1360,7 +1340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/67818e2f</cell>
   </row>
-  <row index="68">
+  <row index="67">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0efd0bcd-en</cell>
     <cell name="title">Government at a Glance 2025 (en)</cell>
@@ -1380,27 +1360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8cf03b8</cell>
   </row>
-  <row index="69">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/fb37254b-en</cell>
-    <cell name="title">OECD Economic Surveys: Viet Nam 2025 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2025-06-20</cell>
-    <cell name="embargo date">2025-06-20T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91787c03</cell>
-  </row>
-  <row index="70">
+  <row index="68">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/fb37254b-en</cell>
     <cell name="title">OECD Economic Surveys: Viet Nam 2025 (en)</cell>
@@ -1419,6 +1379,46 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8821d19d</cell>
+  </row>
+  <row index="69">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/fed2872b-en</cell>
+    <cell name="title">Per- and Polyfluoroalkyl Substances (PFAS) and Alternatives in Hydraulic Oils and Lubricants (en)</cell>
+    <cell name="subtitle">Report on Commercial Availability and Current Uses (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-20</cell>
+    <cell name="embargo date">2025-06-20T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7cbef371</cell>
+  </row>
+  <row index="70">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/fb37254b-en</cell>
+    <cell name="title">OECD Economic Surveys: Viet Nam 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-20</cell>
+    <cell name="embargo date">2025-06-20T07:40:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91787c03</cell>
   </row>
   <row index="71">
     <cell name="directorate">Directorate for Education and Skills</cell>
@@ -1702,6 +1702,26 @@
   </row>
   <row index="85">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/cf95c967-en</cell>
+    <cell name="title">Tax Co-operation for Development (en)</cell>
+    <cell name="subtitle">Progress Report on 2024 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-26</cell>
+    <cell name="embargo date">2025-06-26T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fcb87e2</cell>
+  </row>
+  <row index="86">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/bec4d811-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Georgia (Stage 1) (en)</cell>
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
@@ -1720,7 +1740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f284614a</cell>
   </row>
-  <row index="86">
+  <row index="87">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/87caf950-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Brunei Darussalam (Stage 1) (en)</cell>
@@ -1740,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b85a063a</cell>
   </row>
-  <row index="87">
+  <row index="88">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0bf27776-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Papua New Guinea (Stage 1) (en)</cell>
@@ -1760,7 +1780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fafefda4</cell>
   </row>
-  <row index="88">
+  <row index="89">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/646acfe4-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Kenya (Stage 1) (en)</cell>
@@ -1780,7 +1800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ae49898</cell>
   </row>
-  <row index="89">
+  <row index="90">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/492fca04-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Full Peer Review, Croatia (Cycle 1) (en)</cell>
@@ -1800,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac132b9a</cell>
   </row>
-  <row index="90">
+  <row index="91">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a81fbb81-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Panama (Stage 1) (en)</cell>
@@ -1820,7 +1840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ceafeafe</cell>
   </row>
-  <row index="91">
+  <row index="92">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6bb6bb0e-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Azerbaijan (Stage 1) (en)</cell>
@@ -1840,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1752250</cell>
   </row>
-  <row index="92">
+  <row index="93">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/17b90904-fr</cell>
     <cell name="title">Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Mauritanie (Phase 1) (fr)</cell>
@@ -1860,7 +1880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3957cccf</cell>
   </row>
-  <row index="93">
+  <row index="94">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7b3185b9-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Maldives (Stage 1) (en)</cell>
@@ -1880,7 +1900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/178e84f8</cell>
   </row>
-  <row index="94">
+  <row index="95">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c3488b64-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Armenia (Stage 1) (en)</cell>
@@ -1900,7 +1920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/458241be</cell>
   </row>
-  <row index="95">
+  <row index="96">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9dda54a1-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Bermuda (Stage 1) (en)</cell>
@@ -1920,7 +1940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3c5becc3</cell>
   </row>
-  <row index="96">
+  <row index="97">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a0e10015-fr</cell>
     <cell name="title">Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Gabon (Phase 1) (fr)</cell>
@@ -1940,7 +1960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24091977</cell>
   </row>
-  <row index="97">
+  <row index="98">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/74c1468e-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Curaçao (Stage 1) (en)</cell>
@@ -1960,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9534a332</cell>
   </row>
-  <row index="98">
+  <row index="99">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7f678f16-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Paraguay (Stage 1) (en)</cell>
@@ -1980,7 +2000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13ab8800</cell>
   </row>
-  <row index="99">
+  <row index="100">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6f3a6f64-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Full Peer Review, The United Kingdom (Cycle 1) (en)</cell>
@@ -2000,7 +2020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7b4623d</cell>
   </row>
-  <row index="100">
+  <row index="101">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c6e454c9-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Isle of Man (Stage 1) (en)</cell>
@@ -2020,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e27e5175</cell>
   </row>
-  <row index="101">
+  <row index="102">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8b9c45b1-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, British Virgin Islands (Stage 1) (en)</cell>
@@ -2040,7 +2060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/805a7823</cell>
   </row>
-  <row index="102">
+  <row index="103">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c15d931d-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Democratic Republic of the Congo (Stage 1) (en)</cell>
@@ -2060,7 +2080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/450fd004</cell>
   </row>
-  <row index="103">
+  <row index="104">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/64107354-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Full Peer Review, Canada (Cycle 1) (en)</cell>
@@ -2080,7 +2100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/827ded2e</cell>
   </row>
-  <row index="104">
+  <row index="105">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/660774be-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Full Peer Review, Estonia (Cycle 1) (en)</cell>
@@ -2100,7 +2120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c55eae1c</cell>
   </row>
-  <row index="105">
+  <row index="106">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/70eb0558-fr</cell>
     <cell name="title">Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Togo (Phase 1) (fr)</cell>
@@ -2120,7 +2140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9af1f03</cell>
   </row>
-  <row index="106">
+  <row index="107">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6e3746e1-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Full Peer Review, Belgium (Cycle 1) (en)</cell>
@@ -2140,7 +2160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9be33712</cell>
   </row>
-  <row index="107">
+  <row index="108">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/bf564f22-fr</cell>
     <cell name="title">Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Monaco (Phase 1) (fr)</cell>
@@ -2160,7 +2180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/037ed0c7</cell>
   </row>
-  <row index="108">
+  <row index="109">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f6697da7-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Bahamas (Stage 1) (en)</cell>
@@ -2180,7 +2200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/34e22aba</cell>
   </row>
-  <row index="109">
+  <row index="110">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1cd5b49c-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Full Peer Review, Liechtenstein (Cycle 1) (en)</cell>
@@ -2200,7 +2220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50c2a3ea</cell>
   </row>
-  <row index="110">
+  <row index="111">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4d5cd4bb-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, San Marino (Stage 1) (en)</cell>
@@ -2220,7 +2240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/32d26148</cell>
   </row>
-  <row index="111">
+  <row index="112">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/02a46a58-en</cell>
     <cell name="title">Implementing the OECD Recommendation on Public Procurement in OECD and Partner Countries (en)</cell>
@@ -2240,7 +2260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b35b0b8</cell>
   </row>
-  <row index="112">
+  <row index="113">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08e1bdaf-en</cell>
     <cell name="title">Advancing Adult Skills through Individual Learning Accounts (en)</cell>
@@ -2260,7 +2280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e55cd3c6</cell>
   </row>
-  <row index="113">
+  <row index="114">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08e1bdaf-en</cell>
     <cell name="title">Advancing Adult Skills through Individual Learning Accounts (en)</cell>
@@ -2280,7 +2300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/723f8f88</cell>
   </row>
-  <row index="114">
+  <row index="115">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>
@@ -2300,7 +2320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dddfd872</cell>
   </row>
-  <row index="115">
+  <row index="116">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>
@@ -2320,7 +2340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59cc4245</cell>
   </row>
-  <row index="116">
+  <row index="117">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e9762366-en</cell>
     <cell name="title">Tax Inspectors Without Borders Annual Report 2025 (en)</cell>
@@ -2340,7 +2360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f4fdd17</cell>
   </row>
-  <row index="117">
+  <row index="118">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/828dcb16-es</cell>
     <cell name="title">Inspectores fiscales sin fronteras - Informe anual 2025 (es)</cell>
@@ -2360,7 +2380,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4da8bc0a</cell>
   </row>
-  <row index="118">
+  <row index="119">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/5ec8dcc2-en</cell>
+    <cell name="title">OECD Economic Surveys: European Union and Euro Area 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-07-03</cell>
+    <cell name="embargo date">2025-07-02T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49175e05</cell>
+  </row>
+  <row index="120">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/5ec8dcc2-en</cell>
+    <cell name="title">OECD Economic Surveys: European Union and Euro Area 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-07-03</cell>
+    <cell name="embargo date">2025-07-02T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92c3ae28</cell>
+  </row>
+  <row index="121">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6c04402f-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2025 (en)</cell>
@@ -2380,7 +2440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/388297ee</cell>
   </row>
-  <row index="119">
+  <row index="122">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6c04402f-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2025 (en)</cell>
@@ -2400,7 +2460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a36a244</cell>
   </row>
-  <row index="120">
+  <row index="123">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/194a947b-en</cell>
     <cell name="title">OECD Employment Outlook 2025 (en)</cell>
@@ -2420,7 +2480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eff8214d</cell>
   </row>
-  <row index="121">
+  <row index="124">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/79445578-fr</cell>
     <cell name="title">Perspectives de l'emploi de l'OCDE 2025 (fr)</cell>
@@ -2440,7 +2500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa25f7c0</cell>
   </row>
-  <row index="122">
+  <row index="125">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/194a947b-en</cell>
     <cell name="title">OECD Employment Outlook 2025 (en)</cell>
@@ -2460,7 +2520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e06c368</cell>
   </row>
-  <row index="123">
+  <row index="126">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/79445578-fr</cell>
     <cell name="title">Perspectives de l'emploi de l'OCDE 2025 (fr)</cell>
@@ -2480,7 +2540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce5b9012</cell>
   </row>
-  <row index="124">
+  <row index="127">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2dd1f4aa-en</cell>
     <cell name="title">OECD Economic Surveys: Netherlands 2025 (en)</cell>
@@ -2500,7 +2560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2964f51c</cell>
   </row>
-  <row index="125">
+  <row index="128">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2dd1f4aa-en</cell>
     <cell name="title">OECD Economic Surveys: Netherlands 2025 (en)</cell>
@@ -2520,7 +2580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6dd070d8</cell>
   </row>
-  <row index="126">
+  <row index="129">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32776d08-en</cell>
     <cell name="title">OECD Anti-Bribery Convention Phase 4 Report on South Africa (en)</cell>
@@ -2540,7 +2600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8408c89</cell>
   </row>
-  <row index="127">
+  <row index="130">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/d5ea99b2-en</cell>
     <cell name="title">Closing Broadband Connectivity Divides for All (en)</cell>
@@ -2560,7 +2620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93191187</cell>
   </row>
-  <row index="128">
+  <row index="131">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/795de142-en</cell>
     <cell name="title">Governing with Artificial Intelligence (en)</cell>
@@ -2580,7 +2640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c912729</cell>
   </row>
-  <row index="129">
+  <row index="132">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/af125b62-fr</cell>
     <cell name="title">Perspectives agricoles de l’OCDE et de la FAO 2025-2034 (fr)</cell>
@@ -2600,7 +2660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4a8a9c1</cell>
   </row>
-  <row index="130">
+  <row index="133">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/601276cd-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2025-2034 (en)</cell>
@@ -2619,5 +2679,25 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27acd204</cell>
+  </row>
+  <row index="134">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/176481fc-en</cell>
+    <cell name="title">Ring-Fencing Mining Income (en)</cell>
+    <cell name="subtitle">A toolkit for tax administrators and policy-makers (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-07-23</cell>
+    <cell name="embargo date">2025-07-23T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/279459b1</cell>
   </row>
 </report>

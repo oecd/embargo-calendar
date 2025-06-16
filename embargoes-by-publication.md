@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 15 June 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 16 June 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Examens de l'OCDE sur la coopération pour le développement : Suisse 2025](https://doi.org/10.1787/ff0e1d29-fr)
 
@@ -211,29 +211,6 @@ Thursday 19 June 2025 at 2:00 | no launch event
 
 ------
 
-## [Tax Co-operation for Development - Progress Report on 2024](https://doi.org/10.1787/cf95c967-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ## [Panorama des administrations publiques 2025](https://doi.org/10.1787/758a7905-fr)
 
 Embargo date | Launch date
@@ -280,11 +257,34 @@ Thursday 19 June 2025 at 12:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Viet Nam 2025](https://doi.org/10.1787/fb37254b-en)
+## [Per- and Polyfluoroalkyl Substances (PFAS) and Alternatives in Hydraulic Oils and Lubricants - Report on Commercial Availability and Current Uses](https://doi.org/10.1787/fed2872b-en)
 
 Embargo date | Launch date
 -------------|:------------:
 Friday 20 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Viet Nam 2025](https://doi.org/10.1787/fb37254b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 June 2025 at 7:40 | no launch event
 
 ### Status Information
 
@@ -603,6 +603,29 @@ Thursday 26 June 2025 at 9:00 | no launch event
 ------
 
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Mongolia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c3a657b3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Tax Co-operation for Development - Progress Report on 2024](https://doi.org/10.1787/cf95c967-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1338,6 +1361,29 @@ Monday 30 June 2025 at 9:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: European Union and Euro Area 2025](https://doi.org/10.1787/5ec8dcc2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 July 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Revenue Statistics in Asia and the Pacific 2025 - Personal Income Taxation in Asia and the Pacific](https://doi.org/10.1787/6c04402f-en)
 
 Embargo date | Launch date
@@ -1541,6 +1587,29 @@ Tuesday 15 July 2025 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Ring-Fencing Mining Income - A toolkit for tax administrators and policy-makers](https://doi.org/10.1787/176481fc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 23 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
