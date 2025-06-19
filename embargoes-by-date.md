@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 June 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 19 June 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [17 June 2025](#17-june-2025)
 * [18 June 2025](#18-june-2025)
 * [19 June 2025](#19-june-2025)
 * [20 June 2025](#20-june-2025)
@@ -12,6 +11,7 @@ Data generated on | |
 * [25 June 2025](#25-june-2025)
 * [26 June 2025](#26-june-2025)
 * [30 June 2025](#30-june-2025)
+* [1 July 2025](#1-july-2025)
 * [2 July 2025](#2-july-2025)
 * [8 July 2025](#8-july-2025)
 * [9 July 2025](#9-july-2025)
@@ -19,102 +19,7 @@ Data generated on | |
 * [11 July 2025](#11-july-2025)
 * [15 July 2025](#15-july-2025)
 * [23 July 2025](#23-july-2025)
-
-------
-
-# 17 June 2025
-
-## [Education and Skills in Bulgaria](https://doi.org/10.1787/ac0229da-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 June 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives mondiales des sécheresses - Évolution, impacts et politiques d’adaptation](https://doi.org/10.1787/e69575eb-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Global Drought Outlook - Trends, Impacts and Policies to Adapt to a Drier World](https://doi.org/10.1787/d492583a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Tax Administration Digitalisation and Digital Transformation Initiatives](https://doi.org/10.1787/c076d776-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+* [5 September 2025](#5-september-2025)
 
 ------
 
@@ -189,7 +94,7 @@ Thursday 19 June 2025 at 12:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -328,7 +233,7 @@ Wednesday 25 June 2025 at 23:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -337,9 +242,9 @@ Wednesday 25 June 2025 at 23:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -439,6 +344,29 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ------
 
+## [Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs complet, Belgique (Cycle 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/a6fb24de-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Côte d'Ivoire (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a51dd5d0-en)
 
 Embargo date | Launch date
@@ -525,6 +453,29 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Congo (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/ef204c8b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
@@ -784,6 +735,29 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ------
 
+## [Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs complet, Canada (Cycle 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/695c53d5-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Faroe Islands (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/baa4ff70-en)
 
 Embargo date | Launch date
@@ -870,6 +844,29 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Accroître l’efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, République démocratique du Congo (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/8a04a7e9-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
@@ -1313,6 +1310,29 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ------
 
+## [Accroître l'efficacité des mécanismes de règlement des différends - Examen par les pairs simplifié, Côte d'Ivoire (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/512fac23-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ------
 
 # 30 June 2025
@@ -1363,29 +1383,6 @@ Monday 30 June 2025 at 7:00 | no launch event
 
 ------
 
-## [Measuring Science and Innovation for Sustainable Growth](https://doi.org/10.1787/3b96cf8c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [Inspectores fiscales sin fronteras - Informe anual 2025 - Diez años de asistencia práctica a países en desarrollo](https://doi.org/10.1787/828dcb16-es)
 
 Embargo date | Launch date
@@ -1405,6 +1402,33 @@ Monday 30 June 2025 at 9:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 1 July 2025
+
+## [Counterfeiting, Piracy and the Swiss Economy 2025](https://doi.org/10.1787/6d206067-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 July 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -1686,6 +1710,33 @@ Wednesday 23 July 2025 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 5 September 2025
+
+## [Measuring Science and Innovation for Sustainable Growth](https://doi.org/10.1787/3b96cf8c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 5 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
