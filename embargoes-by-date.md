@@ -2,17 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 June 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 20 June 2025 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 June 2025](#18-june-2025)
 * [19 June 2025](#19-june-2025)
 * [20 June 2025](#20-june-2025)
-* [23 June 2025](#23-june-2025)
 * [25 June 2025](#25-june-2025)
 * [26 June 2025](#26-june-2025)
 * [30 June 2025](#30-june-2025)
 * [1 July 2025](#1-july-2025)
 * [2 July 2025](#2-july-2025)
+* [6 July 2025](#6-july-2025)
 * [8 July 2025](#8-july-2025)
 * [9 July 2025](#9-july-2025)
 * [10 July 2025](#10-july-2025)
@@ -20,33 +19,6 @@ Data generated on | |
 * [15 July 2025](#15-july-2025)
 * [23 July 2025](#23-july-2025)
 * [5 September 2025](#5-september-2025)
-
-------
-
-# 18 June 2025
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Sierra Leone (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/4bb0f2c3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 18 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -173,33 +145,6 @@ Friday 20 June 2025 at 7:40 | no launch event
 
 ------
 
-# 23 June 2025
-
-## [The impact of digital technologies on students’ learning in Ireland - Key considerations from peers’ experience](https://doi.org/10.1787/38f23920-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 June 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 25 June 2025
 
 ## [Essai n°254: Abeilles maçonnes (Osmia sp.), essai de toxicité aiguë par contact](https://doi.org/10.1787/be8d7f14-fr)
@@ -219,6 +164,29 @@ Wednesday 25 June 2025 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Test No. 254: Mason bees (Osmia sp.), Acute Contact Toxicity Test](https://doi.org/10.1787/900175fa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
@@ -352,7 +320,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -361,7 +329,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -697,7 +665,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -706,7 +674,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -743,7 +711,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -752,7 +720,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -789,7 +757,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -798,7 +766,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1019,7 +987,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1028,7 +996,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1042,7 +1010,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1051,7 +1019,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1134,7 +1102,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1143,7 +1111,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1157,7 +1125,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1166,7 +1134,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1203,7 +1171,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1212,7 +1180,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1272,7 +1240,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1281,7 +1249,7 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1383,29 +1351,6 @@ Monday 30 June 2025 at 7:00 | no launch event
 
 ------
 
-## [Inspectores fiscales sin fronteras - Informe anual 2025 - Diez años de asistencia práctica a países en desarrollo](https://doi.org/10.1787/828dcb16-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ------
 
 # 1 July 2025
@@ -1437,6 +1382,29 @@ Tuesday 1 July 2025 at 7:00 | no launch event
 
 # 2 July 2025
 
+## [Inspecteurs des impôts sans frontières - Rapport annuel 2025 - Dix ans d'assistance pratique aux pays en développement](https://doi.org/10.1787/299d5974-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Tax Inspectors Without Borders Annual Report 2025 - Ten Years of Hands-on Assistance in Developing Countries](https://doi.org/10.1787/e9762366-en)
 
 Embargo date | Launch date
@@ -1460,11 +1428,61 @@ Wednesday 2 July 2025 at 9:00 | no launch event
 
 ------
 
+## [Inspectores fiscales sin fronteras - Informe anual 2025 - Diez años de asistencia práctica a países en desarrollo](https://doi.org/10.1787/828dcb16-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: European Union and Euro Area 2025](https://doi.org/10.1787/5ec8dcc2-en)
 
 Embargo date | Launch date
 -------------|:------------:
 Wednesday 2 July 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 6 July 2025
+
+## [OECD Economic Surveys: Argentina 2025](https://doi.org/10.1787/27dd6e27-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 6 July 2025 at 22:00 | no launch event
 
 ### Status Information
 
