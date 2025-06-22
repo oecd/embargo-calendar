@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 June 2025 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 22 June 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 June 2025](#19-june-2025)
-* [20 June 2025](#20-june-2025)
 * [25 June 2025](#25-june-2025)
 * [26 June 2025](#26-june-2025)
 * [30 June 2025](#30-june-2025)
@@ -19,129 +17,6 @@ Data generated on | |
 * [15 July 2025](#15-july-2025)
 * [23 July 2025](#23-july-2025)
 * [5 September 2025](#5-september-2025)
-
-------
-
-# 19 June 2025
-
-## [Strengthening Productivity Analysis for Policymaking in Thailand](https://doi.org/10.1787/0b8d13ac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 June 2025 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF*
-
-------
-
-## [Panorama des administrations publiques 2025](https://doi.org/10.1787/758a7905-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 June 2025 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Government at a Glance 2025](https://doi.org/10.1787/0efd0bcd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 June 2025 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 20 June 2025
-
-## [Per- and Polyfluoroalkyl Substances (PFAS) and Alternatives in Hydraulic Oils and Lubricants - Report on Commercial Availability and Current Uses](https://doi.org/10.1787/fed2872b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 20 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Viet Nam 2025](https://doi.org/10.1787/fb37254b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 20 June 2025 at 7:40 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
