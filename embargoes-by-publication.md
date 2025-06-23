@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 22 June 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 23 June 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Essai n°254: Abeilles maçonnes (Osmia sp.), essai de toxicité aiguë par contact](https://doi.org/10.1787/be8d7f14-fr)
 
@@ -92,29 +92,6 @@ Wednesday 25 June 2025 at 23:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Iceland 2025](https://doi.org/10.1787/890dbe05-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 June 2025 at 2:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
@@ -1154,6 +1131,29 @@ Thursday 26 June 2025 at 9:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Iceland 2025](https://doi.org/10.1787/890dbe05-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 14:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [Implementing the OECD Recommendation on Public Procurement in OECD and Partner Countries - 2020-2024 Report](https://doi.org/10.1787/02a46a58-en)
 
 Embargo date | Launch date
@@ -1185,7 +1185,7 @@ Monday 30 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1194,9 +1194,9 @@ Monday 30 June 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1208,7 +1208,7 @@ Tuesday 1 July 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1227,7 +1227,7 @@ Tuesday 1 July 2025 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 2 July 2025 at 9:00 | no launch event
+Wednesday 2 July 2025 at 7:00 | no launch event
 
 ### Status Information
 
@@ -1250,11 +1250,11 @@ Wednesday 2 July 2025 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 2 July 2025 at 9:00 | no launch event
+Wednesday 2 July 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1263,7 +1263,7 @@ Wednesday 2 July 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1273,7 +1273,7 @@ Wednesday 2 July 2025 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 2 July 2025 at 9:00 | no launch event
+Wednesday 2 July 2025 at 7:00 | no launch event
 
 ### Status Information
 
@@ -1309,6 +1309,29 @@ Wednesday 2 July 2025 at 22:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Études économiques de l’OCDE : Union européenne et zone euro 2025](https://doi.org/10.1787/aaeb464b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 July 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
