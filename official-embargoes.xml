@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-06-23T23:06:36.4036297+02:00">
+<report name="official-embargoes" generated="2025-06-24T23:41:00.4474478+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -27,7 +27,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-06-25</cell>
     <cell name="embargo date">2025-06-25T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -37,7 +37,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e1d9b70</cell>
   </row>
   <row index="2">
@@ -47,7 +47,7 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-06-25</cell>
     <cell name="embargo date">2025-06-25T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -57,7 +57,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47ad05a8</cell>
   </row>
   <row index="3">
@@ -1281,6 +1281,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/112a0aeb</cell>
   </row>
   <row index="64">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/8437c5bf-en</cell>
+    <cell name="title">2D Titanium Carbide MXenes (en)</cell>
+    <cell name="subtitle">Workshop Report on Advanced Materials (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-06-30</cell>
+    <cell name="embargo date">2025-06-30T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca38c945</cell>
+  </row>
+  <row index="65">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/02a46a58-en</cell>
     <cell name="title">Implementing the OECD Recommendation on Public Procurement in OECD and Partner Countries (en)</cell>
@@ -1300,7 +1320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b35b0b8</cell>
   </row>
-  <row index="65">
+  <row index="66">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08e1bdaf-en</cell>
     <cell name="title">Advancing Adult Skills through Individual Learning Accounts (en)</cell>
@@ -1320,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e55cd3c6</cell>
   </row>
-  <row index="66">
+  <row index="67">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08e1bdaf-en</cell>
     <cell name="title">Advancing Adult Skills through Individual Learning Accounts (en)</cell>
@@ -1340,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/723f8f88</cell>
   </row>
-  <row index="67">
+  <row index="68">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08e1bdaf-en</cell>
     <cell name="title">Advancing Adult Skills through Individual Learning Accounts (en)</cell>
@@ -1360,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4c08715</cell>
   </row>
-  <row index="68">
+  <row index="69">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08e1bdaf-en</cell>
     <cell name="title">Advancing Adult Skills through Individual Learning Accounts (en)</cell>
@@ -1380,7 +1400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46d2d242</cell>
   </row>
-  <row index="69">
+  <row index="70">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08e1bdaf-en</cell>
     <cell name="title">Advancing Adult Skills through Individual Learning Accounts (en)</cell>
@@ -1400,14 +1420,74 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b631d620</cell>
   </row>
-  <row index="70">
+  <row index="71">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/6d206067-en</cell>
+    <cell name="title">Counterfeiting, Piracy and the Swiss Economy 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-07-01</cell>
+    <cell name="embargo date">2025-07-01T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63a8ed4a</cell>
+  </row>
+  <row index="72">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/6d206067-en</cell>
+    <cell name="title">Counterfeiting, Piracy and the Swiss Economy 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-07-01</cell>
+    <cell name="embargo date">2025-07-01T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68f28044</cell>
+  </row>
+  <row index="73">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/6d206067-en</cell>
+    <cell name="title">Counterfeiting, Piracy and the Swiss Economy 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-07-01</cell>
+    <cell name="embargo date">2025-07-01T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23a1d265</cell>
+  </row>
+  <row index="74">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6d206067-en</cell>
     <cell name="title">Counterfeiting, Piracy and the Swiss Economy 2025 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-07-01</cell>
     <cell name="embargo date">2025-07-01T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1420,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3eb8b921</cell>
   </row>
-  <row index="71">
+  <row index="75">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/299d5974-fr</cell>
     <cell name="title">Inspecteurs des impôts sans frontières - Rapport annuel 2025 (fr)</cell>
@@ -1440,7 +1520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4adc208</cell>
   </row>
-  <row index="72">
+  <row index="76">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e9762366-en</cell>
     <cell name="title">Tax Inspectors Without Borders Annual Report 2025 (en)</cell>
@@ -1460,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f4fdd17</cell>
   </row>
-  <row index="73">
+  <row index="77">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/828dcb16-es</cell>
     <cell name="title">Inspectores fiscales sin fronteras - Informe anual 2025 (es)</cell>
@@ -1480,7 +1560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4da8bc0a</cell>
   </row>
-  <row index="74">
+  <row index="78">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/5ec8dcc2-en</cell>
     <cell name="title">OECD Economic Surveys: European Union and Euro Area 2025 (en)</cell>
@@ -1500,7 +1580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49175e05</cell>
   </row>
-  <row index="75">
+  <row index="79">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/5ec8dcc2-en</cell>
     <cell name="title">OECD Economic Surveys: European Union and Euro Area 2025 (en)</cell>
@@ -1520,7 +1600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92c3ae28</cell>
   </row>
-  <row index="76">
+  <row index="80">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/aaeb464b-fr</cell>
     <cell name="title">Études économiques de l’OCDE : Union européenne et zone euro 2025 (fr)</cell>
@@ -1540,7 +1620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7209b987</cell>
   </row>
-  <row index="77">
+  <row index="81">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/aaeb464b-fr</cell>
     <cell name="title">Études économiques de l’OCDE : Union européenne et zone euro 2025 (fr)</cell>
@@ -1560,7 +1640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f54c54f</cell>
   </row>
-  <row index="78">
+  <row index="82">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/27dd6e27-en</cell>
     <cell name="title">OECD Economic Surveys: Argentina 2025 (en)</cell>
@@ -1580,7 +1660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39f1f803</cell>
   </row>
-  <row index="79">
+  <row index="83">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/27dd6e27-en</cell>
     <cell name="title">OECD Economic Surveys: Argentina 2025 (en)</cell>
@@ -1600,7 +1680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a3138e65</cell>
   </row>
-  <row index="80">
+  <row index="84">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6c04402f-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2025 (en)</cell>
@@ -1620,7 +1700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/388297ee</cell>
   </row>
-  <row index="81">
+  <row index="85">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6c04402f-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2025 (en)</cell>
@@ -1640,7 +1720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a36a244</cell>
   </row>
-  <row index="82">
+  <row index="86">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/194a947b-en</cell>
     <cell name="title">OECD Employment Outlook 2025 (en)</cell>
@@ -1660,7 +1740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eff8214d</cell>
   </row>
-  <row index="83">
+  <row index="87">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/79445578-fr</cell>
     <cell name="title">Perspectives de l'emploi de l'OCDE 2025 (fr)</cell>
@@ -1680,7 +1760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa25f7c0</cell>
   </row>
-  <row index="84">
+  <row index="88">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/194a947b-en</cell>
     <cell name="title">OECD Employment Outlook 2025 (en)</cell>
@@ -1700,7 +1780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e06c368</cell>
   </row>
-  <row index="85">
+  <row index="89">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/79445578-fr</cell>
     <cell name="title">Perspectives de l'emploi de l'OCDE 2025 (fr)</cell>
@@ -1720,7 +1800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce5b9012</cell>
   </row>
-  <row index="86">
+  <row index="90">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2dd1f4aa-en</cell>
     <cell name="title">OECD Economic Surveys: Netherlands 2025 (en)</cell>
@@ -1740,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2964f51c</cell>
   </row>
-  <row index="87">
+  <row index="91">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2dd1f4aa-en</cell>
     <cell name="title">OECD Economic Surveys: Netherlands 2025 (en)</cell>
@@ -1760,7 +1840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6dd070d8</cell>
   </row>
-  <row index="88">
+  <row index="92">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32776d08-en</cell>
     <cell name="title">OECD Anti-Bribery Convention Phase 4 Report on South Africa (en)</cell>
@@ -1780,7 +1860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8408c89</cell>
   </row>
-  <row index="89">
+  <row index="93">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/d5ea99b2-en</cell>
     <cell name="title">Closing Broadband Connectivity Divides for All (en)</cell>
@@ -1800,7 +1880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93191187</cell>
   </row>
-  <row index="90">
+  <row index="94">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/af125b62-fr</cell>
     <cell name="title">Perspectives agricoles de l’OCDE et de la FAO 2025-2034 (fr)</cell>
@@ -1820,7 +1900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4a8a9c1</cell>
   </row>
-  <row index="91">
+  <row index="95">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/601276cd-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2025-2034 (en)</cell>
@@ -1840,7 +1920,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27acd204</cell>
   </row>
-  <row index="92">
+  <row index="96">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/d5a361a0-en</cell>
+    <cell name="title">OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, July 2025) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-07-17</cell>
+    <cell name="embargo date">2025-07-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9de6bffa</cell>
+  </row>
+  <row index="97">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/176481fc-en</cell>
     <cell name="title">Ring-Fencing Mining Income (en)</cell>
@@ -1860,7 +1960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/279459b1</cell>
   </row>
-  <row index="93">
+  <row index="98">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>

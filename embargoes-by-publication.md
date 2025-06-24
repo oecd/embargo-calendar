@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 23 June 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 24 June 2025 at 23:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Essai n°254: Abeilles maçonnes (Osmia sp.), essai de toxicité aiguë par contact](https://doi.org/10.1787/be8d7f14-fr)
 
@@ -12,7 +12,7 @@ Wednesday 25 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -21,7 +21,7 @@ Wednesday 25 June 2025 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -35,7 +35,7 @@ Wednesday 25 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -44,7 +44,7 @@ Wednesday 25 June 2025 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1154,6 +1154,29 @@ Thursday 26 June 2025 at 14:30 | no launch event
 
 ------
 
+## [2D Titanium Carbide MXenes - Workshop Report on Advanced Materials](https://doi.org/10.1787/8437c5bf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Implementing the OECD Recommendation on Public Procurement in OECD and Partner Countries - 2020-2024 Report](https://doi.org/10.1787/02a46a58-en)
 
 Embargo date | Launch date
@@ -1217,9 +1240,9 @@ Tuesday 1 July 2025 at 7:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1541,6 +1564,29 @@ Tuesday 15 July 2025 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, July 2025)](https://doi.org/10.1787/d5a361a0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
