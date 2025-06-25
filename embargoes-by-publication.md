@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 24 June 2025 at 23:41* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 25 June 2025 at 23:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Essai n°254: Abeilles maçonnes (Osmia sp.), essai de toxicité aiguë par contact](https://doi.org/10.1787/be8d7f14-fr)
 
@@ -81,7 +81,7 @@ Wednesday 25 June 2025 at 23:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -90,8 +90,77 @@ Wednesday 25 June 2025 at 23:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [Adverse Outcome Pathway on Binding to voltage gate sodium channels during development leading to cognitive impairment](https://doi.org/10.1787/3acd09e8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Adverse Outcome Pathway on Aryl hydrocarbon receptor activation leading to early life stage mortality via sox9 repression induced cardiovascular toxicity](https://doi.org/10.1787/9c2980c4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Adverse Outcome Pathway on Aryl hydrocarbon receptor activation leading to early life stage mortality via sox9 repression induced impeded craniofacial development](https://doi.org/10.1787/7bb56db5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -1185,7 +1254,7 @@ Monday 30 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1194,9 +1263,9 @@ Monday 30 June 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1380,7 +1449,7 @@ Sunday 6 July 2025 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1401,7 +1470,7 @@ Tuesday 8 July 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -1591,6 +1660,29 @@ Thursday 17 July 2025 at 9:00 | no launch event
 
 ------
 
+## [Taking Stock of Progress on Transparency and Exchange of Information for Tax Purposes - Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/afddc8c5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Ring-Fencing Mining Income - A toolkit for tax administrators and policy-makers](https://doi.org/10.1787/176481fc-en)
 
 Embargo date | Launch date
@@ -1610,6 +1702,52 @@ Wednesday 23 July 2025 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Financing Social Protection through General Tax Revenues, Social Security Contributions and Formalisation in Thailand](https://doi.org/10.1787/b5cc1a43-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Regional Plastics Outlook for Southeast and East Asia](https://doi.org/10.1787/5a8ff43c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 July 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
