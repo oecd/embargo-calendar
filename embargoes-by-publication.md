@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 25 June 2025 at 23:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 26 June 2025 at 23:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Essai n°254: Abeilles maçonnes (Osmia sp.), essai de toxicité aiguë par contact](https://doi.org/10.1787/be8d7f14-fr)
 
@@ -482,29 +482,6 @@ Thursday 26 June 2025 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Tax Co-operation for Development - Progress Report on 2024](https://doi.org/10.1787/cf95c967-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1292,6 +1269,29 @@ Monday 30 June 2025 at 7:00 | no launch event
 
 ------
 
+## [Tax Co-operation for Development - Progress Report on 2024](https://doi.org/10.1787/cf95c967-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 June 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Counterfeiting, Piracy and the Swiss Economy 2025](https://doi.org/10.1787/6d206067-en)
 
 Embargo date | Launch date
@@ -1541,7 +1541,7 @@ Wednesday 9 July 2025 at 14:15 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
