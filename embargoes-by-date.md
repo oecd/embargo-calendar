@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 June 2025 at 23:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 27 June 2025 at 23:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [25 June 2025](#25-june-2025)
 * [26 June 2025](#26-june-2025)
@@ -24,52 +24,6 @@ Data generated on | |
 ------
 
 # 25 June 2025
-
-## [Essai n°254: Abeilles maçonnes (Osmia sp.), essai de toxicité aiguë par contact](https://doi.org/10.1787/be8d7f14-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Test No. 254: Mason bees (Osmia sp.), Acute Contact Toxicity Test](https://doi.org/10.1787/900175fa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ## [Asia Capital Markets Report 2025](https://doi.org/10.1787/02172cdc-en)
 
@@ -1229,7 +1183,7 @@ Thursday 26 June 2025 at 14:30 | no launch event
 
 # 30 June 2025
 
-## [2D Titanium Carbide MXenes - Workshop Report on Advanced Materials](https://doi.org/10.1787/8437c5bf-en)
+## [2D Titanium Carbide MXenes - Case Study Report on Advanced Materials](https://doi.org/10.1787/8437c5bf-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1237,7 +1191,7 @@ Monday 30 June 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1246,7 +1200,7 @@ Monday 30 June 2025 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1298,6 +1252,98 @@ Monday 30 June 2025 at 7:00 | no launch event
 
 ------
 
+## [Adverse Outcome Pathway on Deposition of Energy Leading to Learning and Memory Impairment](https://doi.org/10.1787/16c49ced-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Adverse Outcome Pathway on Deposition of Energy Leading to Abnormal Vascular Remodeling](https://doi.org/10.1787/279aa3af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Adverse Outcome Pathway on Deposition of Energy Leading to Cataracts](https://doi.org/10.1787/5ad6b263-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Adverse Outcome Pathway on Deposition of Energy Leading to Occurrence of Bone Loss](https://doi.org/10.1787/4f3e617e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Tax Co-operation for Development - Progress Report on 2024](https://doi.org/10.1787/cf95c967-en)
 
 Embargo date | Launch date
@@ -1306,7 +1352,7 @@ Monday 30 June 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1315,7 +1361,7 @@ Monday 30 June 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1498,6 +1544,558 @@ Sunday 6 July 2025 at 22:00 | no launch event
 
 # 8 July 2025
 
+## [Aнтикоррупционные тенденции в Восточной Европе и Центральной Азии - Антикоррупционная политика и добропорядочность бизнеса](https://doi.org/10.1787/3fd5d6b0-ru)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Russian*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Korea](https://doi.org/10.1787/21f7608d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Philippines](https://doi.org/10.1787/7982d549-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Nauru](https://doi.org/10.1787/8342cf70-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Thailand](https://doi.org/10.1787/4233cf4b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [China](https://doi.org/10.1787/fc58ee5c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Timor-Leste](https://doi.org/10.1787/7e49dbaf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Maldives](https://doi.org/10.1787/c808c237-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Australia](https://doi.org/10.1787/a908b58a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Kazakhstan](https://doi.org/10.1787/788322f9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Lao People's Democratic Republic](https://doi.org/10.1787/79aa3318-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Malaysia](https://doi.org/10.1787/1ceee091-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Papua New Guinea](https://doi.org/10.1787/f53f7a04-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Vanuatu](https://doi.org/10.1787/872299d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Niue](https://doi.org/10.1787/d7423248-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Samoa](https://doi.org/10.1787/48796193-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Hong Kong, China](https://doi.org/10.1787/61d6b26e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Japan](https://doi.org/10.1787/31df6f6e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Solomon Islands](https://doi.org/10.1787/85ea096b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Indonesia](https://doi.org/10.1787/19969e8e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Georgia](https://doi.org/10.1787/dcb44298-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Singapore](https://doi.org/10.1787/a444e13f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Bangladesh](https://doi.org/10.1787/8afb696d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Kiribati](https://doi.org/10.1787/83d9d596-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
 ## [Revenue Statistics in Asia and the Pacific 2025 - Personal Income Taxation in Asia and the Pacific](https://doi.org/10.1787/6c04402f-en)
 
 Embargo date | Launch date
@@ -1518,6 +2116,328 @@ Tuesday 8 July 2025 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Tokelau](https://doi.org/10.1787/89dc4607-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Cambodia](https://doi.org/10.1787/9782e1d6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Pakistan](https://doi.org/10.1787/e3565533-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Marshall Islands](https://doi.org/10.1787/75c90983-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Viet Nam](https://doi.org/10.1787/135ae083-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Cook Islands](https://doi.org/10.1787/37296cc1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Armenia](https://doi.org/10.1787/33e63542-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [New Zealand](https://doi.org/10.1787/85481e0c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Azerbaijan](https://doi.org/10.1787/600aaf7c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Sri Lanka](https://doi.org/10.1787/b42a6fa8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Kyrgyzstan](https://doi.org/10.1787/ca50a638-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Mongolia](https://doi.org/10.1787/474b2f7b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Bhutan](https://doi.org/10.1787/bc6e2f64-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Fiji](https://doi.org/10.1787/9f18f178-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
 
 ------
 
