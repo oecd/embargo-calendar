@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-06-30T23:42:46.2879181+02:00">
+<report name="official-embargoes" generated="2025-07-01T23:06:21.6167893+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -527,7 +527,7 @@
     <cell name="subtitle">Dix ans d'assistance pratique aux pays en développement (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-07-02</cell>
     <cell name="embargo date">2025-07-02T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -537,7 +537,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4adc208</cell>
   </row>
   <row index="27">
@@ -567,7 +567,7 @@
     <cell name="subtitle">Diez años de asistencia práctica a países en desarrollo (es)</cell>
     <cell name="language">Spanish</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-07-02</cell>
     <cell name="embargo date">2025-07-02T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -577,30 +577,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4da8bc0a</cell>
   </row>
   <row index="29">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/5ec8dcc2-en</cell>
-    <cell name="title">OECD Economic Surveys: European Union and Euro Area 2025 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2025-07-03</cell>
-    <cell name="embargo date">2025-07-02T22:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49175e05</cell>
-  </row>
-  <row index="30">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/5ec8dcc2-en</cell>
     <cell name="title">OECD Economic Surveys: European Union and Euro Area 2025 (en)</cell>
@@ -620,27 +600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92c3ae28</cell>
   </row>
-  <row index="31">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/aaeb464b-fr</cell>
-    <cell name="title">Études économiques de l’OCDE : Union européenne et zone euro 2025 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2025-07-03</cell>
-    <cell name="embargo date">2025-07-02T22:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7209b987</cell>
-  </row>
-  <row index="32">
+  <row index="30">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/aaeb464b-fr</cell>
     <cell name="title">Études économiques de l’OCDE : Union européenne et zone euro 2025 (fr)</cell>
@@ -659,6 +619,46 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f54c54f</cell>
+  </row>
+  <row index="31">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/5ec8dcc2-en</cell>
+    <cell name="title">OECD Economic Surveys: European Union and Euro Area 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-07-03</cell>
+    <cell name="embargo date">2025-07-03T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49175e05</cell>
+  </row>
+  <row index="32">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/aaeb464b-fr</cell>
+    <cell name="title">Études économiques de l’OCDE : Union européenne et zone euro 2025 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-07-03</cell>
+    <cell name="embargo date">2025-07-03T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7209b987</cell>
   </row>
   <row index="33">
     <cell name="directorate">Economics Department</cell>
@@ -1841,26 +1841,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8408c89</cell>
   </row>
   <row index="92">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/d5ea99b2-en</cell>
-    <cell name="title">Closing Broadband Connectivity Divides for All (en)</cell>
-    <cell name="subtitle">From Evidence to Practice (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2025-07-11</cell>
-    <cell name="embargo date">2025-07-11T04:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93191187</cell>
-  </row>
-  <row index="93">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/af125b62-fr</cell>
     <cell name="title">Perspectives agricoles de l’OCDE et de la FAO 2025-2034 (fr)</cell>
@@ -1880,7 +1860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4a8a9c1</cell>
   </row>
-  <row index="94">
+  <row index="93">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/601276cd-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2025-2034 (en)</cell>
@@ -1900,7 +1880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27acd204</cell>
   </row>
-  <row index="95">
+  <row index="94">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d5a361a0-en</cell>
     <cell name="title">OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, July 2025) (en)</cell>
@@ -1920,7 +1900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9de6bffa</cell>
   </row>
-  <row index="96">
+  <row index="95">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/afddc8c5-en</cell>
     <cell name="title">Taking Stock of Progress on Transparency and Exchange of Information for Tax Purposes (en)</cell>
@@ -1940,7 +1920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/078045a1</cell>
   </row>
-  <row index="97">
+  <row index="96">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/176481fc-en</cell>
     <cell name="title">Ring-Fencing Mining Income (en)</cell>
@@ -1960,7 +1940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/279459b1</cell>
   </row>
-  <row index="98">
+  <row index="97">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b5cc1a43-en</cell>
     <cell name="title">Financing Social Protection through General Tax Revenues, Social Security Contributions and Formalisation in Thailand (en)</cell>
@@ -1980,7 +1960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2da686a</cell>
   </row>
-  <row index="99">
+  <row index="98">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/5a8ff43c-en</cell>
     <cell name="title">Regional Plastics Outlook for Southeast and East Asia (en)</cell>
@@ -2000,7 +1980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7297daf</cell>
   </row>
-  <row index="100">
+  <row index="99">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>

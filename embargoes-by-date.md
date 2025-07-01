@@ -2,16 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 30 June 2025 at 23:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 1 July 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 June 2025](#30-june-2025)
 * [1 July 2025](#1-july-2025)
 * [2 July 2025](#2-july-2025)
+* [3 July 2025](#3-july-2025)
 * [6 July 2025](#6-july-2025)
 * [8 July 2025](#8-july-2025)
 * [9 July 2025](#9-july-2025)
 * [10 July 2025](#10-july-2025)
-* [11 July 2025](#11-july-2025)
 * [15 July 2025](#15-july-2025)
 * [17 July 2025](#17-july-2025)
 * [23 July 2025](#23-july-2025)
@@ -246,7 +246,7 @@ Wednesday 2 July 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -255,7 +255,7 @@ Wednesday 2 July 2025 at 7:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -292,7 +292,7 @@ Wednesday 2 July 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -301,17 +301,21 @@ Wednesday 2 July 2025 at 7:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
 ------
 
+------
+
+# 3 July 2025
+
 ## [OECD Economic Surveys: European Union and Euro Area 2025](https://doi.org/10.1787/5ec8dcc2-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 2 July 2025 at 22:00 | no launch event
+Thursday 3 July 2025 at 9:00 | no launch event
 
 ### Status Information
 
@@ -334,7 +338,7 @@ Wednesday 2 July 2025 at 22:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 2 July 2025 at 22:00 | no launch event
+Thursday 3 July 2025 at 9:00 | no launch event
 
 ### Status Information
 
@@ -1377,33 +1381,6 @@ Thursday 10 July 2025 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
-# 11 July 2025
-
-## [Closing Broadband Connectivity Divides for All - From Evidence to Practice](https://doi.org/10.1787/d5ea99b2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 July 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
