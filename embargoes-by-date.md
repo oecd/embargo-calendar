@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 July 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 2 July 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 June 2025](#30-june-2025)
 * [1 July 2025](#1-july-2025)
 * [2 July 2025](#2-july-2025)
 * [3 July 2025](#3-july-2025)
@@ -18,194 +17,6 @@ Data generated on | |
 * [24 July 2025](#24-july-2025)
 * [30 July 2025](#30-july-2025)
 * [5 September 2025](#5-september-2025)
-
-------
-
-# 30 June 2025
-
-## [2D Titanium Carbide MXenes - Case Study Report on Advanced Materials](https://doi.org/10.1787/8437c5bf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Implementing the OECD Recommendation on Public Procurement in OECD and Partner Countries - 2020-2024 Report](https://doi.org/10.1787/02a46a58-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Advancing Adult Skills through Individual Learning Accounts - A Step-by-Step Guide for Policymakers](https://doi.org/10.1787/08e1bdaf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Adverse Outcome Pathway on Deposition of Energy Leading to Learning and Memory Impairment](https://doi.org/10.1787/16c49ced-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Adverse Outcome Pathway on Deposition of Energy Leading to Abnormal Vascular Remodeling](https://doi.org/10.1787/279aa3af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Adverse Outcome Pathway on Deposition of Energy Leading to Cataracts](https://doi.org/10.1787/5ad6b263-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Adverse Outcome Pathway on Deposition of Energy Leading to Occurrence of Bone Loss](https://doi.org/10.1787/4f3e617e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 June 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Tax Co-operation for Development - Progress Report on 2024](https://doi.org/10.1787/cf95c967-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 June 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -319,7 +130,7 @@ Thursday 3 July 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -328,7 +139,7 @@ Thursday 3 July 2025 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -342,7 +153,7 @@ Thursday 3 July 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -351,7 +162,7 @@ Thursday 3 July 2025 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -1343,7 +1154,7 @@ Wednesday 9 July 2025 at 14:15 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1352,7 +1163,7 @@ Wednesday 9 July 2025 at 14:15 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
