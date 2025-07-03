@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 2 July 2025 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Counterfeiting, Piracy and the Swiss Economy 2025](https://doi.org/10.1787/6d206067-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 July 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
+| *Thursday 3 July 2025 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Inspecteurs des impôts sans frontières - Rapport annuel 2025 - Dix ans d'assistance pratique aux pays en développement](https://doi.org/10.1787/299d5974-fr)
 
@@ -150,7 +127,7 @@ Sunday 6 July 2025 at 22:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -159,7 +136,7 @@ Sunday 6 July 2025 at 22:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -1171,7 +1148,7 @@ Tuesday 15 July 2025 at 8:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1194,7 +1171,7 @@ Tuesday 15 July 2025 at 8:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
