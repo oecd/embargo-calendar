@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 3 July 2025 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Inspecteurs des impôts sans frontières - Rapport annuel 2025 - Dix ans d'assistance pratique aux pays en développement](https://doi.org/10.1787/299d5974-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 July 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Tax Inspectors Without Borders Annual Report 2025 - Ten Years of Hands-on Assistance in Developing Countries](https://doi.org/10.1787/e9762366-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 July 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Inspectores fiscales sin fronteras - Informe anual 2025 - Diez años de asistencia práctica a países en desarrollo](https://doi.org/10.1787/828dcb16-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 July 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Friday 4 July 2025 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: European Union and Euro Area 2025](https://doi.org/10.1787/5ec8dcc2-en)
 
@@ -138,29 +69,6 @@ Sunday 6 July 2025 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Aнтикоррупционные тенденции в Восточной Европе и Центральной Азии - Антикоррупционная политика и добропорядочность бизнеса](https://doi.org/10.1787/3fd5d6b0-ru)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 July 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Russian*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -1047,7 +955,7 @@ Wednesday 9 July 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1056,9 +964,9 @@ Wednesday 9 July 2025 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1079,7 +987,7 @@ Wednesday 9 July 2025 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -1218,6 +1126,29 @@ Thursday 17 July 2025 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Bilan des progrès réalisés en matière de transparence et d'échange de renseignements à des fins fiscales - Rapport aux ministres des finances et aux gouverneurs des banques centrales du G20](https://doi.org/10.1787/72d30551-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
