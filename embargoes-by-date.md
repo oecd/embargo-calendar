@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 4 July 2025 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 6 July 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 July 2025](#3-july-2025)
 * [6 July 2025](#6-july-2025)
 * [8 July 2025](#8-july-2025)
 * [9 July 2025](#9-july-2025)
@@ -15,56 +14,6 @@ Data generated on | |
 * [24 July 2025](#24-july-2025)
 * [30 July 2025](#30-july-2025)
 * [5 September 2025](#5-september-2025)
-
-------
-
-# 3 July 2025
-
-## [OECD Economic Surveys: European Union and Euro Area 2025](https://doi.org/10.1787/5ec8dcc2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 July 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Études économiques de l’OCDE : Union européenne et zone euro 2025](https://doi.org/10.1787/aaeb464b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 July 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
