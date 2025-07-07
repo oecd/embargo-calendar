@@ -2,9 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 6 July 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 7 July 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [6 July 2025](#6-july-2025)
+* [7 July 2025](#7-july-2025)
 * [8 July 2025](#8-july-2025)
 * [9 July 2025](#9-july-2025)
 * [10 July 2025](#10-july-2025)
@@ -17,13 +17,13 @@ Data generated on | |
 
 ------
 
-# 6 July 2025
+# 7 July 2025
 
 ## [OECD Economic Surveys: Argentina 2025](https://doi.org/10.1787/27dd6e27-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 6 July 2025 at 22:00 | no launch event
+Monday 7 July 2025 at 14:00 | no launch event
 
 ### Status Information
 
@@ -924,6 +924,213 @@ Tuesday 8 July 2025 at 9:00 | no launch event
 
 # 9 July 2025
 
+## [Canada](https://doi.org/10.1787/7843efa6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [France](https://doi.org/10.1787/32a23b25-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Japan](https://doi.org/10.1787/7672bd00-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Korea, Republic of](https://doi.org/10.1787/b0b5d16b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Australia](https://doi.org/10.1787/dd6ed473-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Mexico](https://doi.org/10.1787/f25e36c5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [United States](https://doi.org/10.1787/a87f27e3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Spain](https://doi.org/10.1787/ded48eec-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Germany](https://doi.org/10.1787/7a8d6d9d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [OECD Employment Outlook 2025 - Can We Get Through the Demographic Crunch?](https://doi.org/10.1787/194a947b-en)
 
 Embargo date | Launch date
@@ -947,6 +1154,52 @@ Wednesday 9 July 2025 at 9:00 | no launch event
 
 ------
 
+## [Italy](https://doi.org/10.1787/7e806b33-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [United Kingdom](https://doi.org/10.1787/2d99651c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 July 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Perspectives de l'emploi de l'OCDE 2025 - Pouvons-nous surmonter la crise démographique ?](https://doi.org/10.1787/79445578-fr)
 
 Embargo date | Launch date
@@ -955,7 +1208,7 @@ Wednesday 9 July 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -964,9 +1217,9 @@ Wednesday 9 July 2025 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1005,7 +1258,7 @@ Thursday 10 July 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1014,7 +1267,7 @@ Thursday 10 July 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1074,29 +1327,6 @@ Tuesday 15 July 2025 at 8:00 | no launch event
 
 # 17 July 2025
 
-## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, July 2025)](https://doi.org/10.1787/d5a361a0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 July 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ## [Taking Stock of Progress on Transparency and Exchange of Information for Tax Purposes - Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/afddc8c5-en)
 
 Embargo date | Launch date
@@ -1137,6 +1367,29 @@ Thursday 17 July 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, July 2025)](https://doi.org/10.1787/d5a361a0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 July 2025 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
