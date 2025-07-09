@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 8 July 2025 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Argentina 2025](https://doi.org/10.1787/27dd6e27-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 July 2025 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Wednesday 9 July 2025 at 22:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Korea](https://doi.org/10.1787/21f7608d-en)
 
