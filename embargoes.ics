@@ -2,52 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/32776d08-end3e63
-SUMMARY:[Report] OECD Anti-Bribery Convention Ph
- ase 4 Report on South Africa - Implement
- ing the Convention and Related Legal Ins
- truments
-DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
- hase 4 Report on South Africa - Implemen
- ting the Convention and Related Legal In
- struments*\n\nDirectorate: Directorate f
- or Financial and Enterprise Affairs\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/32776d08-en\nPublication type: Repo
- rt\nReleased as: PDF\n\nEmbargo date/tim
- e: Thursday, 10 July 2025, 9:00 (GMT)\n\
- n\niLibrary export: never\nFreepreview e
- xport: never\nOECD.org export: never\nFT
- I loaded: ✓\n\nFor more information see:
-  https://oecd.github.io/embargo-calendar
- /embargoes-by-publication.html.\n\nPleas
- e note: This information was correct as 
- of this afternoon at 23:09, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=32776d08-en.
-DTSTAMP:20250711T230950Z
-DTSTART:20250710T090000Z
-DTEND:20250710T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
- vention Phase 4 Report on South Africa -
-  Implementing the Convention and Related
-  Legal Instruments
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/af125b62-frd3e542
+UID:10.1787/af125b62-frd3e488
 SUMMARY:[Book] Perspectives agricoles de l’OCDE 
  et de la FAO 2025-2034
 DESCRIPTION:*[Book] Perspectives agricoles de l’OCDE
@@ -64,7 +19,7 @@ DESCRIPTION:*[Book] Perspectives agricoles de l’OCDE
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 23:09, it is updated each night; th
+ n at 23:11, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -72,7 +27,7 @@ DESCRIPTION:*[Book] Perspectives agricoles de l’OCDE
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=af125b62-fr.
-DTSTAMP:20250711T230950Z
+DTSTAMP:20250713T231142Z
 DTSTART:20250715T070000Z
 DTEND:20250715T071500Z
 TRANSP:TRANSPARENT
@@ -86,7 +41,7 @@ DESCRIPTION:Reminder: [Book] Perspectives agricoles
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/601276cd-end3e1764
+UID:10.1787/601276cd-end3e1710
 SUMMARY:[Book] OECD-FAO Agricultural Outlook 202
  5-2034
 DESCRIPTION:*[Book] OECD-FAO Agricultural Outlook 20
@@ -102,7 +57,7 @@ DESCRIPTION:*[Book] OECD-FAO Agricultural Outlook 20
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:09, it 
+ rrect as of this afternoon at 23:11, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -111,7 +66,7 @@ DESCRIPTION:*[Book] OECD-FAO Agricultural Outlook 20
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=601276cd-en.
-DTSTAMP:20250711T230950Z
+DTSTAMP:20250713T231142Z
 DTSTART:20250715T070000Z
 DTEND:20250715T071500Z
 TRANSP:TRANSPARENT
@@ -125,7 +80,7 @@ DESCRIPTION:Reminder: [Book] OECD-FAO Agricultural O
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/72d30551-frd3e2242
+UID:10.1787/72d30551-frd3e2188
 SUMMARY:[Report] Bilan des progrès réalisés en m
  atière de transparence et d'échange de r
  enseignements à des fins fiscales - Rapp
@@ -150,7 +105,7 @@ DESCRIPTION:*[Report] Bilan des progrès réalisés en
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 23:09, it is updated each night; ther
+ at 23:11, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -158,7 +113,7 @@ DESCRIPTION:*[Report] Bilan des progrès réalisés en
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=72d30551-fr.
-DTSTAMP:20250711T230950Z
+DTSTAMP:20250713T231142Z
 DTSTART:20250717T090000Z
 DTEND:20250717T091500Z
 TRANSP:TRANSPARENT
@@ -177,7 +132,7 @@ DESCRIPTION:Reminder: [Report] Bilan des progrès réa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f6b2fd52-frd3e2296
+UID:10.1787/f6b2fd52-frd3e2242
 SUMMARY:[Report] Rapport sur la fiscalité du Sec
  rétaire général de l’OCDE à l’intention 
  des ministres des Finances et des gouver
@@ -199,7 +154,7 @@ DESCRIPTION:*[Report] Rapport sur la fiscalité du Se
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:09, it
+ orrect as of this afternoon at 23:11, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -208,7 +163,7 @@ DESCRIPTION:*[Report] Rapport sur la fiscalité du Se
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=f6b2fd52-fr.
-DTSTAMP:20250711T230950Z
+DTSTAMP:20250713T231142Z
 DTSTART:20250717T120000Z
 DTEND:20250717T121500Z
 TRANSP:TRANSPARENT
@@ -225,7 +180,7 @@ DESCRIPTION:Reminder: [Report] Rapport sur la fiscal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d5a361a0-end3e2348
+UID:10.1787/d5a361a0-end3e2294
 SUMMARY:[Report] OECD Secretary-General Tax Repo
  rt to G20 Finance Ministers and Central 
  Bank Governors (G20 South Africa, July 2
@@ -245,7 +200,7 @@ DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 23:09, it is updated each nigh
+ ernoon at 23:11, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -254,7 +209,7 @@ DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=d5a361a
  0-en.
-DTSTAMP:20250711T230950Z
+DTSTAMP:20250713T231142Z
 DTSTART:20250717T120000Z
 DTEND:20250717T121500Z
 TRANSP:TRANSPARENT
@@ -270,7 +225,7 @@ DESCRIPTION:Reminder: [Report] OECD Secretary-Genera
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/afddc8c5-end3e2401
+UID:10.1787/afddc8c5-end3e2347
 SUMMARY:[Report] Taking Stock of Progress on Tra
  nsparency and Exchange of Information fo
  r Tax Purposes - OECD and Global Forum R
@@ -292,7 +247,7 @@ DESCRIPTION:*[Report] Taking Stock of Progress on Tr
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:09, it is upda
+ s of this afternoon at 23:11, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -301,7 +256,7 @@ DESCRIPTION:*[Report] Taking Stock of Progress on Tr
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=afddc8c5-en.
-DTSTAMP:20250711T230950Z
+DTSTAMP:20250713T231142Z
 DTSTART:20250717T120000Z
 DTEND:20250717T121500Z
 TRANSP:TRANSPARENT
@@ -318,7 +273,7 @@ DESCRIPTION:Reminder: [Report] Taking Stock of Progr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/176481fc-end3e2455
+UID:10.1787/176481fc-end3e2401
 SUMMARY:[Report] Ring-Fencing Mining Income - A 
  toolkit for tax administrators and polic
  y-makers
@@ -336,7 +291,7 @@ DESCRIPTION:*[Report] Ring-Fencing Mining Income - A
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:09, it is updated each 
+  afternoon at 23:11, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -345,7 +300,7 @@ DESCRIPTION:*[Report] Ring-Fencing Mining Income - A
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=176
  481fc-en.
-DTSTAMP:20250711T230950Z
+DTSTAMP:20250713T231142Z
 DTSTART:20250723T090000Z
 DTEND:20250723T091500Z
 TRANSP:TRANSPARENT
@@ -360,7 +315,7 @@ DESCRIPTION:Reminder: [Report] Ring-Fencing Mining I
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b5cc1a43-end3e2509
+UID:10.1787/b5cc1a43-end3e2454
 SUMMARY:[Stand-alone monograph] Financing Social
   Protection through General Tax Revenues
  , Social Security Contributions and Form
@@ -381,7 +336,7 @@ DESCRIPTION:*[Stand-alone monograph] Financing Socia
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  23:09, it is updated each night; theref
+  23:11, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -389,7 +344,7 @@ DESCRIPTION:*[Stand-alone monograph] Financing Socia
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=b5cc1a43-en.
-DTSTAMP:20250711T230950Z
+DTSTAMP:20250713T231142Z
 DTSTART:20250724T090000Z
 DTEND:20250724T091500Z
 TRANSP:TRANSPARENT
@@ -405,7 +360,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Financ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/96761615-end3e2561
+UID:10.1787/96761615-end3e2507
 SUMMARY:[Policy paper] Reinforcing Chilean polic
  ies for the inclusion of students with a
  n immigrant background
@@ -423,7 +378,7 @@ DESCRIPTION:*[Policy paper] Reinforcing Chilean poli
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:09, it is 
+ ct as of this afternoon at 23:11, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -432,7 +387,7 @@ DESCRIPTION:*[Policy paper] Reinforcing Chilean poli
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=96761615-en.
-DTSTAMP:20250711T230950Z
+DTSTAMP:20250713T231142Z
 DTSTART:20250725T080000Z
 DTEND:20250725T081500Z
 TRANSP:TRANSPARENT
@@ -447,7 +402,7 @@ DESCRIPTION:Reminder: [Policy paper] Reinforcing Chi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5a8ff43c-end3e2613
+UID:10.1787/5a8ff43c-end3e2559
 SUMMARY:[Stand-alone monograph] Regional Plastic
  s Outlook for Southeast and East Asia
 DESCRIPTION:*[Stand-alone monograph] Regional Plasti
@@ -464,7 +419,7 @@ DESCRIPTION:*[Stand-alone monograph] Regional Plasti
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  23:09, it is updated each night; theref
+  23:11, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -472,7 +427,7 @@ DESCRIPTION:*[Stand-alone monograph] Regional Plasti
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=5a8ff43c-en.
-DTSTAMP:20250711T230950Z
+DTSTAMP:20250713T231142Z
 DTSTART:20250730T070000Z
 DTEND:20250730T071500Z
 TRANSP:TRANSPARENT
@@ -487,7 +442,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Region
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3b96cf8c-end3e2665
+UID:10.1787/3b96cf8c-end3e2611
 SUMMARY:[Stand-alone monograph] Measuring Scienc
  e and Innovation for Sustainable Growth
 DESCRIPTION:*[Stand-alone monograph] Measuring Scien
@@ -504,7 +459,7 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Scien
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 23:09, it i
+ rect as of this afternoon at 23:11, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -513,7 +468,7 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Scien
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=3b96cf8c-en.
-DTSTAMP:20250711T230950Z
+DTSTAMP:20250713T231142Z
 DTSTART:20250905T070000Z
 DTEND:20250905T071500Z
 TRANSP:TRANSPARENT

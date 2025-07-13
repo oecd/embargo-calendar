@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 11 July 2025 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 13 July 2025 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 July 2025](#10-july-2025)
 * [15 July 2025](#15-july-2025)
 * [17 July 2025](#17-july-2025)
 * [23 July 2025](#23-july-2025)
@@ -12,33 +11,6 @@ Data generated on | |
 * [25 July 2025](#25-july-2025)
 * [30 July 2025](#30-july-2025)
 * [5 September 2025](#5-september-2025)
-
-------
-
-# 10 July 2025
-
-## [OECD Anti-Bribery Convention Phase 4 Report on South Africa - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/32776d08-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 July 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
