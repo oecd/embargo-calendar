@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 13 July 2025 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 14 July 2025 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Perspectives agricoles de l’OCDE et de la FAO 2025-2034](https://doi.org/10.1787/af125b62-fr)
 
