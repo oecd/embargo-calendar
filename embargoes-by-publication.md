@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 14 July 2025 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 15 July 2025 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Perspectives agricoles de l’OCDE et de la FAO 2025-2034](https://doi.org/10.1787/af125b62-fr)
 
@@ -47,6 +47,52 @@ Tuesday 15 July 2025 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (South Africa, July 2025)](https://doi.org/10.1787/5714c7d2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 July 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Rapport du Secrétaire général de l’OCDE aux ministres des Finances et gouverneurs de banque centrale des pays du G20 sur les activités du Forum inclusif sur les approches d’atténuation des émissions de carbone (Afrique du Sud, juillet 2025)](https://doi.org/10.1787/cd164cfd-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 July 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 

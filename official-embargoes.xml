@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-07-14T23:15:31.0853805+02:00">
+<report name="official-embargoes" generated="2025-07-15T23:10:53.6178892+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -821,6 +821,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4d1da5e</cell>
   </row>
   <row index="41">
+    <cell name="directorate">General Secretariat</cell>
+    <cell name="doi">10.1787/5714c7d2-en</cell>
+    <cell name="title">OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (South Africa, July 2025) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-07-17</cell>
+    <cell name="embargo date">2025-07-17T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f352dc24</cell>
+  </row>
+  <row index="42">
+    <cell name="directorate">General Secretariat</cell>
+    <cell name="doi">10.1787/cd164cfd-fr</cell>
+    <cell name="title">Rapport du Secrétaire général de l’OCDE aux ministres des Finances et gouverneurs de banque centrale des pays du G20 sur les activités du Forum inclusif sur les approches d’atténuation des émissions de carbone (Afrique du Sud, juillet 2025) (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-07-17</cell>
+    <cell name="embargo date">2025-07-17T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d53f6a06</cell>
+  </row>
+  <row index="43">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/72d30551-fr</cell>
     <cell name="title">Bilan des progrès réalisés en matière de transparence et d'échange de renseignements à des fins fiscales (fr)</cell>
@@ -840,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85fc1a6e</cell>
   </row>
-  <row index="42">
+  <row index="44">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f6b2fd52-fr</cell>
     <cell name="title">Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Afrique du Sud, juillet 2025) (fr)</cell>
@@ -860,7 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/afefd9b9</cell>
   </row>
-  <row index="43">
+  <row index="45">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d5a361a0-en</cell>
     <cell name="title">OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, July 2025) (en)</cell>
@@ -880,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9de6bffa</cell>
   </row>
-  <row index="44">
+  <row index="46">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/afddc8c5-en</cell>
     <cell name="title">Taking Stock of Progress on Transparency and Exchange of Information for Tax Purposes (en)</cell>
@@ -900,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/078045a1</cell>
   </row>
-  <row index="45">
+  <row index="47">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/176481fc-en</cell>
     <cell name="title">Ring-Fencing Mining Income (en)</cell>
@@ -920,7 +960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/279459b1</cell>
   </row>
-  <row index="46">
+  <row index="48">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b5cc1a43-en</cell>
     <cell name="title">Financing Social Protection through General Tax Revenues, Social Security Contributions and Formalisation in Thailand (en)</cell>
@@ -940,7 +980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2da686a</cell>
   </row>
-  <row index="47">
+  <row index="49">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/96761615-en</cell>
     <cell name="title">Reinforcing Chilean policies for the inclusion of students with an immigrant background (en)</cell>
@@ -960,7 +1000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a84fd16</cell>
   </row>
-  <row index="48">
+  <row index="50">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/5a8ff43c-en</cell>
     <cell name="title">Regional Plastics Outlook for Southeast and East Asia (en)</cell>
@@ -980,7 +1020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7297daf</cell>
   </row>
-  <row index="49">
+  <row index="51">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>
