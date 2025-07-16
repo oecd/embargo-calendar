@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-07-15T23:10:53.6178892+02:00">
+<report name="official-embargoes" generated="2025-07-16T23:14:49.7261686+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -827,7 +827,7 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-07-17</cell>
     <cell name="embargo date">2025-07-17T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -837,7 +837,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f352dc24</cell>
   </row>
   <row index="42">
@@ -847,7 +847,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-07-17</cell>
     <cell name="embargo date">2025-07-17T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -857,7 +857,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d53f6a06</cell>
   </row>
   <row index="43">
@@ -888,7 +888,7 @@
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2025-07-17</cell>
     <cell name="embargo date">2025-07-17T12:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>

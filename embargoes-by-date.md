@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 15 July 2025 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 16 July 2025 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 July 2025](#15-july-2025)
 * [17 July 2025](#17-july-2025)
@@ -74,7 +74,7 @@ Thursday 17 July 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -83,7 +83,7 @@ Thursday 17 July 2025 at 8:00 | no launch event
 
 * Directorate: *General Secretariat*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -97,7 +97,7 @@ Thursday 17 July 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -106,7 +106,7 @@ Thursday 17 July 2025 at 8:00 | no launch event
 
 * Directorate: *General Secretariat*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 

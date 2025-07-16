@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 15 July 2025 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 16 July 2025 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Perspectives agricoles de l’OCDE et de la FAO 2025-2034](https://doi.org/10.1787/af125b62-fr)
 
@@ -58,7 +58,7 @@ Thursday 17 July 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -67,7 +67,7 @@ Thursday 17 July 2025 at 8:00 | no launch event
 
 * Directorate: *General Secretariat*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -81,7 +81,7 @@ Thursday 17 July 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -90,7 +90,7 @@ Thursday 17 July 2025 at 8:00 | no launch event
 
 * Directorate: *General Secretariat*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
