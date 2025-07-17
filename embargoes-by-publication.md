@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 16 July 2025 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Perspectives agricoles de l’OCDE et de la FAO 2025-2034](https://doi.org/10.1787/af125b62-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 July 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD-FAO Agricultural Outlook 2025-2034](https://doi.org/10.1787/601276cd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 July 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Thursday 17 July 2025 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (South Africa, July 2025)](https://doi.org/10.1787/5714c7d2-en)
 
@@ -219,7 +173,7 @@ Thursday 24 July 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -228,9 +182,9 @@ Thursday 24 July 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -280,11 +234,34 @@ Wednesday 30 July 2025 at 7:00 | no launch event
 
 ------
 
+## [The Green Transition of SMEs and Entrepreneurship in Portugal](https://doi.org/10.1787/36e668f2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 September 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Measuring Science and Innovation for Sustainable Growth](https://doi.org/10.1787/3b96cf8c-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 5 September 2025 at 7:00 | no launch event
+Thursday 9 October 2025 at 10:00 | no launch event
 
 ### Status Information
 

@@ -2,65 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 16 July 2025 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 17 July 2025 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 July 2025](#15-july-2025)
 * [17 July 2025](#17-july-2025)
 * [23 July 2025](#23-july-2025)
 * [24 July 2025](#24-july-2025)
 * [25 July 2025](#25-july-2025)
 * [30 July 2025](#30-july-2025)
-* [5 September 2025](#5-september-2025)
-
-------
-
-# 15 July 2025
-
-## [Perspectives agricoles de l’OCDE et de la FAO 2025-2034](https://doi.org/10.1787/af125b62-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 July 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD-FAO Agricultural Outlook 2025-2034](https://doi.org/10.1787/601276cd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 July 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+* [23 September 2025](#23-september-2025)
+* [9 October 2025](#9-october-2025)
 
 ------
 
@@ -243,7 +193,7 @@ Thursday 24 July 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -252,9 +202,9 @@ Thursday 24 July 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -314,13 +264,40 @@ Wednesday 30 July 2025 at 7:00 | no launch event
 
 ------
 
-# 5 September 2025
+# 23 September 2025
+
+## [The Green Transition of SMEs and Entrepreneurship in Portugal](https://doi.org/10.1787/36e668f2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 September 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 9 October 2025
 
 ## [Measuring Science and Innovation for Sustainable Growth](https://doi.org/10.1787/3b96cf8c-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 5 September 2025 at 7:00 | no launch event
+Thursday 9 October 2025 at 10:00 | no launch event
 
 ### Status Information
 
