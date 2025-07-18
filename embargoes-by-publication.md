@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 July 2025 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 18 July 2025 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (South Africa, July 2025)](https://doi.org/10.1787/5714c7d2-en)
 
@@ -231,6 +231,29 @@ Wednesday 30 July 2025 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Regional Integration in the Union for the Mediterranean 2025 - Progress Report](https://doi.org/10.1787/6422396e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 September 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
