@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 July 2025 at 0:01* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 22 July 2025 at 23:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 July 2025](#24-july-2025)
 * [25 July 2025](#25-july-2025)
@@ -50,7 +50,7 @@ Friday 25 July 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -59,7 +59,7 @@ Friday 25 July 2025 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
