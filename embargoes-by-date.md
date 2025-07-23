@@ -2,12 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 July 2025 at 23:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 23 July 2025 at 23:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 July 2025](#24-july-2025)
 * [25 July 2025](#25-july-2025)
 * [30 July 2025](#30-july-2025)
+* [11 September 2025](#11-september-2025)
 * [12 September 2025](#12-september-2025)
+* [22 September 2025](#22-september-2025)
 * [23 September 2025](#23-september-2025)
 * [9 October 2025](#9-october-2025)
 
@@ -117,6 +119,33 @@ Wednesday 30 July 2025 at 9:00 | no launch event
 
 ------
 
+# 11 September 2025
+
+## [Tax Policy Reforms 2025 - OECD and Selected Partner Economies](https://doi.org/10.1787/de648d27-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 12 September 2025
 
 ## [Regional Integration in the Union for the Mediterranean 2025 - Progress Report](https://doi.org/10.1787/6422396e-en)
@@ -135,6 +164,33 @@ Friday 12 September 2025 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 22 September 2025
+
+## [To Have and Have Not – How to Bridge the Gap in Opportunities](https://doi.org/10.1787/dec143ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*

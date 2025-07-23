@@ -32,7 +32,7 @@ DESCRIPTION:*[Stand-alone monograph] Financing Socia
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=b5cc1a43-en.
-DTSTAMP:20250722T235832Z
+DTSTAMP:20250723T235814Z
 DTSTART:20250724T090000Z
 DTEND:20250724T091500Z
 TRANSP:TRANSPARENT
@@ -75,7 +75,7 @@ DESCRIPTION:*[Policy paper] Reinforcing Chilean poli
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=96761615-en.
-DTSTAMP:20250722T235832Z
+DTSTAMP:20250723T235814Z
 DTSTART:20250725T080000Z
 DTEND:20250725T081500Z
 TRANSP:TRANSPARENT
@@ -115,7 +115,7 @@ DESCRIPTION:*[Stand-alone monograph] Regional Plasti
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=5a8ff43c-en.
-DTSTAMP:20250722T235832Z
+DTSTAMP:20250723T235814Z
 DTSTART:20250730T070000Z
 DTEND:20250730T071500Z
 TRANSP:TRANSPARENT
@@ -157,7 +157,7 @@ DESCRIPTION:*[Report] Ring-Fencing Mining Income - A
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=176
  481fc-en.
-DTSTAMP:20250722T235832Z
+DTSTAMP:20250723T235814Z
 DTSTART:20250730T090000Z
 DTEND:20250730T091500Z
 TRANSP:TRANSPARENT
@@ -172,7 +172,47 @@ DESCRIPTION:Reminder: [Report] Ring-Fencing Mining I
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6422396e-end3e858
+UID:10.1787/de648d27-end3e912
+SUMMARY:[Book] Tax Policy Reforms 2025 - OECD an
+ d Selected Partner Economies
+DESCRIPTION:*[Book] Tax Policy Reforms 2025 - OECD a
+ nd Selected Partner Economies*\n\nDirect
+ orate: Centre for Tax Policy and Adminis
+ tration\nLanguage: English\nDOI: https:/
+ /doi.org/10.1787/de648d27-en\nPublicatio
+ n type: Book\nReleased as: Paperback, PD
+ F\n\nEmbargo date/time: Thursday, 11 Sep
+ tember 2025, 9:00 (GMT)\n\n\niLibrary ex
+ port: never\nFreepreview export: never\n
+ OECD.org export: never\nFTI loaded: ✗\n\
+ nFor more information see: https://oecd.
+ github.io/embargo-calendar/embargoes-by-
+ publication.html.\n\nPlease note: This i
+ nformation was correct as of this aftern
+ oon at 23:58, it is updated each night; 
+ therefore any subsequent updates may not
+  yet be visible here. Also, please be aw
+ are that the different released media (P
+ DF, HTML, etc.) are not necessarily rele
+ ased at the same time. For complete and 
+ up-to-date information see here: http://
+ kappa.oecd.org/v3/search?term=de648d27-e
+ n.
+DTSTAMP:20250723T235814Z
+DTSTART:20250911T090000Z
+DTEND:20250911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Tax Policy Reforms 2025
+  - OECD and Selected Partner Economies
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/6422396e-end3e965
 SUMMARY:[Stand-alone monograph] Regional Integra
  tion in the Union for the Mediterranean 
  2025 - Progress Report
@@ -200,7 +240,7 @@ DESCRIPTION:*[Stand-alone monograph] Regional Integr
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=6422396e-en.
-DTSTAMP:20250722T235832Z
+DTSTAMP:20250723T235814Z
 DTSTART:20250912T080000Z
 DTEND:20250912T081500Z
 TRANSP:TRANSPARENT
@@ -215,7 +255,50 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Region
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/36e668f2-end3e1017
+UID:10.1787/dec143ad-end3e1071
+SUMMARY:[Stand-alone monograph] To Have and Have
+  Not – How to Bridge the Gap in Opportun
+ ities
+DESCRIPTION:*[Stand-alone monograph] To Have and Hav
+ e Not – How to Bridge the Gap in Opportu
+ nities*\n\nDirectorate: Centre for Well-
+ Being, Inclusion, Sustainability and Equ
+ al Opportunity\nLanguage: English\nDOI: 
+ https://doi.org/10.1787/dec143ad-en\nPub
+ lication type: Stand-alone monograph\nRe
+ leased as: Paperback, PDF\n\nEmbargo dat
+ e/time: Monday, 22 September 2025, 7:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✗\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 23:58, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=dec143ad-en.
+DTSTAMP:20250723T235814Z
+DTSTART:20250922T070000Z
+DTEND:20250922T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] To Hav
+ e and Have Not – How to Bridge the Gap i
+ n Opportunities
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/36e668f2-end3e1228
 SUMMARY:[Book] The Green Transition of SMEs and 
  Entrepreneurship in Portugal
 DESCRIPTION:*[Book] The Green Transition of SMEs and
@@ -241,7 +324,7 @@ DESCRIPTION:*[Book] The Green Transition of SMEs and
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=36e668f2-en.
-DTSTAMP:20250722T235832Z
+DTSTAMP:20250723T235814Z
 DTSTART:20250923T080000Z
 DTEND:20250923T081500Z
 TRANSP:TRANSPARENT
@@ -255,7 +338,7 @@ DESCRIPTION:Reminder: [Book] The Green Transition of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3b96cf8c-end3e1069
+UID:10.1787/3b96cf8c-end3e1280
 SUMMARY:[Stand-alone monograph] Measuring Scienc
  e and Innovation for Sustainable Growth
 DESCRIPTION:*[Stand-alone monograph] Measuring Scien
@@ -281,7 +364,7 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Scien
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=3b96cf8c-en.
-DTSTAMP:20250722T235832Z
+DTSTAMP:20250723T235814Z
 DTSTART:20251009T100000Z
 DTEND:20251009T101500Z
 TRANSP:TRANSPARENT

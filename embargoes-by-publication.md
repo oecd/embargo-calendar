@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 July 2025 at 23:58* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 23 July 2025 at 23:58* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Financing Social Protection through General Tax Revenues, Social Security Contributions and Formalisation in Thailand](https://doi.org/10.1787/b5cc1a43-en)
 
@@ -96,6 +96,29 @@ Wednesday 30 July 2025 at 9:00 | no launch event
 
 ------
 
+## [Tax Policy Reforms 2025 - OECD and Selected Partner Economies](https://doi.org/10.1787/de648d27-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Regional Integration in the Union for the Mediterranean 2025 - Progress Report](https://doi.org/10.1787/6422396e-en)
 
 Embargo date | Launch date
@@ -112,6 +135,29 @@ Friday 12 September 2025 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [To Have and Have Not – How to Bridge the Gap in Opportunities](https://doi.org/10.1787/dec143ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
