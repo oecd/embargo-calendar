@@ -2,15 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 23 July 2025 at 23:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 24 July 2025 at 23:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 July 2025](#24-july-2025)
 * [25 July 2025](#25-july-2025)
 * [30 July 2025](#30-july-2025)
+* [9 September 2025](#9-september-2025)
 * [11 September 2025](#11-september-2025)
 * [12 September 2025](#12-september-2025)
 * [22 September 2025](#22-september-2025)
 * [23 September 2025](#23-september-2025)
+* [25 September 2025](#25-september-2025)
 * [9 October 2025](#9-october-2025)
 
 ------
@@ -113,6 +115,33 @@ Wednesday 30 July 2025 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 9 September 2025
+
+## [Education at a Glance 2025 Sources Methodologies and Technical Notes](https://doi.org/10.1787/fcfaf2d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -222,6 +251,33 @@ Tuesday 23 September 2025 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 25 September 2025
+
+## [Assessing Bosnia and Herzegovina's Reform Agenda for Private Sector Development](https://doi.org/10.1787/12b64ce6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 September 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 

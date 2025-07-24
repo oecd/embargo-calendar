@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 23 July 2025 at 23:58* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 24 July 2025 at 23:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Financing Social Protection through General Tax Revenues, Social Security Contributions and Formalisation in Thailand](https://doi.org/10.1787/b5cc1a43-en)
 
@@ -96,6 +96,29 @@ Wednesday 30 July 2025 at 9:00 | no launch event
 
 ------
 
+## [Education at a Glance 2025 Sources Methodologies and Technical Notes](https://doi.org/10.1787/fcfaf2d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Tax Policy Reforms 2025 - OECD and Selected Partner Economies](https://doi.org/10.1787/de648d27-en)
 
 Embargo date | Launch date
@@ -185,6 +208,29 @@ Tuesday 23 September 2025 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Assessing Bosnia and Herzegovina's Reform Agenda for Private Sector Development](https://doi.org/10.1787/12b64ce6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 September 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
