@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 24 July 2025 at 23:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Saturday 26 July 2025 at 0:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Financing Social Protection through General Tax Revenues, Social Security Contributions and Formalisation in Thailand](https://doi.org/10.1787/b5cc1a43-en)
 
@@ -73,11 +73,11 @@ Wednesday 30 July 2025 at 7:00 | no launch event
 
 ------
 
-## [Ring-Fencing Mining Income - A toolkit for tax administrators and policy-makers](https://doi.org/10.1787/176481fc-en)
+## [Education at a Glance 2025 - OECD Indicators](https://doi.org/10.1787/1c0d9c79-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 30 July 2025 at 9:00 | no launch event
+Tuesday 9 September 2025 at 9:00 | no launch event
 
 ### Status Information
 
@@ -88,11 +88,11 @@ Wednesday 30 July 2025 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 

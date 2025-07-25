@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 24 July 2025 at 23:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 26 July 2025 at 0:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 July 2025](#24-july-2025)
 * [25 July 2025](#25-july-2025)
@@ -96,11 +96,15 @@ Wednesday 30 July 2025 at 7:00 | no launch event
 
 ------
 
-## [Ring-Fencing Mining Income - A toolkit for tax administrators and policy-makers](https://doi.org/10.1787/176481fc-en)
+------
+
+# 9 September 2025
+
+## [Education at a Glance 2025 - OECD Indicators](https://doi.org/10.1787/1c0d9c79-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 30 July 2025 at 9:00 | no launch event
+Tuesday 9 September 2025 at 9:00 | no launch event
 
 ### Status Information
 
@@ -111,17 +115,13 @@ Wednesday 30 July 2025 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
-
-------
-
-# 9 September 2025
 
 ## [Education at a Glance 2025 Sources Methodologies and Technical Notes](https://doi.org/10.1787/fcfaf2d1-en)
 
