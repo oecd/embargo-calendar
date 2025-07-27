@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 26 July 2025 at 0:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 27 July 2025 at 22:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 July 2025](#24-july-2025)
-* [25 July 2025](#25-july-2025)
 * [30 July 2025](#30-july-2025)
 * [9 September 2025](#9-september-2025)
 * [11 September 2025](#11-september-2025)
@@ -14,60 +12,6 @@ Data generated on | |
 * [23 September 2025](#23-september-2025)
 * [25 September 2025](#25-september-2025)
 * [9 October 2025](#9-october-2025)
-
-------
-
-# 24 July 2025
-
-## [Financing Social Protection through General Tax Revenues, Social Security Contributions and Formalisation in Thailand](https://doi.org/10.1787/b5cc1a43-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 July 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 25 July 2025
-
-## [Reinforcing Chilean policies for the inclusion of students with an immigrant background](https://doi.org/10.1787/96761615-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 25 July 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
