@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 29 July 2025 at 0:37* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 29 July 2025 at 23:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regional Plastics Outlook for Southeast and East Asia](https://doi.org/10.1787/5a8ff43c-en)
 
@@ -116,6 +116,29 @@ Friday 12 September 2025 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [The Global Forum on Productivity at 10 - Past and Future Perspectives on Reviving Productivity Growth](https://doi.org/10.1787/ca7295d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 September 2025 at 11:45 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
