@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 29 July 2025 at 23:52* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 30 July 2025 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regional Plastics Outlook for Southeast and East Asia](https://doi.org/10.1787/5a8ff43c-en)
 
