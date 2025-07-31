@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 30 July 2025 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 31 July 2025 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regional Plastics Outlook for Southeast and East Asia](https://doi.org/10.1787/5a8ff43c-en)
 
@@ -24,6 +24,29 @@ Wednesday 30 July 2025 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
