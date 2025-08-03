@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 1 August 2025 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 3 August 2025 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
 
