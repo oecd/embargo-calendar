@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 3 August 2025 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 4 August 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
 
@@ -31,7 +31,7 @@ Thursday 4 September 2025 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 9 September 2025 at 9:00 | no launch event
+Tuesday 9 September 2025 at 7:00 | no launch event
 
 ### Status Information
 
@@ -54,7 +54,7 @@ Tuesday 9 September 2025 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 9 September 2025 at 9:00 | no launch event
+Tuesday 9 September 2025 at 7:00 | no launch event
 
 ### Status Information
 
