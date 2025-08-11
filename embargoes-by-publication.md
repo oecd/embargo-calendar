@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 10 August 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 11 August 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
 
@@ -137,6 +137,29 @@ Monday 15 September 2025 at 11:45 | no launch event
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Governing with Artificial Intelligence - The State of Play and Way Forward in Core Government Functions](https://doi.org/10.1787/795de142-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 

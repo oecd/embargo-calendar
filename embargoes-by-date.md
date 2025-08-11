@@ -2,13 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 10 August 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 11 August 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 September 2025](#4-september-2025)
 * [9 September 2025](#9-september-2025)
 * [11 September 2025](#11-september-2025)
 * [12 September 2025](#12-september-2025)
 * [15 September 2025](#15-september-2025)
+* [18 September 2025](#18-september-2025)
 * [22 September 2025](#22-september-2025)
 * [23 September 2025](#23-september-2025)
 * [25 September 2025](#25-september-2025)
@@ -167,6 +168,33 @@ Monday 15 September 2025 at 11:45 | no launch event
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 18 September 2025
+
+## [Governing with Artificial Intelligence - The State of Play and Way Forward in Core Government Functions](https://doi.org/10.1787/795de142-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
