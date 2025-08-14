@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 August 2025 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 14 August 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 September 2025](#4-september-2025)
 * [9 September 2025](#9-september-2025)
@@ -248,9 +248,9 @@ Tuesday 23 September 2025 at 8:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 

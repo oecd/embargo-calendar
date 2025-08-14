@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 August 2025 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 14 August 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
 
@@ -205,9 +205,9 @@ Tuesday 23 September 2025 at 8:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
