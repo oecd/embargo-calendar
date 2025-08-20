@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 August 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 20 August 2025 at 11:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 September 2025](#4-september-2025)
 * [9 September 2025](#9-september-2025)
@@ -69,7 +69,7 @@ Tuesday 9 September 2025 at 7:00 | no launch event
 
 ------
 
-## [Education at a Glance 2025 Sources Methodologies and Technical Notes](https://doi.org/10.1787/fcfaf2d1-en)
+## [Education at a Glance 2025 Sources, Methodologies and Technical Notes](https://doi.org/10.1787/fcfaf2d1-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -115,7 +115,7 @@ Thursday 11 September 2025 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
