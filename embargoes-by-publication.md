@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 August 2025 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 22 August 2025 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
 
@@ -23,6 +23,29 @@ Thursday 4 September 2025 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Bildung auf einen Blick 2025 - OECD-Indikatoren](https://doi.org/10.1787/bb513a8f-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------

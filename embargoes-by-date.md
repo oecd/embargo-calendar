@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 August 2025 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 22 August 2025 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 September 2025](#4-september-2025)
 * [9 September 2025](#9-september-2025)
@@ -45,6 +45,29 @@ Thursday 4 September 2025 at 9:00 | no launch event
 ------
 
 # 9 September 2025
+
+## [Bildung auf einen Blick 2025 - OECD-Indikatoren](https://doi.org/10.1787/bb513a8f-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [Education at a Glance 2025 - OECD Indicators](https://doi.org/10.1787/1c0d9c79-en)
 
