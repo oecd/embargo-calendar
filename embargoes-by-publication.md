@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 24 August 2025 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 25 August 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
 
@@ -27,7 +27,7 @@ Thursday 4 September 2025 at 9:00 | no launch event
 
 ------
 
-## [Bildung auf einen Blick 2025 - OECD-Indikatoren](https://doi.org/10.1787/bb513a8f-de)
+## [Bildung auf einen Blick 2025 - OECD-Indikatoren](https://doi.org/10.3278/9783763979257)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -160,6 +160,29 @@ Monday 15 September 2025 at 11:45 | no launch event
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [The OECD Index of Digital Trade Integration and Openness (INDIGO)](https://doi.org/10.1787/623087f9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
