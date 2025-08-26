@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 25 August 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 26 August 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
 
@@ -91,7 +91,7 @@ Tuesday 9 September 2025 at 7:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -150,7 +150,7 @@ Monday 15 September 2025 at 11:45 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -159,7 +159,7 @@ Monday 15 September 2025 at 11:45 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -207,6 +207,29 @@ Thursday 18 September 2025 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [OECD DAC Blended Finance Guidance 2025](https://doi.org/10.1787/e4a13d2c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 September 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -276,6 +299,29 @@ Thursday 25 September 2025 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Peru 2025](https://doi.org/10.1787/76f6eb73-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 28 September 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
