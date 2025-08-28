@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 August 2025 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 28 August 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
 
@@ -35,7 +35,7 @@ Tuesday 9 September 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -44,7 +44,7 @@ Tuesday 9 September 2025 at 6:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
@@ -234,6 +234,29 @@ Wednesday 17 September 2025 at 7:00 | no launch event
 
 ------
 
+## [Gouverner avec l’intelligence artificielle - État des lieux et perspectives pour les fonctions essentielles de l’État](https://doi.org/10.1787/6816434b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Governing with Artificial Intelligence - The State of Play and Way Forward in Core Government Functions](https://doi.org/10.1787/795de142-en)
 
 Embargo date | Launch date
@@ -253,6 +276,29 @@ Thursday 18 September 2025 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Note d’orientation du CAD de l’OCDE relative au financement mixte 2025 (version abrégée)](https://doi.org/10.1787/4915f91c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 September 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -392,6 +438,29 @@ Sunday 28 September 2025 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [Mortality Risk Valuation in Policy Assessment - A Global Meta-Analysis of Value of Statistical Life Studies](https://doi.org/10.1787/76ca89a2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 September 2025 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
