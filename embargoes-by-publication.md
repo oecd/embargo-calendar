@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 28 August 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 29 August 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
 
@@ -12,7 +12,7 @@ Thursday 4 September 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -21,7 +21,7 @@ Thursday 4 September 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -182,7 +182,7 @@ Friday 12 September 2025 at 8:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -228,7 +228,7 @@ Wednesday 17 September 2025 at 7:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
