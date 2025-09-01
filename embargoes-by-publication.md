@@ -2,7 +2,30 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 31 August 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 1 September 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Housing Reforms in Czechia and Poland](https://doi.org/10.1787/4988c473-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
 
 ## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
 
@@ -188,6 +211,52 @@ Friday 12 September 2025 at 8:00 | no launch event
 
 ------
 
+## [Intégration régionale dans l’Union pour la Méditerranée 2025 - Rapport d'étape](https://doi.org/10.1787/170fb938-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 September 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [التكامل الإقليمي في الاتحاد من أجل المتوسط 2025 - تقرير مرحلي](https://doi.org/10.1787/9009e5ba-ar)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 September 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *Arabic*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [The Global Forum on Productivity at 10 - Past and Future Perspectives on Reviving Productivity Growth](https://doi.org/10.1787/ca7295d9-en)
 
 Embargo date | Launch date
@@ -349,6 +418,29 @@ Monday 22 September 2025 at 7:00 | no launch event
 
 ------
 
+## [OECD Inventory of Export Restrictions on Staple Crops - Policy Trends up to 2025](https://doi.org/10.1787/3280c871-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [The Green Transition of SMEs and Entrepreneurship in Portugal](https://doi.org/10.1787/36e668f2-en)
 
 Embargo date | Launch date
@@ -445,7 +537,7 @@ Sunday 28 September 2025 at 22:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 30 September 2025 at 13:00 | no launch event
+Wednesday 1 October 2025 at 13:00 | no launch event
 
 ### Status Information
 
@@ -461,6 +553,52 @@ Tuesday 30 September 2025 at 13:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Algorithmic pricing and competition in G7 jurisdictions - Emerging trends and responses](https://doi.org/10.1787/f36dacf8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 October 2025 at 21:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [The State of Teaching - Results from TALIS 2024](https://doi.org/10.1787/90df6235-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 October 2025 at 1:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
