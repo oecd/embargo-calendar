@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 1 September 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 2 September 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Housing Reforms in Czechia and Poland](https://doi.org/10.1787/4988c473-en)
 
