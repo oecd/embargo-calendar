@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 2 September 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 3 September 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Housing Reforms in Czechia and Poland](https://doi.org/10.1787/4988c473-en)
 
@@ -27,11 +27,34 @@ Thursday 4 September 2025 at 7:00 | no launch event
 
 ------
 
-## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
+## [OECD global long-run economic scenarios - 2025 update](https://doi.org/10.1787/00353678-en)
 
 Embargo date | Launch date
 -------------|:------------:
 Thursday 4 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 September 2025 at 9:00 | no launch event
 
 ### Status Information
 
@@ -69,7 +92,536 @@ Tuesday 9 September 2025 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy paper*
-* Format: *PDF*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [New Zealand](https://doi.org/10.1787/af1a6142-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Norway](https://doi.org/10.1787/693d8ce6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Japan](https://doi.org/10.1787/8f0a8541-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Spain](https://doi.org/10.1787/ce6a534e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Slovak Republic](https://doi.org/10.1787/713737b6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Poland](https://doi.org/10.1787/b7fb12b6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Bulgaria](https://doi.org/10.1787/047f1cb6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Latvia](https://doi.org/10.1787/cf017b16-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Hungary](https://doi.org/10.1787/9b7c3dd1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Sweden](https://doi.org/10.1787/d448205b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Romania](https://doi.org/10.1787/e364188c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Korea](https://doi.org/10.1787/252c9ed2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Ireland](https://doi.org/10.1787/1ed5ff68-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Austria](https://doi.org/10.1787/28180d4d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Denmark](https://doi.org/10.1787/4ec12dea-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [France](https://doi.org/10.1787/4d428477-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [United States](https://doi.org/10.1787/784df67f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Belgium](https://doi.org/10.1787/0fbd3865-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Netherlands](https://doi.org/10.1787/26a700bc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Czechia](https://doi.org/10.1787/9d50d6ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [South Africa](https://doi.org/10.1787/a1603bbe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Slovenia](https://doi.org/10.1787/ab939e96-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Lithuania](https://doi.org/10.1787/b4b81fd6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -119,6 +671,374 @@ Tuesday 9 September 2025 at 7:00 | no launch event
 
 ------
 
+## [Iceland](https://doi.org/10.1787/e320e2ea-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [United Kingdom](https://doi.org/10.1787/c93708b1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Argentina](https://doi.org/10.1787/3bd3e4ee-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Israel](https://doi.org/10.1787/4b1e0baf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Chile](https://doi.org/10.1787/e68ee91a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Greece](https://doi.org/10.1787/30092c7f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Peru](https://doi.org/10.1787/0afa65c8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Colombia](https://doi.org/10.1787/32e069b7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Croatia](https://doi.org/10.1787/da7fcac6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Luxembourg](https://doi.org/10.1787/8f94ae45-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Costa Rica](https://doi.org/10.1787/e5e24e66-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Australia](https://doi.org/10.1787/8aec394d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Canada](https://doi.org/10.1787/a2529d00-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Portugal](https://doi.org/10.1787/4692d9a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Brazil](https://doi.org/10.1787/d42263a0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Mexico](https://doi.org/10.1787/3b36a6f6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Education at a Glance 2025 - OECD Indicators](https://doi.org/10.1787/1c0d9c79-en)
 
 Embargo date | Launch date
@@ -139,6 +1059,75 @@ Tuesday 9 September 2025 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Türkiye](https://doi.org/10.1787/9648f416-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Estonia](https://doi.org/10.1787/9f1f41d3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Italy](https://doi.org/10.1787/5cc616ce-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -165,11 +1154,80 @@ Tuesday 9 September 2025 at 7:00 | no launch event
 
 ------
 
-## [Tax Policy Reforms 2025 - OECD and Selected Partner Economies](https://doi.org/10.1787/de648d27-en)
+## [Finland](https://doi.org/10.1787/d8f44a5b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 11 September 2025 at 9:00 | no launch event
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Switzerland](https://doi.org/10.1787/e7c7fc03-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Germany](https://doi.org/10.1787/fa91d155-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Scaling Up Biodiversity-Positive Incentives - Delivering on Target 18 of the Global Biodiversity Framework](https://doi.org/10.1787/19b859ce-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 September 2025 at 5:00 | no launch event
 
 ### Status Information
 
@@ -180,11 +1238,34 @@ Thursday 11 September 2025 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Book*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Tax Policy Reforms 2025 - OECD and Selected Partner Economies](https://doi.org/10.1787/de648d27-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -280,11 +1361,11 @@ Monday 15 September 2025 at 11:45 | no launch event
 
 ------
 
-## [The OECD Index of Digital Trade Integration and Openness (INDIGO)](https://doi.org/10.1787/623087f9-en)
+## [Methodology for the OECD Index of Digital Trade Integration and Openness (INDIGO)](https://doi.org/10.1787/b6d01a7b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 17 September 2025 at 7:00 | no launch event
+Thursday 18 September 2025 at 7:00 | no launch event
 
 ### Status Information
 
@@ -297,8 +1378,8 @@ Wednesday 17 September 2025 at 7:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -323,6 +1404,29 @@ Thursday 18 September 2025 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [The OECD Index of Digital Trade Integration and Openness (INDIGO) - Policy Trends up to 2025](https://doi.org/10.1787/623087f9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -426,7 +1530,7 @@ Tuesday 23 September 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -435,9 +1539,9 @@ Tuesday 23 September 2025 at 7:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -460,6 +1564,29 @@ Tuesday 23 September 2025 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Outlook, Interim Report September 2025](https://doi.org/10.1787/67b10c01-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
 * Format: *PDF*
 
 ------
@@ -533,6 +1660,29 @@ Sunday 28 September 2025 at 22:00 | no launch event
 
 ------
 
+## [Estimer la valeur économique du risque de mortalité dans l’évaluation des politiques publiques (version abrégée) - Méta-analyse mondiale des études sur la valeur d’une vie statistique](https://doi.org/10.1787/5d085904-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 October 2025 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Mortality Risk Valuation in Policy Assessment - A Global Meta-Analysis of Value of Statistical Life Studies](https://doi.org/10.1787/76ca89a2-en)
 
 Embargo date | Launch date
@@ -552,7 +1702,7 @@ Wednesday 1 October 2025 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -579,7 +1729,7 @@ Thursday 2 October 2025 at 21:00 | no launch event
 
 ------
 
-## [The State of Teaching - Results from TALIS 2024](https://doi.org/10.1787/90df6235-en)
+## [Results from TALIS 2024 - The State of Teaching](https://doi.org/10.1787/90df6235-en)
 
 Embargo date | Launch date
 -------------|:------------:
