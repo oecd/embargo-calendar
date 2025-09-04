@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 3 September 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 4 September 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 September 2025](#4-september-2025)
 * [8 September 2025](#8-september-2025)
@@ -395,6 +395,29 @@ Tuesday 9 September 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [France](https://doi.org/10.1787/aca6dceb-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -1076,7 +1099,7 @@ Tuesday 9 September 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1085,9 +1108,9 @@ Tuesday 9 September 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1572,6 +1595,29 @@ Monday 22 September 2025 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [State-Owned Enterprises and Sustainability - Leading by Example](https://doi.org/10.1787/c99c7ef0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 September 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
