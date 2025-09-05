@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-09-04T23:07:06.3675395+02:00">
+<report name="official-embargoes" generated="2025-09-05T23:06:54.2257185+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -254,7 +254,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2025-09-04T21:20:26Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Policy paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -382,6 +382,26 @@
   </row>
   <row index="19">
     <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/4ffdb23f-it</cell>
+    <cell name="title">Italia (it)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Italian</cell>
+    <cell name="medium">DOCX</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-09</cell>
+    <cell name="embargo date">2025-09-09T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8e0442b</cell>
+  </row>
+  <row index="20">
+    <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/047f1cb6-en</cell>
     <cell name="title">Bulgaria (en)</cell>
     <cell name="subtitle"/>
@@ -400,7 +420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/174ac25f</cell>
   </row>
-  <row index="20">
+  <row index="21">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/af1a6142-en</cell>
     <cell name="title">New Zealand (en)</cell>
@@ -420,7 +440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8c5499a</cell>
   </row>
-  <row index="21">
+  <row index="22">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1ed5ff68-en</cell>
     <cell name="title">Ireland (en)</cell>
@@ -440,7 +460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c27012a7</cell>
   </row>
-  <row index="22">
+  <row index="23">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/87d64d6c-en</cell>
     <cell name="title">How is early childhood education financed? (en)</cell>
@@ -460,7 +480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eba7497e</cell>
   </row>
-  <row index="23">
+  <row index="24">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0fbd3865-en</cell>
     <cell name="title">Belgium (en)</cell>
@@ -480,7 +500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1e7f0ba</cell>
   </row>
-  <row index="24">
+  <row index="25">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/693d8ce6-en</cell>
     <cell name="title">Norway (en)</cell>
@@ -500,7 +520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/410b5c36</cell>
   </row>
-  <row index="25">
+  <row index="26">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a2529d00-en</cell>
     <cell name="title">Canada (en)</cell>
@@ -520,7 +540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7024a9e</cell>
   </row>
-  <row index="26">
+  <row index="27">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8f0a8541-en</cell>
     <cell name="title">Japan (en)</cell>
@@ -540,7 +560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/abc45362</cell>
   </row>
-  <row index="27">
+  <row index="28">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ce6a534e-en</cell>
     <cell name="title">Spain (en)</cell>
@@ -560,7 +580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1b6ef38</cell>
   </row>
-  <row index="28">
+  <row index="29">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e320e2ea-en</cell>
     <cell name="title">Iceland (en)</cell>
@@ -580,7 +600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b79ecc23</cell>
   </row>
-  <row index="29">
+  <row index="30">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/904c0bbd-en</cell>
     <cell name="title">Who is expected to complete tertiary education? (en)</cell>
@@ -600,7 +620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81773d52</cell>
   </row>
-  <row index="30">
+  <row index="31">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ce6a534e-en</cell>
     <cell name="title">Spain (en)</cell>
@@ -620,7 +640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9134cade</cell>
   </row>
-  <row index="31">
+  <row index="32">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1c0d9c79-en</cell>
     <cell name="title">Education at a Glance 2025 (en)</cell>
@@ -640,7 +660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0acc40a2</cell>
   </row>
-  <row index="32">
+  <row index="33">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1c0d9c79-en</cell>
     <cell name="title">Education at a Glance 2025 (en)</cell>
@@ -660,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/878f37c7</cell>
   </row>
-  <row index="33">
+  <row index="34">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4943ca23-en</cell>
     <cell name="title">PIAAC. Proficiency in key information-processing skills among adults (en)</cell>
@@ -680,7 +700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c957269a</cell>
   </row>
-  <row index="34">
+  <row index="35">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/32e069b7-en</cell>
     <cell name="title">Colombia (en)</cell>
@@ -700,7 +720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa926804</cell>
   </row>
-  <row index="35">
+  <row index="36">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d42263a0-en</cell>
     <cell name="title">Brazil (en)</cell>
@@ -720,7 +740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4efa9fd</cell>
   </row>
-  <row index="36">
+  <row index="37">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/713737b6-en</cell>
     <cell name="title">Slovak Republic (en)</cell>
@@ -740,7 +760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e808362</cell>
   </row>
-  <row index="37">
+  <row index="38">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/af1a6142-en</cell>
     <cell name="title">New Zealand (en)</cell>
@@ -760,7 +780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47feb5d1</cell>
   </row>
-  <row index="38">
+  <row index="39">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b7fb12b6-en</cell>
     <cell name="title">Poland (en)</cell>
@@ -780,7 +800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f062bc2</cell>
   </row>
-  <row index="39">
+  <row index="40">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/047f1cb6-en</cell>
     <cell name="title">Bulgaria (en)</cell>
@@ -800,7 +820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aadf92ba</cell>
   </row>
-  <row index="40">
+  <row index="41">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/41a82ead-en</cell>
     <cell name="title">Reference statistics (en)</cell>
@@ -820,7 +840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1278c9de</cell>
   </row>
-  <row index="41">
+  <row index="42">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/28180d4d-en</cell>
     <cell name="title">Austria (en)</cell>
@@ -840,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84606057</cell>
   </row>
-  <row index="42">
+  <row index="43">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/aca6dceb-fr</cell>
     <cell name="title">France (fr)</cell>
@@ -860,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab5aaaa3</cell>
   </row>
-  <row index="43">
+  <row index="44">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/64b55464-en</cell>
     <cell name="title">Which factors influence teachers' salary cost? (en)</cell>
@@ -880,7 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f61dcbf</cell>
   </row>
-  <row index="44">
+  <row index="45">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f9281793-en</cell>
     <cell name="title">How does the provision of and participation in early childhood education and care vary across countries? (en)</cell>
@@ -900,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b314775</cell>
   </row>
-  <row index="45">
+  <row index="46">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/cf017b16-en</cell>
     <cell name="title">Latvia (en)</cell>
@@ -920,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5da8dea</cell>
   </row>
-  <row index="46">
+  <row index="47">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8f94ae45-en</cell>
     <cell name="title">Luxembourg (en)</cell>
@@ -940,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16e2e27d</cell>
   </row>
-  <row index="47">
+  <row index="48">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9b7c3dd1-en</cell>
     <cell name="title">Hungary (en)</cell>
@@ -960,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2b8239ce</cell>
   </row>
-  <row index="48">
+  <row index="49">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d448205b-en</cell>
     <cell name="title">Sweden (en)</cell>
@@ -980,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6cf4adae</cell>
   </row>
-  <row index="49">
+  <row index="50">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/10f8eda7-en</cell>
     <cell name="title">How do student profiles, study choices and mobility trends shape tertiary education? (en)</cell>
@@ -1000,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9cbc64ba</cell>
   </row>
-  <row index="50">
+  <row index="51">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/32e069b7-en</cell>
     <cell name="title">Colombia (en)</cell>
@@ -1020,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0d570ba</cell>
   </row>
-  <row index="51">
+  <row index="52">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/693d8ce6-en</cell>
     <cell name="title">Norway (en)</cell>
@@ -1040,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff358ee1</cell>
   </row>
-  <row index="52">
+  <row index="53">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/252c9ed2-en</cell>
     <cell name="title">Korea (en)</cell>
@@ -1060,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2f7ce9d</cell>
   </row>
-  <row index="53">
+  <row index="54">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8aec394d-en</cell>
     <cell name="title">Australia (en)</cell>
@@ -1080,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f0acded</cell>
   </row>
-  <row index="54">
+  <row index="55">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e364188c-en</cell>
     <cell name="title">Romania (en)</cell>
@@ -1100,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/683ac8c3</cell>
   </row>
-  <row index="55">
+  <row index="56">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ab939e96-en</cell>
     <cell name="title">Slovenia (en)</cell>
@@ -1120,7 +1140,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd34c7dd</cell>
   </row>
-  <row index="56">
+  <row index="57">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/4ffdb23f-it</cell>
+    <cell name="title">Italia (it)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Italian</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-09</cell>
+    <cell name="embargo date">2025-09-09T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/733adc2f</cell>
+  </row>
+  <row index="58">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/da7fcac6-en</cell>
     <cell name="title">Croatia (en)</cell>
@@ -1140,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/131963c5</cell>
   </row>
-  <row index="57">
+  <row index="59">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/30092c7f-en</cell>
     <cell name="title">Greece (en)</cell>
@@ -1160,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1373180f</cell>
   </row>
-  <row index="58">
+  <row index="60">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/72d24ba8-en</cell>
     <cell name="title">How do student-teacher ratios and class sizes vary across education levels up to upper secondary education? (en)</cell>
@@ -1180,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f60e99d1</cell>
   </row>
-  <row index="59">
+  <row index="61">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9648f416-en</cell>
     <cell name="title">Türkiye (en)</cell>
@@ -1200,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8cfae9ab</cell>
   </row>
-  <row index="60">
+  <row index="62">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/af1a6142-en</cell>
     <cell name="title">New Zealand (en)</cell>
@@ -1220,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20b3036e</cell>
   </row>
-  <row index="61">
+  <row index="63">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/252c9ed2-en</cell>
     <cell name="title">Korea (en)</cell>
@@ -1240,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40917c18</cell>
   </row>
-  <row index="62">
+  <row index="64">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/aca6dceb-fr</cell>
     <cell name="title">France (fr)</cell>
@@ -1260,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd1efdd8</cell>
   </row>
-  <row index="63">
+  <row index="65">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/26a700bc-en</cell>
     <cell name="title">Netherlands (en)</cell>
@@ -1280,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/011c94fc</cell>
   </row>
-  <row index="64">
+  <row index="66">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e68ee91a-en</cell>
     <cell name="title">Chile (en)</cell>
@@ -1300,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06329885</cell>
   </row>
-  <row index="65">
+  <row index="67">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4ec12dea-en</cell>
     <cell name="title">Denmark (en)</cell>
@@ -1320,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9cc4441e</cell>
   </row>
-  <row index="66">
+  <row index="68">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1ed5ff68-en</cell>
     <cell name="title">Ireland (en)</cell>
@@ -1340,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6170ec3e</cell>
   </row>
-  <row index="67">
+  <row index="69">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d448205b-en</cell>
     <cell name="title">Sweden (en)</cell>
@@ -1360,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47700189</cell>
   </row>
-  <row index="68">
+  <row index="70">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d42263a0-en</cell>
     <cell name="title">Brazil (en)</cell>
@@ -1380,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e1914587</cell>
   </row>
-  <row index="69">
+  <row index="71">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9d50d6ac-en</cell>
     <cell name="title">Czechia (en)</cell>
@@ -1400,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a682fa02</cell>
   </row>
-  <row index="70">
+  <row index="72">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/28180d4d-en</cell>
     <cell name="title">Austria (en)</cell>
@@ -1420,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3781f70</cell>
   </row>
-  <row index="71">
+  <row index="73">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4d428477-en</cell>
     <cell name="title">France (en)</cell>
@@ -1440,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7bbe73fc</cell>
   </row>
-  <row index="72">
+  <row index="74">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4ec12dea-en</cell>
     <cell name="title">Denmark (en)</cell>
@@ -1460,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60337a45</cell>
   </row>
-  <row index="73">
+  <row index="75">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4d428477-en</cell>
     <cell name="title">France (en)</cell>
@@ -1480,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a800d94</cell>
   </row>
-  <row index="74">
+  <row index="76">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/784df67f-en</cell>
     <cell name="title">United States (en)</cell>
@@ -1500,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa48199f</cell>
   </row>
-  <row index="75">
+  <row index="77">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c93708b1-en</cell>
     <cell name="title">United Kingdom (en)</cell>
@@ -1520,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/941098ce</cell>
   </row>
-  <row index="76">
+  <row index="78">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/6fe24c8a-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1540,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2cdc7c0</cell>
   </row>
-  <row index="77">
+  <row index="79">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/713737b6-en</cell>
     <cell name="title">Slovak Republic (en)</cell>
@@ -1560,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22c6656a</cell>
   </row>
-  <row index="78">
+  <row index="80">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0fbd3865-en</cell>
     <cell name="title">Belgium (en)</cell>
@@ -1580,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/38c98a77</cell>
   </row>
-  <row index="79">
+  <row index="81">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e364188c-en</cell>
     <cell name="title">Romania (en)</cell>
@@ -1600,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dde9775c</cell>
   </row>
-  <row index="80">
+  <row index="82">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0fbd3865-en</cell>
     <cell name="title">Belgium (en)</cell>
@@ -1620,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3bf9dfa8</cell>
   </row>
-  <row index="81">
+  <row index="83">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ab939e96-en</cell>
     <cell name="title">Slovenia (en)</cell>
@@ -1640,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ad571894</cell>
   </row>
-  <row index="82">
+  <row index="84">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e5e24e66-en</cell>
     <cell name="title">Costa Rica (en)</cell>
@@ -1660,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8150d9a6</cell>
   </row>
-  <row index="83">
+  <row index="85">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1ed5ff68-en</cell>
     <cell name="title">Ireland (en)</cell>
@@ -1680,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/095773cf</cell>
   </row>
-  <row index="84">
+  <row index="86">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4692d9a6-en</cell>
     <cell name="title">Portugal (en)</cell>
@@ -1700,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec217313</cell>
   </row>
-  <row index="85">
+  <row index="87">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/26a700bc-en</cell>
     <cell name="title">Netherlands (en)</cell>
@@ -1720,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de3af391</cell>
   </row>
-  <row index="86">
+  <row index="88">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0afa65c8-en</cell>
     <cell name="title">Peru (en)</cell>
@@ -1740,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/01189530</cell>
   </row>
-  <row index="87">
+  <row index="89">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b4b81fd6-en</cell>
     <cell name="title">Lithuania (en)</cell>
@@ -1760,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4119b01</cell>
   </row>
-  <row index="88">
+  <row index="90">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ce6a534e-en</cell>
     <cell name="title">Spain (en)</cell>
@@ -1780,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0f73801</cell>
   </row>
-  <row index="89">
+  <row index="91">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b4b81fd6-en</cell>
     <cell name="title">Lithuania (en)</cell>
@@ -1800,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc4f9eff</cell>
   </row>
-  <row index="90">
+  <row index="92">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1c0d9c79-en</cell>
     <cell name="title">Education at a Glance 2025 (en)</cell>
@@ -1820,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d617cd4a</cell>
   </row>
-  <row index="91">
+  <row index="93">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9d50d6ac-en</cell>
     <cell name="title">Czechia (en)</cell>
@@ -1840,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5b505a70</cell>
   </row>
-  <row index="92">
+  <row index="94">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/784df67f-en</cell>
     <cell name="title">United States (en)</cell>
@@ -1860,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e9bf67c7</cell>
   </row>
-  <row index="93">
+  <row index="95">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/65d21771-en</cell>
     <cell name="title">Transition from education to work: Where are today’s youth? (en)</cell>
@@ -1880,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/944f7975</cell>
   </row>
-  <row index="94">
+  <row index="96">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5cc616ce-en</cell>
     <cell name="title">Italy (en)</cell>
@@ -1900,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5172a71c</cell>
   </row>
-  <row index="95">
+  <row index="97">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8aec394d-en</cell>
     <cell name="title">Australia (en)</cell>
@@ -1920,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e5be04c</cell>
   </row>
-  <row index="96">
+  <row index="98">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5d7d4560-en</cell>
     <cell name="title">How do different education systems shape student pathways in primary and lower secondary education? (en)</cell>
@@ -1940,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d60dabc</cell>
   </row>
-  <row index="97">
+  <row index="99">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a1603bbe-en</cell>
     <cell name="title">South Africa (en)</cell>
@@ -1960,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3f936c3</cell>
   </row>
-  <row index="98">
+  <row index="100">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ab939e96-en</cell>
     <cell name="title">Slovenia (en)</cell>
@@ -1980,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e167ad31</cell>
   </row>
-  <row index="99">
+  <row index="101">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d2b874d4-en</cell>
     <cell name="title">How are social outcomes related to education? (en)</cell>
@@ -2000,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8bb83d29</cell>
   </row>
-  <row index="100">
+  <row index="102">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/713737b6-en</cell>
     <cell name="title">Slovak Republic (en)</cell>
@@ -2020,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7e80dd2</cell>
   </row>
-  <row index="101">
+  <row index="103">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c9caa592-en</cell>
     <cell name="title">How are primary and lower secondary education financed? (en)</cell>
@@ -2040,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/373ef468</cell>
   </row>
-  <row index="102">
+  <row index="104">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3bd3e4ee-en</cell>
     <cell name="title">Argentina (en)</cell>
@@ -2060,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59cd32d4</cell>
   </row>
-  <row index="103">
+  <row index="105">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ff5b4f26-en</cell>
     <cell name="title">PIAAC. What admission systems are used in tertiary education? (en)</cell>
@@ -2080,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/099120ca</cell>
   </row>
-  <row index="104">
+  <row index="106">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9f1f41d3-en</cell>
     <cell name="title">Estonia (en)</cell>
@@ -2100,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7484ce73</cell>
   </row>
-  <row index="105">
+  <row index="107">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c93708b1-en</cell>
     <cell name="title">United Kingdom (en)</cell>
@@ -2120,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f517432</cell>
   </row>
-  <row index="106">
+  <row index="108">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b4b81fd6-en</cell>
     <cell name="title">Lithuania (en)</cell>
@@ -2140,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ffbba37</cell>
   </row>
-  <row index="107">
+  <row index="109">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4b1e0baf-en</cell>
     <cell name="title">Israel (en)</cell>
@@ -2160,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4b6be86</cell>
   </row>
-  <row index="108">
+  <row index="110">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/079b6cc6-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -2180,14 +2220,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63a4e378</cell>
   </row>
-  <row index="109">
+  <row index="111">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b26d545c-fr</cell>
     <cell name="title">Regards sur l'éducation 2025 (fr)</cell>
     <cell name="subtitle">Indicateurs de l'OCDE (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-09</cell>
     <cell name="embargo date">2025-09-09T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -2197,10 +2237,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d55bb2e</cell>
   </row>
-  <row index="110">
+  <row index="112">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/26f60f66-en</cell>
     <cell name="title">Characteristics of education systems (en)</cell>
@@ -2220,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/399181f4</cell>
   </row>
-  <row index="111">
+  <row index="113">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.3278/9783763979257</cell>
     <cell name="title">Bildung auf einen Blick 2025 (de)</cell>
@@ -2240,7 +2280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1928ca57</cell>
   </row>
-  <row index="112">
+  <row index="114">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/16ec0e94-en</cell>
     <cell name="title">How does educational attainment affect participation in the labour market? (en)</cell>
@@ -2260,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fcf0a535</cell>
   </row>
-  <row index="113">
+  <row index="115">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9648f416-en</cell>
     <cell name="title">Türkiye (en)</cell>
@@ -2280,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ba2cc9a</cell>
   </row>
-  <row index="114">
+  <row index="116">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8f0a8541-en</cell>
     <cell name="title">Japan (en)</cell>
@@ -2300,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2995367</cell>
   </row>
-  <row index="115">
+  <row index="117">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/252c9ed2-en</cell>
     <cell name="title">Korea (en)</cell>
@@ -2320,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6960c38f</cell>
   </row>
-  <row index="116">
+  <row index="118">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e320e2ea-en</cell>
     <cell name="title">Iceland (en)</cell>
@@ -2340,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/00bcf0d6</cell>
   </row>
-  <row index="117">
+  <row index="119">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e76df454-en</cell>
     <cell name="title">How much time do students spend in the classroom? (en)</cell>
@@ -2360,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61fc61d3</cell>
   </row>
-  <row index="118">
+  <row index="120">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a1603bbe-en</cell>
     <cell name="title">South Africa (en)</cell>
@@ -2380,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23b869e8</cell>
   </row>
-  <row index="119">
+  <row index="121">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c93708b1-en</cell>
     <cell name="title">United Kingdom (en)</cell>
@@ -2400,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b54fde24</cell>
   </row>
-  <row index="120">
+  <row index="122">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4692d9a6-en</cell>
     <cell name="title">Portugal (en)</cell>
@@ -2420,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40d6ba74</cell>
   </row>
-  <row index="121">
+  <row index="123">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3bd3e4ee-en</cell>
     <cell name="title">Argentina (en)</cell>
@@ -2440,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a091949</cell>
   </row>
-  <row index="122">
+  <row index="124">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2f1a2253-en</cell>
     <cell name="title">How is tertiary education financed? (en)</cell>
@@ -2460,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7dedafa2</cell>
   </row>
-  <row index="123">
+  <row index="125">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4b1e0baf-en</cell>
     <cell name="title">Israel (en)</cell>
@@ -2480,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/997c906f</cell>
   </row>
-  <row index="124">
+  <row index="126">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d448205b-en</cell>
     <cell name="title">Sweden (en)</cell>
@@ -2500,7 +2540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f1eaab9</cell>
   </row>
-  <row index="125">
+  <row index="127">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e68ee91a-en</cell>
     <cell name="title">Chile (en)</cell>
@@ -2520,7 +2560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdb45c0e</cell>
   </row>
-  <row index="126">
+  <row index="128">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/30092c7f-en</cell>
     <cell name="title">Greece (en)</cell>
@@ -2540,7 +2580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56719707</cell>
   </row>
-  <row index="127">
+  <row index="129">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0afa65c8-en</cell>
     <cell name="title">Peru (en)</cell>
@@ -2560,7 +2600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9688b4d7</cell>
   </row>
-  <row index="128">
+  <row index="130">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/23d5239e-en</cell>
     <cell name="title">What are the earnings advantages to education? (en)</cell>
@@ -2580,7 +2620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed256e38</cell>
   </row>
-  <row index="129">
+  <row index="131">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d8f44a5b-en</cell>
     <cell name="title">Finland (en)</cell>
@@ -2600,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63ce868f</cell>
   </row>
-  <row index="130">
+  <row index="132">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/244274a8-en</cell>
     <cell name="title">How much are teachers and school heads paid? (en)</cell>
@@ -2620,7 +2660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28b669bd</cell>
   </row>
-  <row index="131">
+  <row index="133">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/32e069b7-en</cell>
     <cell name="title">Colombia (en)</cell>
@@ -2640,7 +2680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/778f8b55</cell>
   </row>
-  <row index="132">
+  <row index="134">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e9cf82db-en</cell>
     <cell name="title">How severe are teacher shortages across countries? (en)</cell>
@@ -2660,7 +2700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0fffe5ab</cell>
   </row>
-  <row index="133">
+  <row index="135">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/cf017b16-en</cell>
     <cell name="title">Latvia (en)</cell>
@@ -2680,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7c9a27e</cell>
   </row>
-  <row index="134">
+  <row index="136">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4d428477-en</cell>
     <cell name="title">France (en)</cell>
@@ -2700,7 +2740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e3e27a3</cell>
   </row>
-  <row index="135">
+  <row index="137">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e320e2ea-en</cell>
     <cell name="title">Iceland (en)</cell>
@@ -2720,7 +2760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7fed2054</cell>
   </row>
-  <row index="136">
+  <row index="138">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/da7fcac6-en</cell>
     <cell name="title">Croatia (en)</cell>
@@ -2740,7 +2780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92c96adb</cell>
   </row>
-  <row index="137">
+  <row index="139">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8f94ae45-en</cell>
     <cell name="title">Luxembourg (en)</cell>
@@ -2760,7 +2800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1082bbbe</cell>
   </row>
-  <row index="138">
+  <row index="140">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e5e24e66-en</cell>
     <cell name="title">Costa Rica (en)</cell>
@@ -2780,7 +2820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1edb8341</cell>
   </row>
-  <row index="139">
+  <row index="141">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4ec12dea-en</cell>
     <cell name="title">Denmark (en)</cell>
@@ -2800,7 +2840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75ada647</cell>
   </row>
-  <row index="140">
+  <row index="142">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8aec394d-en</cell>
     <cell name="title">Australia (en)</cell>
@@ -2820,7 +2860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe820393</cell>
   </row>
-  <row index="141">
+  <row index="143">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a2529d00-en</cell>
     <cell name="title">Canada (en)</cell>
@@ -2840,7 +2880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/581ac5b7</cell>
   </row>
-  <row index="142">
+  <row index="144">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5cc616ce-en</cell>
     <cell name="title">Italy (en)</cell>
@@ -2860,7 +2900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/277d37fe</cell>
   </row>
-  <row index="143">
+  <row index="145">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/26a700bc-en</cell>
     <cell name="title">Netherlands (en)</cell>
@@ -2880,7 +2920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7cb9a09c</cell>
   </row>
-  <row index="144">
+  <row index="146">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3b36a6f6-en</cell>
     <cell name="title">Mexico (en)</cell>
@@ -2900,7 +2940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a3d57bd</cell>
   </row>
-  <row index="145">
+  <row index="147">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0afa65c8-en</cell>
     <cell name="title">Peru (en)</cell>
@@ -2920,7 +2960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/32f97d3c</cell>
   </row>
-  <row index="146">
+  <row index="148">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4692d9a6-en</cell>
     <cell name="title">Portugal (en)</cell>
@@ -2940,7 +2980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd9a3d21</cell>
   </row>
-  <row index="147">
+  <row index="149">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3b36a6f6-en</cell>
     <cell name="title">Mexico (en)</cell>
@@ -2960,7 +3000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d5bc681</cell>
   </row>
-  <row index="148">
+  <row index="150">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a2529d00-en</cell>
     <cell name="title">Canada (en)</cell>
@@ -2980,7 +3020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c042e26</cell>
   </row>
-  <row index="149">
+  <row index="151">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b7fb12b6-en</cell>
     <cell name="title">Poland (en)</cell>
@@ -3000,7 +3040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4ed6a57</cell>
   </row>
-  <row index="150">
+  <row index="152">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/561f2197-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3020,7 +3060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99bbfad5</cell>
   </row>
-  <row index="151">
+  <row index="153">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4b331b3d-en</cell>
     <cell name="title">How do academic staff profiles and institutional characteristics shape tertiary education? (en)</cell>
@@ -3040,7 +3080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6f11ee2</cell>
   </row>
-  <row index="152">
+  <row index="154">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a25390b4-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -3060,7 +3100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63134759</cell>
   </row>
-  <row index="153">
+  <row index="155">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/30092c7f-en</cell>
     <cell name="title">Greece (en)</cell>
@@ -3080,7 +3120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a24dfd9</cell>
   </row>
-  <row index="154">
+  <row index="156">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e364188c-en</cell>
     <cell name="title">Romania (en)</cell>
@@ -3100,7 +3140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1fdbc9f0</cell>
   </row>
-  <row index="155">
+  <row index="157">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b3f1a453-en</cell>
     <cell name="title">To what extent do adults participate in education and training? (en)</cell>
@@ -3120,7 +3160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aaaff085</cell>
   </row>
-  <row index="156">
+  <row index="158">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e7c7fc03-en</cell>
     <cell name="title">Switzerland (en)</cell>
@@ -3140,7 +3180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf4eba00</cell>
   </row>
-  <row index="157">
+  <row index="159">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1c0d9c79-en</cell>
     <cell name="title">Education at a Glance 2025 (en)</cell>
@@ -3160,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ad0bf80</cell>
   </row>
-  <row index="158">
+  <row index="160">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d42263a0-en</cell>
     <cell name="title">Brazil (en)</cell>
@@ -3180,7 +3220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/349516fb</cell>
   </row>
-  <row index="159">
+  <row index="161">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b7fb12b6-en</cell>
     <cell name="title">Poland (en)</cell>
@@ -3200,7 +3240,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10165d6b</cell>
   </row>
-  <row index="160">
+  <row index="162">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/4ffdb23f-it</cell>
+    <cell name="title">Italia (it)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Italian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-09</cell>
+    <cell name="embargo date">2025-09-09T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Short content</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e4cc9e5</cell>
+  </row>
+  <row index="163">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/047f1cb6-en</cell>
     <cell name="title">Bulgaria (en)</cell>
@@ -3220,7 +3280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90b55ee4</cell>
   </row>
-  <row index="161">
+  <row index="164">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8f94ae45-en</cell>
     <cell name="title">Luxembourg (en)</cell>
@@ -3240,7 +3300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb7cca3a</cell>
   </row>
-  <row index="162">
+  <row index="165">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3bd3e4ee-en</cell>
     <cell name="title">Argentina (en)</cell>
@@ -3260,7 +3320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f466dfe4</cell>
   </row>
-  <row index="163">
+  <row index="166">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/28180d4d-en</cell>
     <cell name="title">Austria (en)</cell>
@@ -3280,7 +3340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccb99cc2</cell>
   </row>
-  <row index="164">
+  <row index="167">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/784df67f-en</cell>
     <cell name="title">United States (en)</cell>
@@ -3300,7 +3360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/11474835</cell>
   </row>
-  <row index="165">
+  <row index="168">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e7c7fc03-en</cell>
     <cell name="title">Switzerland (en)</cell>
@@ -3320,7 +3380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86bbcbbd</cell>
   </row>
-  <row index="166">
+  <row index="169">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/aca6dceb-fr</cell>
     <cell name="title">France (fr)</cell>
@@ -3340,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f96aa370</cell>
   </row>
-  <row index="167">
+  <row index="170">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3b36a6f6-en</cell>
     <cell name="title">Mexico (en)</cell>
@@ -3360,7 +3420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dee3bbef</cell>
   </row>
-  <row index="168">
+  <row index="171">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c9e3d62e-en</cell>
     <cell name="title">Contributors to this publication (en)</cell>
@@ -3380,7 +3440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb763e6d</cell>
   </row>
-  <row index="169">
+  <row index="172">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9b7c3dd1-en</cell>
     <cell name="title">Hungary (en)</cell>
@@ -3400,7 +3460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c44df9fc</cell>
   </row>
-  <row index="170">
+  <row index="173">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8f0a8541-en</cell>
     <cell name="title">Japan (en)</cell>
@@ -3420,7 +3480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7807dd3e</cell>
   </row>
-  <row index="171">
+  <row index="174">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/da7fcac6-en</cell>
     <cell name="title">Croatia (en)</cell>
@@ -3440,7 +3500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eebcbe47</cell>
   </row>
-  <row index="172">
+  <row index="175">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ed83817d-en</cell>
     <cell name="title">Key system-level indicators of education finance (en)</cell>
@@ -3460,7 +3520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd88c0b9</cell>
   </row>
-  <row index="173">
+  <row index="176">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4b1e0baf-en</cell>
     <cell name="title">Israel (en)</cell>
@@ -3480,7 +3540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/65ce0fb3</cell>
   </row>
-  <row index="174">
+  <row index="177">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a1603bbe-en</cell>
     <cell name="title">South Africa (en)</cell>
@@ -3500,7 +3560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b57261b</cell>
   </row>
-  <row index="175">
+  <row index="178">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1c0d9c79-en</cell>
     <cell name="title">Education at a Glance 2025 (en)</cell>
@@ -3520,7 +3580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe84d657</cell>
   </row>
-  <row index="176">
+  <row index="179">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9648f416-en</cell>
     <cell name="title">Türkiye (en)</cell>
@@ -3540,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e71f0bad</cell>
   </row>
-  <row index="177">
+  <row index="180">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e68ee91a-en</cell>
     <cell name="title">Chile (en)</cell>
@@ -3560,7 +3620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80387634</cell>
   </row>
-  <row index="178">
+  <row index="181">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/693d8ce6-en</cell>
     <cell name="title">Norway (en)</cell>
@@ -3580,7 +3640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f14b987</cell>
   </row>
-  <row index="179">
+  <row index="182">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1fead8c9-en</cell>
     <cell name="title">How much are academic staff in tertiary institutions paid? (en)</cell>
@@ -3600,7 +3660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07c17d3d</cell>
   </row>
-  <row index="180">
+  <row index="183">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d8f44a5b-en</cell>
     <cell name="title">Finland (en)</cell>
@@ -3620,7 +3680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d2cc0a2</cell>
   </row>
-  <row index="181">
+  <row index="184">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9f1f41d3-en</cell>
     <cell name="title">Estonia (en)</cell>
@@ -3640,7 +3700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6a9e1da</cell>
   </row>
-  <row index="182">
+  <row index="185">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9d50d6ac-en</cell>
     <cell name="title">Czechia (en)</cell>
@@ -3660,7 +3720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/162d2110</cell>
   </row>
-  <row index="183">
+  <row index="186">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a49b644d-en</cell>
     <cell name="title">How are upper secondary and post-secondary non-tertiary education financed? (en)</cell>
@@ -3680,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbec353c</cell>
   </row>
-  <row index="184">
+  <row index="187">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5cc616ce-en</cell>
     <cell name="title">Italy (en)</cell>
@@ -3700,7 +3760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3148ac9</cell>
   </row>
-  <row index="185">
+  <row index="188">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9f1f41d3-en</cell>
     <cell name="title">Estonia (en)</cell>
@@ -3720,14 +3780,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c177d9e4</cell>
   </row>
-  <row index="186">
+  <row index="189">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/fcfaf2d1-en</cell>
     <cell name="title">Education at a Glance 2025 Sources, Methodologies and Technical Notes (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-09</cell>
     <cell name="embargo date">2025-09-09T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -3737,10 +3797,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e967eec</cell>
   </row>
-  <row index="187">
+  <row index="190">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/cf017b16-en</cell>
     <cell name="title">Latvia (en)</cell>
@@ -3760,7 +3820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c744a81f</cell>
   </row>
-  <row index="188">
+  <row index="191">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2f568ef9-en</cell>
     <cell name="title">How do upper secondary and post-secondary non-tertiary education systems support students' progression to tertiary education? (en)</cell>
@@ -3780,7 +3840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d92141fb</cell>
   </row>
-  <row index="189">
+  <row index="192">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d8f44a5b-en</cell>
     <cell name="title">Finland (en)</cell>
@@ -3800,7 +3860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb0eae9b</cell>
   </row>
-  <row index="190">
+  <row index="193">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e5e24e66-en</cell>
     <cell name="title">Costa Rica (en)</cell>
@@ -3820,7 +3880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc7bc653</cell>
   </row>
-  <row index="191">
+  <row index="194">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e7c7fc03-en</cell>
     <cell name="title">Switzerland (en)</cell>
@@ -3840,7 +3900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56b90ed2</cell>
   </row>
-  <row index="192">
+  <row index="195">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9b7c3dd1-en</cell>
     <cell name="title">Hungary (en)</cell>
@@ -3860,7 +3920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05893f2e</cell>
   </row>
-  <row index="193">
+  <row index="196">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5103a210-en</cell>
     <cell name="title">To what level have adults studied? (en)</cell>
@@ -3880,7 +3940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f3683944</cell>
   </row>
-  <row index="194">
+  <row index="197">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/fa91d155-en</cell>
     <cell name="title">Germany (en)</cell>
@@ -3900,7 +3960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aba4ae26</cell>
   </row>
-  <row index="195">
+  <row index="198">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/fa91d155-en</cell>
     <cell name="title">Germany (en)</cell>
@@ -3920,7 +3980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69a7474d</cell>
   </row>
-  <row index="196">
+  <row index="199">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/fa91d155-en</cell>
     <cell name="title">Germany (en)</cell>
@@ -3940,7 +4000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03a3b93f</cell>
   </row>
-  <row index="197">
+  <row index="200">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/19b859ce-en</cell>
     <cell name="title">Scaling Up Biodiversity-Positive Incentives (en)</cell>
@@ -3960,7 +4020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f95b6b67</cell>
   </row>
-  <row index="198">
+  <row index="201">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9e942601-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -3980,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26f4245f</cell>
   </row>
-  <row index="199">
+  <row index="202">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/de648d27-en</cell>
     <cell name="title">Tax Policy Reforms 2025 (en)</cell>
@@ -4000,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bafdeedf</cell>
   </row>
-  <row index="200">
+  <row index="203">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/de648d27-en</cell>
     <cell name="title">Tax Policy Reforms 2025 (en)</cell>
@@ -4020,7 +4080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ad46d605</cell>
   </row>
-  <row index="201">
+  <row index="204">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/958715af-en</cell>
     <cell name="title">Macroeconomic background (en)</cell>
@@ -4040,7 +4100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76657833</cell>
   </row>
-  <row index="202">
+  <row index="205">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/de648d27-en</cell>
     <cell name="title">Tax Policy Reforms 2025 (en)</cell>
@@ -4060,7 +4120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6c81c7da</cell>
   </row>
-  <row index="203">
+  <row index="206">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/55c10d86-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4080,7 +4140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c47c2c1f</cell>
   </row>
-  <row index="204">
+  <row index="207">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/de648d27-en</cell>
     <cell name="title">Tax Policy Reforms 2025 (en)</cell>
@@ -4100,7 +4160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10d716b5</cell>
   </row>
-  <row index="205">
+  <row index="208">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/de648d27-en</cell>
     <cell name="title">Tax Policy Reforms 2025 (en)</cell>
@@ -4120,7 +4180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0dd79b0e</cell>
   </row>
-  <row index="206">
+  <row index="209">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/193ebe9a-en</cell>
     <cell name="title">Tax policy reforms (en)</cell>
@@ -4140,7 +4200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba5eb6d1</cell>
   </row>
-  <row index="207">
+  <row index="210">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/04da2a1d-en</cell>
     <cell name="title">Tax revenue context (en)</cell>
@@ -4160,7 +4220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db4883b2</cell>
   </row>
-  <row index="208">
+  <row index="211">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/6422396e-en</cell>
     <cell name="title">Regional Integration in the Union for the Mediterranean 2025 (en)</cell>
@@ -4180,7 +4240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ca98cb1</cell>
   </row>
-  <row index="209">
+  <row index="212">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/170fb938-fr</cell>
     <cell name="title">Intégration régionale dans l’Union pour la Méditerranée 2025 (fr)</cell>
@@ -4200,7 +4260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d3d6ae8</cell>
   </row>
-  <row index="210">
+  <row index="213">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/6422396e-en</cell>
     <cell name="title">Regional Integration in the Union for the Mediterranean 2025 (en)</cell>
@@ -4220,7 +4280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4599cba3</cell>
   </row>
-  <row index="211">
+  <row index="214">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/9009e5ba-ar</cell>
     <cell name="title">التكامل الإقليمي في الاتحاد من أجل المتوسط 2025 (ar)</cell>
@@ -4240,7 +4300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6c4dbef9</cell>
   </row>
-  <row index="212">
+  <row index="215">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/ca7295d9-en</cell>
     <cell name="title">The Global Forum on Productivity at 10 (en)</cell>
@@ -4260,7 +4320,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1ec3214</cell>
   </row>
-  <row index="213">
+  <row index="216">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/623087f9-en</cell>
+    <cell name="title">The OECD Index of Digital Trade Integration and Openness (INDIGO) (en)</cell>
+    <cell name="subtitle">Policy Trends up to 2025 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea3ccbe1</cell>
+  </row>
+  <row index="217">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/623087f9-en</cell>
+    <cell name="title">The OECD Index of Digital Trade Integration and Openness (INDIGO) (en)</cell>
+    <cell name="subtitle">Policy Trends up to 2025 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6ac0834</cell>
+  </row>
+  <row index="218">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b6d01a7b-en</cell>
     <cell name="title">Methodology for the OECD Index of Digital Trade Integration and Openness (INDIGO) (en)</cell>
@@ -4280,7 +4380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c54aea3</cell>
   </row>
-  <row index="214">
+  <row index="219">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6816434b-fr</cell>
     <cell name="title">Gouverner avec l’intelligence artificielle (fr)</cell>
@@ -4300,14 +4400,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80cd09b7</cell>
   </row>
-  <row index="215">
+  <row index="220">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/623087f9-en</cell>
     <cell name="title">The OECD Index of Digital Trade Integration and Openness (INDIGO) (en)</cell>
     <cell name="subtitle">Policy Trends up to 2025 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-18</cell>
     <cell name="embargo date">2025-09-18T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -4317,10 +4417,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c43b7733</cell>
   </row>
-  <row index="216">
+  <row index="221">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6816434b-fr</cell>
     <cell name="title">Gouverner avec l’intelligence artificielle (fr)</cell>
@@ -4340,7 +4440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0df5fcfb</cell>
   </row>
-  <row index="217">
+  <row index="222">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/795de142-en</cell>
     <cell name="title">Governing with Artificial Intelligence (en)</cell>
@@ -4360,7 +4460,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c912729</cell>
   </row>
-  <row index="218">
+  <row index="223">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/623087f9-en</cell>
+    <cell name="title">The OECD Index of Digital Trade Integration and Openness (INDIGO) (en)</cell>
+    <cell name="subtitle">Policy Trends up to 2025 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29751109</cell>
+  </row>
+  <row index="224">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/20b2dbb0-en</cell>
     <cell name="title">Principle 5: Monitor blended finance for transparency and results  (en)</cell>
@@ -4380,7 +4500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/11bb272b</cell>
   </row>
-  <row index="219">
+  <row index="225">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4996fe2c-en</cell>
     <cell name="title">Principle 4: Focus on effective partnering for blended finance (en)</cell>
@@ -4400,7 +4520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3fa7754f</cell>
   </row>
-  <row index="220">
+  <row index="226">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/a1045afb-en</cell>
     <cell name="title">Overview (en)</cell>
@@ -4420,7 +4540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94541a28</cell>
   </row>
-  <row index="221">
+  <row index="227">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4915f91c-fr</cell>
     <cell name="title">Note d’orientation du CAD de l’OCDE relative au financement mixte 2025 (version abrégée) (fr)</cell>
@@ -4440,7 +4560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3bd4599c</cell>
   </row>
-  <row index="222">
+  <row index="228">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/084b9636-en</cell>
     <cell name="title">Principle 3: Tailor blended finance to the local context (en)</cell>
@@ -4460,7 +4580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3c97b27d</cell>
   </row>
-  <row index="223">
+  <row index="229">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e4a13d2c-en</cell>
     <cell name="title">OECD DAC Blended Finance Guidance 2025 (en)</cell>
@@ -4480,7 +4600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e22a3fc</cell>
   </row>
-  <row index="224">
+  <row index="230">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e4a13d2c-en</cell>
     <cell name="title">OECD DAC Blended Finance Guidance 2025 (en)</cell>
@@ -4500,7 +4620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b98f9c8d</cell>
   </row>
-  <row index="225">
+  <row index="231">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/43a8f117-en</cell>
     <cell name="title">Readers guide (en)</cell>
@@ -4520,7 +4640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e1eb3e52</cell>
   </row>
-  <row index="226">
+  <row index="232">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e4a13d2c-en</cell>
     <cell name="title">OECD DAC Blended Finance Guidance 2025 (en)</cell>
@@ -4540,7 +4660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05b52080</cell>
   </row>
-  <row index="227">
+  <row index="233">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e4a13d2c-en</cell>
     <cell name="title">OECD DAC Blended Finance Guidance 2025 (en)</cell>
@@ -4560,7 +4680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5007acd9</cell>
   </row>
-  <row index="228">
+  <row index="234">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/38a79246-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -4580,7 +4700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/143fe0ed</cell>
   </row>
-  <row index="229">
+  <row index="235">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e4a13d2c-en</cell>
     <cell name="title">OECD DAC Blended Finance Guidance 2025 (en)</cell>
@@ -4600,7 +4720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1fdf2a9</cell>
   </row>
-  <row index="230">
+  <row index="236">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/1cefc7f7-en</cell>
     <cell name="title">Principle 2: Design blended finance to increase the mobilisation of commercial finance (en)</cell>
@@ -4620,7 +4740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7cca4aa6</cell>
   </row>
-  <row index="231">
+  <row index="237">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/c49f9345-en</cell>
     <cell name="title">Case studies (en)</cell>
@@ -4640,7 +4760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/34ea2500</cell>
   </row>
-  <row index="232">
+  <row index="238">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/9767555f-en</cell>
     <cell name="title">Principle 1: Anchor blended finance use to a development rationale  (en)</cell>
@@ -4660,7 +4780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e256894d</cell>
   </row>
-  <row index="233">
+  <row index="239">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4e1aa45c-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -4680,7 +4800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c67d9065</cell>
   </row>
-  <row index="234">
+  <row index="240">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/bdce1418-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4700,7 +4820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86499adb</cell>
   </row>
-  <row index="235">
+  <row index="241">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/dec143ad-en</cell>
     <cell name="title">To Have and Have Not – How to Bridge the Gap in Opportunities (en)</cell>
@@ -4720,7 +4840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/016c45ba</cell>
   </row>
-  <row index="236">
+  <row index="242">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/dec143ad-en</cell>
     <cell name="title">To Have and Have Not – How to Bridge the Gap in Opportunities (en)</cell>
@@ -4740,7 +4860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ccd9fc8</cell>
   </row>
-  <row index="237">
+  <row index="243">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/c99c7ef0-en</cell>
     <cell name="title">State-Owned Enterprises and Sustainability (en)</cell>
@@ -4760,14 +4880,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60edc079</cell>
   </row>
-  <row index="238">
+  <row index="244">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3280c871-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Staple Crops (en)</cell>
     <cell name="subtitle">Policy Trends up to 2025 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-23</cell>
     <cell name="embargo date">2025-09-23T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -4780,14 +4900,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c2eb5b6</cell>
   </row>
-  <row index="239">
+  <row index="245">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3280c871-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Staple Crops (en)</cell>
     <cell name="subtitle">Policy Trends up to 2025 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">ZJCR</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-23</cell>
     <cell name="embargo date">2025-09-23T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -4800,14 +4920,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a216d6f8</cell>
   </row>
-  <row index="240">
+  <row index="246">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3280c871-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Staple Crops (en)</cell>
     <cell name="subtitle">Policy Trends up to 2025 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-23</cell>
     <cell name="embargo date">2025-09-23T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -4820,14 +4940,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a10955b8</cell>
   </row>
-  <row index="241">
+  <row index="247">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3280c871-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Staple Crops (en)</cell>
     <cell name="subtitle">Policy Trends up to 2025 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">ZXML</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-23</cell>
     <cell name="embargo date">2025-09-23T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -4840,7 +4960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/039d04a5</cell>
   </row>
-  <row index="242">
+  <row index="248">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/36e668f2-en</cell>
     <cell name="title">The Green Transition of SMEs and Entrepreneurship in Portugal (en)</cell>
@@ -4860,7 +4980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53848ae9</cell>
   </row>
-  <row index="243">
+  <row index="249">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/67b10c01-en</cell>
     <cell name="title">OECD Economic Outlook, Interim Report September 2025 (en)</cell>
@@ -4880,7 +5000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee323bdb</cell>
   </row>
-  <row index="244">
+  <row index="250">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/12b64ce6-en</cell>
     <cell name="title">Assessing Bosnia and Herzegovina's Reform Agenda for Private Sector Development (en)</cell>
@@ -4900,7 +5020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c908119</cell>
   </row>
-  <row index="245">
+  <row index="251">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/626594d0-es</cell>
     <cell name="title">Estudios Económicos de la OCDE: Perú 2025 (es)</cell>
@@ -4920,7 +5040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d69fff0</cell>
   </row>
-  <row index="246">
+  <row index="252">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/76f6eb73-en</cell>
     <cell name="title">OECD Economic Surveys: Peru 2025 (en)</cell>
@@ -4940,7 +5060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0baedd43</cell>
   </row>
-  <row index="247">
+  <row index="253">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/5d085904-fr</cell>
     <cell name="title">Estimer la valeur économique du risque de mortalité dans l’évaluation des politiques publiques (version abrégée) (fr)</cell>
@@ -4960,14 +5080,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a381565a</cell>
   </row>
-  <row index="248">
+  <row index="254">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/76ca89a2-en</cell>
     <cell name="title">Mortality Risk Valuation in Policy Assessment (en)</cell>
     <cell name="subtitle">A Global Meta-Analysis of Value of Statistical Life Studies (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2025-10-01</cell>
     <cell name="embargo date">2025-10-01T13:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -4980,7 +5100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0b3ea29</cell>
   </row>
-  <row index="249">
+  <row index="255">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f36dacf8-en</cell>
     <cell name="title">Algorithmic pricing and competition in G7 jurisdictions (en)</cell>
@@ -5000,7 +5120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e70d62e5</cell>
   </row>
-  <row index="250">
+  <row index="256">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/90df6235-en</cell>
     <cell name="title">Results from TALIS 2024 (en)</cell>
@@ -5020,7 +5140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6220adb6</cell>
   </row>
-  <row index="251">
+  <row index="257">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>
