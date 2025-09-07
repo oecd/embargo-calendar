@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 September 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 7 September 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 September 2025](#4-september-2025)
 * [8 September 2025](#8-september-2025)
 * [9 September 2025](#9-september-2025)
 * [10 September 2025](#10-september-2025)
@@ -20,56 +19,6 @@ Data generated on | |
 * [2 October 2025](#2-october-2025)
 * [7 October 2025](#7-october-2025)
 * [9 October 2025](#9-october-2025)
-
-------
-
-# 4 September 2025
-
-## [Housing Reforms in Czechia and Poland](https://doi.org/10.1787/4988c473-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 September 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD global long-run economic scenarios - 2025 update](https://doi.org/10.1787/00353678-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 September 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
 
 ------
 

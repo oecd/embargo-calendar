@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 September 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Housing Reforms in Czechia and Poland](https://doi.org/10.1787/4988c473-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 September 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD global long-run economic scenarios - 2025 update](https://doi.org/10.1787/00353678-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 September 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
+| *Sunday 7 September 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
 
