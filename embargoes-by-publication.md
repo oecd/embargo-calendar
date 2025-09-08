@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 7 September 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 8 September 2025 at 23:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
 
@@ -113,6 +113,29 @@ Tuesday 9 September 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [日本](https://doi.org/10.1787/c78ac36e-ja)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Japanese*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -625,29 +648,6 @@ Tuesday 9 September 2025 at 7:00 | no launch event
 
 ------
 
-## [Bildung auf einen Blick 2025 - OECD-Indikatoren](https://doi.org/10.3278/9783763979257)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 September 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *German*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Iceland](https://doi.org/10.1787/e320e2ea-en)
 
 Embargo date | Launch date
@@ -895,6 +895,29 @@ Tuesday 9 September 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Latvija](https://doi.org/10.1787/586937b1-lv)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Latvian*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -1200,6 +1223,29 @@ Tuesday 9 September 2025 at 7:00 | no launch event
 
 ------
 
+## [Bildung auf einen Blick 2025 - OECD-Indikatoren](https://doi.org/10.3278/9783763979257)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Germany](https://doi.org/10.1787/fa91d155-en)
 
 Embargo date | Launch date
@@ -1223,6 +1269,29 @@ Tuesday 9 September 2025 at 9:00 | no launch event
 
 ------
 
+## [Deutschland](https://doi.org/10.1787/9a449e27-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Scaling Up Biodiversity-Positive Incentives - Delivering on Target 18 of the Global Biodiversity Framework](https://doi.org/10.1787/19b859ce-en)
 
 Embargo date | Launch date
@@ -1231,7 +1300,7 @@ Wednesday 10 September 2025 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1240,9 +1309,9 @@ Wednesday 10 September 2025 at 5:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1447,7 +1516,7 @@ Thursday 18 September 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -1516,7 +1585,7 @@ Monday 22 September 2025 at 7:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
