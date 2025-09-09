@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 8 September 2025 at 23:49* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 9 September 2025 at 23:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
 
@@ -231,6 +231,29 @@ Tuesday 9 September 2025 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Chile](https://doi.org/10.1787/5443ccfb-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
 
 ------
 
@@ -1342,11 +1365,11 @@ Thursday 11 September 2025 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 12 September 2025 at 8:00 | no launch event
+Friday 12 September 2025 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1355,9 +1378,9 @@ Friday 12 September 2025 at 8:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1365,7 +1388,7 @@ Friday 12 September 2025 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 12 September 2025 at 8:00 | no launch event
+Friday 12 September 2025 at 7:30 | no launch event
 
 ### Status Information
 
@@ -1380,7 +1403,7 @@ Friday 12 September 2025 at 8:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -1388,7 +1411,7 @@ Friday 12 September 2025 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 12 September 2025 at 8:00 | no launch event
+Friday 12 September 2025 at 7:30 | no launch event
 
 ### Status Information
 
@@ -1403,7 +1426,7 @@ Friday 12 September 2025 at 8:00 | no launch event
 * Language: *Arabic*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -1411,7 +1434,7 @@ Friday 12 September 2025 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 15 September 2025 at 11:45 | no launch event
+Monday 15 September 2025 at 11:35 | no launch event
 
 ### Status Information
 
