@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 9 September 2025 at 23:50* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Revised BEPS Action 5 Transparency Framework on Tax Rulings](https://doi.org/10.1787/1ab24e78-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 September 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Wednesday 10 September 2025 at 23:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The digitalisation of trade documents and processes - Going paperless today, going paperless tomorrow](https://doi.org/10.1787/64872f25-en)
 
@@ -1415,7 +1392,7 @@ Friday 12 September 2025 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1424,7 +1401,7 @@ Friday 12 September 2025 at 7:30 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *Arabic*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -1599,7 +1576,7 @@ Monday 22 September 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1608,9 +1585,9 @@ Monday 22 September 2025 at 7:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
