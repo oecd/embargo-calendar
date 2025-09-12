@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 11 September 2025 at 23:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 12 September 2025 at 23:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 September 2025](#10-september-2025)
 * [11 September 2025](#11-september-2025)
 * [12 September 2025](#12-september-2025)
 * [15 September 2025](#15-september-2025)
@@ -17,33 +16,7 @@ Data generated on | |
 * [2 October 2025](#2-october-2025)
 * [7 October 2025](#7-october-2025)
 * [9 October 2025](#9-october-2025)
-
-------
-
-# 10 September 2025
-
-## [Scaling Up Biodiversity-Positive Incentives - Delivering on Target 18 of the Global Biodiversity Framework](https://doi.org/10.1787/19b859ce-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 September 2025 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+* [16 October 2025](#16-october-2025)
 
 ------
 
@@ -199,29 +172,6 @@ Thursday 18 September 2025 at 7:00 | no launch event
 
 ------
 
-## [Gouverner avec l’intelligence artificielle - État des lieux et perspectives pour les fonctions essentielles de l’État](https://doi.org/10.1787/6816434b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 September 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [The OECD Index of Digital Trade Integration and Openness (INDIGO) - Policy Trends up to 2025](https://doi.org/10.1787/623087f9-en)
 
 Embargo date | Launch date
@@ -245,11 +195,34 @@ Thursday 18 September 2025 at 7:00 | no launch event
 
 ------
 
+## [Gouverner avec l’intelligence artificielle - État des lieux et perspectives pour les fonctions essentielles de l’État](https://doi.org/10.1787/6816434b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 September 2025 at 11:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Governing with Artificial Intelligence - The State of Play and Way Forward in Core Government Functions](https://doi.org/10.1787/795de142-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 18 September 2025 at 7:00 | no launch event
+Thursday 18 September 2025 at 11:30 | no launch event
 
 ### Status Information
 
@@ -280,7 +253,7 @@ Monday 22 September 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -289,9 +262,9 @@ Monday 22 September 2025 at 6:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -638,6 +611,33 @@ Thursday 9 October 2025 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 16 October 2025
+
+## [Social Connections and Loneliness in OECD countries](https://doi.org/10.1787/6df2d6a0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 October 2025 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
