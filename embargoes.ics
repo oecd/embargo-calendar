@@ -2,175 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/de648d27-end3e438
-SUMMARY:[Book] Tax Policy Reforms 2025 - OECD an
- d Selected Partner Economies
-DESCRIPTION:*[Book] Tax Policy Reforms 2025 - OECD a
- nd Selected Partner Economies*\n\nDirect
- orate: Centre for Tax Policy and Adminis
- tration\nLanguage: English\nDOI: https:/
- /doi.org/10.1787/de648d27-en\nPublicatio
- n type: Book\nReleased as: HTML, Paperba
- ck, PDF, ZJCR, ZXML\n\nEmbargo date/time
- : Thursday, 11 September 2025, 9:00 (GMT
- )\n\n\niLibrary export: never\nFreeprevi
- ew export: never\nOECD.org export: never
- \nFTI loaded: ✓\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 23:36, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=de648d27-en.
-DTSTAMP:20250912T233702Z
-DTSTART:20250911T090000Z
-DTEND:20250911T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Tax Policy Reforms 2025
-  - OECD and Selected Partner Economies
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/6422396e-end3e919
-SUMMARY:[Stand-alone monograph] Regional Integra
- tion in the Union for the Mediterranean 
- 2025 - Progress Report
-DESCRIPTION:*[Stand-alone monograph] Regional Integr
- ation in the Union for the Mediterranean
-  2025 - Progress Report*\n\nDirectorate:
-  Global Relations and Cooperation Direct
- orate\nLanguage: English\nDOI: https://d
- oi.org/10.1787/6422396e-en\nPublication 
- type: Stand-alone monograph\nReleased as
- : HTML, Paperback, PDF, ZJCR, ZXML\n\nEm
- bargo date/time: Friday, 12 September 20
- 25, 7:30 (GMT)\n\n\niLibrary export: nev
- er\nFreepreview export: never\nOECD.org 
- export: never\nFTI loaded: ✓\n\nFor more
-  information see: https://oecd.github.io
- /embargo-calendar/embargoes-by-publicati
- on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 23
- :36, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=6422396e-en.
-DTSTAMP:20250912T233702Z
-DTSTART:20250912T073000Z
-DTEND:20250912T074500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Region
- al Integration in the Union for the Medi
- terranean 2025 - Progress Report
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/170fb938-frd3e1881
-SUMMARY:[Stand-alone monograph] Intégration régi
- onale dans l’Union pour la Méditerranée 
- 2025 - Rapport d'étape
-DESCRIPTION:*[Stand-alone monograph] Intégration rég
- ionale dans l’Union pour la Méditerranée
-  2025 - Rapport d'étape*\n\nDirectorate:
-  Global Relations and Cooperation Direct
- orate\nLanguage: French\nDOI: https://do
- i.org/10.1787/170fb938-fr\nPublication t
- ype: Stand-alone monograph\nReleased as:
-  HTML, Paperback, PDF, ZJCR, ZXML\n\nEmb
- argo date/time: Friday, 12 September 202
- 5, 7:30 (GMT)\n\n\niLibrary export: neve
- r\nFreepreview export: never\nOECD.org e
- xport: never\nFTI loaded: ✓\n\nFor more 
- information see: https://oecd.github.io/
- embargo-calendar/embargoes-by-publicatio
- n.html.\n\nPlease note: This information
-  was correct as of this afternoon at 23:
- 36, it is updated each night; therefore 
- any subsequent updates may not yet be vi
- sible here. Also, please be aware that t
- he different released media (PDF, HTML, 
- etc.) are not necessarily released at th
- e same time. For complete and up-to-date
-  information see here: http://kappa.oecd
- .org/v3/search?term=170fb938-fr.
-DTSTAMP:20250912T233702Z
-DTSTART:20250912T073000Z
-DTEND:20250912T074500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Intégr
- ation régionale dans l’Union pour la Méd
- iterranée 2025 - Rapport d'étape
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9009e5ba-ard3e2681
-SUMMARY:[Stand-alone monograph] التكامل الإقليمي
-  في الاتحاد من أجل المتوسط 2025 - تقرير 
- مرحلي
-DESCRIPTION:*[Stand-alone monograph] التكامل الإقليم
- ي في الاتحاد من أجل المتوسط 2025 - تقرير
-  مرحلي*\n\nDirectorate: Global Relations
-  and Cooperation Directorate\nLanguage: 
- Arabic\nDOI: https://doi.org/10.1787/900
- 9e5ba-ar\nPublication type: Stand-alone 
- monograph\nReleased as: Paperback, PDF\n
- \nEmbargo date/time: Friday, 12 Septembe
- r 2025, 7:30 (GMT)\n\n\niLibrary export:
-  never\nFreepreview export: never\nOECD.
- org export: never\nFTI loaded: ✓\n\nFor 
- more information see: https://oecd.githu
- b.io/embargo-calendar/embargoes-by-publi
- cation.html.\n\nPlease note: This inform
- ation was correct as of this afternoon a
- t 23:36, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=9009e5ba-ar.
-DTSTAMP:20250912T233702Z
-DTSTART:20250912T073000Z
-DTEND:20250912T074500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] التكام
- ل الإقليمي في الاتحاد من أجل المتوسط 202
- 5 - تقرير مرحلي
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/ca7295d9-end3e2735
+UID:10.1787/ca7295d9-end3e63
 SUMMARY:[Stand-alone monograph] The Global Forum
   on Productivity at 10 - Past and Future
   Perspectives on Reviving Productivity G
@@ -190,7 +22,7 @@ DESCRIPTION:*[Stand-alone monograph] The Global Foru
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 23:36, it is updated each night
+ rnoon at 23:44, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -199,7 +31,7 @@ DESCRIPTION:*[Stand-alone monograph] The Global Foru
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=ca7295d9
  -en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250915T113500Z
 DTEND:20250915T115000Z
 TRANSP:TRANSPARENT
@@ -215,7 +47,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] The Gl
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b6d01a7b-end3e2897
+UID:10.1787/b6d01a7b-end3e224
 SUMMARY:[Report] Methodology for the OECD Index 
  of Digital Trade Integration and Opennes
  s (INDIGO)
@@ -233,7 +65,7 @@ DESCRIPTION:*[Report] Methodology for the OECD Index
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:36, it is updated each n
+ afternoon at 23:44, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -242,7 +74,7 @@ DESCRIPTION:*[Report] Methodology for the OECD Index
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=b6d0
  1a7b-en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250918T070000Z
 DTEND:20250918T071500Z
 TRANSP:TRANSPARENT
@@ -257,7 +89,7 @@ DESCRIPTION:Reminder: [Report] Methodology for the O
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/623087f9-end3e2949
+UID:10.1787/623087f9-end3e277
 SUMMARY:[Stand-alone monograph] The OECD Index o
  f Digital Trade Integration and Openness
   (INDIGO) - Policy Trends up to 2025
@@ -276,7 +108,7 @@ DESCRIPTION:*[Stand-alone monograph] The OECD Index
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:36, i
+ correct as of this afternoon at 23:44, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -285,7 +117,7 @@ DESCRIPTION:*[Stand-alone monograph] The OECD Index
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=623087f9-en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250918T070000Z
 DTEND:20250918T071500Z
 TRANSP:TRANSPARENT
@@ -301,7 +133,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] The OE
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6816434b-frd3e3110
+UID:10.1787/6816434b-frd3e438
 SUMMARY:[Stand-alone monograph] Gouverner avec l
  ’intelligence artificielle - État des li
  eux et perspectives pour les fonctions e
@@ -322,7 +154,7 @@ DESCRIPTION:*[Stand-alone monograph] Gouverner avec
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 23:36, it is updated each nigh
+ ernoon at 23:44, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -331,7 +163,7 @@ DESCRIPTION:*[Stand-alone monograph] Gouverner avec
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=6816434
  b-fr.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250918T113000Z
 DTEND:20250918T114500Z
 TRANSP:TRANSPARENT
@@ -347,7 +179,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Gouver
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/795de142-end3e3164
+UID:10.1787/795de142-end3e491
 SUMMARY:[Stand-alone monograph] Governing with A
  rtificial Intelligence - The State of Pl
  ay and Way Forward in Core Government Fu
@@ -367,7 +199,7 @@ DESCRIPTION:*[Stand-alone monograph] Governing with
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:36, it is u
+ t as of this afternoon at 23:44, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -376,7 +208,7 @@ DESCRIPTION:*[Stand-alone monograph] Governing with
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=795de142-en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250918T113000Z
 DTEND:20250918T114500Z
 TRANSP:TRANSPARENT
@@ -392,7 +224,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Govern
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4915f91c-frd3e3376
+UID:10.1787/4915f91c-frd3e704
 SUMMARY:[Book] Note d’orientation du CAD de l’OC
  DE relative au financement mixte 2025 (v
  ersion abrégée)
@@ -410,7 +242,7 @@ DESCRIPTION:*[Book] Note d’orientation du CAD de l’O
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:36,
+ s correct as of this afternoon at 23:44,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -419,7 +251,7 @@ DESCRIPTION:*[Book] Note d’orientation du CAD de l’O
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=4915f91c-fr.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250922T060000Z
 DTEND:20250922T061500Z
 TRANSP:TRANSPARENT
@@ -434,7 +266,7 @@ DESCRIPTION:Reminder: [Book] Note d’orientation du C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e4a13d2c-end3e3853
+UID:10.1787/e4a13d2c-end3e1180
 SUMMARY:[Book] OECD DAC Blended Finance Guidance
   2025
 DESCRIPTION:*[Book] OECD DAC Blended Finance Guidanc
@@ -450,8 +282,8 @@ DESCRIPTION:*[Book] OECD DAC Blended Finance Guidanc
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:3
- 6, it is updated each night; therefore a
+ was correct as of this afternoon at 23:4
+ 4, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -459,7 +291,7 @@ DESCRIPTION:*[Book] OECD DAC Blended Finance Guidanc
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=e4a13d2c-en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250922T060000Z
 DTEND:20250922T061500Z
 TRANSP:TRANSPARENT
@@ -473,7 +305,7 @@ DESCRIPTION:Reminder: [Book] OECD DAC Blended Financ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dec143ad-end3e4490
+UID:10.1787/dec143ad-end3e1817
 SUMMARY:[Stand-alone monograph] To Have and Have
   Not – How to Bridge the Gap in Opportun
  ities
@@ -493,7 +325,7 @@ DESCRIPTION:*[Stand-alone monograph] To Have and Hav
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 23:36, it is updated each night; 
+ oon at 23:44, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -502,7 +334,7 @@ DESCRIPTION:*[Stand-alone monograph] To Have and Hav
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=dec143ad-e
  n.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250922T070000Z
 DTEND:20250922T071500Z
 TRANSP:TRANSPARENT
@@ -517,7 +349,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] To Hav
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c99c7ef0-end3e4915
+UID:10.1787/c99c7ef0-end3e2243
 SUMMARY:[Stand-alone monograph] State-Owned Ente
  rprises and Sustainability - Leading by 
  Example
@@ -536,7 +368,7 @@ DESCRIPTION:*[Stand-alone monograph] State-Owned Ent
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 23
- :36, it is updated each night; therefore
+ :44, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -544,7 +376,7 @@ DESCRIPTION:*[Stand-alone monograph] State-Owned Ent
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=c99c7ef0-en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250922T080000Z
 DTEND:20250922T081500Z
 TRANSP:TRANSPARENT
@@ -559,7 +391,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] State-
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3280c871-end3e4968
+UID:10.1787/3280c871-end3e2296
 SUMMARY:[Stand-alone monograph] OECD Inventory o
  f Export Restrictions on Staple Crops - 
  Policy Trends up to 2025
@@ -578,7 +410,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Inventory
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:36, it is updated 
+  this afternoon at 23:44, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -587,7 +419,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Inventory
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=3280c871-en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250923T070000Z
 DTEND:20250923T071500Z
 TRANSP:TRANSPARENT
@@ -602,7 +434,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD I
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/36e668f2-end3e5184
+UID:10.1787/36e668f2-end3e2512
 SUMMARY:[Book] The Green Transition of SMEs and 
  Entrepreneurship in Portugal
 DESCRIPTION:*[Book] The Green Transition of SMEs and
@@ -619,7 +451,7 @@ DESCRIPTION:*[Book] The Green Transition of SMEs and
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:36, it is updated each night;
+ noon at 23:44, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -628,7 +460,7 @@ DESCRIPTION:*[Book] The Green Transition of SMEs and
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=36e668f2-
  en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250923T080000Z
 DTEND:20250923T081500Z
 TRANSP:TRANSPARENT
@@ -642,7 +474,7 @@ DESCRIPTION:Reminder: [Book] The Green Transition of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/67b10c01-end3e5236
+UID:10.1787/67b10c01-end3e2564
 SUMMARY:[Issue] OECD Economic Outlook, Interim R
  eport September 2025
 DESCRIPTION:*[Issue] OECD Economic Outlook, Interim 
@@ -658,7 +490,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Interim
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:36, it is updated each night;
+ noon at 23:44, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -667,7 +499,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Interim
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=67b10c01-
  en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250923T090000Z
 DTEND:20250923T091500Z
 TRANSP:TRANSPARENT
@@ -681,7 +513,7 @@ DESCRIPTION:Reminder: [Issue] OECD Economic Outlook,
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/12b64ce6-end3e5288
+UID:10.1787/12b64ce6-end3e2616
 SUMMARY:[Stand-alone monograph] Assessing Bosnia
   and Herzegovina's Reform Agenda for Pri
  vate Sector Development
@@ -700,7 +532,7 @@ DESCRIPTION:*[Stand-alone monograph] Assessing Bosni
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:36, it is updated each n
+ afternoon at 23:44, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -709,7 +541,7 @@ DESCRIPTION:*[Stand-alone monograph] Assessing Bosni
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=12b6
  4ce6-en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250925T220000Z
 DTEND:20250925T221500Z
 TRANSP:TRANSPARENT
@@ -724,7 +556,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Assess
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/626594d0-esd3e5340
+UID:10.1787/626594d0-esd3e2668
 SUMMARY:[Economic survey] Estudios Económicos de
   la OCDE: Perú 2025
 DESCRIPTION:*[Economic survey] Estudios Económicos d
@@ -740,7 +572,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 23:36, it is updated ea
+ his afternoon at 23:44, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -749,7 +581,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  626594d0-es.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250928T220000Z
 DTEND:20250928T221500Z
 TRANSP:TRANSPARENT
@@ -763,7 +595,7 @@ DESCRIPTION:Reminder: [Economic survey] Estudios Eco
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/76f6eb73-end3e5393
+UID:10.1787/76f6eb73-end3e2720
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Peru 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -779,7 +611,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:36, it is updated each night;
+ noon at 23:44, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -788,7 +620,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=76f6eb73-
  en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20250928T220000Z
 DTEND:20250928T221500Z
 TRANSP:TRANSPARENT
@@ -802,7 +634,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5d085904-frd3e5445
+UID:10.1787/5d085904-frd3e2772
 SUMMARY:[Stand-alone monograph] Estimer la valeu
  r économique du risque de mortalité dans
   l’évaluation des politiques publiques (
@@ -826,7 +658,7 @@ DESCRIPTION:*[Stand-alone monograph] Estimer la vale
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:36, it is updated each n
+ afternoon at 23:44, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -835,7 +667,7 @@ DESCRIPTION:*[Stand-alone monograph] Estimer la vale
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=5d08
  5904-fr.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20251001T130000Z
 DTEND:20251001T131500Z
 TRANSP:TRANSPARENT
@@ -853,7 +685,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Estime
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/76ca89a2-end3e5498
+UID:10.1787/76ca89a2-end3e2826
 SUMMARY:[Stand-alone monograph] Mortality Risk V
  aluation in Policy Assessment - A Global
   Meta-Analysis of Value of Statistical L
@@ -873,7 +705,7 @@ DESCRIPTION:*[Stand-alone monograph] Mortality Risk
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:36, it is updated e
+ this afternoon at 23:44, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -882,7 +714,7 @@ DESCRIPTION:*[Stand-alone monograph] Mortality Risk
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =76ca89a2-en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20251001T130000Z
 DTEND:20251001T131500Z
 TRANSP:TRANSPARENT
@@ -898,7 +730,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Mortal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f36dacf8-end3e5551
+UID:10.1787/f36dacf8-end3e2879
 SUMMARY:[Report] Algorithmic pricing and competi
  tion in G7 jurisdictions - Emerging tren
  ds and responses
@@ -916,7 +748,7 @@ DESCRIPTION:*[Report] Algorithmic pricing and compet
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:36, i
+ correct as of this afternoon at 23:44, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -925,7 +757,7 @@ DESCRIPTION:*[Report] Algorithmic pricing and compet
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=f36dacf8-en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20251002T210000Z
 DTEND:20251002T211500Z
 TRANSP:TRANSPARENT
@@ -940,7 +772,7 @@ DESCRIPTION:Reminder: [Report] Algorithmic pricing a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/90df6235-end3e5604
+UID:10.1787/90df6235-end3e2932
 SUMMARY:[Book] Results from TALIS 2024 - The Sta
  te of Teaching
 DESCRIPTION:*[Book] Results from TALIS 2024 - The St
@@ -956,7 +788,7 @@ DESCRIPTION:*[Book] Results from TALIS 2024 - The St
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:36, it is updated each 
+  afternoon at 23:44, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -965,7 +797,7 @@ DESCRIPTION:*[Book] Results from TALIS 2024 - The St
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=90d
  f6235-en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20251007T010000Z
 DTEND:20251007T011500Z
 TRANSP:TRANSPARENT
@@ -979,7 +811,7 @@ DESCRIPTION:Reminder: [Book] Results from TALIS 2024
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3b96cf8c-end3e5657
+UID:10.1787/3b96cf8c-end3e2985
 SUMMARY:[Stand-alone monograph] Measuring Scienc
  e and Innovation for Sustainable Growth
 DESCRIPTION:*[Stand-alone monograph] Measuring Scien
@@ -996,7 +828,7 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Scien
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:36, it 
+ rrect as of this afternoon at 23:44, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -1005,7 +837,7 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Scien
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=3b96cf8c-en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20251009T100000Z
 DTEND:20251009T101500Z
 TRANSP:TRANSPARENT
@@ -1020,7 +852,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Measur
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6df2d6a0-end3e5710
+UID:10.1787/6df2d6a0-end3e3037
 SUMMARY:[Stand-alone monograph] Social Connectio
  ns and Loneliness in OECD countries
 DESCRIPTION:*[Stand-alone monograph] Social Connecti
@@ -1038,7 +870,7 @@ DESCRIPTION:*[Stand-alone monograph] Social Connecti
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 23:36, it is updated each night
+ rnoon at 23:44, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -1047,7 +879,7 @@ DESCRIPTION:*[Stand-alone monograph] Social Connecti
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=6df2d6a0
  -en.
-DTSTAMP:20250912T233702Z
+DTSTAMP:20250914T234443Z
 DTSTART:20251016T120000Z
 DTEND:20251016T121500Z
 TRANSP:TRANSPARENT
