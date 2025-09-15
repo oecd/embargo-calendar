@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-09-14T23:44:40.5519442+02:00">
+<report name="official-embargoes" generated="2025-09-15T23:34:21.3098803+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -121,26 +121,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c43b7733</cell>
   </row>
   <row index="6">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/6816434b-fr</cell>
-    <cell name="title">Gouverner avec l’intelligence artificielle (fr)</cell>
-    <cell name="subtitle">État des lieux et perspectives pour les fonctions essentielles de l’État (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2025-09-18</cell>
-    <cell name="embargo date">2025-09-18T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0df5fcfb</cell>
-  </row>
-  <row index="7">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/623087f9-en</cell>
     <cell name="title">The OECD Index of Digital Trade Integration and Openness (INDIGO) (en)</cell>
@@ -160,14 +140,494 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29751109</cell>
   </row>
+  <row index="7">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/97eb89f1-fr</cell>
+    <cell name="title">L’IA dans la réforme de la fonction publique (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1755ed72</cell>
+  </row>
   <row index="8">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/c11f7aea-en</cell>
+    <cell name="title">AI in civic participation and open government (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2e88b9c</cell>
+  </row>
+  <row index="9">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/c6f05103-fr</cell>
+    <cell name="title">Acronymes et abréviations (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e02fcabe</cell>
+  </row>
+  <row index="10">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/da2610a1-en</cell>
+    <cell name="title">Acronyms and abbreviations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7262ed9b</cell>
+  </row>
+  <row index="11">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/795de142-en</cell>
+    <cell name="title">Governing with Artificial Intelligence (en)</cell>
+    <cell name="subtitle">The State of Play and Way Forward in Core Government Functions (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e30b993c</cell>
+  </row>
+  <row index="12">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9cd52efa-en</cell>
+    <cell name="title">AI in law enforcement and disaster risk management (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/38a4e071</cell>
+  </row>
+  <row index="13">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/0ac86d83-en</cell>
+    <cell name="title">AI in public procurement (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c5dad802</cell>
+  </row>
+  <row index="14">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/e40572ea-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/526d7e6c</cell>
+  </row>
+  <row index="15">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/83cb0c64-fr</cell>
+    <cell name="title">L’IA dans la participation civique et le gouvernement ouvert (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/11308864</cell>
+  </row>
+  <row index="16">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/ba7af30f-en</cell>
+    <cell name="title">Trends and early lessons from the use of AI across functions of government (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/871259c6</cell>
+  </row>
+  <row index="17">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/1459c037-en</cell>
+    <cell name="title">AI in public service design and delivery (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df1d89fd</cell>
+  </row>
+  <row index="18">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/6816434b-fr</cell>
+    <cell name="title">Gouverner avec l’intelligence artificielle (fr)</cell>
+    <cell name="subtitle">État des lieux et perspectives pour les fonctions essentielles de l’État (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b20502e1</cell>
+  </row>
+  <row index="19">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/795de142-en</cell>
+    <cell name="title">Governing with Artificial Intelligence (en)</cell>
+    <cell name="subtitle">The State of Play and Way Forward in Core Government Functions (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69e3f756</cell>
+  </row>
+  <row index="20">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/cabd2afd-en</cell>
+    <cell name="title">Implementation challenges that hinder the strategic use of AI in government (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b55dc67e</cell>
+  </row>
+  <row index="21">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/b6824eb2-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3e2f8bf</cell>
+  </row>
+  <row index="22">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/2c430475-fr</cell>
+    <cell name="title">L’IA dans l’évaluation des politiques publiques (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91eaa48f</cell>
+  </row>
+  <row index="23">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/5a1d9bb4-fr</cell>
+    <cell name="title">L’IA dans la passation des marchés publics (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7c5a2e2</cell>
+  </row>
+  <row index="24">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/795de142-en</cell>
+    <cell name="title">Governing with Artificial Intelligence (en)</cell>
+    <cell name="subtitle">The State of Play and Way Forward in Core Government Functions (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4b1fdd1</cell>
+  </row>
+  <row index="25">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/795de142-en</cell>
+    <cell name="title">Governing with Artificial Intelligence (en)</cell>
+    <cell name="subtitle">The State of Play and Way Forward in Core Government Functions (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70c66cdc</cell>
+  </row>
+  <row index="26">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/48026a61-en</cell>
+    <cell name="title">AI in fighting corruption and promoting public integrity (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/138f652d</cell>
+  </row>
+  <row index="27">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/73f3769e-en</cell>
+    <cell name="title">AI in tax administration (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d45ffd18</cell>
+  </row>
+  <row index="28">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/f265cad2-fr</cell>
+    <cell name="title">L’IA dans la lutte contre la corruption et la promotion de l’intégrité publique (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83442cf4</cell>
+  </row>
+  <row index="29">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/211b5250-fr</cell>
+    <cell name="title">Tendances et premiers enseignements tirés de l’utilisation de l’IA dans les différentes fonctions de l’État (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8bd55311</cell>
+  </row>
+  <row index="30">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/6816434b-fr</cell>
+    <cell name="title">Gouverner avec l’intelligence artificielle (fr)</cell>
+    <cell name="subtitle">État des lieux et perspectives pour les fonctions essentielles de l’État (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c286f8b1</cell>
+  </row>
+  <row index="31">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6816434b-fr</cell>
     <cell name="title">Gouverner avec l’intelligence artificielle (fr)</cell>
     <cell name="subtitle">État des lieux et perspectives pour les fonctions essentielles de l’État (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-18</cell>
     <cell name="embargo date">2025-09-18T11:30:00Z</cell>
     <cell name="launch date/time"/>
@@ -177,17 +637,197 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80cd09b7</cell>
   </row>
-  <row index="9">
+  <row index="32">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/6fbf3572-fr</cell>
+    <cell name="title">Comment l’intelligence artificielle accélère la transition vers l’administration numérique (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f8d7151</cell>
+  </row>
+  <row index="33">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/61df973c-en</cell>
+    <cell name="title">AI in regulatory design and delivery (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0f9ef7f</cell>
+  </row>
+  <row index="34">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/5fb9aa53-en</cell>
+    <cell name="title">AI in public financial management (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f84af02</cell>
+  </row>
+  <row index="35">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/3bf78a1a-fr</cell>
+    <cell name="title">L’IA dans l’administration de la justice et l’accès à la justice (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fda04942</cell>
+  </row>
+  <row index="36">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/d8d62cb4-en</cell>
+    <cell name="title">AI in policy evaluation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/65084839</cell>
+  </row>
+  <row index="37">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/ce9bbf5b-fr</cell>
+    <cell name="title">L’IA dans la conception et la prestation de l’activité réglementaire (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f265848f</cell>
+  </row>
+  <row index="38">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/efe42012-fr</cell>
+    <cell name="title">L’IA dans l’administration fiscale (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/430148b3</cell>
+  </row>
+  <row index="39">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/99d8e33b-fr</cell>
+    <cell name="title">L’IA dans la conception et la prestation des services publics (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/067a450d</cell>
+  </row>
+  <row index="40">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/6816434b-fr</cell>
+    <cell name="title">Gouverner avec l’intelligence artificielle (fr)</cell>
+    <cell name="subtitle">État des lieux et perspectives pour les fonctions essentielles de l’État (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0df5fcfb</cell>
+  </row>
+  <row index="41">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/795de142-en</cell>
     <cell name="title">Governing with Artificial Intelligence (en)</cell>
     <cell name="subtitle">The State of Play and Way Forward in Core Government Functions (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-18</cell>
     <cell name="embargo date">2025-09-18T11:30:00Z</cell>
     <cell name="launch date/time"/>
@@ -197,10 +837,230 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c912729</cell>
   </row>
-  <row index="10">
+  <row index="42">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/f9094b30-fr</cell>
+    <cell name="title">L’IA dans la gestion des finances publiques (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eee9669d</cell>
+  </row>
+  <row index="43">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/6816434b-fr</cell>
+    <cell name="title">Gouverner avec l’intelligence artificielle (fr)</cell>
+    <cell name="subtitle">État des lieux et perspectives pour les fonctions essentielles de l’État (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/98b1abcd</cell>
+  </row>
+  <row index="44">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/808da78c-fr</cell>
+    <cell name="title">Avant-propos (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3f3d529</cell>
+  </row>
+  <row index="45">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/40f29414-fr</cell>
+    <cell name="title">Leviers, garde-fous et mécanismes de mobilisation des parties prenantes propices à la mise en œuvre d’une IA digne de confiance (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9fb3087b</cell>
+  </row>
+  <row index="46">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/67e8fe26-fr</cell>
+    <cell name="title">Résumé (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3cb76090</cell>
+  </row>
+  <row index="47">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/ac2d60a2-fr</cell>
+    <cell name="title">L’IA dans le maintien de l’ordre et la gestion des risques de catastrophe (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d5b766c</cell>
+  </row>
+  <row index="48">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/549e3cd4-en</cell>
+    <cell name="title">AI in justice administration and access to justice (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d92f740f</cell>
+  </row>
+  <row index="49">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/6aeb8704-en</cell>
+    <cell name="title">Enablers, guardrails and engagement for unlocking trustworthy AI (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3d4502cc</cell>
+  </row>
+  <row index="50">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/aa2f5790-en</cell>
+    <cell name="title">AI in civil service reform (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/787f0f60</cell>
+  </row>
+  <row index="51">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/37f68e08-en</cell>
+    <cell name="title">How artificial intelligence is accelerating the digital government journey (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ad5df3b7</cell>
+  </row>
+  <row index="52">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/285d60c9-fr</cell>
+    <cell name="title">Difficultés de mise en œuvre qui entravent l’utilisation stratégique de l’IA dans l’administration (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-18</cell>
+    <cell name="embargo date">2025-09-18T11:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7c012c2</cell>
+  </row>
+  <row index="53">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/20b2dbb0-en</cell>
     <cell name="title">Principle 5: Monitor blended finance for transparency and results  (en)</cell>
@@ -220,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/11bb272b</cell>
   </row>
-  <row index="11">
+  <row index="54">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4996fe2c-en</cell>
     <cell name="title">Principle 4: Focus on effective partnering for blended finance (en)</cell>
@@ -240,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3fa7754f</cell>
   </row>
-  <row index="12">
+  <row index="55">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/a1045afb-en</cell>
     <cell name="title">Overview (en)</cell>
@@ -260,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94541a28</cell>
   </row>
-  <row index="13">
+  <row index="56">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4915f91c-fr</cell>
     <cell name="title">Note d’orientation du CAD de l’OCDE relative au financement mixte 2025 (version abrégée) (fr)</cell>
@@ -280,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3bd4599c</cell>
   </row>
-  <row index="14">
+  <row index="57">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/084b9636-en</cell>
     <cell name="title">Principle 3: Tailor blended finance to the local context (en)</cell>
@@ -300,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3c97b27d</cell>
   </row>
-  <row index="15">
+  <row index="58">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e4a13d2c-en</cell>
     <cell name="title">OECD DAC Blended Finance Guidance 2025 (en)</cell>
@@ -320,7 +1180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e22a3fc</cell>
   </row>
-  <row index="16">
+  <row index="59">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4915f91c-fr</cell>
     <cell name="title">Note d’orientation du CAD de l’OCDE relative au financement mixte 2025 (version abrégée) (fr)</cell>
@@ -340,7 +1200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4873aea</cell>
   </row>
-  <row index="17">
+  <row index="60">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e4a13d2c-en</cell>
     <cell name="title">OECD DAC Blended Finance Guidance 2025 (en)</cell>
@@ -360,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b98f9c8d</cell>
   </row>
-  <row index="18">
+  <row index="61">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/43a8f117-en</cell>
     <cell name="title">Readers guide (en)</cell>
@@ -380,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e1eb3e52</cell>
   </row>
-  <row index="19">
+  <row index="62">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e4a13d2c-en</cell>
     <cell name="title">OECD DAC Blended Finance Guidance 2025 (en)</cell>
@@ -400,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05b52080</cell>
   </row>
-  <row index="20">
+  <row index="63">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e4a13d2c-en</cell>
     <cell name="title">OECD DAC Blended Finance Guidance 2025 (en)</cell>
@@ -420,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5007acd9</cell>
   </row>
-  <row index="21">
+  <row index="64">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/38a79246-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -440,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/143fe0ed</cell>
   </row>
-  <row index="22">
+  <row index="65">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e4a13d2c-en</cell>
     <cell name="title">OECD DAC Blended Finance Guidance 2025 (en)</cell>
@@ -460,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1fdf2a9</cell>
   </row>
-  <row index="23">
+  <row index="66">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/1cefc7f7-en</cell>
     <cell name="title">Principle 2: Design blended finance to increase the mobilisation of commercial finance (en)</cell>
@@ -480,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7cca4aa6</cell>
   </row>
-  <row index="24">
+  <row index="67">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/c49f9345-en</cell>
     <cell name="title">Case studies (en)</cell>
@@ -500,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/34ea2500</cell>
   </row>
-  <row index="25">
+  <row index="68">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4915f91c-fr</cell>
     <cell name="title">Note d’orientation du CAD de l’OCDE relative au financement mixte 2025 (version abrégée) (fr)</cell>
@@ -520,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/750e1b4e</cell>
   </row>
-  <row index="26">
+  <row index="69">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/9767555f-en</cell>
     <cell name="title">Principle 1: Anchor blended finance use to a development rationale  (en)</cell>
@@ -540,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e256894d</cell>
   </row>
-  <row index="27">
+  <row index="70">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4e1aa45c-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -560,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c67d9065</cell>
   </row>
-  <row index="28">
+  <row index="71">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/bdce1418-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -580,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86499adb</cell>
   </row>
-  <row index="29">
+  <row index="72">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4915f91c-fr</cell>
     <cell name="title">Note d’orientation du CAD de l’OCDE relative au financement mixte 2025 (version abrégée) (fr)</cell>
@@ -600,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f749f7a</cell>
   </row>
-  <row index="30">
+  <row index="73">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/dec143ad-en</cell>
     <cell name="title">To Have and Have Not – How to Bridge the Gap in Opportunities (en)</cell>
@@ -620,7 +1480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92d4b0d5</cell>
   </row>
-  <row index="31">
+  <row index="74">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/6cf7bf5f-en</cell>
     <cell name="title">Levels and trends in inequality of opportunity: How fairly are opportunities distributed in OECD countries? (en)</cell>
@@ -640,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f350539</cell>
   </row>
-  <row index="32">
+  <row index="75">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/dec143ad-en</cell>
     <cell name="title">To Have and Have Not – How to Bridge the Gap in Opportunities (en)</cell>
@@ -660,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3b556348</cell>
   </row>
-  <row index="33">
+  <row index="76">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/dec143ad-en</cell>
     <cell name="title">To Have and Have Not – How to Bridge the Gap in Opportunities (en)</cell>
@@ -680,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4006769</cell>
   </row>
-  <row index="34">
+  <row index="77">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/dec143ad-en</cell>
     <cell name="title">To Have and Have Not – How to Bridge the Gap in Opportunities (en)</cell>
@@ -700,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/016c45ba</cell>
   </row>
-  <row index="35">
+  <row index="78">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/32643c0a-en</cell>
     <cell name="title">Geographic inequalities in access to opportunities (en)</cell>
@@ -720,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e548fcc</cell>
   </row>
-  <row index="36">
+  <row index="79">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/dec143ad-en</cell>
     <cell name="title">To Have and Have Not – How to Bridge the Gap in Opportunities (en)</cell>
@@ -740,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ccd9fc8</cell>
   </row>
-  <row index="37">
+  <row index="80">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/77bfd667-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -760,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f912f5f3</cell>
   </row>
-  <row index="38">
+  <row index="81">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/f8e556d8-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -780,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9d21853</cell>
   </row>
-  <row index="39">
+  <row index="82">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/a786464e-en</cell>
     <cell name="title">Informing Policy: What can be done to ensure a more level playing field? (en)</cell>
@@ -800,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9cf702d</cell>
   </row>
-  <row index="40">
+  <row index="83">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/56ab58e8-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -820,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2657d8da</cell>
   </row>
-  <row index="41">
+  <row index="84">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/cb76caee-en</cell>
     <cell name="title">Opportunities and the fairness of economic outcomes – Why is it important to measure them and what methods can allow us to do so? (en)</cell>
@@ -840,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c5ab76e1</cell>
   </row>
-  <row index="42">
+  <row index="85">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/c99c7ef0-en</cell>
     <cell name="title">State-Owned Enterprises and Sustainability (en)</cell>
@@ -860,7 +1720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60edc079</cell>
   </row>
-  <row index="43">
+  <row index="86">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3280c871-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Staple Crops (en)</cell>
@@ -880,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c2eb5b6</cell>
   </row>
-  <row index="44">
+  <row index="87">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3280c871-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Staple Crops (en)</cell>
@@ -900,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a216d6f8</cell>
   </row>
-  <row index="45">
+  <row index="88">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3280c871-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Staple Crops (en)</cell>
@@ -920,7 +1780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a10955b8</cell>
   </row>
-  <row index="46">
+  <row index="89">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3280c871-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Staple Crops (en)</cell>
@@ -940,7 +1800,87 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/039d04a5</cell>
   </row>
-  <row index="47">
+  <row index="90">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/96cfc0f9-en</cell>
+    <cell name="title">Green skills development and green technology adoption in Portuguese SMEs (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3dcee21d</cell>
+  </row>
+  <row index="91">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/36416bd6-en</cell>
+    <cell name="title">Energy programmes for industrial SMEs in Portugal (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d01f78e0</cell>
+  </row>
+  <row index="92">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/3c5bf4b8-en</cell>
+    <cell name="title">Direct public support for green start-ups in Portugal (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/038219a6</cell>
+  </row>
+  <row index="93">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/de3ec41d-en</cell>
+    <cell name="title">Financing the green transition of SMEs in Portugal (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/512bb8bb</cell>
+  </row>
+  <row index="94">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/36e668f2-en</cell>
     <cell name="title">The Green Transition of SMEs and Entrepreneurship in Portugal (en)</cell>
@@ -960,7 +1900,107 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53848ae9</cell>
   </row>
-  <row index="48">
+  <row index="95">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/934fc495-en</cell>
+    <cell name="title">Executive Summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eba12ac2</cell>
+  </row>
+  <row index="96">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/a6e9ff01-en</cell>
+    <cell name="title">Green entrepreneurship ecosystems in Portugal (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08a4a19d</cell>
+  </row>
+  <row index="97">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/1e603f3e-en</cell>
+    <cell name="title">Portuguese SMEs and the green transition: Attitudes and actions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/497b1ea5</cell>
+  </row>
+  <row index="98">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/96c0049b-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/353e3f62</cell>
+  </row>
+  <row index="99">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/384f3cb9-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d445bb9</cell>
+  </row>
+  <row index="100">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/67b10c01-en</cell>
     <cell name="title">OECD Economic Outlook, Interim Report September 2025 (en)</cell>
@@ -980,7 +2020,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee323bdb</cell>
   </row>
-  <row index="49">
+  <row index="101">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/e79e9c30-it</cell>
+    <cell name="title">Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2025 (it)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Italian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Issue</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f51b6e5</cell>
+  </row>
+  <row index="102">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/12b64ce6-en</cell>
     <cell name="title">Assessing Bosnia and Herzegovina's Reform Agenda for Private Sector Development (en)</cell>
@@ -1000,7 +2060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c908119</cell>
   </row>
-  <row index="50">
+  <row index="103">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/626594d0-es</cell>
     <cell name="title">Estudios Económicos de la OCDE: Perú 2025 (es)</cell>
@@ -1020,7 +2080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d69fff0</cell>
   </row>
-  <row index="51">
+  <row index="104">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/76f6eb73-en</cell>
     <cell name="title">OECD Economic Surveys: Peru 2025 (en)</cell>
@@ -1040,7 +2100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0baedd43</cell>
   </row>
-  <row index="52">
+  <row index="105">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/5d085904-fr</cell>
     <cell name="title">Estimer la valeur économique du risque de mortalité dans l’évaluation des politiques publiques (version abrégée) (fr)</cell>
@@ -1060,7 +2120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a381565a</cell>
   </row>
-  <row index="53">
+  <row index="106">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/76ca89a2-en</cell>
     <cell name="title">Mortality Risk Valuation in Policy Assessment (en)</cell>
@@ -1080,7 +2140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0b3ea29</cell>
   </row>
-  <row index="54">
+  <row index="107">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f36dacf8-en</cell>
     <cell name="title">Algorithmic pricing and competition in G7 jurisdictions (en)</cell>
@@ -1100,7 +2160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e70d62e5</cell>
   </row>
-  <row index="55">
+  <row index="108">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/90df6235-en</cell>
     <cell name="title">Results from TALIS 2024 (en)</cell>
@@ -1120,7 +2180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6220adb6</cell>
   </row>
-  <row index="56">
+  <row index="109">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>
@@ -1140,10 +2200,10 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dddfd872</cell>
   </row>
-  <row index="57">
+  <row index="110">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/6df2d6a0-en</cell>
-    <cell name="title">Social Connections and Loneliness in OECD countries (en)</cell>
+    <cell name="title">Social Connections and Loneliness in OECD Countries (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>

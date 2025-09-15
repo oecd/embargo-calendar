@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 14 September 2025 at 23:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 15 September 2025 at 23:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 September 2025](#15-september-2025)
 * [18 September 2025](#18-september-2025)
@@ -101,7 +101,7 @@ Thursday 18 September 2025 at 11:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -110,9 +110,9 @@ Thursday 18 September 2025 at 11:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -124,7 +124,7 @@ Thursday 18 September 2025 at 11:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -133,9 +133,9 @@ Thursday 18 September 2025 at 11:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -302,6 +302,29 @@ Tuesday 23 September 2025 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2025](https://doi.org/10.1787/e79e9c30-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Italian*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
 * Format: *PDF*
@@ -520,7 +543,7 @@ Thursday 9 October 2025 at 10:00 | no launch event
 
 # 16 October 2025
 
-## [Social Connections and Loneliness in OECD countries](https://doi.org/10.1787/6df2d6a0-en)
+## [Social Connections and Loneliness in OECD Countries](https://doi.org/10.1787/6df2d6a0-en)
 
 Embargo date | Launch date
 -------------|:------------:
