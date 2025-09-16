@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-09-15T23:34:21.3098803+02:00">
+<report name="official-embargoes" generated="2025-09-16T23:05:47.2459296+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -87,7 +87,7 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2025-09-18</cell>
     <cell name="embargo date">2025-09-18T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1702,12 +1702,212 @@
   </row>
   <row index="85">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/3553a7b1-en</cell>
+    <cell name="title">Sustainability reporting and disclosure (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-22</cell>
+    <cell name="embargo date">2025-09-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be49faac</cell>
+  </row>
+  <row index="86">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/399fd601-en</cell>
+    <cell name="title">The role of the state in advancing sustainability in SOEs (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-22</cell>
+    <cell name="embargo date">2025-09-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36837013</cell>
+  </row>
+  <row index="87">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/c99c7ef0-en</cell>
+    <cell name="title">State-Owned Enterprises and Sustainability (en)</cell>
+    <cell name="subtitle">Leading by Example (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-22</cell>
+    <cell name="embargo date">2025-09-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff100271</cell>
+  </row>
+  <row index="88">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/c99c7ef0-en</cell>
+    <cell name="title">State-Owned Enterprises and Sustainability (en)</cell>
+    <cell name="subtitle">Leading by Example (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-22</cell>
+    <cell name="embargo date">2025-09-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62130faf</cell>
+  </row>
+  <row index="89">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/c99c7ef0-en</cell>
     <cell name="title">State-Owned Enterprises and Sustainability (en)</cell>
     <cell name="subtitle">Leading by Example (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-22</cell>
+    <cell name="embargo date">2025-09-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60edc079</cell>
+  </row>
+  <row index="90">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/2d8907f5-en</cell>
+    <cell name="title">Responsible business conduct and stakeholder engagement (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-22</cell>
+    <cell name="embargo date">2025-09-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2facf15</cell>
+  </row>
+  <row index="91">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/eeffb9af-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-22</cell>
+    <cell name="embargo date">2025-09-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4b3b600</cell>
+  </row>
+  <row index="92">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/3aff93e8-en</cell>
+    <cell name="title">The role and responsibilities of SOE boards (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-22</cell>
+    <cell name="embargo date">2025-09-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a297708d</cell>
+  </row>
+  <row index="93">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9d13b195-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-22</cell>
+    <cell name="embargo date">2025-09-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/38234a57</cell>
+  </row>
+  <row index="94">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/c99c7ef0-en</cell>
+    <cell name="title">State-Owned Enterprises and Sustainability (en)</cell>
+    <cell name="subtitle">Leading by Example (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-22</cell>
+    <cell name="embargo date">2025-09-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef059963</cell>
+  </row>
+  <row index="95">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/c99c7ef0-en</cell>
+    <cell name="title">State-Owned Enterprises and Sustainability (en)</cell>
+    <cell name="subtitle">Leading by Example (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-22</cell>
     <cell name="embargo date">2025-09-22T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1718,9 +1918,49 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60edc079</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51a8ccb6</cell>
   </row>
-  <row index="86">
+  <row index="96">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/8c60d1c1-en</cell>
+    <cell name="title">An overview of sustainability in the SOE sector (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-22</cell>
+    <cell name="embargo date">2025-09-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f508290c</cell>
+  </row>
+  <row index="97">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/a1623515-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-22</cell>
+    <cell name="embargo date">2025-09-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46c34b75</cell>
+  </row>
+  <row index="98">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3280c871-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Staple Crops (en)</cell>
@@ -1740,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c2eb5b6</cell>
   </row>
-  <row index="87">
+  <row index="99">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3280c871-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Staple Crops (en)</cell>
@@ -1760,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a216d6f8</cell>
   </row>
-  <row index="88">
+  <row index="100">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3280c871-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Staple Crops (en)</cell>
@@ -1780,7 +2020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a10955b8</cell>
   </row>
-  <row index="89">
+  <row index="101">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3280c871-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Staple Crops (en)</cell>
@@ -1800,14 +2040,34 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/039d04a5</cell>
   </row>
-  <row index="90">
+  <row index="102">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/36e668f2-en</cell>
+    <cell name="title">The Green Transition of SMEs and Entrepreneurship in Portugal (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d102baf</cell>
+  </row>
+  <row index="103">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/96cfc0f9-en</cell>
     <cell name="title">Green skills development and green technology adoption in Portuguese SMEs (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-23</cell>
     <cell name="embargo date">2025-09-23T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1817,17 +2077,37 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3dcee21d</cell>
   </row>
-  <row index="91">
+  <row index="104">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/36e668f2-en</cell>
+    <cell name="title">The Green Transition of SMEs and Entrepreneurship in Portugal (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e93b86a2</cell>
+  </row>
+  <row index="105">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/36416bd6-en</cell>
     <cell name="title">Energy programmes for industrial SMEs in Portugal (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-23</cell>
     <cell name="embargo date">2025-09-23T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1837,17 +2117,17 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d01f78e0</cell>
   </row>
-  <row index="92">
+  <row index="106">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3c5bf4b8-en</cell>
     <cell name="title">Direct public support for green start-ups in Portugal (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-23</cell>
     <cell name="embargo date">2025-09-23T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1857,17 +2137,17 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/038219a6</cell>
   </row>
-  <row index="93">
+  <row index="107">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/de3ec41d-en</cell>
     <cell name="title">Financing the green transition of SMEs in Portugal (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-23</cell>
     <cell name="embargo date">2025-09-23T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1877,17 +2157,77 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/512bb8bb</cell>
   </row>
-  <row index="94">
+  <row index="108">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/36e668f2-en</cell>
     <cell name="title">The Green Transition of SMEs and Entrepreneurship in Portugal (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53848ae9</cell>
+  </row>
+  <row index="109">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/934fc495-en</cell>
+    <cell name="title">Executive Summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eba12ac2</cell>
+  </row>
+  <row index="110">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/a6e9ff01-en</cell>
+    <cell name="title">Green entrepreneurship ecosystems in Portugal (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08a4a19d</cell>
+  </row>
+  <row index="111">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/36e668f2-en</cell>
+    <cell name="title">The Green Transition of SMEs and Entrepreneurship in Portugal (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-23</cell>
     <cell name="embargo date">2025-09-23T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1898,56 +2238,16 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53848ae9</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ef37cd7</cell>
   </row>
-  <row index="95">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
-    <cell name="doi">10.1787/934fc495-en</cell>
-    <cell name="title">Executive Summary (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2025-09-23</cell>
-    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eba12ac2</cell>
-  </row>
-  <row index="96">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
-    <cell name="doi">10.1787/a6e9ff01-en</cell>
-    <cell name="title">Green entrepreneurship ecosystems in Portugal (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2025-09-23</cell>
-    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08a4a19d</cell>
-  </row>
-  <row index="97">
+  <row index="112">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1e603f3e-en</cell>
     <cell name="title">Portuguese SMEs and the green transition: Attitudes and actions (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-23</cell>
     <cell name="embargo date">2025-09-23T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1957,17 +2257,17 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/497b1ea5</cell>
   </row>
-  <row index="98">
+  <row index="113">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/96c0049b-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-23</cell>
     <cell name="embargo date">2025-09-23T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1977,17 +2277,17 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/353e3f62</cell>
   </row>
-  <row index="99">
+  <row index="114">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/384f3cb9-en</cell>
     <cell name="title">Foreword (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-23</cell>
     <cell name="embargo date">2025-09-23T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1997,10 +2297,30 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d445bb9</cell>
   </row>
-  <row index="100">
+  <row index="115">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/36e668f2-en</cell>
+    <cell name="title">The Green Transition of SMEs and Entrepreneurship in Portugal (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-09-23</cell>
+    <cell name="embargo date">2025-09-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5727b33</cell>
+  </row>
+  <row index="116">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/67b10c01-en</cell>
     <cell name="title">OECD Economic Outlook, Interim Report September 2025 (en)</cell>
@@ -2020,7 +2340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee323bdb</cell>
   </row>
-  <row index="101">
+  <row index="117">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/e79e9c30-it</cell>
     <cell name="title">Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2025 (it)</cell>
@@ -2040,7 +2360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f51b6e5</cell>
   </row>
-  <row index="102">
+  <row index="118">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/12b64ce6-en</cell>
     <cell name="title">Assessing Bosnia and Herzegovina's Reform Agenda for Private Sector Development (en)</cell>
@@ -2060,7 +2380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c908119</cell>
   </row>
-  <row index="103">
+  <row index="119">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/626594d0-es</cell>
     <cell name="title">Estudios Económicos de la OCDE: Perú 2025 (es)</cell>
@@ -2080,7 +2400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d69fff0</cell>
   </row>
-  <row index="104">
+  <row index="120">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/76f6eb73-en</cell>
     <cell name="title">OECD Economic Surveys: Peru 2025 (en)</cell>
@@ -2100,7 +2420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0baedd43</cell>
   </row>
-  <row index="105">
+  <row index="121">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/5d085904-fr</cell>
     <cell name="title">Estimer la valeur économique du risque de mortalité dans l’évaluation des politiques publiques (version abrégée) (fr)</cell>
@@ -2120,7 +2440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a381565a</cell>
   </row>
-  <row index="106">
+  <row index="122">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/76ca89a2-en</cell>
     <cell name="title">Mortality Risk Valuation in Policy Assessment (en)</cell>
@@ -2140,7 +2460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0b3ea29</cell>
   </row>
-  <row index="107">
+  <row index="123">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f36dacf8-en</cell>
     <cell name="title">Algorithmic pricing and competition in G7 jurisdictions (en)</cell>
@@ -2160,7 +2480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e70d62e5</cell>
   </row>
-  <row index="108">
+  <row index="124">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/90df6235-en</cell>
     <cell name="title">Results from TALIS 2024 (en)</cell>
@@ -2180,7 +2500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6220adb6</cell>
   </row>
-  <row index="109">
+  <row index="125">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>
@@ -2200,7 +2520,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dddfd872</cell>
   </row>
-  <row index="110">
+  <row index="126">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/56386016-en</cell>
+    <cell name="title">OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, October 2025) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-10-15</cell>
+    <cell name="embargo date">2025-10-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0a8a56b</cell>
+  </row>
+  <row index="127">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/6df2d6a0-en</cell>
     <cell name="title">Social Connections and Loneliness in OECD Countries (en)</cell>
@@ -2219,5 +2559,25 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a6bac611</cell>
+  </row>
+  <row index="128">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/5fe57b90-en</cell>
+    <cell name="title">OECD Science, Technology and Innovation Outlook 2025 (en)</cell>
+    <cell name="subtitle">Policy Insights to Navigate Today’s Shifting Landscape (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-10-28</cell>
+    <cell name="embargo date">2025-10-28T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c26c22e</cell>
   </row>
 </report>

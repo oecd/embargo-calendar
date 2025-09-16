@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 15 September 2025 at 23:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 16 September 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 September 2025](#15-september-2025)
 * [18 September 2025](#18-september-2025)
@@ -14,7 +14,9 @@ Data generated on | |
 * [2 October 2025](#2-october-2025)
 * [7 October 2025](#7-october-2025)
 * [9 October 2025](#9-october-2025)
+* [15 October 2025](#15-october-2025)
 * [16 October 2025](#16-october-2025)
+* [28 October 2025](#28-october-2025)
 
 ------
 
@@ -64,7 +66,7 @@ Thursday 18 September 2025 at 7:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -220,7 +222,7 @@ Monday 22 September 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -229,9 +231,9 @@ Monday 22 September 2025 at 8:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -270,7 +272,7 @@ Tuesday 23 September 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -279,9 +281,9 @@ Tuesday 23 September 2025 at 8:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -541,6 +543,33 @@ Thursday 9 October 2025 at 10:00 | no launch event
 
 ------
 
+# 15 October 2025
+
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, October 2025)](https://doi.org/10.1787/56386016-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 October 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
 # 16 October 2025
 
 ## [Social Connections and Loneliness in OECD Countries](https://doi.org/10.1787/6df2d6a0-en)
@@ -562,6 +591,33 @@ Thursday 16 October 2025 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 28 October 2025
+
+## [OECD Science, Technology and Innovation Outlook 2025 - Policy Insights to Navigate Today’s Shifting Landscape](https://doi.org/10.1787/5fe57b90-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 October 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
