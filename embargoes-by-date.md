@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 16 September 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 17 September 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 September 2025](#15-september-2025)
 * [18 September 2025](#18-september-2025)
 * [22 September 2025](#22-september-2025)
 * [23 September 2025](#23-september-2025)
@@ -20,33 +19,6 @@ Data generated on | |
 
 ------
 
-# 15 September 2025
-
-## [The Global Forum on Productivity at 10 - Past and Future Perspectives on Reviving Productivity Growth](https://doi.org/10.1787/ca7295d9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 September 2025 at 11:35 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-------
-
 # 18 September 2025
 
 ## [Methodology for the OECD Index of Digital Trade Integration and Openness (INDIGO)](https://doi.org/10.1787/b6d01a7b-en)
@@ -57,7 +29,7 @@ Thursday 18 September 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -66,7 +38,7 @@ Thursday 18 September 2025 at 7:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -284,6 +256,29 @@ Tuesday 23 September 2025 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, septembre 2025 - To come](https://doi.org/10.1787/519a0876-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
 
 ------
 
