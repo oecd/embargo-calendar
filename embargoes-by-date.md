@@ -2,13 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 17 September 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 18 September 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 September 2025](#18-september-2025)
 * [22 September 2025](#22-september-2025)
 * [23 September 2025](#23-september-2025)
 * [25 September 2025](#25-september-2025)
 * [28 September 2025](#28-september-2025)
+* [29 September 2025](#29-september-2025)
 * [1 October 2025](#1-october-2025)
 * [2 October 2025](#2-october-2025)
 * [7 October 2025](#7-october-2025)
@@ -349,7 +350,7 @@ Thursday 25 September 2025 at 22:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -382,11 +383,15 @@ Sunday 28 September 2025 at 22:00 | no launch event
 
 ------
 
+------
+
+# 29 September 2025
+
 ## [OECD Economic Surveys: Peru 2025](https://doi.org/10.1787/76f6eb73-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 28 September 2025 at 22:00 | no launch event
+Monday 29 September 2025 at 15:00 | no launch event
 
 ### Status Information
 
@@ -503,7 +508,7 @@ Tuesday 7 October 2025 at 1:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 

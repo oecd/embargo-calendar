@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 17 September 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 18 September 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Methodology for the OECD Index of Digital Trade Integration and Openness (INDIGO)](https://doi.org/10.1787/b6d01a7b-en)
 
@@ -320,7 +320,7 @@ Thursday 25 September 2025 at 22:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -353,7 +353,7 @@ Sunday 28 September 2025 at 22:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 28 September 2025 at 22:00 | no launch event
+Monday 29 September 2025 at 15:00 | no launch event
 
 ### Status Information
 
@@ -458,7 +458,7 @@ Tuesday 7 October 2025 at 1:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
