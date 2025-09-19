@@ -2,16 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 18 September 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 19 September 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 September 2025](#18-september-2025)
 * [22 September 2025](#22-september-2025)
 * [23 September 2025](#23-september-2025)
-* [25 September 2025](#25-september-2025)
+* [24 September 2025](#24-september-2025)
+* [26 September 2025](#26-september-2025)
 * [28 September 2025](#28-september-2025)
 * [29 September 2025](#29-september-2025)
 * [1 October 2025](#1-october-2025)
 * [2 October 2025](#2-october-2025)
+* [6 October 2025](#6-october-2025)
 * [7 October 2025](#7-october-2025)
 * [9 October 2025](#9-october-2025)
 * [15 October 2025](#15-october-2025)
@@ -214,29 +216,6 @@ Monday 22 September 2025 at 8:00 | no launch event
 
 # 23 September 2025
 
-## [OECD Inventory of Export Restrictions on Staple Crops - Policy Trends up to 2025](https://doi.org/10.1787/3280c871-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 September 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
 ## [The Green Transition of SMEs and Entrepreneurship in Portugal](https://doi.org/10.1787/36e668f2-en)
 
 Embargo date | Launch date
@@ -331,17 +310,44 @@ Tuesday 23 September 2025 at 9:00 | no launch event
 
 ------
 
-# 25 September 2025
+# 24 September 2025
+
+## [OECD Inventory of Export Restrictions on Staple Crops - Policy Trends up to 2025](https://doi.org/10.1787/3280c871-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 26 September 2025
 
 ## [Assessing Bosnia and Herzegovina's Reform Agenda for Private Sector Development](https://doi.org/10.1787/12b64ce6-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 25 September 2025 at 22:00 | no launch event
+Friday 26 September 2025 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -350,7 +356,7 @@ Thursday 25 September 2025 at 22:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -368,7 +374,7 @@ Sunday 28 September 2025 at 22:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -377,7 +383,7 @@ Sunday 28 September 2025 at 22:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -395,7 +401,7 @@ Monday 29 September 2025 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -404,7 +410,7 @@ Monday 29 September 2025 at 15:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -483,6 +489,56 @@ Thursday 2 October 2025 at 21:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 6 October 2025
+
+## [OECD Corporate Governance Factbook 2025](https://doi.org/10.1787/f4f43735-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 October 2025 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Panorama de la gouvernance d’enterprise de l’OCDE de 2025 (version abrégée)](https://doi.org/10.1787/48436a20-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 October 2025 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -589,7 +645,7 @@ Thursday 16 October 2025 at 12:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
