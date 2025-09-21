@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 19 September 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 21 September 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 September 2025](#18-september-2025)
 * [22 September 2025](#22-september-2025)
 * [23 September 2025](#23-september-2025)
 * [24 September 2025](#24-september-2025)
@@ -19,102 +18,6 @@ Data generated on | |
 * [15 October 2025](#15-october-2025)
 * [16 October 2025](#16-october-2025)
 * [28 October 2025](#28-october-2025)
-
-------
-
-# 18 September 2025
-
-## [Methodology for the OECD Index of Digital Trade Integration and Openness (INDIGO)](https://doi.org/10.1787/b6d01a7b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 September 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [The OECD Index of Digital Trade Integration and Openness (INDIGO) - Policy Trends up to 2025](https://doi.org/10.1787/623087f9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 September 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Gouverner avec l’intelligence artificielle - État des lieux et perspectives pour les fonctions essentielles de l’État](https://doi.org/10.1787/6816434b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 September 2025 at 11:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Governing with Artificial Intelligence - The State of Play and Way Forward in Core Government Functions](https://doi.org/10.1787/795de142-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 September 2025 at 11:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
