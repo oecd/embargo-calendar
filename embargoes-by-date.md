@@ -2,11 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 21 September 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 22 September 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 September 2025](#22-september-2025)
 * [23 September 2025](#23-september-2025)
-* [24 September 2025](#24-september-2025)
+* [25 September 2025](#25-september-2025)
 * [26 September 2025](#26-september-2025)
 * [28 September 2025](#28-september-2025)
 * [29 September 2025](#29-september-2025)
@@ -17,6 +17,7 @@ Data generated on | |
 * [9 October 2025](#9-october-2025)
 * [15 October 2025](#15-october-2025)
 * [16 October 2025](#16-october-2025)
+* [27 October 2025](#27-october-2025)
 * [28 October 2025](#28-october-2025)
 
 ------
@@ -119,6 +120,29 @@ Monday 22 September 2025 at 8:00 | no launch event
 
 # 23 September 2025
 
+## [OECD Inventory of Export Restrictions on Staple Crops - Policy Trends up to 2025](https://doi.org/10.1787/3280c871-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 September 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
 ## [The Green Transition of SMEs and Entrepreneurship in Portugal](https://doi.org/10.1787/36e668f2-en)
 
 Embargo date | Launch date
@@ -142,84 +166,11 @@ Tuesday 23 September 2025 at 8:00 | no launch event
 
 ------
 
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, septembre 2025 - To come](https://doi.org/10.1787/519a0876-fr)
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, septembre 2025 - Trouver le juste équilibre en période d’incertitude](https://doi.org/10.1787/519a0876-fr)
 
 Embargo date | Launch date
 -------------|:------------:
 Tuesday 23 September 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Issue*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Outlook, Interim Report September 2025](https://doi.org/10.1787/67b10c01-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 September 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Issue*
-* Format: *PDF*
-
-------
-
-## [Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2025](https://doi.org/10.1787/e79e9c30-it)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 September 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Italian*
-* Availability: *Not yet available*
-* Type of publication: *Issue*
-* Format: *PDF*
-
-------
-
-------
-
-# 24 September 2025
-
-## [OECD Inventory of Export Restrictions on Staple Crops - Policy Trends up to 2025](https://doi.org/10.1787/3280c871-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 September 2025 at 7:00 | no launch event
 
 ### Status Information
 
@@ -230,11 +181,84 @@ Wednesday 24 September 2025 at 7:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Trade and Agriculture Directorate*
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Issue*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Economic Outlook, Interim Report September 2025 - Finding the Right Balance in Uncertain Times](https://doi.org/10.1787/67b10c01-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Issue*
 * Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2025 - Trovare il giusto equilibrio in tempi incerti](https://doi.org/10.1787/e79e9c30-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 September 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Italian*
+* Availability: *Published*
+* Type of publication: *Issue*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 25 September 2025
+
+## [How are AI developers managing risks? - Insights from responses to the reporting framework of the Hiroshima AI Process Code of Conduct](https://doi.org/10.1787/658c2ad6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 September 2025 at 3:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -504,7 +528,7 @@ Thursday 9 October 2025 at 10:00 | no launch event
 
 # 15 October 2025
 
-## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, October 2025)](https://doi.org/10.1787/56386016-en)
+## [A Decade of the BEPS Initiative - An Inclusive Framework Stocktake Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/32096fd3-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -522,6 +546,29 @@ Wednesday 15 October 2025 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, October 2025)](https://doi.org/10.1787/56386016-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 October 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -549,6 +596,33 @@ Thursday 16 October 2025 at 12:00 | no launch event
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 27 October 2025
+
+## [Artificial Intelligence and the Labour Market in Korea](https://doi.org/10.1787/68ab1a5a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 October 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
