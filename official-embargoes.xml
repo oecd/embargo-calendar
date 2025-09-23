@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-09-22T23:08:28.4087609+02:00">
+<report name="official-embargoes" generated="2025-09-23T23:05:23.8081567+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -1527,7 +1527,7 @@
     <cell name="subtitle">Insights from responses to the reporting framework of the Hiroshima AI Process Code of Conduct (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-09-25</cell>
     <cell name="embargo date">2025-09-25T03:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1537,7 +1537,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b690bbf0</cell>
   </row>
   <row index="77">
@@ -1762,6 +1762,26 @@
   </row>
   <row index="88">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/deb846ca-fr</cell>
+    <cell name="title">Renforcer la simplicité au bénéfice de la sécurité juridique en matière fiscale et de la croissance (fr)</cell>
+    <cell name="subtitle">Rapport de l'OCDE à l'intention des ministres des Finances et des gouverneurs de banque centrale du G20 (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-10-15</cell>
+    <cell name="embargo date">2025-10-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/efadb54c</cell>
+  </row>
+  <row index="89">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/56386016-en</cell>
     <cell name="title">OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, October 2025) (en)</cell>
     <cell name="subtitle"/>
@@ -1780,7 +1800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0a8a56b</cell>
   </row>
-  <row index="89">
+  <row index="90">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/6df2d6a0-en</cell>
     <cell name="title">Social Connections and Loneliness in OECD Countries (en)</cell>
@@ -1800,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a6bac611</cell>
   </row>
-  <row index="90">
+  <row index="91">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/68ab1a5a-en</cell>
     <cell name="title">Artificial Intelligence and the Labour Market in Korea (en)</cell>
@@ -1820,7 +1840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36b577af</cell>
   </row>
-  <row index="91">
+  <row index="92">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/5fe57b90-en</cell>
     <cell name="title">OECD Science, Technology and Innovation Outlook 2025 (en)</cell>
@@ -1839,5 +1859,85 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c26c22e</cell>
+  </row>
+  <row index="93">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/86c1fd38-en</cell>
+    <cell name="title">Expanding Social Protection and Addressing Informality in Latin America (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-10-30</cell>
+    <cell name="embargo date">2025-10-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed1b8125</cell>
+  </row>
+  <row index="94">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/745e0cdd-en</cell>
+    <cell name="title">Improving Active Labour Market Policies in Spain (en)</cell>
+    <cell name="subtitle">Lessons from a Qualitative Assessment (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-10-30</cell>
+    <cell name="embargo date">2025-10-30T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82c96bbd</cell>
+  </row>
+  <row index="95">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/1197d87d-en</cell>
+    <cell name="title">Mid-Term Evaluation of Spain’s Youth Guarantee Plus Plan 2021-2027 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-10-30</cell>
+    <cell name="embargo date">2025-10-30T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/173ac944</cell>
+  </row>
+  <row index="96">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/b52e98a2-en</cell>
+    <cell name="title">OECD Development Co‑operation Peer Reviews: Slovak Republic 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-11-25</cell>
+    <cell name="embargo date">2025-11-24T23:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8773f1b5</cell>
   </row>
 </report>

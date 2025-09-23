@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 22 September 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 23 September 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 September 2025](#22-september-2025)
 * [23 September 2025](#23-september-2025)
@@ -19,6 +19,8 @@ Data generated on | |
 * [16 October 2025](#16-october-2025)
 * [27 October 2025](#27-october-2025)
 * [28 October 2025](#28-october-2025)
+* [30 October 2025](#30-october-2025)
+* [24 November 2025](#24-november-2025)
 
 ------
 
@@ -247,7 +249,7 @@ Thursday 25 September 2025 at 3:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -256,7 +258,7 @@ Thursday 25 September 2025 at 3:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
@@ -551,6 +553,29 @@ Wednesday 15 October 2025 at 9:00 | no launch event
 
 ------
 
+## [Renforcer la simplicité au bénéfice de la sécurité juridique en matière fiscale et de la croissance - Rapport de l'OCDE à l'intention des ministres des Finances et des gouverneurs de banque centrale du G20](https://doi.org/10.1787/deb846ca-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 October 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, October 2025)](https://doi.org/10.1787/56386016-en)
 
 Embargo date | Launch date
@@ -648,6 +673,106 @@ Tuesday 28 October 2025 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 30 October 2025
+
+## [Expanding Social Protection and Addressing Informality in Latin America](https://doi.org/10.1787/86c1fd38-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 October 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Improving Active Labour Market Policies in Spain - Lessons from a Qualitative Assessment](https://doi.org/10.1787/745e0cdd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 October 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Mid-Term Evaluation of Spain’s Youth Guarantee Plus Plan 2021-2027](https://doi.org/10.1787/1197d87d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 October 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 24 November 2025
+
+## [OECD Development Co‑operation Peer Reviews: Slovak Republic 2025](https://doi.org/10.1787/b52e98a2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 November 2025 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
