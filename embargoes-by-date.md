@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 23 September 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 24 September 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 September 2025](#22-september-2025)
 * [23 September 2025](#23-september-2025)
 * [25 September 2025](#25-september-2025)
 * [26 September 2025](#26-september-2025)
@@ -21,102 +20,6 @@ Data generated on | |
 * [28 October 2025](#28-october-2025)
 * [30 October 2025](#30-october-2025)
 * [24 November 2025](#24-november-2025)
-
-------
-
-# 22 September 2025
-
-## [Note d’orientation du CAD de l’OCDE relative au financement mixte 2025 (version abrégée)](https://doi.org/10.1787/4915f91c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 September 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD DAC Blended Finance Guidance 2025](https://doi.org/10.1787/e4a13d2c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 September 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [To Have and Have Not – How to Bridge the Gap in Opportunities](https://doi.org/10.1787/dec143ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 September 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [State-Owned Enterprises and Sustainability - Leading by Example](https://doi.org/10.1787/c99c7ef0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 September 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -449,7 +352,7 @@ Monday 6 October 2025 at 11:00 | no launch event
 
 ------
 
-## [Panorama de la gouvernance d’enterprise de l’OCDE de 2025 (version abrégée)](https://doi.org/10.1787/48436a20-fr)
+## [Panorama de la gouvernance d’enterprise de l’OCDE 2025 (version abrégée)](https://doi.org/10.1787/48436a20-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -466,7 +369,7 @@ Monday 6 October 2025 at 11:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -520,7 +423,7 @@ Thursday 9 October 2025 at 10:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -576,6 +479,29 @@ Wednesday 15 October 2025 at 9:00 | no launch event
 
 ------
 
+## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Afrique du Sud, octobre 2025)](https://doi.org/10.1787/d5d65761-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 October 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, October 2025)](https://doi.org/10.1787/56386016-en)
 
 Embargo date | Launch date
@@ -594,6 +520,29 @@ Wednesday 15 October 2025 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Une décennie de l’initiative BEPS - Rapport de bilan du Cadre inclusif à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20](https://doi.org/10.1787/1257e3ff-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 October 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -684,6 +633,29 @@ Tuesday 28 October 2025 at 8:00 | no launch event
 
 # 30 October 2025
 
+## [Agricultural Policy Monitoring and Evaluation 2025 - Making the Most of the Trade and Environment Nexus in Agriculture](https://doi.org/10.1787/a80ac398-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 October 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Expanding Social Protection and Addressing Informality in Latin America](https://doi.org/10.1787/86c1fd38-en)
 
 Embargo date | Launch date
@@ -704,6 +676,29 @@ Thursday 30 October 2025 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Mejorando las políticas activas del mercado laboral en España - Enseñanzas de una valoración cualitativa](https://doi.org/10.1787/5ac0c11d-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 October 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
