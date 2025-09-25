@@ -2,122 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 24 September 2025 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Inventory of Export Restrictions on Staple Crops - Policy Trends up to 2025](https://doi.org/10.1787/3280c871-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 September 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [The Green Transition of SMEs and Entrepreneurship in Portugal](https://doi.org/10.1787/36e668f2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 September 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, septembre 2025 - Trouver le juste équilibre en période d’incertitude](https://doi.org/10.1787/519a0876-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 September 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Economic Outlook, Interim Report September 2025 - Finding the Right Balance in Uncertain Times](https://doi.org/10.1787/67b10c01-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 September 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2025 - Trovare il giusto equilibrio in tempi incerti](https://doi.org/10.1787/e79e9c30-it)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 September 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
+| *Thursday 25 September 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How are AI developers managing risks? - Insights from responses to the reporting framework of the Hiroshima AI Process Code of Conduct](https://doi.org/10.1787/658c2ad6-en)
 
@@ -139,6 +24,52 @@ Thursday 25 September 2025 at 3:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+## [Private Philanthropy for Development in Mexico](https://doi.org/10.1787/fb8680ff-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 September 2025 at 13:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Filantropía privada para el desarrollo en México](https://doi.org/10.1787/41edc729-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 September 2025 at 13:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -169,7 +100,7 @@ Friday 26 September 2025 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 28 September 2025 at 22:00 | no launch event
+Monday 29 September 2025 at 15:00 | no launch event
 
 ### Status Information
 
@@ -556,11 +487,11 @@ Tuesday 28 October 2025 at 8:00 | no launch event
 
 ------
 
-## [Agricultural Policy Monitoring and Evaluation 2025 - Making the Most of the Trade and Environment Nexus in Agriculture](https://doi.org/10.1787/a80ac398-en)
+## [Digital Government Review of Korea - Harnessing Digital and Data to Transform Government](https://doi.org/10.1787/9defc197-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 30 October 2025 at 8:00 | no launch event
+Tuesday 28 October 2025 at 23:00 | no launch event
 
 ### Status Information
 
@@ -571,7 +502,7 @@ Thursday 30 October 2025 at 8:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Trade and Agriculture Directorate*
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -668,6 +599,75 @@ Thursday 30 October 2025 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Politiques agricoles : Suivi et évaluation 2025 - Tirer le meilleur parti de l’interface entre les échanges et l’environnement dans l’agriculture](https://doi.org/10.1787/0cec016c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 October 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Agricultural Policy Monitoring and Evaluation 2025 - Making the Most of the Trade and Environment Nexus in Agriculture](https://doi.org/10.1787/a80ac398-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 October 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Biodiversity and Development Finance 2015-2023 - Contributing to Target 19a of the Kunming-Montreal Global Biodiversity Framework](https://doi.org/10.1787/7cbe1630-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 October 2025 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
