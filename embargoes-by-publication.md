@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 25 September 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 26 September 2025 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How are AI developers managing risks? - Insights from responses to the reporting framework of the Hiroshima AI Process Code of Conduct](https://doi.org/10.1787/658c2ad6-en)
 
