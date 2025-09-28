@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 September 2025 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 28 September 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 September 2025](#25-september-2025)
-* [26 September 2025](#26-september-2025)
 * [29 September 2025](#29-september-2025)
 * [1 October 2025](#1-october-2025)
 * [2 October 2025](#2-october-2025)
@@ -18,106 +16,6 @@ Data generated on | |
 * [28 October 2025](#28-october-2025)
 * [30 October 2025](#30-october-2025)
 * [24 November 2025](#24-november-2025)
-
-------
-
-# 25 September 2025
-
-## [How are AI developers managing risks? - Insights from responses to the reporting framework of the Hiroshima AI Process Code of Conduct](https://doi.org/10.1787/658c2ad6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 September 2025 at 3:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Private Philanthropy for Development in Mexico](https://doi.org/10.1787/fb8680ff-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 September 2025 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Filantropía privada para el desarrollo en México](https://doi.org/10.1787/41edc729-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 September 2025 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 26 September 2025
-
-## [Assessing Bosnia and Herzegovina's Reform Agenda for Private Sector Development](https://doi.org/10.1787/12b64ce6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 September 2025 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ------
 
