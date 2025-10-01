@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 30 September 2025 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 1 October 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 September 2025](#29-september-2025)
 * [1 October 2025](#1-october-2025)
 * [6 October 2025](#6-october-2025)
 * [9 October 2025](#9-october-2025)
@@ -15,57 +14,8 @@ Data generated on | |
 * [28 October 2025](#28-october-2025)
 * [30 October 2025](#30-october-2025)
 * [6 November 2025](#6-november-2025)
+* [13 November 2025](#13-november-2025)
 * [24 November 2025](#24-november-2025)
-
-------
-
-# 29 September 2025
-
-## [Estudios Económicos de la OCDE: Perú 2025](https://doi.org/10.1787/626594d0-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 September 2025 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Peru 2025](https://doi.org/10.1787/76f6eb73-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 September 2025 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -437,9 +387,9 @@ Monday 6 October 2025 at 11:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -666,7 +616,7 @@ Thursday 16 October 2025 at 12:00 | no launch event
 
 # 23 October 2025
 
-## [Long-Term Spending Projections In Israel](https://doi.org/10.1787/81e81270-en)
+## [Long-Term Spending Projections in Israel](https://doi.org/10.1787/81e81270-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -951,6 +901,33 @@ Thursday 6 November 2025 at 11:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 13 November 2025
+
+## [Health at a Glance 2025 - OECD Indicators](https://doi.org/10.1787/8f9e3f98-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*

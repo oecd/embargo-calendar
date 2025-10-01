@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 30 September 2025 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Estudios Económicos de la OCDE: Perú 2025](https://doi.org/10.1787/626594d0-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 September 2025 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Peru 2025](https://doi.org/10.1787/76f6eb73-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 September 2025 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Wednesday 1 October 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Estimer la valeur économique du risque de mortalité dans l’évaluation des politiques publiques (version abrégée) - Méta-analyse mondiale des études sur la valeur d’une vie statistique](https://doi.org/10.1787/5d085904-fr)
 
@@ -412,9 +366,9 @@ Monday 6 October 2025 at 11:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -625,7 +579,7 @@ Thursday 16 October 2025 at 12:00 | no launch event
 
 ------
 
-## [Long-Term Spending Projections In Israel](https://doi.org/10.1787/81e81270-en)
+## [Long-Term Spending Projections in Israel](https://doi.org/10.1787/81e81270-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -894,6 +848,29 @@ Thursday 6 November 2025 at 11:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Health at a Glance 2025 - OECD Indicators](https://doi.org/10.1787/8f9e3f98-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
