@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 1 October 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 2 October 2025 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Estimer la valeur économique du risque de mortalité dans l’évaluation des politiques publiques (version abrégée) - Méta-analyse mondiale des études sur la valeur d’une vie statistique](https://doi.org/10.1787/5d085904-fr)
 
@@ -426,7 +426,7 @@ Thursday 9 October 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -435,9 +435,9 @@ Thursday 9 October 2025 at 10:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -688,6 +688,29 @@ Thursday 30 October 2025 at 8:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Ampliar la protección social y combatir la informalidad en América Latina](https://doi.org/10.1787/b03f2e18-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 October 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
