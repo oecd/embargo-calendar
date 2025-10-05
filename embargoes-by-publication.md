@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 October 2025 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 5 October 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Embedding Water-related Risks in Financial Stability Frameworks](https://doi.org/10.1787/ee1757f9-en)
 
