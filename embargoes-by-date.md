@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 5 October 2025 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 6 October 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 October 2025](#6-october-2025)
 * [9 October 2025](#9-october-2025)
@@ -2325,7 +2325,7 @@ Thursday 30 October 2025 at 9:00 | no launch event
 
 ------
 
-## [Politiques agricoles : Suivi et évaluation 2025 - Tirer le meilleur parti de l’interface entre les échanges et l’environnement dans l’agriculture](https://doi.org/10.1787/0cec016c-fr)
+## [Politiques agricoles : Suivi et évaluation 2025 (version abrégée) - Tirer le meilleur parti de l’interface entre les échanges et l’environnement dans l’agriculture](https://doi.org/10.1787/0cec016c-fr)
 
 Embargo date | Launch date
 -------------|:------------:
