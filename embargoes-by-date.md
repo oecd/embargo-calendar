@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 October 2025 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 8 October 2025 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 October 2025](#6-october-2025)
 * [9 October 2025](#9-october-2025)
@@ -13,656 +13,14 @@ Data generated on | |
 * [28 October 2025](#28-october-2025)
 * [30 October 2025](#30-october-2025)
 * [6 November 2025](#6-november-2025)
+* [9 November 2025](#9-november-2025)
 * [13 November 2025](#13-november-2025)
+* [17 November 2025](#17-november-2025)
 * [24 November 2025](#24-november-2025)
 
 ------
 
 # 6 October 2025
-
-## [Embedding Water-related Risks in Financial Stability Frameworks](https://doi.org/10.1787/ee1757f9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [México](https://doi.org/10.1787/782443f0-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [България](https://doi.org/10.1787/6da21ccd-bg)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Bulgarian*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Mexico](https://doi.org/10.1787/eb45943f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Argentina](https://doi.org/10.1787/e491194f-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Ελλάδα](https://doi.org/10.1787/6167a7cf-el)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Greek*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Greece](https://doi.org/10.1787/b11e3155-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Italy](https://doi.org/10.1787/bfeff6f3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Argentina](https://doi.org/10.1787/d0a9c03d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Bulgaria](https://doi.org/10.1787/d43100e0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Australia](https://doi.org/10.1787/3bbed815-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [México](https://doi.org/10.1787/2b2cd4de-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF*
-
-------
-
-## [日本](https://doi.org/10.1787/feabf927-ja)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Japanese*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF*
-
-------
-
-## [Sweden](https://doi.org/10.1787/4afc1f43-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Colombia](https://doi.org/10.1787/3791260c-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [ישראל](https://doi.org/10.1787/5a22b03e-he)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Hebrew*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Italia](https://doi.org/10.1787/476e24a9-it)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [OECD Corporate Governance Factbook 2025](https://doi.org/10.1787/f4f43735-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Chile](https://doi.org/10.1787/460f779c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Sverige](https://doi.org/10.1787/79d99e78-sv)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Swedish*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Colombia](https://doi.org/10.1787/c606b6d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Israel](https://doi.org/10.1787/e9cfd440-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Japan](https://doi.org/10.1787/8da303ef-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Peru](https://doi.org/10.1787/324c7951-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Panorama de la gouvernance d’entreprise de l’OCDE 2025 (version abrégée)](https://doi.org/10.1787/48436a20-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [United Kingdom](https://doi.org/10.1787/ff336661-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Chile](https://doi.org/10.1787/49cbb5d4-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Perú](https://doi.org/10.1787/a29b0f6e-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 October 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
 
 ## [Portugal](https://doi.org/10.1787/f19ffc18-en)
 
@@ -2398,6 +1756,29 @@ Thursday 30 October 2025 at 23:00 | no launch event
 
 # 6 November 2025
 
+## [L'Observateur de l'action climatique 2025](https://doi.org/10.1787/0808b249-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 November 2025 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [The Climate Action Monitor 2025](https://doi.org/10.1787/1819c631-en)
 
 Embargo date | Launch date
@@ -2423,6 +1804,33 @@ Thursday 6 November 2025 at 11:00 | no launch event
 
 ------
 
+# 9 November 2025
+
+## [Assessing the Socio-economic Impact of Foreign Direct Investment in Latin America and the Caribbean - A Focus on EU Investments](https://doi.org/10.1787/fd8fb41c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 9 November 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 13 November 2025
 
 ## [Health at a Glance 2025 - OECD Indicators](https://doi.org/10.1787/8f9e3f98-en)
@@ -2441,6 +1849,56 @@ Thursday 13 November 2025 at 9:30 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Effective Carbon Rates 2025 - Recent Trends in Taxes on Energy Use and Carbon Pricing](https://doi.org/10.1787/a5a5d71f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 17 November 2025
+
+## [Tax Administration 2025 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/cc015ce8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
