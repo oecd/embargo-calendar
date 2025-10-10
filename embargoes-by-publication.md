@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 October 2025 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 10 October 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring Science and Innovation for Sustainable Growth](https://doi.org/10.1787/3b96cf8c-en)
 
@@ -150,7 +150,7 @@ Thursday 16 October 2025 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -159,8 +159,31 @@ Thursday 16 October 2025 at 12:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Green Iron opportunities in Australia - A case study within the OECD’s Global Green Iron project](https://doi.org/10.1787/bbd1e2b8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 October 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -182,7 +205,7 @@ Thursday 23 October 2025 at 8:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -481,7 +504,7 @@ Thursday 6 November 2025 at 11:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
