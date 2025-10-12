@@ -2,49 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/3b96cf8c-end3e329
-SUMMARY:[Stand-alone monograph] Measuring Scienc
- e and Innovation for Sustainable Growth
-DESCRIPTION:*[Stand-alone monograph] Measuring Scien
- ce and Innovation for Sustainable Growth
- *\n\nDirectorate: Directorate for Scienc
- e, Technology and Industry\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/3b96
- cf8c-en\nPublication type: Stand-alone m
- onograph\nReleased as: HTML, Paperback, 
- PDF, ZJCR, ZXML\n\nEmbargo date/time: Th
- ursday, 9 October 2025, 5:00 (GMT)\n\n\n
- iLibrary export: never\nFreepreview expo
- rt: never\nOECD.org export: never\nFTI l
- oaded: ✓\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 23:08, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =3b96cf8c-en.
-DTSTAMP:20251010T230858Z
-DTSTART:20251009T050000Z
-DTEND:20251009T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Measur
- ing Science and Innovation for Sustainab
- le Growth
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/32096fd3-end3e806
+UID:10.1787/32096fd3-end3e63
 SUMMARY:[Report] A Decade of the BEPS Initiative
   - An Inclusive Framework Stocktake Repo
  rt to G20 Finance Ministers and Central 
@@ -73,7 +31,7 @@ DESCRIPTION:*[Report] A Decade of the BEPS Initiativ
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=32096fd3-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251015T090000Z
 DTEND:20251015T091500Z
 TRANSP:TRANSPARENT
@@ -89,7 +47,7 @@ DESCRIPTION:Reminder: [Report] A Decade of the BEPS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/deb846ca-frd3e859
+UID:10.1787/deb846ca-frd3e116
 SUMMARY:[Report] Renforcer la simplicité au béné
  fice de la sécurité juridique en matière
   fiscale et de la croissance - Rapport d
@@ -122,7 +80,7 @@ DESCRIPTION:*[Report] Renforcer la simplicité au bén
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=deb846ca-fr.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251015T090000Z
 DTEND:20251015T091500Z
 TRANSP:TRANSPARENT
@@ -140,7 +98,7 @@ DESCRIPTION:Reminder: [Report] Renforcer la simplici
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d5d65761-frd3e913
+UID:10.1787/d5d65761-frd3e169
 SUMMARY:[Report] Rapport sur la fiscalité du Sec
  rétaire général de l’OCDE à l’intention 
  des ministres des Finances et des gouver
@@ -171,7 +129,7 @@ DESCRIPTION:*[Report] Rapport sur la fiscalité du Se
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=d5d65761-fr.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251015T090000Z
 DTEND:20251015T091500Z
 TRANSP:TRANSPARENT
@@ -188,7 +146,7 @@ DESCRIPTION:Reminder: [Report] Rapport sur la fiscal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/56386016-end3e965
+UID:10.1787/56386016-end3e221
 SUMMARY:[Report] OECD Secretary-General Tax Repo
  rt to G20 Finance Ministers and Central 
  Bank Governors (G20 South Africa, Octobe
@@ -217,7 +175,7 @@ DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=5
  6386016-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251015T090000Z
 DTEND:20251015T091500Z
 TRANSP:TRANSPARENT
@@ -233,7 +191,7 @@ DESCRIPTION:Reminder: [Report] OECD Secretary-Genera
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1257e3ff-frd3e1017
+UID:10.1787/1257e3ff-frd3e274
 SUMMARY:[Report] Une décennie de l’initiative BE
  PS - Rapport de bilan du Cadre inclusif 
  à l’intention des ministres des Finances
@@ -264,7 +222,7 @@ DESCRIPTION:*[Report] Une décennie de l’initiative B
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=1257
  e3ff-fr.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251015T090000Z
 DTEND:20251015T091500Z
 TRANSP:TRANSPARENT
@@ -281,7 +239,7 @@ DESCRIPTION:Reminder: [Report] Une décennie de l’ini
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6df2d6a0-end3e1123
+UID:10.1787/6df2d6a0-end3e380
 SUMMARY:[Stand-alone monograph] Social Connectio
  ns and Loneliness in OECD Countries
 DESCRIPTION:*[Stand-alone monograph] Social Connecti
@@ -308,7 +266,7 @@ DESCRIPTION:*[Stand-alone monograph] Social Connecti
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=6df2d6a0-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251016T120000Z
 DTEND:20251016T121500Z
 TRANSP:TRANSPARENT
@@ -323,7 +281,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Social
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bbd1e2b8-end3e1760
+UID:10.1787/bbd1e2b8-end3e1017
 SUMMARY:[Policy paper] Green Iron opportunities 
  in Australia - A case study within the O
  ECD’s Global Green Iron project
@@ -351,7 +309,7 @@ DESCRIPTION:*[Policy paper] Green Iron opportunities
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=bbd
  1e2b8-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251022T060000Z
 DTEND:20251022T061500Z
 TRANSP:TRANSPARENT
@@ -367,7 +325,7 @@ DESCRIPTION:Reminder: [Policy paper] Green Iron oppo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/81e81270-end3e1866
+UID:10.1787/81e81270-end3e1122
 SUMMARY:[Stand-alone monograph] Long-Term Spendi
  ng Projections in Israel
 DESCRIPTION:*[Stand-alone monograph] Long-Term Spend
@@ -392,7 +350,7 @@ DESCRIPTION:*[Stand-alone monograph] Long-Term Spend
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=81e81270-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251023T080000Z
 DTEND:20251023T081500Z
 TRANSP:TRANSPARENT
@@ -406,7 +364,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Long-T
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/68ab1a5a-end3e1918
+UID:10.1787/68ab1a5a-end3e1174
 SUMMARY:[Stand-alone monograph] Artificial Intel
  ligence and the Labour Market in Korea
 DESCRIPTION:*[Stand-alone monograph] Artificial Inte
@@ -432,7 +390,7 @@ DESCRIPTION:*[Stand-alone monograph] Artificial Inte
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=68ab1a5a-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251027T080000Z
 DTEND:20251027T081500Z
 TRANSP:TRANSPARENT
@@ -447,7 +405,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Artifi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5fe57b90-end3e1970
+UID:10.1787/5fe57b90-end3e1227
 SUMMARY:[Book] OECD Science, Technology and Inno
  vation Outlook 2025 - Driving Change in 
  a Shifting Landscape
@@ -474,7 +432,7 @@ DESCRIPTION:*[Book] OECD Science, Technology and Inn
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=5fe57b90-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251028T080000Z
 DTEND:20251028T081500Z
 TRANSP:TRANSPARENT
@@ -489,7 +447,7 @@ DESCRIPTION:Reminder: [Book] OECD Science, Technolog
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9defc197-end3e2076
+UID:10.1787/9defc197-end3e1333
 SUMMARY:[Book] Digital Government Review of Kore
  a - Harnessing Digital and Data to Trans
  form Government
@@ -516,7 +474,7 @@ DESCRIPTION:*[Book] Digital Government Review of Kor
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=9defc197-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251028T230000Z
 DTEND:20251028T231500Z
 TRANSP:TRANSPARENT
@@ -531,7 +489,7 @@ DESCRIPTION:Reminder: [Book] Digital Government Revi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/86c1fd38-end3e2129
+UID:10.1787/86c1fd38-end3e1386
 SUMMARY:[Stand-alone monograph] Expanding Social
   Protection and Addressing Informality i
  n Latin America
@@ -558,7 +516,7 @@ DESCRIPTION:*[Stand-alone monograph] Expanding Socia
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =86c1fd38-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251030T080000Z
 DTEND:20251030T081500Z
 TRANSP:TRANSPARENT
@@ -573,7 +531,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Expand
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b03f2e18-esd3e2182
+UID:10.1787/b03f2e18-esd3e1438
 SUMMARY:[Stand-alone monograph] Ampliar la prote
  cción social y combatir la informalidad 
  en América Latina
@@ -600,7 +558,7 @@ DESCRIPTION:*[Stand-alone monograph] Ampliar la prot
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=b03f2e18-es.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251030T080000Z
 DTEND:20251030T081500Z
 TRANSP:TRANSPARENT
@@ -615,7 +573,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Amplia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5ac0c11d-esd3e2234
+UID:10.1787/5ac0c11d-esd3e1490
 SUMMARY:[Book] Mejorando las políticas activas d
  el mercado laboral en España - Enseñanza
  s de una valoración cualitativa
@@ -643,7 +601,7 @@ DESCRIPTION:*[Book] Mejorando las políticas activas
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=5ac0c11d-es.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251030T090000Z
 DTEND:20251030T091500Z
 TRANSP:TRANSPARENT
@@ -659,7 +617,7 @@ DESCRIPTION:Reminder: [Book] Mejorando las políticas
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/745e0cdd-end3e2340
+UID:10.1787/745e0cdd-end3e1597
 SUMMARY:[Book] Improving Active Labour Market Po
  licies in Spain - Lessons from a Qualita
  tive Assessment
@@ -686,7 +644,7 @@ DESCRIPTION:*[Book] Improving Active Labour Market P
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=745e0cdd-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251030T090000Z
 DTEND:20251030T091500Z
 TRANSP:TRANSPARENT
@@ -701,7 +659,7 @@ DESCRIPTION:Reminder: [Book] Improving Active Labour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1197d87d-end3e2393
+UID:10.1787/1197d87d-end3e1650
 SUMMARY:[Stand-alone monograph] Mid-Term Evaluat
  ion of Spain’s Youth Guarantee Plus Plan
   2021-2027
@@ -729,7 +687,7 @@ DESCRIPTION:*[Stand-alone monograph] Mid-Term Evalua
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=1197d87d-en
  .
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251030T090000Z
 DTEND:20251030T091500Z
 TRANSP:TRANSPARENT
@@ -744,7 +702,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Mid-Te
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0cec016c-frd3e2445
+UID:10.1787/0cec016c-frd3e1702
 SUMMARY:[Book] Politiques agricoles : Suivi et é
  valuation 2025 (version abrégée) - Tirer
   le meilleur parti de l’interface entre 
@@ -775,7 +733,7 @@ DESCRIPTION:*[Book] Politiques agricoles : Suivi et
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=0cec016c-fr.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251030T100000Z
 DTEND:20251030T101500Z
 TRANSP:TRANSPARENT
@@ -792,7 +750,7 @@ DESCRIPTION:Reminder: [Book] Politiques agricoles :
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a80ac398-end3e2499
+UID:10.1787/a80ac398-end3e1755
 SUMMARY:[Book] Agricultural Policy Monitoring an
  d Evaluation 2025 - Making the Most of t
  he Trade and Environment Nexus in Agricu
@@ -821,7 +779,7 @@ DESCRIPTION:*[Book] Agricultural Policy Monitoring a
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=a
  80ac398-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251030T100000Z
 DTEND:20251030T101500Z
 TRANSP:TRANSPARENT
@@ -837,7 +795,7 @@ DESCRIPTION:Reminder: [Book] Agricultural Policy Mon
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7cbe1630-end3e2658
+UID:10.1787/7cbe1630-end3e1915
 SUMMARY:[Stand-alone monograph] Biodiversity and
   Development Finance 2015-2023 - Contrib
  uting to Target 19a of the Kunming-Montr
@@ -867,7 +825,7 @@ DESCRIPTION:*[Stand-alone monograph] Biodiversity an
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=7cbe1630-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251030T230000Z
 DTEND:20251030T231500Z
 TRANSP:TRANSPARENT
@@ -884,7 +842,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Biodiv
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0808b249-frd3e2869
+UID:10.1787/0808b249-frd3e2125
 SUMMARY:[Book] L'Observateur de l'action climati
  que 2025
 DESCRIPTION:*[Book] L'Observateur de l'action climat
@@ -909,7 +867,7 @@ DESCRIPTION:*[Book] L'Observateur de l'action climat
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=0808b249-
  fr.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251106T110000Z
 DTEND:20251106T111500Z
 TRANSP:TRANSPARENT
@@ -923,7 +881,7 @@ DESCRIPTION:Reminder: [Book] L'Observateur de l'acti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1819c631-end3e2921
+UID:10.1787/1819c631-end3e2178
 SUMMARY:[Book] The Climate Action Monitor 2025
 DESCRIPTION:*[Book] The Climate Action Monitor 2025*
  \n\nDirectorate: Environment Directorate
@@ -946,7 +904,7 @@ DESCRIPTION:*[Book] The Climate Action Monitor 2025*
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=1819c631-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251106T110000Z
 DTEND:20251106T111500Z
 TRANSP:TRANSPARENT
@@ -960,7 +918,7 @@ DESCRIPTION:Reminder: [Book] The Climate Action Moni
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fd8fb41c-end3e3026
+UID:10.1787/fd8fb41c-end3e2283
 SUMMARY:[Stand-alone monograph] Assessing the So
  cio-economic Impact of Foreign Direct In
  vestment in Latin America and the Caribb
@@ -990,7 +948,7 @@ DESCRIPTION:*[Stand-alone monograph] Assessing the S
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=fd8fb41c-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251109T070000Z
 DTEND:20251109T071500Z
 TRANSP:TRANSPARENT
@@ -1007,7 +965,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Assess
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8f9e3f98-end3e3133
+UID:10.1787/8f9e3f98-end3e2389
 SUMMARY:[Book] Health at a Glance 2025 - OECD In
  dicators
 DESCRIPTION:*[Book] Health at a Glance 2025 - OECD I
@@ -1032,7 +990,7 @@ DESCRIPTION:*[Book] Health at a Glance 2025 - OECD I
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=8f9e3f98-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251113T093000Z
 DTEND:20251113T094500Z
 TRANSP:TRANSPARENT
@@ -1046,7 +1004,7 @@ DESCRIPTION:Reminder: [Book] Health at a Glance 2025
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a5a5d71f-end3e3239
+UID:10.1787/a5a5d71f-end3e2496
 SUMMARY:[Book] Effective Carbon Rates 2025 - Rec
  ent Trends in Taxes on Energy Use and Ca
  rbon Pricing
@@ -1073,7 +1031,7 @@ DESCRIPTION:*[Book] Effective Carbon Rates 2025 - Re
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=a5a5d71f-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251113T100000Z
 DTEND:20251113T101500Z
 TRANSP:TRANSPARENT
@@ -1088,7 +1046,7 @@ DESCRIPTION:Reminder: [Book] Effective Carbon Rates
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cc015ce8-end3e3292
+UID:10.1787/cc015ce8-end3e2549
 SUMMARY:[Book] Tax Administration 2025 - Compara
  tive Information on OECD and other Advan
  ced and Emerging Economies
@@ -1115,7 +1073,7 @@ DESCRIPTION:*[Book] Tax Administration 2025 - Compar
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=cc015ce8-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251117T100000Z
 DTEND:20251117T101500Z
 TRANSP:TRANSPARENT
@@ -1130,7 +1088,7 @@ DESCRIPTION:Reminder: [Book] Tax Administration 2025
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b52e98a2-end3e3398
+UID:10.1787/b52e98a2-end3e2655
 SUMMARY:[Book] OECD Development Co‑operation Pee
  r Reviews: Slovak Republic 2025
 DESCRIPTION:*[Book] OECD Development Co‑operation Pe
@@ -1155,7 +1113,7 @@ DESCRIPTION:*[Book] OECD Development Co‑operation Pe
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=b52e98a2-en.
-DTSTAMP:20251010T230858Z
+DTSTAMP:20251012T230859Z
 DTSTART:20251124T230000Z
 DTEND:20251124T231500Z
 TRANSP:TRANSPARENT

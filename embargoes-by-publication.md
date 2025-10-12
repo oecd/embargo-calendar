@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 10 October 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Measuring Science and Innovation for Sustainable Growth](https://doi.org/10.1787/3b96cf8c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 October 2025 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 12 October 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A Decade of the BEPS Initiative - An Inclusive Framework Stocktake Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/32096fd3-en)
 

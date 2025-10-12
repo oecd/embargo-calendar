@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 10 October 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 12 October 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 October 2025](#9-october-2025)
 * [15 October 2025](#15-october-2025)
 * [16 October 2025](#16-october-2025)
 * [22 October 2025](#22-october-2025)
@@ -17,33 +16,6 @@ Data generated on | |
 * [13 November 2025](#13-november-2025)
 * [17 November 2025](#17-november-2025)
 * [24 November 2025](#24-november-2025)
-
-------
-
-# 9 October 2025
-
-## [Measuring Science and Innovation for Sustainable Growth](https://doi.org/10.1787/3b96cf8c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 October 2025 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
