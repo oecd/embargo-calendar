@@ -2,7 +2,30 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 12 October 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 13 October 2025 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Higher Education in Portugal - Policies for Access and Success](https://doi.org/10.1787/49b1c7dc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 October 2025 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
 
 ## [A Decade of the BEPS Initiative - An Inclusive Framework Stocktake Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/32096fd3-en)
 
@@ -12,7 +35,7 @@ Wednesday 15 October 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -21,7 +44,7 @@ Wednesday 15 October 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -58,7 +81,7 @@ Wednesday 15 October 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -81,7 +104,7 @@ Wednesday 15 October 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -104,7 +127,7 @@ Wednesday 15 October 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -113,7 +136,7 @@ Wednesday 15 October 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
