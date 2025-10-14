@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 13 October 2025 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 14 October 2025 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Higher Education in Portugal - Policies for Access and Success](https://doi.org/10.1787/49b1c7dc-en)
 
@@ -50,29 +50,6 @@ Wednesday 15 October 2025 at 9:00 | no launch event
 
 ------
 
-## [Renforcer la simplicité au bénéfice de la sécurité juridique en matière fiscale et de la croissance - Rapport de l'OCDE à l'intention des ministres des Finances et des gouverneurs de banque centrale du G20](https://doi.org/10.1787/deb846ca-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 October 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Afrique du Sud, octobre 2025)](https://doi.org/10.1787/d5d65761-fr)
 
 Embargo date | Launch date
@@ -90,7 +67,7 @@ Wednesday 15 October 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -113,7 +90,7 @@ Wednesday 15 October 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -207,7 +184,7 @@ Thursday 23 October 2025 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
