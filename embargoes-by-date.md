@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 14 October 2025 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 15 October 2025 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 October 2025](#14-october-2025)
 * [15 October 2025](#15-october-2025)
@@ -11,6 +11,7 @@ Data generated on | |
 * [23 October 2025](#23-october-2025)
 * [27 October 2025](#27-october-2025)
 * [28 October 2025](#28-october-2025)
+* [29 October 2025](#29-october-2025)
 * [30 October 2025](#30-october-2025)
 * [6 November 2025](#6-november-2025)
 * [9 November 2025](#9-november-2025)
@@ -284,7 +285,7 @@ Tuesday 28 October 2025 at 23:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -293,9 +294,36 @@ Tuesday 28 October 2025 at 23:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 29 October 2025
+
+## [Global Corporate Sustainability Report 2025](https://doi.org/10.1787/bc25ce1e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 October 2025 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -449,7 +477,7 @@ Thursday 30 October 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -458,9 +486,9 @@ Thursday 30 October 2025 at 10:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
