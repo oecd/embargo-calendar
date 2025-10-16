@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 October 2025 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Higher Education in Portugal - Policies for Access and Success](https://doi.org/10.1787/49b1c7dc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 October 2025 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Thursday 16 October 2025 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A Decade of the BEPS Initiative - An Inclusive Framework Stocktake Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/32096fd3-en)
 
@@ -506,7 +483,7 @@ Thursday 6 November 2025 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -530,6 +507,29 @@ Sunday 9 November 2025 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Unleashing the policy potential of rigorous impact evaluation and randomised trials](https://doi.org/10.1787/5c135873-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 

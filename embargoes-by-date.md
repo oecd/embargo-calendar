@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 October 2025 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 16 October 2025 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 October 2025](#14-october-2025)
 * [15 October 2025](#15-october-2025)
 * [16 October 2025](#16-october-2025)
 * [22 October 2025](#22-october-2025)
@@ -15,36 +14,10 @@ Data generated on | |
 * [30 October 2025](#30-october-2025)
 * [6 November 2025](#6-november-2025)
 * [9 November 2025](#9-november-2025)
+* [10 November 2025](#10-november-2025)
 * [13 November 2025](#13-november-2025)
 * [17 November 2025](#17-november-2025)
 * [24 November 2025](#24-november-2025)
-
-------
-
-# 14 October 2025
-
-## [Higher Education in Portugal - Policies for Access and Success](https://doi.org/10.1787/49b1c7dc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 October 2025 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -561,7 +534,7 @@ Thursday 6 November 2025 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -589,6 +562,33 @@ Sunday 9 November 2025 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 10 November 2025
+
+## [Unleashing the policy potential of rigorous impact evaluation and randomised trials](https://doi.org/10.1787/5c135873-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
