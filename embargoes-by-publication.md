@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 October 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Social Connections and Loneliness in OECD Countries](https://doi.org/10.1787/6df2d6a0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 October 2025 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 19 October 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Green Iron opportunities in Australia - A case study within the OECD’s Global Green Iron project](https://doi.org/10.1787/bbd1e2b8-en)
 

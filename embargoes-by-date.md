@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 October 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 19 October 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 October 2025](#16-october-2025)
 * [22 October 2025](#22-october-2025)
 * [23 October 2025](#23-october-2025)
 * [27 October 2025](#27-october-2025)
@@ -17,33 +16,6 @@ Data generated on | |
 * [13 November 2025](#13-november-2025)
 * [17 November 2025](#17-november-2025)
 * [24 November 2025](#24-november-2025)
-
-------
-
-# 16 October 2025
-
-## [Social Connections and Loneliness in OECD Countries](https://doi.org/10.1787/6df2d6a0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 October 2025 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
