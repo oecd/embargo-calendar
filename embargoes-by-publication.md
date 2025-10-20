@@ -2,7 +2,30 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 19 October 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 20 October 2025 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Land Use Climate Mitigation Policy Database - 2025 PIMA-AFOLU Update](https://doi.org/10.1787/170be27b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 October 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [Green Iron opportunities in Australia - A case study within the OECD’s Global Green Iron project](https://doi.org/10.1787/bbd1e2b8-en)
 
@@ -21,9 +44,9 @@ Wednesday 22 October 2025 at 6:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
-* Format: *PDF*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -77,7 +100,7 @@ Monday 27 October 2025 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 28 October 2025 at 8:00 | no launch event
+Tuesday 28 October 2025 at 9:00 | no launch event
 
 ### Status Information
 
@@ -277,6 +300,29 @@ Thursday 30 October 2025 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Making the Most of the Trade and Environment Nexus in Agriculture - Agricultural Policy Monitoring and Evaluation 2025](https://doi.org/10.1787/439313bc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 October 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -576,5 +622,51 @@ Monday 24 November 2025 at 23:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Pensions at a Glance 2025 - OECD and G20 Indicators](https://doi.org/10.1787/e40274c1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Education Policy Outlook 2025 - Nurturing Engaged and Resilient Lifelong Learners in a World of Digital Transformation](https://doi.org/10.1787/c3f402ba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 28 November 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
