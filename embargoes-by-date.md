@@ -2,10 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 October 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 21 October 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 October 2025](#22-october-2025)
-* [23 October 2025](#23-october-2025)
 * [27 October 2025](#27-october-2025)
 * [28 October 2025](#28-october-2025)
 * [29 October 2025](#29-october-2025)
@@ -71,33 +70,6 @@ Wednesday 22 October 2025 at 6:00 | no launch event
 
 ------
 
-# 23 October 2025
-
-## [Long-Term Spending Projections in Israel](https://doi.org/10.1787/81e81270-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 October 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-------
-
 # 27 October 2025
 
 ## [Artificial Intelligence and the Labour Market in Korea](https://doi.org/10.1787/68ab1a5a-en)
@@ -120,6 +92,29 @@ Monday 27 October 2025 at 8:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Long-Term Spending Projections in Israel](https://doi.org/10.1787/81e81270-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 October 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -185,7 +180,7 @@ Wednesday 29 October 2025 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -194,9 +189,32 @@ Wednesday 29 October 2025 at 13:30 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Rapport mondial sur la durabilité des entreprises 2025 (version abrégée)](https://doi.org/10.1787/9263c329-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 October 2025 at 13:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -512,6 +530,29 @@ Monday 10 November 2025 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+## [Drivers of Trust in Public Institutions in Latin America and the Caribbean 2025 - Main Findings of the OECD Trust Survey](https://doi.org/10.1787/ea3385cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
