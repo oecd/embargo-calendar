@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 21 October 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 22 October 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 October 2025](#22-october-2025)
 * [27 October 2025](#27-october-2025)
@@ -14,6 +14,7 @@ Data generated on | |
 * [10 November 2025](#10-november-2025)
 * [13 November 2025](#13-november-2025)
 * [17 November 2025](#17-november-2025)
+* [20 November 2025](#20-november-2025)
 * [24 November 2025](#24-november-2025)
 * [27 November 2025](#27-november-2025)
 * [28 November 2025](#28-november-2025)
@@ -72,29 +73,6 @@ Wednesday 22 October 2025 at 6:00 | no launch event
 
 # 27 October 2025
 
-## [Artificial Intelligence and the Labour Market in Korea](https://doi.org/10.1787/68ab1a5a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 October 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [Long-Term Spending Projections in Israel](https://doi.org/10.1787/81e81270-en)
 
 Embargo date | Launch date
@@ -121,6 +99,29 @@ Monday 27 October 2025 at 8:00 | no launch event
 ------
 
 # 28 October 2025
+
+## [Science, technologie et innovation : Perspectives de l'OCDE 2025 - Conduire le changement dans un monde en mutation](https://doi.org/10.1787/a7207a31-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 October 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [OECD Science, Technology and Innovation Outlook 2025 - Driving Change in a Shifting Landscape](https://doi.org/10.1787/5fe57b90-en)
 
@@ -345,7 +346,7 @@ Thursday 30 October 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -354,9 +355,9 @@ Thursday 30 October 2025 at 10:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -406,29 +407,6 @@ Thursday 30 October 2025 at 10:00 | no launch event
 
 ------
 
-## [Biodiversity and Development Finance 2015-2023 - Contributing to Target 19a of the Kunming-Montreal Global Biodiversity Framework](https://doi.org/10.1787/7cbe1630-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 October 2025 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ------
 
 # 6 November 2025
@@ -437,7 +415,7 @@ Thursday 30 October 2025 at 23:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 6 November 2025 at 11:00 | no launch event
+Thursday 6 November 2025 at 9:00 | no launch event
 
 ### Status Information
 
@@ -460,7 +438,7 @@ Thursday 6 November 2025 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 6 November 2025 at 11:00 | no launch event
+Thursday 6 November 2025 at 9:00 | no launch event
 
 ### Status Information
 
@@ -684,6 +662,33 @@ Thursday 13 November 2025 at 10:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Monday 17 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 20 November 2025
+
+## [Revenue Statistics in Africa 2025 - Commonalities and Specificities across African Revenue Classifications](https://doi.org/10.1787/8d3bf3af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 November 2025 at 15:00 | no launch event
 
 ### Status Information
 
