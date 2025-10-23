@@ -2,13 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 October 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 23 October 2025 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 October 2025](#22-october-2025)
 * [27 October 2025](#27-october-2025)
 * [28 October 2025](#28-october-2025)
 * [29 October 2025](#29-october-2025)
 * [30 October 2025](#30-october-2025)
+* [3 November 2025](#3-november-2025)
 * [6 November 2025](#6-november-2025)
 * [9 November 2025](#9-november-2025)
 * [10 November 2025](#10-november-2025)
@@ -22,29 +23,6 @@ Data generated on | |
 ------
 
 # 22 October 2025
-
-## [Land Use Climate Mitigation Policy Database - 2025 PIMA-AFOLU Update](https://doi.org/10.1787/170be27b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 October 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ## [Green Iron opportunities in Australia - A case study within the OECD’s Global Green Iron project](https://doi.org/10.1787/bbd1e2b8-en)
 
@@ -108,7 +86,7 @@ Tuesday 28 October 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -117,9 +95,9 @@ Tuesday 28 October 2025 at 9:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -131,7 +109,7 @@ Tuesday 28 October 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -140,9 +118,9 @@ Tuesday 28 October 2025 at 9:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -231,7 +209,7 @@ Thursday 30 October 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -240,7 +218,7 @@ Thursday 30 October 2025 at 8:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -254,7 +232,7 @@ Thursday 30 October 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -263,7 +241,7 @@ Thursday 30 October 2025 at 8:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -319,11 +297,11 @@ Thursday 30 October 2025 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 30 October 2025 at 9:00 | no launch event
+Thursday 30 October 2025 at 9:10 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -332,9 +310,9 @@ Thursday 30 October 2025 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -409,6 +387,33 @@ Thursday 30 October 2025 at 10:00 | no launch event
 
 ------
 
+# 3 November 2025
+
+## [Policy Inventory for Mitigation Actions in the Agriculture, Forestry and Other Land Use Sectors - 2025 PIMA-AFOLU Update](https://doi.org/10.1787/170be27b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 November 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
 # 6 November 2025
 
 ## [L'Observateur de l'action climatique 2025](https://doi.org/10.1787/0808b249-fr)
@@ -430,7 +435,7 @@ Thursday 6 November 2025 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
