@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 October 2025 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 24 October 2025 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 October 2025](#22-october-2025)
 * [27 October 2025](#27-october-2025)
 * [28 October 2025](#28-october-2025)
 * [29 October 2025](#29-october-2025)
@@ -19,33 +18,6 @@ Data generated on | |
 * [24 November 2025](#24-november-2025)
 * [27 November 2025](#27-november-2025)
 * [28 November 2025](#28-november-2025)
-
-------
-
-# 22 October 2025
-
-## [Green Iron opportunities in Australia - A case study within the OECD’s Global Green Iron project](https://doi.org/10.1787/bbd1e2b8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 October 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -266,7 +238,7 @@ Thursday 30 October 2025 at 9:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -278,7 +250,7 @@ Thursday 30 October 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -287,9 +259,9 @@ Thursday 30 October 2025 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -516,7 +488,7 @@ Monday 10 November 2025 at 8:00 | no launch event
 
 ------
 
-## [Drivers of Trust in Public Institutions in Latin America and the Caribbean 2025 - Main Findings of the OECD Trust Survey](https://doi.org/10.1787/ea3385cf-en)
+## [OECD Survey on Drivers of Trust in Public Institutions in Latin America and the Caribbean 2025 Results](https://doi.org/10.1787/ea3385cf-en)
 
 Embargo date | Launch date
 -------------|:------------:
