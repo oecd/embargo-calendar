@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 October 2025 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 26 October 2025 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Long-Term Spending Projections in Israel](https://doi.org/10.1787/81e81270-en)
 
