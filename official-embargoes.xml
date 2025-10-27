@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-10-26T23:12:16.7014325+01:00">
+<report name="official-embargoes" generated="2025-10-27T23:07:43.458027+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -1447,7 +1447,7 @@
     <cell name="subtitle">Enseñanzas de una valoración cualitativa (es)</cell>
     <cell name="language">Spanish</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-10-30</cell>
     <cell name="embargo date">2025-10-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1457,10 +1457,30 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/573aea9c</cell>
   </row>
   <row index="73">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/5ac0c11d-es</cell>
+    <cell name="title">Mejorando las políticas activas del mercado laboral en España (es)</cell>
+    <cell name="subtitle">Enseñanzas de una valoración cualitativa (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-10-30</cell>
+    <cell name="embargo date">2025-10-30T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa6b2c5d</cell>
+  </row>
+  <row index="74">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/745e0cdd-en</cell>
     <cell name="title">Improving Active Labour Market Policies in Spain (en)</cell>
@@ -1480,14 +1500,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/450d1d26</cell>
   </row>
-  <row index="74">
+  <row index="75">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5ac0c11d-es</cell>
     <cell name="title">Mejorando las políticas activas del mercado laboral en España (es)</cell>
     <cell name="subtitle">Enseñanzas de una valoración cualitativa (es)</cell>
     <cell name="language">Spanish</cell>
     <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-10-30</cell>
     <cell name="embargo date">2025-10-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1500,14 +1520,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d48556d5</cell>
   </row>
-  <row index="75">
+  <row index="76">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5ac0c11d-es</cell>
     <cell name="title">Mejorando las políticas activas del mercado laboral en España (es)</cell>
     <cell name="subtitle">Enseñanzas de una valoración cualitativa (es)</cell>
     <cell name="language">Spanish</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-10-30</cell>
     <cell name="embargo date">2025-10-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1517,10 +1537,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a119cd7f</cell>
   </row>
-  <row index="76">
+  <row index="77">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/745e0cdd-en</cell>
     <cell name="title">Improving Active Labour Market Policies in Spain (en)</cell>
@@ -1540,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/878f1207</cell>
   </row>
-  <row index="77">
+  <row index="78">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/745e0cdd-en</cell>
     <cell name="title">Improving Active Labour Market Policies in Spain (en)</cell>
@@ -1560,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82c96bbd</cell>
   </row>
-  <row index="78">
+  <row index="79">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/745e0cdd-en</cell>
     <cell name="title">Improving Active Labour Market Policies in Spain (en)</cell>
@@ -1580,7 +1600,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6b4ca89</cell>
   </row>
-  <row index="79">
+  <row index="80">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/5ac0c11d-es</cell>
+    <cell name="title">Mejorando las políticas activas del mercado laboral en España (es)</cell>
+    <cell name="subtitle">Enseñanzas de una valoración cualitativa (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-10-30</cell>
+    <cell name="embargo date">2025-10-30T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b7955470</cell>
+  </row>
+  <row index="81">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/745e0cdd-en</cell>
     <cell name="title">Improving Active Labour Market Policies in Spain (en)</cell>
@@ -1600,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9a3b10c</cell>
   </row>
-  <row index="80">
+  <row index="82">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1197d87d-en</cell>
     <cell name="title">Mid-Term Evaluation of Spain’s Youth Guarantee Plus Plan 2021-2027 (en)</cell>
@@ -1620,7 +1660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce8b8132</cell>
   </row>
-  <row index="81">
+  <row index="83">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/65966712-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1640,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/037df04e</cell>
   </row>
-  <row index="82">
+  <row index="84">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/43c6c6de-en</cell>
     <cell name="title">Evaluation matrix (en)</cell>
@@ -1660,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e3c5612</cell>
   </row>
-  <row index="83">
+  <row index="85">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1974e0b0-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1680,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2477c853</cell>
   </row>
-  <row index="84">
+  <row index="86">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/12e5ae14-en</cell>
     <cell name="title">Sample-selection process for the survey of YG+P participants (en)</cell>
@@ -1700,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2af6b4dc</cell>
   </row>
-  <row index="85">
+  <row index="87">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/cb7fa5e4-en</cell>
     <cell name="title">Theory of change of the Youth Guarantee Plus Plan 2021‑27 for decent work for young people (en)</cell>
@@ -1720,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99038370</cell>
   </row>
-  <row index="86">
+  <row index="88">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bc8a4a12-en</cell>
     <cell name="title">Mid-term evaluation results (en)</cell>
@@ -1740,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc12725e</cell>
   </row>
-  <row index="87">
+  <row index="89">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6235d8ac-en</cell>
     <cell name="title">Evaluation approach and methodology (en)</cell>
@@ -1760,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45455004</cell>
   </row>
-  <row index="88">
+  <row index="90">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/903678e2-en</cell>
     <cell name="title">Evaluation context (en)</cell>
@@ -1780,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ad6aeb90</cell>
   </row>
-  <row index="89">
+  <row index="91">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3012688a-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1800,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d1d301e</cell>
   </row>
-  <row index="90">
+  <row index="92">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1197d87d-en</cell>
     <cell name="title">Mid-Term Evaluation of Spain’s Youth Guarantee Plus Plan 2021-2027 (en)</cell>
@@ -1820,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/173ac944</cell>
   </row>
-  <row index="91">
+  <row index="93">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1197d87d-en</cell>
     <cell name="title">Mid-Term Evaluation of Spain’s Youth Guarantee Plus Plan 2021-2027 (en)</cell>
@@ -1840,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/844c4b28</cell>
   </row>
-  <row index="92">
+  <row index="94">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1197d87d-en</cell>
     <cell name="title">Mid-Term Evaluation of Spain’s Youth Guarantee Plus Plan 2021-2027 (en)</cell>
@@ -1860,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9084afa4</cell>
   </row>
-  <row index="93">
+  <row index="95">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2c9dedf1-en</cell>
     <cell name="title">Conclusions and recommendations (en)</cell>
@@ -1880,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72558f0f</cell>
   </row>
-  <row index="94">
+  <row index="96">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1197d87d-en</cell>
     <cell name="title">Mid-Term Evaluation of Spain’s Youth Guarantee Plus Plan 2021-2027 (en)</cell>
@@ -1900,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23da9f62</cell>
   </row>
-  <row index="95">
+  <row index="97">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/35942e63-fr</cell>
     <cell name="title">Argentine (fr)</cell>
@@ -1920,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a7bddc1</cell>
   </row>
-  <row index="96">
+  <row index="98">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ecce2d79-fr</cell>
     <cell name="title">Türkiye (fr)</cell>
@@ -1940,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03fc5fc3</cell>
   </row>
-  <row index="97">
+  <row index="99">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/11f3f6b0-en</cell>
     <cell name="title">Norway (en)</cell>
@@ -1960,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20c6caf3</cell>
   </row>
-  <row index="98">
+  <row index="100">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0cec016c-fr</cell>
     <cell name="title">Politiques agricoles : Suivi et évaluation 2025 (version abrégée) (fr)</cell>
@@ -1980,7 +2020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60ec71a6</cell>
   </row>
-  <row index="99">
+  <row index="101">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/cbe062f4-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
@@ -2000,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21a23331</cell>
   </row>
-  <row index="100">
+  <row index="102">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/32fa2414-en</cell>
     <cell name="title">Philippines (en)</cell>
@@ -2020,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ea8db10</cell>
   </row>
-  <row index="101">
+  <row index="103">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/46bb77f7-en</cell>
     <cell name="title">Sources and Definitions of Contextual Indicators (en)</cell>
@@ -2040,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8cfe4173</cell>
   </row>
-  <row index="102">
+  <row index="104">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b1186578-fr</cell>
     <cell name="title">Kazakhstan (fr)</cell>
@@ -2060,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/172a6cfe</cell>
   </row>
-  <row index="103">
+  <row index="105">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0cec016c-fr</cell>
     <cell name="title">Politiques agricoles : Suivi et évaluation 2025 (version abrégée) (fr)</cell>
@@ -2080,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e8ba46f</cell>
   </row>
-  <row index="104">
+  <row index="106">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5dbb8a52-en</cell>
     <cell name="title">European Union (en)</cell>
@@ -2100,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9759e5f3</cell>
   </row>
-  <row index="105">
+  <row index="107">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9b1fb46d-fr</cell>
     <cell name="title">Chine (fr)</cell>
@@ -2120,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3fe7aacc</cell>
   </row>
-  <row index="106">
+  <row index="108">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/7c1c6639-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2140,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78b9585f</cell>
   </row>
-  <row index="107">
+  <row index="109">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f384fa96-en</cell>
     <cell name="title">Acronyms and Abbreviations (en)</cell>
@@ -2160,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/093166a3</cell>
   </row>
-  <row index="108">
+  <row index="110">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/dca06171-en</cell>
     <cell name="title">Mexico (en)</cell>
@@ -2180,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19fc4b20</cell>
   </row>
-  <row index="109">
+  <row index="111">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/df48dded-fr</cell>
     <cell name="title">Union européenne (fr)</cell>
@@ -2200,7 +2240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f92f621</cell>
   </row>
-  <row index="110">
+  <row index="112">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c30ed03e-fr</cell>
     <cell name="title">Viet Nam (fr)</cell>
@@ -2220,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95bdf9a9</cell>
   </row>
-  <row index="111">
+  <row index="113">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0cec016c-fr</cell>
     <cell name="title">Politiques agricoles : Suivi et évaluation 2025 (version abrégée) (fr)</cell>
@@ -2240,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/48e4c132</cell>
   </row>
-  <row index="112">
+  <row index="114">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a80ac398-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2025 (en)</cell>
@@ -2260,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55f4d97d</cell>
   </row>
-  <row index="113">
+  <row index="115">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/439313bc-en</cell>
     <cell name="title">Making the Most of the Trade and Environment Nexus in Agriculture (en)</cell>
@@ -2280,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/201b4c03</cell>
   </row>
-  <row index="114">
+  <row index="116">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b1dd53b6-en</cell>
     <cell name="title">South Africa (en)</cell>
@@ -2300,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/edfe494b</cell>
   </row>
-  <row index="115">
+  <row index="117">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a752a902-fr</cell>
     <cell name="title">Indonésie (fr)</cell>
@@ -2320,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/710a7cda</cell>
   </row>
-  <row index="116">
+  <row index="118">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e526f0bb-fr</cell>
     <cell name="title">Costa Rica (fr)</cell>
@@ -2340,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0d5b870</cell>
   </row>
-  <row index="117">
+  <row index="119">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/93b4915b-fr</cell>
     <cell name="title">Brésil (fr)</cell>
@@ -2360,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2bd5200</cell>
   </row>
-  <row index="118">
+  <row index="120">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/adae8751-en</cell>
     <cell name="title">Canada (en)</cell>
@@ -2380,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c1068149</cell>
   </row>
-  <row index="119">
+  <row index="121">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b33fa421-en</cell>
     <cell name="title">Türkiye (en)</cell>
@@ -2400,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f0ccdba</cell>
   </row>
-  <row index="120">
+  <row index="122">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a80ac398-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2025 (en)</cell>
@@ -2420,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d326d99d</cell>
   </row>
-  <row index="121">
+  <row index="123">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4fb1745a-fr</cell>
     <cell name="title">Chili (fr)</cell>
@@ -2440,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ad2a4b6f</cell>
   </row>
-  <row index="122">
+  <row index="124">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/27e48567-fr</cell>
     <cell name="title">Inde (fr)</cell>
@@ -2460,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef432f0a</cell>
   </row>
-  <row index="123">
+  <row index="125">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f3712f93-fr</cell>
     <cell name="title">Mexique (fr)</cell>
@@ -2480,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/395cd48f</cell>
   </row>
-  <row index="124">
+  <row index="126">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b14829e7-en</cell>
     <cell name="title">Chile (en)</cell>
@@ -2500,7 +2540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae1247cb</cell>
   </row>
-  <row index="125">
+  <row index="127">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b7178f4e-en</cell>
     <cell name="title">Costa Rica (en)</cell>
@@ -2520,7 +2560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cef82bd9</cell>
   </row>
-  <row index="126">
+  <row index="128">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e8429421-en</cell>
     <cell name="title">Viet Nam (en)</cell>
@@ -2540,7 +2580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a110277d</cell>
   </row>
-  <row index="127">
+  <row index="129">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/15999b67-en</cell>
     <cell name="title">Overview of agricultural policies and support (en)</cell>
@@ -2560,7 +2600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23a6ff53</cell>
   </row>
-  <row index="128">
+  <row index="130">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/00ddc6f1-fr</cell>
     <cell name="title">Israël (fr)</cell>
@@ -2580,7 +2620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a06fdec</cell>
   </row>
-  <row index="129">
+  <row index="131">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0cec016c-fr</cell>
     <cell name="title">Politiques agricoles : Suivi et évaluation 2025 (version abrégée) (fr)</cell>
@@ -2600,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/deb904bb</cell>
   </row>
-  <row index="130">
+  <row index="132">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/83af691b-fr</cell>
     <cell name="title">Nouvelle-Zélande (fr)</cell>
@@ -2620,7 +2660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a5d483c</cell>
   </row>
-  <row index="131">
+  <row index="133">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c9fdf234-en</cell>
     <cell name="title">United Kingdom (en)</cell>
@@ -2640,7 +2680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47faaba3</cell>
   </row>
-  <row index="132">
+  <row index="134">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a80ac398-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2025 (en)</cell>
@@ -2660,7 +2700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/913507a4</cell>
   </row>
-  <row index="133">
+  <row index="135">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/64b23544-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -2680,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10339750</cell>
   </row>
-  <row index="134">
+  <row index="136">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8d03c757-en</cell>
     <cell name="title">Korea (en)</cell>
@@ -2700,7 +2740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95f1a1a6</cell>
   </row>
-  <row index="135">
+  <row index="137">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8e7aa437-fr</cell>
     <cell name="title">Royaume-Uni (fr)</cell>
@@ -2720,7 +2760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72d8f9b4</cell>
   </row>
-  <row index="136">
+  <row index="138">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3fe12f9f-fr</cell>
     <cell name="title">Canada (fr)</cell>
@@ -2740,7 +2780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74115312</cell>
   </row>
-  <row index="137">
+  <row index="139">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/379ca757-fr</cell>
     <cell name="title">Norvège (fr)</cell>
@@ -2760,7 +2800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ac314a0</cell>
   </row>
-  <row index="138">
+  <row index="140">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9c5766d5-en</cell>
     <cell name="title">New Zealand (en)</cell>
@@ -2780,7 +2820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c15e58b</cell>
   </row>
-  <row index="139">
+  <row index="141">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/85a499f6-fr</cell>
     <cell name="title">Afrique du Sud (fr)</cell>
@@ -2800,7 +2840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a968128b</cell>
   </row>
-  <row index="140">
+  <row index="142">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/79e138af-fr</cell>
     <cell name="title">Philippines (fr)</cell>
@@ -2820,7 +2860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b562028</cell>
   </row>
-  <row index="141">
+  <row index="143">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ed9ffc67-en</cell>
     <cell name="title">Iceland (en)</cell>
@@ -2840,7 +2880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55d2cf66</cell>
   </row>
-  <row index="142">
+  <row index="144">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/37ba8311-en</cell>
     <cell name="title">Israel (en)</cell>
@@ -2860,7 +2900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1e5e7c6</cell>
   </row>
-  <row index="143">
+  <row index="145">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/439313bc-en</cell>
     <cell name="title">Making the Most of the Trade and Environment Nexus in Agriculture (en)</cell>
@@ -2880,7 +2920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8622bdbf</cell>
   </row>
-  <row index="144">
+  <row index="146">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f8d32979-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -2900,7 +2940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d8610b4</cell>
   </row>
-  <row index="145">
+  <row index="147">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8342de1e-fr</cell>
     <cell name="title">Suisse (fr)</cell>
@@ -2920,7 +2960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9af0910f</cell>
   </row>
-  <row index="146">
+  <row index="148">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a80ac398-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2025 (en)</cell>
@@ -2940,7 +2980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a7b522e</cell>
   </row>
-  <row index="147">
+  <row index="149">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/96e32359-fr</cell>
     <cell name="title">Corée (fr)</cell>
@@ -2960,7 +3000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8b02afa</cell>
   </row>
-  <row index="148">
+  <row index="150">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/183f51e8-fr</cell>
     <cell name="title">Vue d’ensemble des politiques et du soutien agricoles (fr)</cell>
@@ -2980,7 +3020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/171e1ac8</cell>
   </row>
-  <row index="149">
+  <row index="151">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4451198f-fr</cell>
     <cell name="title">Islande (fr)</cell>
@@ -3000,7 +3040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b4f5a07</cell>
   </row>
-  <row index="150">
+  <row index="152">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9914d3ae-fr</cell>
     <cell name="title">Acronymes et abréviations (fr)</cell>
@@ -3020,7 +3060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/666bb48b</cell>
   </row>
-  <row index="151">
+  <row index="153">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/89adefe1-en</cell>
     <cell name="title">United States (en)</cell>
@@ -3040,7 +3080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7aba8bf</cell>
   </row>
-  <row index="152">
+  <row index="154">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b2d0a135-en</cell>
     <cell name="title">Making the most of the trade and environment nexus in agriculture (en)</cell>
@@ -3060,7 +3100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57cdab18</cell>
   </row>
-  <row index="153">
+  <row index="155">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8d722773-en</cell>
     <cell name="title">Australia (en)</cell>
@@ -3080,7 +3120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/276576e3</cell>
   </row>
-  <row index="154">
+  <row index="156">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8ae40597-en</cell>
     <cell name="title">Brazil (en)</cell>
@@ -3100,7 +3140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60a13ee6</cell>
   </row>
-  <row index="155">
+  <row index="157">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/439313bc-en</cell>
     <cell name="title">Making the Most of the Trade and Environment Nexus in Agriculture (en)</cell>
@@ -3120,7 +3160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bb0ec233</cell>
   </row>
-  <row index="156">
+  <row index="158">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5ece08e5-fr</cell>
     <cell name="title">Colombie (fr)</cell>
@@ -3140,7 +3180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f6504894</cell>
   </row>
-  <row index="157">
+  <row index="159">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/fa1a0da3-en</cell>
     <cell name="title">Japan (en)</cell>
@@ -3160,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca5c9dad</cell>
   </row>
-  <row index="158">
+  <row index="160">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ad2e26a8-fr</cell>
     <cell name="title">Japon (fr)</cell>
@@ -3180,7 +3220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e674e59</cell>
   </row>
-  <row index="159">
+  <row index="161">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0c455c75-en</cell>
     <cell name="title">Argentina (en)</cell>
@@ -3200,7 +3240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37106523</cell>
   </row>
-  <row index="160">
+  <row index="162">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/461d5ec9-en</cell>
     <cell name="title">Switzerland (en)</cell>
@@ -3220,7 +3260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a78ce361</cell>
   </row>
-  <row index="161">
+  <row index="163">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/321a5e71-fr</cell>
     <cell name="title">Ukraine (fr)</cell>
@@ -3240,7 +3280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1e7fd04</cell>
   </row>
-  <row index="162">
+  <row index="164">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/420e1e02-fr</cell>
     <cell name="title">États-Unis (fr)</cell>
@@ -3260,7 +3300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/18dadbff</cell>
   </row>
-  <row index="163">
+  <row index="165">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d97e8421-fr</cell>
     <cell name="title">Évolution des politiques et du soutien agricoles par pays (fr)</cell>
@@ -3280,7 +3320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3bacd718</cell>
   </row>
-  <row index="164">
+  <row index="166">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2efabf6d-fr</cell>
     <cell name="title">Tirer le meilleur parti de l’interface entre les échanges et l’environnement dans l’agriculture (fr)</cell>
@@ -3300,7 +3340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9e25b7e</cell>
   </row>
-  <row index="165">
+  <row index="167">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/7e214186-en</cell>
     <cell name="title">China (en)</cell>
@@ -3320,7 +3360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a9e4279</cell>
   </row>
-  <row index="166">
+  <row index="168">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/49d0c54b-fr</cell>
     <cell name="title">Australie (fr)</cell>
@@ -3340,7 +3380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a9c3d93</cell>
   </row>
-  <row index="167">
+  <row index="169">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a80ac398-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2025 (en)</cell>
@@ -3360,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c16ddc38</cell>
   </row>
-  <row index="168">
+  <row index="170">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c8dde563-en</cell>
     <cell name="title">Kazakhstan (en)</cell>
@@ -3380,7 +3420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/104f304e</cell>
   </row>
-  <row index="169">
+  <row index="171">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/82792cd6-en</cell>
     <cell name="title">Developments in agricultural policies and support by country (en)</cell>
@@ -3400,7 +3440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d375606</cell>
   </row>
-  <row index="170">
+  <row index="172">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d164c9dc-en</cell>
     <cell name="title">Indonesia (en)</cell>
@@ -3420,7 +3460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7734cf8</cell>
   </row>
-  <row index="171">
+  <row index="173">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4e58bed8-en</cell>
     <cell name="title">Ukraine (en)</cell>
@@ -3440,7 +3480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4663b4aa</cell>
   </row>
-  <row index="172">
+  <row index="174">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/28610bfe-en</cell>
     <cell name="title">Colombia (en)</cell>
@@ -3460,7 +3500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1703896</cell>
   </row>
-  <row index="173">
+  <row index="175">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4531d262-en</cell>
     <cell name="title">India (en)</cell>
@@ -3480,7 +3520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5a993c8</cell>
   </row>
-  <row index="174">
+  <row index="176">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0cec016c-fr</cell>
     <cell name="title">Politiques agricoles : Suivi et évaluation 2025 (version abrégée) (fr)</cell>
@@ -3500,7 +3540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2757253</cell>
   </row>
-  <row index="175">
+  <row index="177">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/7cbe1630-en</cell>
     <cell name="title">Biodiversity and Development Finance 2015-2023 (en)</cell>
@@ -3520,14 +3560,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe2471b2</cell>
   </row>
-  <row index="176">
+  <row index="178">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/170be27b-en</cell>
     <cell name="title">Policy Inventory for Mitigation Actions in the Agriculture, Forestry and Other Land Use Sectors (en)</cell>
     <cell name="subtitle">2025 PIMA-AFOLU Update (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2025-11-03</cell>
     <cell name="embargo date">2025-11-03T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -3540,7 +3580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0fb21c53</cell>
   </row>
-  <row index="177">
+  <row index="179">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0808b249-fr</cell>
     <cell name="title">L'Observateur de l'action climatique 2025 (fr)</cell>
@@ -3560,7 +3600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6090b35e</cell>
   </row>
-  <row index="178">
+  <row index="180">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/1819c631-en</cell>
     <cell name="title">The Climate Action Monitor 2025 (en)</cell>
@@ -3580,7 +3620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9443de17</cell>
   </row>
-  <row index="179">
+  <row index="181">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/fd8fb41c-en</cell>
     <cell name="title">Assessing the Socio-economic Impact of Foreign Direct Investment in Latin America and the Caribbean (en)</cell>
@@ -3600,14 +3640,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4989425d</cell>
   </row>
-  <row index="180">
+  <row index="182">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5c135873-en</cell>
     <cell name="title">Unleashing the policy potential of rigorous impact evaluation and randomised trials (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2025-11-10</cell>
     <cell name="embargo date">2025-11-10T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -3620,12 +3660,12 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/daf066c8</cell>
   </row>
-  <row index="181">
+  <row index="183">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/ea3385cf-en</cell>
-    <cell name="title">OECD Survey on Drivers of Trust in Public Institutions in Latin America and the Caribbean 2025 Results (en)</cell>
+    <cell name="doi">10.1787/b4dea13c-es</cell>
+    <cell name="title">Encuesta de la OCDE sobre los determinantes de la confianza en las instituciones públicas de América Latina y el Caribe Resultados 2025 (es)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English</cell>
+    <cell name="language">Spanish</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2025-11-10</cell>
@@ -3638,14 +3678,14 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bec32243</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87b268d5</cell>
   </row>
-  <row index="182">
+  <row index="184">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/ea3385cf-en</cell>
-    <cell name="title">OECD Survey on Drivers of Trust in Public Institutions in Latin America and the Caribbean 2025 Results (en)</cell>
+    <cell name="doi">10.1787/b4dea13c-es</cell>
+    <cell name="title">Encuesta de la OCDE sobre los determinantes de la confianza en las instituciones públicas de América Latina y el Caribe Resultados 2025 (es)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English</cell>
+    <cell name="language">Spanish</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2025-11-10</cell>
@@ -3658,16 +3698,36 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8a72719</cell>
+  </row>
+  <row index="185">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/ea3385cf-en</cell>
+    <cell name="title">OECD Survey on Drivers of Trust in Public Institutions in Latin America and the Caribbean 2025 Results (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-11-10</cell>
+    <cell name="embargo date">2025-11-10T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/982dc2fb</cell>
   </row>
-  <row index="183">
+  <row index="186">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/292d6e6f-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Eswatini 2025 (Second Round, Phase 1) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2025-11-10</cell>
     <cell name="embargo date">2025-11-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -3680,14 +3740,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f45c8603</cell>
   </row>
-  <row index="184">
+  <row index="187">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/750e6671-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Viet Nam 2025 (Second Round, Combined Review) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2025-11-10</cell>
     <cell name="embargo date">2025-11-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -3700,14 +3760,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41f142b0</cell>
   </row>
-  <row index="185">
+  <row index="188">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/65015428-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Jordan 2025 (Second Round, Phase 1) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2025-11-10</cell>
     <cell name="embargo date">2025-11-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -3720,7 +3780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6039bfa</cell>
   </row>
-  <row index="186">
+  <row index="189">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8f9e3f98-en</cell>
     <cell name="title">Health at a Glance 2025 (en)</cell>
@@ -3740,7 +3800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aabfbb56</cell>
   </row>
-  <row index="187">
+  <row index="190">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a5a5d71f-en</cell>
     <cell name="title">Effective Carbon Rates 2025 (en)</cell>
@@ -3760,14 +3820,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cabac28d</cell>
   </row>
-  <row index="188">
+  <row index="191">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cc015ce8-en</cell>
     <cell name="title">Tax Administration 2025 (en)</cell>
     <cell name="subtitle">Comparative Information on OECD and other Advanced and Emerging Economies (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2025-11-17</cell>
     <cell name="embargo date">2025-11-17T10:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -3780,27 +3840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b919cc30</cell>
   </row>
-  <row index="189">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/cc015ce8-en</cell>
-    <cell name="title">Tax Administration 2025 (en)</cell>
-    <cell name="subtitle">Comparative Information on OECD and other Advanced and Emerging Economies (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2025-11-17</cell>
-    <cell name="embargo date">2025-11-17T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8357ab7</cell>
-  </row>
-  <row index="190">
+  <row index="192">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8d3bf3af-en</cell>
     <cell name="title">Revenue Statistics in Africa 2025 (en)</cell>
@@ -3820,7 +3860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dade26f6</cell>
   </row>
-  <row index="191">
+  <row index="193">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8d3bf3af-en</cell>
     <cell name="title">Revenue Statistics in Africa 2025 (en)</cell>
@@ -3840,7 +3880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd2b15ac</cell>
   </row>
-  <row index="192">
+  <row index="194">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/b52e98a2-en</cell>
     <cell name="title">OECD Development Co‑operation Peer Reviews: Slovak Republic 2025 (en)</cell>
@@ -3860,7 +3900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8773f1b5</cell>
   </row>
-  <row index="193">
+  <row index="195">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e40274c1-en</cell>
     <cell name="title">Pensions at a Glance 2025 (en)</cell>
@@ -3880,7 +3920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e0cc846</cell>
   </row>
-  <row index="194">
+  <row index="196">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e40274c1-en</cell>
     <cell name="title">Pensions at a Glance 2025 (en)</cell>
@@ -3900,7 +3940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0583d8b6</cell>
   </row>
-  <row index="195">
+  <row index="197">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c3f402ba-en</cell>
     <cell name="title">Education Policy Outlook 2025 (en)</cell>
@@ -3920,7 +3960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e706906</cell>
   </row>
-  <row index="196">
+  <row index="198">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c3f402ba-en</cell>
     <cell name="title">Education Policy Outlook 2025 (en)</cell>
