@@ -28,7 +28,7 @@ DESCRIPTION:*[Stand-alone monograph] Long-Term Spend
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=81e
  81270-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251027T080000Z
 DTEND:20251027T081500Z
 TRANSP:TRANSPARENT
@@ -71,7 +71,7 @@ DESCRIPTION:*[Book] Science, technologie et innovati
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=a7207a31-fr.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251028T090000Z
 DTEND:20251028T091500Z
 TRANSP:TRANSPARENT
@@ -115,7 +115,7 @@ DESCRIPTION:*[Book] OECD Science, Technology and Inn
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=5fe57b90-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251028T090000Z
 DTEND:20251028T091500Z
 TRANSP:TRANSPARENT
@@ -157,7 +157,7 @@ DESCRIPTION:*[Book] Digital Government Review of Kor
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=9defc197-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251028T230000Z
 DTEND:20251028T231500Z
 TRANSP:TRANSPARENT
@@ -199,7 +199,7 @@ DESCRIPTION:*[Stand-alone monograph] Global Corporat
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=bc25ce1e
  -en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251029T133000Z
 DTEND:20251029T134500Z
 TRANSP:TRANSPARENT
@@ -241,7 +241,7 @@ DESCRIPTION:*[Stand-alone monograph] Rapport mondial
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=9263c329-fr.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251029T133000Z
 DTEND:20251029T134500Z
 TRANSP:TRANSPARENT
@@ -283,7 +283,7 @@ DESCRIPTION:*[Stand-alone monograph] Expanding Socia
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =86c1fd38-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251030T080000Z
 DTEND:20251030T081500Z
 TRANSP:TRANSPARENT
@@ -325,7 +325,7 @@ DESCRIPTION:*[Stand-alone monograph] Ampliar la prot
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=b03f2e18-es.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251030T080000Z
 DTEND:20251030T081500Z
 TRANSP:TRANSPARENT
@@ -368,7 +368,7 @@ DESCRIPTION:*[Book] Mejorando las políticas activas
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=5ac0c11d-es.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251030T090000Z
 DTEND:20251030T091500Z
 TRANSP:TRANSPARENT
@@ -412,7 +412,7 @@ DESCRIPTION:*[Book] Improving Active Labour Market P
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=745e0cdd-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251030T090000Z
 DTEND:20251030T091500Z
 TRANSP:TRANSPARENT
@@ -455,7 +455,7 @@ DESCRIPTION:*[Stand-alone monograph] Mid-Term Evalua
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=1197d87d-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251030T091000Z
 DTEND:20251030T092500Z
 TRANSP:TRANSPARENT
@@ -501,7 +501,7 @@ DESCRIPTION:*[Book] Politiques agricoles : Suivi et
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=0cec016c-fr.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251030T100000Z
 DTEND:20251030T101500Z
 TRANSP:TRANSPARENT
@@ -547,7 +547,7 @@ DESCRIPTION:*[Policy brief] Making the Most of the T
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=439313bc-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251030T100000Z
 DTEND:20251030T101500Z
 TRANSP:TRANSPARENT
@@ -592,7 +592,7 @@ DESCRIPTION:*[Book] Agricultural Policy Monitoring a
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=a80ac398-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251030T100000Z
 DTEND:20251030T101500Z
 TRANSP:TRANSPARENT
@@ -609,34 +609,35 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:10.1787/170be27b-end3e9500
-SUMMARY:[Book] Policy Inventory for Mitigation A
- ctions in the Agriculture, Forestry and 
- Other Land Use Sectors - 2025 PIMA-AFOLU
-  Update
-DESCRIPTION:*[Book] Policy Inventory for Mitigation 
- Actions in the Agriculture, Forestry and
-  Other Land Use Sectors - 2025 PIMA-AFOL
- U Update*\n\nDirectorate: Trade and Agri
- culture Directorate\nLanguage: English\n
- DOI: https://doi.org/10.1787/170be27b-en
- \nPublication type: Book\nReleased as: P
- DF\n\nEmbargo date/time: Monday, 3 Novem
- ber 2025, 7:00 (GMT)\n\n\niLibrary expor
- t: never\nFreepreview export: never\nOEC
- D.org export: never\nFTI loaded: ✗\n\nFo
- r more information see: https://oecd.git
- hub.io/embargo-calendar/embargoes-by-pub
- lication.html.\n\nPlease note: This info
- rmation was correct as of this afternoon
-  at 23:07, it is updated each night; the
- refore any subsequent updates may not ye
- t be visible here. Also, please be aware
-  that the different released media (PDF,
-  HTML, etc.) are not necessarily release
- d at the same time. For complete and up-
- to-date information see here: http://kap
- pa.oecd.org/v3/search?term=170be27b-en.
-DTSTAMP:20251027T230747Z
+SUMMARY:[Stand-alone monograph] Policy Inventory
+  for Mitigation Actions in the Agricultu
+ re, Forestry and Other Land Use Sectors 
+ - 2025 PIMA-AFOLU Update
+DESCRIPTION:*[Stand-alone monograph] Policy Inventor
+ y for Mitigation Actions in the Agricult
+ ure, Forestry and Other Land Use Sectors
+  - 2025 PIMA-AFOLU Update*\n\nDirectorat
+ e: Trade and Agriculture Directorate\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/170be27b-en\nPublication type: Sta
+ nd-alone monograph\nReleased as: PDF\n\n
+ Embargo date/time: Monday, 3 November 20
+ 25, 7:00 (GMT)\n\n\niLibrary export: nev
+ er\nFreepreview export: never\nOECD.org 
+ export: never\nFTI loaded: ✗\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 23
+ :07, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=170be27b-en.
+DTSTAMP:20251028T230716Z
 DTSTART:20251103T070000Z
 DTEND:20251103T071500Z
 TRANSP:TRANSPARENT
@@ -645,10 +646,10 @@ TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Policy Inventory for Mi
- tigation Actions in the Agriculture, For
- estry and Other Land Use Sectors - 2025 
- PIMA-AFOLU Update
+DESCRIPTION:Reminder: [Stand-alone monograph] Policy
+  Inventory for Mitigation Actions in the
+  Agriculture, Forestry and Other Land Us
+ e Sectors - 2025 PIMA-AFOLU Update
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -676,7 +677,7 @@ DESCRIPTION:*[Book] L'Observateur de l'action climat
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=0808b249-fr.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251106T090000Z
 DTEND:20251106T091500Z
 TRANSP:TRANSPARENT
@@ -713,7 +714,7 @@ DESCRIPTION:*[Book] The Climate Action Monitor 2025*
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=1819c631-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251106T090000Z
 DTEND:20251106T091500Z
 TRANSP:TRANSPARENT
@@ -727,54 +728,7 @@ DESCRIPTION:Reminder: [Book] The Climate Action Moni
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fd8fb41c-end3e9658
-SUMMARY:[Stand-alone monograph] Assessing the So
- cio-economic Impact of Foreign Direct In
- vestment in Latin America and the Caribb
- ean - A Focus on EU Investments
-DESCRIPTION:*[Stand-alone monograph] Assessing the S
- ocio-economic Impact of Foreign Direct I
- nvestment in Latin America and the Carib
- bean - A Focus on EU Investments*\n\nDir
- ectorate: Directorate for Financial and 
- Enterprise Affairs\nLanguage: English\nD
- OI: https://doi.org/10.1787/fd8fb41c-en\
- nPublication type: Stand-alone monograph
- \nReleased as: PDF\n\nEmbargo date/time:
-  Sunday, 9 November 2025, 7:00 (GMT)\n\n
- \niLibrary export: never\nFreepreview ex
- port: never\nOECD.org export: never\nFTI
-  loaded: ✗\n\nFor more information see: 
- https://oecd.github.io/embargo-calendar/
- embargoes-by-publication.html.\n\nPlease
-  note: This information was correct as o
- f this afternoon at 23:07, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=fd8fb41c-en.
-DTSTAMP:20251027T230747Z
-DTSTART:20251109T070000Z
-DTEND:20251109T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Assess
- ing the Socio-economic Impact of Foreign
-  Direct Investment in Latin America and 
- the Caribbean - A Focus on EU Investment
- s
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/5c135873-end3e9711
+UID:10.1787/5c135873-end3e9658
 SUMMARY:[Working paper] Unleashing the policy po
  tential of rigorous impact evaluation an
  d randomised trials
@@ -801,7 +755,7 @@ DESCRIPTION:*[Working paper] Unleashing the policy p
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=5c135873-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251110T080000Z
 DTEND:20251110T081500Z
 TRANSP:TRANSPARENT
@@ -816,7 +770,7 @@ DESCRIPTION:Reminder: [Working paper] Unleashing the
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b4dea13c-esd3e9815
+UID:10.1787/b4dea13c-esd3e9762
 SUMMARY:[Stand-alone monograph] Encuesta de la O
  CDE sobre los determinantes de la confia
  nza en las instituciones públicas de Amé
@@ -846,7 +800,7 @@ DESCRIPTION:*[Stand-alone monograph] Encuesta de la
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=b4dea13c-es.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251110T080000Z
 DTEND:20251110T081500Z
 TRANSP:TRANSPARENT
@@ -863,7 +817,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Encues
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ea3385cf-end3e9868
+UID:10.1787/ea3385cf-end3e9814
 SUMMARY:[Stand-alone monograph] OECD Survey on D
  rivers of Trust in Public Institutions i
  n Latin America and the Caribbean 2025 R
@@ -892,7 +846,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Survey on
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=ea3385cf-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251110T080000Z
 DTEND:20251110T081500Z
 TRANSP:TRANSPARENT
@@ -908,7 +862,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/292d6e6f-end3e9920
+UID:10.1787/292d6e6f-end3e9867
 SUMMARY:[Report] Global Forum on Transparency an
  d Exchange of Information for Tax Purpos
  es: Eswatini 2025 (Second Round, Phase 1
@@ -939,7 +893,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=292d6e6f-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251110T100000Z
 DTEND:20251110T101500Z
 TRANSP:TRANSPARENT
@@ -956,7 +910,7 @@ DESCRIPTION:Reminder: [Report] Global Forum on Trans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/750e6671-end3e9973
+UID:10.1787/750e6671-end3e9920
 SUMMARY:[Report] Global Forum on Transparency an
  d Exchange of Information for Tax Purpos
  es: Viet Nam 2025 (Second Round, Combine
@@ -987,7 +941,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=750e6671-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251110T100000Z
 DTEND:20251110T101500Z
 TRANSP:TRANSPARENT
@@ -1005,7 +959,7 @@ DESCRIPTION:Reminder: [Report] Global Forum on Trans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/65015428-end3e10026
+UID:10.1787/65015428-end3e9973
 SUMMARY:[Report] Global Forum on Transparency an
  d Exchange of Information for Tax Purpos
  es: Jordan 2025 (Second Round, Phase 1) 
@@ -1036,7 +990,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=65015428-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251110T100000Z
 DTEND:20251110T101500Z
 TRANSP:TRANSPARENT
@@ -1053,7 +1007,93 @@ DESCRIPTION:Reminder: [Report] Global Forum on Trans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8f9e3f98-end3e10079
+UID:10.1787/fd8fb41c-end3e10026
+SUMMARY:[Stand-alone monograph] Assessing the So
+ cio-economic Impact of Foreign Direct In
+ vestment in Latin America and the Caribb
+ ean - A Focus on EU Investments
+DESCRIPTION:*[Stand-alone monograph] Assessing the S
+ ocio-economic Impact of Foreign Direct I
+ nvestment in Latin America and the Carib
+ bean - A Focus on EU Investments*\n\nDir
+ ectorate: Directorate for Financial and 
+ Enterprise Affairs\nLanguage: English\nD
+ OI: https://doi.org/10.1787/fd8fb41c-en\
+ nPublication type: Stand-alone monograph
+ \nReleased as: PDF\n\nEmbargo date/time:
+  Thursday, 13 November 2025, 7:00 (GMT)\
+ n\n\niLibrary export: never\nFreepreview
+  export: never\nOECD.org export: never\n
+ FTI loaded: ✗\n\nFor more information se
+ e: https://oecd.github.io/embargo-calend
+ ar/embargoes-by-publication.html.\n\nPle
+ ase note: This information was correct a
+ s of this afternoon at 23:07, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=fd8fb41c-en.
+DTSTAMP:20251028T230716Z
+DTSTART:20251113T070000Z
+DTEND:20251113T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] Assess
+ ing the Socio-economic Impact of Foreign
+  Direct Investment in Latin America and 
+ the Caribbean - A Focus on EU Investment
+ s
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2f564c6c-frd3e10079
+SUMMARY:[Book] Panorama de la santé 2025 - Les i
+ ndicateurs de l'OCDE
+DESCRIPTION:*[Book] Panorama de la santé 2025 - Les 
+ indicateurs de l'OCDE*\n\nDirectorate: D
+ irectorate for Employment, Labour and So
+ cial Affairs\nLanguage: French\nDOI: htt
+ ps://doi.org/10.1787/2f564c6c-fr\nPublic
+ ation type: Book\nReleased as: PDF\n\nEm
+ bargo date/time: Thursday, 13 November 2
+ 025, 9:30 (GMT)\n\n\niLibrary export: ne
+ ver\nFreepreview export: never\nOECD.org
+  export: never\nFTI loaded: ✗\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 3:07, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=2f564c6c-fr.
+DTSTAMP:20251028T230716Z
+DTSTART:20251113T093000Z
+DTEND:20251113T094500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Panorama de la santé 20
+ 25 - Les indicateurs de l'OCDE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8f9e3f98-end3e10132
 SUMMARY:[Book] Health at a Glance 2025 - OECD In
  dicators
 DESCRIPTION:*[Book] Health at a Glance 2025 - OECD I
@@ -1078,7 +1118,7 @@ DESCRIPTION:*[Book] Health at a Glance 2025 - OECD I
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=8f9e3f98-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251113T093000Z
 DTEND:20251113T094500Z
 TRANSP:TRANSPARENT
@@ -1092,7 +1132,52 @@ DESCRIPTION:Reminder: [Book] Health at a Glance 2025
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a5a5d71f-end3e10132
+UID:10.1787/f5673cd9-frd3e10186
+SUMMARY:[Book] Taux effectifs sur le carbone 202
+ 5 (version abrégée) - Évolutions récente
+ s de la fiscalité de l’énergie et de la 
+ tarification du carbone
+DESCRIPTION:*[Book] Taux effectifs sur le carbone 20
+ 25 (version abrégée) - Évolutions récent
+ es de la fiscalité de l’énergie et de la
+  tarification du carbone*\n\nDirectorate
+ : Centre for Tax Policy and Administrati
+ on\nLanguage: French\nDOI: https://doi.o
+ rg/10.1787/f5673cd9-fr\nPublication type
+ : Book\nReleased as: PDF\n\nEmbargo date
+ /time: Thursday, 13 November 2025, 10:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✗\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 23:07, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=f5673cd9-fr.
+DTSTAMP:20251028T230716Z
+DTSTART:20251113T100000Z
+DTEND:20251113T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Taux effectifs sur le c
+ arbone 2025 (version abrégée) - Évolutio
+ ns récentes de la fiscalité de l’énergie
+  et de la tarification du carbone
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a5a5d71f-end3e10239
 SUMMARY:[Book] Effective Carbon Rates 2025 - Rec
  ent Trends in Taxes on Energy Use and Ca
  rbon Pricing
@@ -1119,7 +1204,7 @@ DESCRIPTION:*[Book] Effective Carbon Rates 2025 - Re
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=a5a5d71f-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251113T100000Z
 DTEND:20251113T101500Z
 TRANSP:TRANSPARENT
@@ -1134,7 +1219,7 @@ DESCRIPTION:Reminder: [Book] Effective Carbon Rates
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cc015ce8-end3e10186
+UID:10.1787/cc015ce8-end3e10292
 SUMMARY:[Book] Tax Administration 2025 - Compara
  tive Information on OECD and other Advan
  ced and Emerging Economies
@@ -1161,7 +1246,7 @@ DESCRIPTION:*[Book] Tax Administration 2025 - Compar
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=cc015ce8-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251117T100000Z
 DTEND:20251117T101500Z
 TRANSP:TRANSPARENT
@@ -1176,7 +1261,7 @@ DESCRIPTION:Reminder: [Book] Tax Administration 2025
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8d3bf3af-end3e10292
+UID:10.1787/8d3bf3af-end3e10398
 SUMMARY:[Book] Revenue Statistics in Africa 2025
   - Commonalities and Specificities acros
  s African Revenue Classifications
@@ -1204,7 +1289,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Africa 202
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=8d3bf
  3af-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251120T150000Z
 DTEND:20251120T151500Z
 TRANSP:TRANSPARENT
@@ -1220,7 +1305,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics in A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b52e98a2-end3e10345
+UID:10.1787/b52e98a2-end3e10451
 SUMMARY:[Book] OECD Development Co‑operation Pee
  r Reviews: Slovak Republic 2025
 DESCRIPTION:*[Book] OECD Development Co‑operation Pe
@@ -1245,7 +1330,7 @@ DESCRIPTION:*[Book] OECD Development Co‑operation Pe
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=b52e98a2-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251124T230000Z
 DTEND:20251124T231500Z
 TRANSP:TRANSPARENT
@@ -1260,7 +1345,87 @@ DESCRIPTION:Reminder: [Book] OECD Development Co‑ope
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e40274c1-end3e10397
+UID:10.1787/abc5c435-end3e10504
+SUMMARY:[Economic survey] OECD Economic Surveys:
+  Spain 2025
+DESCRIPTION:*[Economic survey] OECD Economic Surveys
+ : Spain 2025*\n\nDirectorate: Economics 
+ Department\nLanguage: English\nDOI: http
+ s://doi.org/10.1787/abc5c435-en\nPublica
+ tion type: Economic survey\nReleased as:
+  PDF\n\nEmbargo date/time: Tuesday, 25 N
+ ovember 2025, 23:00 (GMT)\n\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nOECD.org export: never\nFTI loaded: ✗\
+ n\nFor more information see: https://oec
+ d.github.io/embargo-calendar/embargoes-b
+ y-publication.html.\n\nPlease note: This
+  information was correct as of this afte
+ rnoon at 23:07, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=abc5c435
+ -en.
+DTSTAMP:20251028T230716Z
+DTSTART:20251125T230000Z
+DTEND:20251125T231500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Economic survey] OECD Economi
+ c Surveys: Spain 2025
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/58bd74b1-frd3e10556
+SUMMARY:[Book] Panorama des pensions 2025 - Les 
+ indicateurs de l'OCDE et du G20
+DESCRIPTION:*[Book] Panorama des pensions 2025 - Les
+  indicateurs de l'OCDE et du G20*\n\nDir
+ ectorate: Directorate for Employment, La
+ bour and Social Affairs\nLanguage: Frenc
+ h\nDOI: https://doi.org/10.1787/58bd74b1
+ -fr\nPublication type: Book\nReleased as
+ : Paperback, PDF\n\nEmbargo date/time: T
+ hursday, 27 November 2025, 9:30 (GMT)\n\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nOECD.org export: never\nFT
+ I loaded: ✗\n\nFor more information see:
+  https://oecd.github.io/embargo-calendar
+ /embargoes-by-publication.html.\n\nPleas
+ e note: This information was correct as 
+ of this afternoon at 23:07, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=58bd74b1-fr.
+DTSTAMP:20251028T230716Z
+DTSTART:20251127T093000Z
+DTEND:20251127T094500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Panorama des pensions 2
+ 025 - Les indicateurs de l'OCDE et du G2
+ 0
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e40274c1-end3e10609
 SUMMARY:[Book] Pensions at a Glance 2025 - OECD 
  and G20 Indicators
 DESCRIPTION:*[Book] Pensions at a Glance 2025 - OECD
@@ -1286,7 +1451,7 @@ DESCRIPTION:*[Book] Pensions at a Glance 2025 - OECD
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=e40274c1
  -en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251127T093000Z
 DTEND:20251127T094500Z
 TRANSP:TRANSPARENT
@@ -1300,7 +1465,7 @@ DESCRIPTION:Reminder: [Book] Pensions at a Glance 20
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c3f402ba-end3e10557
+UID:10.1787/c3f402ba-end3e10822
 SUMMARY:[Book] Education Policy Outlook 2025 - N
  urturing Engaged and Resilient Lifelong 
  Learners in a World of Digital Transform
@@ -1329,7 +1494,7 @@ DESCRIPTION:*[Book] Education Policy Outlook 2025 -
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  c3f402ba-en.
-DTSTAMP:20251027T230747Z
+DTSTAMP:20251028T230716Z
 DTSTART:20251128T080000Z
 DTEND:20251128T081500Z
 TRANSP:TRANSPARENT

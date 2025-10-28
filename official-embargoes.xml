@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-10-27T23:07:43.458027+01:00">
+<report name="official-embargoes" generated="2025-10-28T23:07:13.2099497+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -3576,7 +3576,7 @@
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
+    <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0fb21c53</cell>
   </row>
@@ -3621,26 +3621,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9443de17</cell>
   </row>
   <row index="181">
-    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
-    <cell name="doi">10.1787/fd8fb41c-en</cell>
-    <cell name="title">Assessing the Socio-economic Impact of Foreign Direct Investment in Latin America and the Caribbean (en)</cell>
-    <cell name="subtitle">A Focus on EU Investments (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2025-11-09</cell>
-    <cell name="embargo date">2025-11-09T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4989425d</cell>
-  </row>
-  <row index="182">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5c135873-en</cell>
     <cell name="title">Unleashing the policy potential of rigorous impact evaluation and randomised trials (en)</cell>
@@ -3660,7 +3640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/daf066c8</cell>
   </row>
-  <row index="183">
+  <row index="182">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b4dea13c-es</cell>
     <cell name="title">Encuesta de la OCDE sobre los determinantes de la confianza en las instituciones públicas de América Latina y el Caribe Resultados 2025 (es)</cell>
@@ -3680,7 +3660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87b268d5</cell>
   </row>
-  <row index="184">
+  <row index="183">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b4dea13c-es</cell>
     <cell name="title">Encuesta de la OCDE sobre los determinantes de la confianza en las instituciones públicas de América Latina y el Caribe Resultados 2025 (es)</cell>
@@ -3700,7 +3680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8a72719</cell>
   </row>
-  <row index="185">
+  <row index="184">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ea3385cf-en</cell>
     <cell name="title">OECD Survey on Drivers of Trust in Public Institutions in Latin America and the Caribbean 2025 Results (en)</cell>
@@ -3720,7 +3700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/982dc2fb</cell>
   </row>
-  <row index="186">
+  <row index="185">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/292d6e6f-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Eswatini 2025 (Second Round, Phase 1) (en)</cell>
@@ -3740,7 +3720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f45c8603</cell>
   </row>
-  <row index="187">
+  <row index="186">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/750e6671-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Viet Nam 2025 (Second Round, Combined Review) (en)</cell>
@@ -3760,7 +3740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41f142b0</cell>
   </row>
-  <row index="188">
+  <row index="187">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/65015428-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Jordan 2025 (Second Round, Phase 1) (en)</cell>
@@ -3780,7 +3760,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6039bfa</cell>
   </row>
+  <row index="188">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/fd8fb41c-en</cell>
+    <cell name="title">Assessing the Socio-economic Impact of Foreign Direct Investment in Latin America and the Caribbean (en)</cell>
+    <cell name="subtitle">A Focus on EU Investments (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-11-13</cell>
+    <cell name="embargo date">2025-11-13T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4989425d</cell>
+  </row>
   <row index="189">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/2f564c6c-fr</cell>
+    <cell name="title">Panorama de la santé 2025 (fr)</cell>
+    <cell name="subtitle">Les indicateurs de l'OCDE (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-11-13</cell>
+    <cell name="embargo date">2025-11-13T09:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/193c29f3</cell>
+  </row>
+  <row index="190">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8f9e3f98-en</cell>
     <cell name="title">Health at a Glance 2025 (en)</cell>
@@ -3800,7 +3820,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aabfbb56</cell>
   </row>
-  <row index="190">
+  <row index="191">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/f5673cd9-fr</cell>
+    <cell name="title">Taux effectifs sur le carbone 2025 (version abrégée) (fr)</cell>
+    <cell name="subtitle">Évolutions récentes de la fiscalité de l’énergie et de la tarification du carbone (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-11-13</cell>
+    <cell name="embargo date">2025-11-13T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/828a9e14</cell>
+  </row>
+  <row index="192">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a5a5d71f-en</cell>
     <cell name="title">Effective Carbon Rates 2025 (en)</cell>
@@ -3820,7 +3860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cabac28d</cell>
   </row>
-  <row index="191">
+  <row index="193">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cc015ce8-en</cell>
     <cell name="title">Tax Administration 2025 (en)</cell>
@@ -3840,7 +3880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b919cc30</cell>
   </row>
-  <row index="192">
+  <row index="194">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8d3bf3af-en</cell>
     <cell name="title">Revenue Statistics in Africa 2025 (en)</cell>
@@ -3860,7 +3900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dade26f6</cell>
   </row>
-  <row index="193">
+  <row index="195">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8d3bf3af-en</cell>
     <cell name="title">Revenue Statistics in Africa 2025 (en)</cell>
@@ -3880,7 +3920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd2b15ac</cell>
   </row>
-  <row index="194">
+  <row index="196">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/b52e98a2-en</cell>
     <cell name="title">OECD Development Co‑operation Peer Reviews: Slovak Republic 2025 (en)</cell>
@@ -3900,7 +3940,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8773f1b5</cell>
   </row>
-  <row index="195">
+  <row index="197">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/abc5c435-en</cell>
+    <cell name="title">OECD Economic Surveys: Spain 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-11-26</cell>
+    <cell name="embargo date">2025-11-25T23:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2685cdfd</cell>
+  </row>
+  <row index="198">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/58bd74b1-fr</cell>
+    <cell name="title">Panorama des pensions 2025 (fr)</cell>
+    <cell name="subtitle">Les indicateurs de l'OCDE et du G20 (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-11-27</cell>
+    <cell name="embargo date">2025-11-27T09:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/71f97ea8</cell>
+  </row>
+  <row index="199">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e40274c1-en</cell>
     <cell name="title">Pensions at a Glance 2025 (en)</cell>
@@ -3920,7 +4000,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e0cc846</cell>
   </row>
-  <row index="196">
+  <row index="200">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/58bd74b1-fr</cell>
+    <cell name="title">Panorama des pensions 2025 (fr)</cell>
+    <cell name="subtitle">Les indicateurs de l'OCDE et du G20 (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-11-27</cell>
+    <cell name="embargo date">2025-11-27T09:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e233ddad</cell>
+  </row>
+  <row index="201">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e40274c1-en</cell>
     <cell name="title">Pensions at a Glance 2025 (en)</cell>
@@ -3940,7 +4040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0583d8b6</cell>
   </row>
-  <row index="197">
+  <row index="202">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c3f402ba-en</cell>
     <cell name="title">Education Policy Outlook 2025 (en)</cell>
@@ -3960,7 +4060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e706906</cell>
   </row>
-  <row index="198">
+  <row index="203">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c3f402ba-en</cell>
     <cell name="title">Education Policy Outlook 2025 (en)</cell>

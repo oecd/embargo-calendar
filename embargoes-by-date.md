@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 27 October 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 28 October 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 October 2025](#27-october-2025)
 * [28 October 2025](#28-october-2025)
@@ -10,12 +10,12 @@ Data generated on | |
 * [30 October 2025](#30-october-2025)
 * [3 November 2025](#3-november-2025)
 * [6 November 2025](#6-november-2025)
-* [9 November 2025](#9-november-2025)
 * [10 November 2025](#10-november-2025)
 * [13 November 2025](#13-november-2025)
 * [17 November 2025](#17-november-2025)
 * [20 November 2025](#20-november-2025)
 * [24 November 2025](#24-november-2025)
+* [25 November 2025](#25-november-2025)
 * [27 November 2025](#27-november-2025)
 * [28 November 2025](#28-november-2025)
 
@@ -379,7 +379,7 @@ Monday 3 November 2025 at 7:00 | no launch event
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Book*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -430,33 +430,6 @@ Thursday 6 November 2025 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 9 November 2025
-
-## [Assessing the Socio-economic Impact of Foreign Direct Investment in Latin America and the Caribbean - A Focus on EU Investments](https://doi.org/10.1787/fd8fb41c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 9 November 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -607,6 +580,52 @@ Monday 10 November 2025 at 10:00 | no launch event
 
 # 13 November 2025
 
+## [Assessing the Socio-economic Impact of Foreign Direct Investment in Latin America and the Caribbean - A Focus on EU Investments](https://doi.org/10.1787/fd8fb41c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Panorama de la santé 2025 - Les indicateurs de l'OCDE](https://doi.org/10.1787/2f564c6c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Health at a Glance 2025 - OECD Indicators](https://doi.org/10.1787/8f9e3f98-en)
 
 Embargo date | Launch date
@@ -625,6 +644,29 @@ Thursday 13 November 2025 at 9:30 | no launch event
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Taux effectifs sur le carbone 2025 (version abrégée) - Évolutions récentes de la fiscalité de l’énergie et de la tarification du carbone](https://doi.org/10.1787/f5673cd9-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -736,7 +778,57 @@ Monday 24 November 2025 at 23:00 | no launch event
 
 ------
 
+# 25 November 2025
+
+## [OECD Economic Surveys: Spain 2025](https://doi.org/10.1787/abc5c435-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 November 2025 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
 # 27 November 2025
+
+## [Panorama des pensions 2025 - Les indicateurs de l'OCDE et du G20](https://doi.org/10.1787/58bd74b1-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Pensions at a Glance 2025 - OECD and G20 Indicators](https://doi.org/10.1787/e40274c1-en)
 
