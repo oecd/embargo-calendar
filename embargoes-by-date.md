@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 28 October 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 29 October 2025 at 23:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 October 2025](#27-october-2025)
 * [28 October 2025](#28-october-2025)
 * [29 October 2025](#29-october-2025)
 * [30 October 2025](#30-october-2025)
@@ -16,35 +15,10 @@ Data generated on | |
 * [20 November 2025](#20-november-2025)
 * [24 November 2025](#24-november-2025)
 * [25 November 2025](#25-november-2025)
+* [26 November 2025](#26-november-2025)
 * [27 November 2025](#27-november-2025)
 * [28 November 2025](#28-november-2025)
-
-------
-
-# 27 October 2025
-
-## [Long-Term Spending Projections in Israel](https://doi.org/10.1787/81e81270-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 October 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+* [9 December 2025](#9-december-2025)
 
 ------
 
@@ -381,6 +355,52 @@ Monday 3 November 2025 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [International Migration Outlook 2025](https://doi.org/10.1787/ae26c893-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 November 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Perspectives des migrations internationales 2025](https://doi.org/10.1787/695789d1-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 November 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -805,6 +825,33 @@ Tuesday 25 November 2025 at 23:00 | no launch event
 
 ------
 
+# 26 November 2025
+
+## [Environmental Outlook on the Triple Planetary Crisis - Stakes, Evolution and Policy Linkages](https://doi.org/10.1787/257ffbb6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 November 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 27 November 2025
 
 ## [Panorama des pensions 2025 - Les indicateurs de l'OCDE et du G20](https://doi.org/10.1787/58bd74b1-fr)
@@ -873,6 +920,33 @@ Friday 28 November 2025 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 9 December 2025
+
+## [OECD Skills Outlook 2025 - Building the Skills of the 21st Century for All](https://doi.org/10.1787/26163cd3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
