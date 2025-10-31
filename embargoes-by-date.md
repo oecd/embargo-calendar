@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 October 2025 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 31 October 2025 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 October 2025](#28-october-2025)
-* [29 October 2025](#29-october-2025)
 * [30 October 2025](#30-october-2025)
 * [3 November 2025](#3-november-2025)
 * [6 November 2025](#6-november-2025)
@@ -21,83 +19,6 @@ Data generated on | |
 * [28 November 2025](#28-november-2025)
 * [7 December 2025](#7-december-2025)
 * [9 December 2025](#9-december-2025)
-
-------
-
-# 28 October 2025
-
-## [Digital Government Review of Korea - Harnessing Digital and Data to Transform Government](https://doi.org/10.1787/9defc197-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 October 2025 at 23:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 29 October 2025
-
-## [Global Corporate Sustainability Report 2025](https://doi.org/10.1787/bc25ce1e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 October 2025 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Rapport mondial sur la durabilité des entreprises 2025 (version abrégée)](https://doi.org/10.1787/9263c329-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 October 2025 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -299,7 +220,7 @@ Monday 3 November 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -308,9 +229,9 @@ Monday 3 November 2025 at 7:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1093,7 +1014,7 @@ Monday 10 November 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1344,9 +1265,9 @@ Thursday 20 November 2025 at 15:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1475,9 +1396,9 @@ Thursday 27 November 2025 at 9:30 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1502,9 +1423,9 @@ Friday 28 November 2025 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
