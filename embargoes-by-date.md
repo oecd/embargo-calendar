@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 2 November 2025 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 3 November 2025 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 November 2025](#3-november-2025)
 * [6 November 2025](#6-november-2025)
@@ -18,6 +18,7 @@ Data generated on | |
 * [28 November 2025](#28-november-2025)
 * [7 December 2025](#7-december-2025)
 * [9 December 2025](#9-december-2025)
+* [11 December 2025](#11-december-2025)
 
 ------
 
@@ -1063,7 +1064,7 @@ Monday 17 November 2025 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 20 November 2025 at 15:00 | no launch event
+Thursday 20 November 2025 at 10:00 | no launch event
 
 ### Status Information
 
@@ -1077,6 +1078,29 @@ Thursday 20 November 2025 at 15:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Statistiques des recettes publiques en Afrique 2025 - Similitudes et particularités des systèmes de classification des recettes publiques africaines](https://doi.org/10.1787/1ce28fd2-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1271,6 +1295,29 @@ Sunday 7 December 2025 at 23:00 | no launch event
 
 # 9 December 2025
 
+## [Perspectives de l’OCDE sur les compétences 2025 - Développer les compétences du XXIe siècle pour tous](https://doi.org/10.1787/455ad4a8-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Skills Outlook 2025 - Building the Skills of the 21st Century for All](https://doi.org/10.1787/26163cd3-en)
 
 Embargo date | Launch date
@@ -1290,6 +1337,33 @@ Tuesday 9 December 2025 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 11 December 2025
+
+## [Government at a Glance: Southeast Asia 2025](https://doi.org/10.1787/bc89cb32-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
