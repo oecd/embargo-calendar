@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 3 November 2025 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 4 November 2025 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 November 2025](#3-november-2025)
 * [6 November 2025](#6-november-2025)
@@ -105,7 +105,7 @@ Thursday 6 November 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -114,9 +114,9 @@ Thursday 6 November 2025 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -128,7 +128,7 @@ Thursday 6 November 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -137,9 +137,9 @@ Thursday 6 November 2025 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -769,6 +769,29 @@ Monday 10 November 2025 at 4:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Progress in Implementing the European Union Coordinated Plan on Artificial Intelligence (Volume 1) - Member States’ Actions](https://doi.org/10.1787/533c355d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
