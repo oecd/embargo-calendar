@@ -2,13 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 November 2025 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 5 November 2025 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 November 2025](#3-november-2025)
 * [6 November 2025](#6-november-2025)
 * [7 November 2025](#7-november-2025)
 * [10 November 2025](#10-november-2025)
 * [13 November 2025](#13-november-2025)
+* [14 November 2025](#14-november-2025)
 * [17 November 2025](#17-november-2025)
 * [20 November 2025](#20-november-2025)
 * [24 November 2025](#24-november-2025)
@@ -16,82 +16,10 @@ Data generated on | |
 * [26 November 2025](#26-november-2025)
 * [27 November 2025](#27-november-2025)
 * [28 November 2025](#28-november-2025)
+* [30 November 2025](#30-november-2025)
 * [7 December 2025](#7-december-2025)
 * [9 December 2025](#9-december-2025)
 * [11 December 2025](#11-december-2025)
-
-------
-
-# 3 November 2025
-
-## [Policy Inventory for Mitigation Actions in the Agriculture, Forestry and Other Land Use Sectors - 2025 PIMA-AFOLU Update](https://doi.org/10.1787/170be27b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 3 November 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [International Migration Outlook 2025](https://doi.org/10.1787/ae26c893-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 3 November 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives des migrations internationales 2025](https://doi.org/10.1787/695789d1-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 3 November 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -178,582 +106,7 @@ Friday 7 November 2025 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Germany](https://doi.org/10.1787/f00f3020-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Italy](https://doi.org/10.1787/d24a6b76-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Poland](https://doi.org/10.1787/518e8a57-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Finland](https://doi.org/10.1787/adc99184-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Malta](https://doi.org/10.1787/f459f60b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Denmark](https://doi.org/10.1787/89c393fa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Slovak Republic](https://doi.org/10.1787/5b824a40-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Luxembourg](https://doi.org/10.1787/80be0c91-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Portugal](https://doi.org/10.1787/834bd1d8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Netherlands](https://doi.org/10.1787/1adec1d4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Sweden](https://doi.org/10.1787/9221d36d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Czechia](https://doi.org/10.1787/0482b6c9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Greece](https://doi.org/10.1787/e5215c30-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Latvia](https://doi.org/10.1787/e743b53f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Bulgaria](https://doi.org/10.1787/26e81b51-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Cyprus](https://doi.org/10.1787/0ba31eb7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Ireland](https://doi.org/10.1787/8e29cd6c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Lithuania](https://doi.org/10.1787/295757f3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Romania](https://doi.org/10.1787/a8f9b33e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [France](https://doi.org/10.1787/3e109fb4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Slovenia](https://doi.org/10.1787/9f609de3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Belgium](https://doi.org/10.1787/a82b426c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Spain](https://doi.org/10.1787/5273a683-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Croatia](https://doi.org/10.1787/38d8145c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Hungary](https://doi.org/10.1787/e87ac822-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 4:00 | no launch event
+Monday 10 November 2025 at 5:00 | no launch event
 
 ### Status Information
 
@@ -795,6 +148,581 @@ Monday 10 November 2025 at 5:00 | no launch event
 
 ------
 
+## [Germany](https://doi.org/10.1787/f00f3020-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Italy](https://doi.org/10.1787/d24a6b76-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Poland](https://doi.org/10.1787/518e8a57-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Finland](https://doi.org/10.1787/adc99184-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Malta](https://doi.org/10.1787/f459f60b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Denmark](https://doi.org/10.1787/89c393fa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Slovak Republic](https://doi.org/10.1787/5b824a40-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Luxembourg](https://doi.org/10.1787/80be0c91-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Portugal](https://doi.org/10.1787/834bd1d8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Netherlands](https://doi.org/10.1787/1adec1d4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Sweden](https://doi.org/10.1787/9221d36d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Czechia](https://doi.org/10.1787/0482b6c9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Greece](https://doi.org/10.1787/e5215c30-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Latvia](https://doi.org/10.1787/e743b53f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Bulgaria](https://doi.org/10.1787/26e81b51-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Cyprus](https://doi.org/10.1787/0ba31eb7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Ireland](https://doi.org/10.1787/8e29cd6c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Lithuania](https://doi.org/10.1787/295757f3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Romania](https://doi.org/10.1787/a8f9b33e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [France](https://doi.org/10.1787/3e109fb4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Slovenia](https://doi.org/10.1787/9f609de3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Belgium](https://doi.org/10.1787/a82b426c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Spain](https://doi.org/10.1787/5273a683-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Croatia](https://doi.org/10.1787/38d8145c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Hungary](https://doi.org/10.1787/e87ac822-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Unleashing the policy potential of rigorous impact evaluation and randomised trials](https://doi.org/10.1787/5c135873-en)
 
 Embargo date | Launch date
@@ -826,7 +754,7 @@ Monday 10 November 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -835,9 +763,9 @@ Monday 10 November 2025 at 8:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -858,36 +786,13 @@ Monday 10 November 2025 at 8:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Eswatini 2025 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/292d6e6f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Viet Nam 2025 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/750e6671-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -936,29 +841,6 @@ Monday 10 November 2025 at 10:00 | no launch event
 ------
 
 # 13 November 2025
-
-## [Assessing the Socio-economic Impact of Foreign Direct Investment in Latin America and the Caribbean - A Focus on EU Investments](https://doi.org/10.1787/fd8fb41c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 13 November 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ## [Panorama de la santé 2025 - Les indicateurs de l'OCDE](https://doi.org/10.1787/2f564c6c-fr)
 
@@ -1048,6 +930,33 @@ Thursday 13 November 2025 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 14 November 2025
+
+## [Synthesis report on understanding fluoropolymers and their life cycle](https://doi.org/10.1787/35b035df-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 14 November 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -1264,6 +1173,29 @@ Thursday 27 November 2025 at 9:30 | no launch event
 
 # 28 November 2025
 
+## [Assessing the Socio-economic Impact of Foreign Direct Investment in Latin America and the Caribbean - A Focus on EU Investments](https://doi.org/10.1787/fd8fb41c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 28 November 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Education Policy Outlook 2025 - Nurturing Engaged and Resilient Lifelong Learners in a World of Digital Transformation](https://doi.org/10.1787/c3f402ba-en)
 
 Embargo date | Launch date
@@ -1283,6 +1215,33 @@ Friday 28 November 2025 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 30 November 2025
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Viet Nam 2025 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/750e6671-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 30 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
