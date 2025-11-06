@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 5 November 2025 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 6 November 2025 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 November 2025](#6-november-2025)
 * [7 November 2025](#7-november-2025)
@@ -10,13 +10,13 @@ Data generated on | |
 * [13 November 2025](#13-november-2025)
 * [14 November 2025](#14-november-2025)
 * [17 November 2025](#17-november-2025)
+* [19 November 2025](#19-november-2025)
 * [20 November 2025](#20-november-2025)
 * [24 November 2025](#24-november-2025)
 * [25 November 2025](#25-november-2025)
 * [26 November 2025](#26-november-2025)
 * [27 November 2025](#27-november-2025)
 * [28 November 2025](#28-november-2025)
-* [30 November 2025](#30-november-2025)
 * [7 December 2025](#7-december-2025)
 * [9 December 2025](#9-december-2025)
 * [11 December 2025](#11-december-2025)
@@ -83,7 +83,7 @@ Friday 7 November 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -92,9 +92,9 @@ Friday 7 November 2025 at 9:00 | no launch event
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -800,7 +800,7 @@ Monday 10 November 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -809,7 +809,30 @@ Monday 10 November 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Viet Nam 2025 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/750e6671-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -823,7 +846,7 @@ Monday 10 November 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -832,7 +855,7 @@ Monday 10 November 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -873,7 +896,7 @@ Thursday 13 November 2025 at 9:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -882,9 +905,9 @@ Thursday 13 November 2025 at 9:30 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -919,7 +942,7 @@ Thursday 13 November 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -984,6 +1007,33 @@ Monday 17 November 2025 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 19 November 2025
+
+## [The 2025 Update to the OECD Model Tax Convention](https://doi.org/10.1787/5798080f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -1215,33 +1265,6 @@ Friday 28 November 2025 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 30 November 2025
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Viet Nam 2025 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/750e6671-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 30 November 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
 * Format: *PDF*
 
 ------
