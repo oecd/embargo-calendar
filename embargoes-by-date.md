@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 6 November 2025 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 7 November 2025 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 November 2025](#6-november-2025)
 * [7 November 2025](#7-november-2025)
@@ -17,9 +17,11 @@ Data generated on | |
 * [26 November 2025](#26-november-2025)
 * [27 November 2025](#27-november-2025)
 * [28 November 2025](#28-november-2025)
+* [5 December 2025](#5-december-2025)
 * [7 December 2025](#7-december-2025)
 * [9 December 2025](#9-december-2025)
 * [11 December 2025](#11-december-2025)
+* [15 December 2025](#15-december-2025)
 
 ------
 
@@ -723,29 +725,6 @@ Monday 10 November 2025 at 5:00 | no launch event
 
 ------
 
-## [Unleashing the policy potential of rigorous impact evaluation and randomised trials](https://doi.org/10.1787/5c135873-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 November 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
 ## [Encuesta de la OCDE sobre los determinantes de la confianza en las instituciones públicas de América Latina y el Caribe Resultados 2025](https://doi.org/10.1787/b4dea13c-es)
 
 Embargo date | Launch date
@@ -919,7 +898,7 @@ Thursday 13 November 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -928,7 +907,7 @@ Thursday 13 November 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -951,8 +930,31 @@ Thursday 13 November 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [32nd OECD/UNCTAD report on G20 investment measures](https://doi.org/10.1787/244e1154-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -978,8 +980,31 @@ Friday 14 November 2025 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Unleashing the policy potential of rigorous impact evaluation and randomised trials](https://doi.org/10.1787/5c135873-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 14 November 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -996,7 +1021,7 @@ Monday 17 November 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1005,15 +1030,38 @@ Monday 17 November 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
 ------
 
 # 19 November 2025
+
+## [La mise à jour 2025 du Modèle de Convention fiscale de l’OCDE](https://doi.org/10.1787/472b60f7-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ## [The 2025 Update to the OECD Model Tax Convention](https://doi.org/10.1787/5798080f-en)
 
@@ -1109,7 +1157,7 @@ Monday 24 November 2025 at 23:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1163,9 +1211,9 @@ Wednesday 26 November 2025 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1192,7 +1240,7 @@ Thursday 27 November 2025 at 9:30 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1271,6 +1319,33 @@ Friday 28 November 2025 at 8:00 | no launch event
 
 ------
 
+# 5 December 2025
+
+## [Education policy outlook in Korea](https://doi.org/10.1787/b515b9ce-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 5 December 2025 at 1:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 7 December 2025
 
 ## [OECD Economic Surveys: Thailand 2025](https://doi.org/10.1787/426b9bc0-en)
@@ -1323,6 +1398,29 @@ Tuesday 9 December 2025 at 10:00 | no launch event
 
 ------
 
+## [Revenue Statistics 2025 - Disentangling Personal Income Tax Revenue in OECD Countries](https://doi.org/10.1787/3a264267-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Skills Outlook 2025 - Building the Skills of the 21st Century for All](https://doi.org/10.1787/26163cd3-en)
 
 Embargo date | Launch date
@@ -1343,6 +1441,29 @@ Tuesday 9 December 2025 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [AI adoption by small and medium-sized enterprises - OECD discussion paper for the G7](https://doi.org/10.1787/426399c1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 December 2025 at 17:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -1370,5 +1491,32 @@ Thursday 11 December 2025 at 5:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 December 2025
+
+## [Policies for the Future of Farming and Food in Croatia](https://doi.org/10.1787/011c6272-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 December 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
