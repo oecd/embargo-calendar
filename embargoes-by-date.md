@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 November 2025 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 9 November 2025 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [6 November 2025](#6-november-2025)
-* [7 November 2025](#7-november-2025)
 * [10 November 2025](#10-november-2025)
 * [13 November 2025](#13-november-2025)
 * [14 November 2025](#14-november-2025)
@@ -22,83 +20,6 @@ Data generated on | |
 * [9 December 2025](#9-december-2025)
 * [11 December 2025](#11-december-2025)
 * [15 December 2025](#15-december-2025)
-
-------
-
-# 6 November 2025
-
-## [L'Observateur de l'action climatique 2025](https://doi.org/10.1787/0808b249-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 November 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [The Climate Action Monitor 2025](https://doi.org/10.1787/1819c631-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 November 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 7 November 2025
-
-## [Latin American Economic Outlook 2025 - Promoting and Financing Production Transformation](https://doi.org/10.1787/80e48de5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 November 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 

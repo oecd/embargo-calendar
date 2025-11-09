@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 November 2025 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
-
-## [L'Observateur de l'action climatique 2025](https://doi.org/10.1787/0808b249-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 November 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [The Climate Action Monitor 2025](https://doi.org/10.1787/1819c631-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 November 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Latin American Economic Outlook 2025 - Promoting and Financing Production Transformation](https://doi.org/10.1787/80e48de5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 November 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 9 November 2025 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Austria](https://doi.org/10.1787/ccf9b51e-en)
 
