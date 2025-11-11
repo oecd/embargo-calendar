@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 10 November 2025 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 11 November 2025 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Austria](https://doi.org/10.1787/ccf9b51e-en)
 
