@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 12 November 2025 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 13 November 2025 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 November 2025](#13-november-2025)
 * [14 November 2025](#14-november-2025)
@@ -946,6 +946,144 @@ Thursday 13 November 2025 at 9:30 | no launch event
 
 ------
 
+## [Costa Rica](https://doi.org/10.1787/1d9bf475-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Colombia](https://doi.org/10.1787/69cc7719-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Luxembourg](https://doi.org/10.1787/06679913-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Chile](https://doi.org/10.1787/9be8a790-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [España](https://doi.org/10.1787/5e12bf13-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Suisse](https://doi.org/10.1787/534b9779-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Taux effectifs sur le carbone 2025 (version abrégée) - Évolutions récentes de la fiscalité de l’énergie et de la tarification du carbone](https://doi.org/10.1787/f5673cd9-fr)
 
 Embargo date | Launch date
@@ -965,7 +1103,7 @@ Thursday 13 November 2025 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -988,7 +1126,99 @@ Thursday 13 November 2025 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF*
+
+------
+
+## [France](https://doi.org/10.1787/2f8a9e53-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Canada](https://doi.org/10.1787/df54cde0-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Belgique](https://doi.org/10.1787/e03bb22e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [México](https://doi.org/10.1787/42bdb5b4-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1068,6 +1298,29 @@ Friday 14 November 2025 at 8:00 | no launch event
 ------
 
 # 17 November 2025
+
+## [The Paris Agreement at Ten Years - Expert Views on Progress and Challenges for Climate Change Mitigation](https://doi.org/10.1787/c5f214dc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 November 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
 
 ## [Denmark](https://doi.org/10.1787/8f98282d-en)
 
@@ -2565,7 +2818,7 @@ Tuesday 25 November 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2684,29 +2937,6 @@ Thursday 27 November 2025 at 9:30 | no launch event
 
 # 28 November 2025
 
-## [Assessing the Socio-economic Impact of Foreign Direct Investment in Latin America and the Caribbean - A Focus on EU Investments](https://doi.org/10.1787/fd8fb41c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 28 November 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [Education Policy Outlook 2025 - Nurturing Engaged and Resilient Lifelong Learners in a World of Digital Transformation](https://doi.org/10.1787/c3f402ba-en)
 
 Embargo date | Launch date
@@ -2733,6 +2963,29 @@ Friday 28 November 2025 at 8:00 | no launch event
 ------
 
 # 2 December 2025
+
+## [Examen par les pairs de l’échange automatique de renseignements sur les comptes financiers - Mise à jour 2025 (version abrégée)](https://doi.org/10.1787/d2ee608a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
 
 ## [Enhanced Monitoring Report on the Implementation of the Standard on Transparency and Exchange of Information on Request 2025](https://doi.org/10.1787/4db1a02b-en)
 
@@ -2826,6 +3079,52 @@ Friday 5 December 2025 at 1:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Assessing the Socio-economic Impact of Foreign Direct Investment in Latin America and the Caribbean - A Focus on EU Investments](https://doi.org/10.1787/fd8fb41c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 5 December 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Evaluación del impacto socioeconómico de la inversión extranjera directa en América Latina y el Caribe - Un enfoque en las inversiones de la UE](https://doi.org/10.1787/13c7d291-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 5 December 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -2977,6 +3276,29 @@ Thursday 11 December 2025 at 5:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Harmful Tax Practices – 2024 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/c069a357-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
