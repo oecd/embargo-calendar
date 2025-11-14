@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 November 2025 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 14 November 2025 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Canada](https://doi.org/10.1787/41ea57c7-en)
 
@@ -2689,54 +2689,8 @@ Wednesday 19 November 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Revenue Statistics in Africa 2025 - Commonalities and Specificities across African Revenue Classifications](https://doi.org/10.1787/8d3bf3af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 November 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Statistiques des recettes publiques en Afrique 2025 - Similitudes et particularités des systèmes de classification des recettes publiques africaines](https://doi.org/10.1787/1ce28fd2-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 November 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -2749,7 +2703,7 @@ Monday 24 November 2025 at 23:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2758,9 +2712,9 @@ Monday 24 November 2025 at 23:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -2781,9 +2735,9 @@ Tuesday 25 November 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -2810,11 +2764,34 @@ Tuesday 25 November 2025 at 23:00 | no launch event
 
 ------
 
+## [Perspectives de l’environnement sur la triple crise planétaire - Enjeux, évolution et liens entre les politiques publiques](https://doi.org/10.1787/9a81fa5c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 November 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Environmental Outlook on the Triple Planetary Crisis - Stakes, Evolution and Policy Linkages](https://doi.org/10.1787/257ffbb6-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 November 2025 at 8:00 | no launch event
+Wednesday 26 November 2025 at 10:00 | no launch event
 
 ### Status Information
 
@@ -2925,6 +2902,29 @@ Tuesday 2 December 2025 at 6:00 | no launch event
 
 ------
 
+## [Rapport de suivi renforcé sur la mise en œuvre de la norme de transparence et d'échange de renseignements sur demande 2025 (version abrégée)](https://doi.org/10.1787/8bf50a6c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Enhanced Monitoring Report on the Implementation of the Standard on Transparency and Exchange of Information on Request 2025](https://doi.org/10.1787/4db1a02b-en)
 
 Embargo date | Launch date
@@ -2971,6 +2971,29 @@ Tuesday 2 December 2025 at 6:00 | no launch event
 
 ------
 
+## [Results from TALIS Starting Strong 2024 - Strengthening Early Childhood Education and Care](https://doi.org/10.1787/20af08c0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Outlook, Volume 2025 Issue 2 - To come](https://doi.org/10.1787/9f653ca1-en)
 
 Embargo date | Launch date
@@ -2990,6 +3013,52 @@ Tuesday 2 December 2025 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Revenue Statistics in Africa 2025 - Commonalities and Specificities across African Revenue Classifications](https://doi.org/10.1787/8d3bf3af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Statistiques des recettes publiques en Afrique 2025 - Similitudes et particularités des systèmes de classification des recettes publiques africaines](https://doi.org/10.1787/1ce28fd2-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -3126,7 +3195,7 @@ Tuesday 9 December 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -3149,9 +3218,9 @@ Tuesday 9 December 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -3195,7 +3264,7 @@ Thursday 11 December 2025 at 5:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -3232,7 +3301,7 @@ Monday 15 December 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -3241,9 +3310,9 @@ Monday 15 December 2025 at 8:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -3312,6 +3381,29 @@ Thursday 18 December 2025 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Examens de l'OCDE sur la coopération pour le développement : Union européenne 2025](https://doi.org/10.1787/20ab9f2e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 December 2025 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
