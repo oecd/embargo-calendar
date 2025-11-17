@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 16 November 2025 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 17 November 2025 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [17 November 2025](#17-november-2025)
 * [19 November 2025](#19-november-2025)
@@ -1448,7 +1448,7 @@ Wednesday 19 November 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1652,7 +1652,7 @@ Friday 28 November 2025 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
