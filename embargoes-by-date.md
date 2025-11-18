@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 17 November 2025 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 18 November 2025 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [17 November 2025](#17-november-2025)
 * [19 November 2025](#19-november-2025)
@@ -1416,7 +1416,7 @@ Wednesday 19 November 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1425,7 +1425,7 @@ Wednesday 19 November 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1439,7 +1439,7 @@ Wednesday 19 November 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1448,7 +1448,7 @@ Wednesday 19 November 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1552,7 +1552,7 @@ Wednesday 26 November 2025 at 10:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -1944,9 +1944,9 @@ Sunday 7 December 2025 at 23:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1971,7 +1971,7 @@ Tuesday 9 December 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Skills*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
