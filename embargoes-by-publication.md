@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 November 2025 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 20 November 2025 at 23:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [La mise à jour 2025 du Modèle de Convention fiscale de l’OCDE](https://doi.org/10.1787/472b60f7-fr)
 
@@ -96,29 +96,6 @@ Tuesday 25 November 2025 at 10:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Spain 2025](https://doi.org/10.1787/abc5c435-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 November 2025 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
 ## [Perspectives de l’environnement sur la triple crise planétaire - Enjeux, évolution et liens entre les politiques publiques](https://doi.org/10.1787/9a81fa5c-fr)
 
 Embargo date | Launch date
@@ -165,7 +142,53 @@ Wednesday 26 November 2025 at 10:00 | no launch event
 
 ------
 
-## [Renten auf einen Blick 2025 (Auszugsweise Übersetzung)](https://doi.org/10.1787/b3992c03-de)
+## [OECD Economic Surveys: Spain 2025](https://doi.org/10.1787/abc5c435-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 November 2025 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Capital Market Review of Thailand 2025](https://doi.org/10.1787/0a975590-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 November 2025 at 23:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Renten auf einen Blick 2025 (Auszugsweise Übersetzung) - OECD- und G20-Länder – Indikatoren](https://doi.org/10.1787/b3992c03-de)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -395,6 +418,75 @@ Tuesday 2 December 2025 at 10:00 | no launch event
 
 ------
 
+## [Guidance Document on the Determination of the Toxicity of a Test Chemical to the Dung Beetles Aphodius constans and Onthophagus taurus](https://doi.org/10.1787/aa8a7b48-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Guidance Document on the Generation, Reporting and Use of Research Data for Regulatory Assessments](https://doi.org/10.1787/8d49ec1d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 December 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Guidance Document on Aquatic and Sediment Toxicological Testing of Nanomaterials, Second Edition](https://doi.org/10.1787/17b3ce6f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 December 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Revenue Statistics in Africa 2025 - Commonalities and Specificities across African Revenue Classifications](https://doi.org/10.1787/8d3bf3af-en)
 
 Embargo date | Launch date
@@ -438,6 +530,52 @@ Wednesday 3 December 2025 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Screen time and subjective well-being - Insights from a few countries worldwide](https://doi.org/10.1787/c840403c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 December 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [How do people experience new technologies and generative AI? - Insights from a few countries worldwide](https://doi.org/10.1787/49b8d10e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 December 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -671,6 +809,29 @@ Thursday 11 December 2025 at 5:00 | no launch event
 
 ------
 
+## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2024 (version abrégée)](https://doi.org/10.1787/72b42e30-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Harmful Tax Practices – 2024 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/c069a357-en)
 
 Embargo date | Launch date
@@ -714,6 +875,29 @@ Monday 15 December 2025 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Mapping the global quantum ecosystem - A comprehensive analysis based on innovation, firm, investment, skills, trade and policy data](https://doi.org/10.1787/010c37da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 December 2025 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -829,5 +1013,28 @@ Thursday 18 December 2025 at 23:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Initiatives en faveur de la dématérialisation et de la transformation numérique des administrations fiscales](https://doi.org/10.1787/cf539ede-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
