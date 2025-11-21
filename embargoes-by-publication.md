@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 20 November 2025 at 23:51* | [See embargoes by date](embargoes-by-date.md) |
-
-## [La mise à jour 2025 du Modèle de Convention fiscale de l’OCDE](https://doi.org/10.1787/472b60f7-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 November 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [The 2025 Update to the OECD Model Tax Convention](https://doi.org/10.1787/5798080f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 November 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Saturday 22 November 2025 at 0:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Development Co‑operation Peer Reviews: Slovak Republic 2025](https://doi.org/10.1787/b52e98a2-en)
 
@@ -280,6 +234,52 @@ Friday 28 November 2025 at 8:00 | no launch event
 
 ------
 
+## [A Decade of OECD Competition Trends, Data and Insights](https://doi.org/10.1787/05021ff2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 December 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Une décennie de tendances, de données et d'analyses OCDE sur la concurrence](https://doi.org/10.1787/9c7d1abb-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 December 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ## [Examen par les pairs de l’échange automatique de renseignements sur les comptes financiers - Mise à jour 2025 (version abrégée)](https://doi.org/10.1787/d2ee608a-fr)
 
 Embargo date | Launch date
@@ -288,7 +288,7 @@ Tuesday 2 December 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -297,9 +297,9 @@ Tuesday 2 December 2025 at 6:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -357,7 +357,7 @@ Tuesday 2 December 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -366,9 +366,9 @@ Tuesday 2 December 2025 at 6:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -602,52 +602,6 @@ Friday 5 December 2025 at 1:00 | no launch event
 
 ------
 
-## [Assessing the Socio-economic Impact of Foreign Direct Investment in Latin America and the Caribbean - A Focus on EU Investments](https://doi.org/10.1787/fd8fb41c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 December 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Evaluación del impacto socioeconómico de la inversión extranjera directa en América Latina y el Caribe - Un enfoque en las inversiones de la UE](https://doi.org/10.1787/13c7d291-es)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 December 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [OECD Economic Surveys: Thailand 2025](https://doi.org/10.1787/426b9bc0-en)
 
 Embargo date | Launch date
@@ -806,6 +760,52 @@ Thursday 11 December 2025 at 5:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Assessing the Socio-economic Impact of Foreign Direct Investment in Latin America and the Caribbean - A Focus on EU Investments](https://doi.org/10.1787/fd8fb41c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Evaluación del impacto socioeconómico de la inversión extranjera directa en América Latina y el Caribe - Un enfoque en las inversiones de la UE](https://doi.org/10.1787/13c7d291-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
