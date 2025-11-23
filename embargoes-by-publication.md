@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 22 November 2025 at 0:07* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 23 November 2025 at 23:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Development Co‑operation Peer Reviews: Slovak Republic 2025](https://doi.org/10.1787/b52e98a2-en)
 
