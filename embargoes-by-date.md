@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 23 November 2025 at 23:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 24 November 2025 at 23:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 November 2025](#24-november-2025)
 * [25 November 2025](#25-november-2025)
@@ -17,6 +17,7 @@ Data generated on | |
 * [7 December 2025](#7-december-2025)
 * [9 December 2025](#9-december-2025)
 * [11 December 2025](#11-december-2025)
+* [12 December 2025](#12-december-2025)
 * [15 December 2025](#15-december-2025)
 * [17 December 2025](#17-december-2025)
 * [18 December 2025](#18-december-2025)
@@ -207,7 +208,7 @@ Thursday 27 November 2025 at 9:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -216,9 +217,9 @@ Thursday 27 November 2025 at 9:30 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -230,7 +231,7 @@ Thursday 27 November 2025 at 9:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -239,9 +240,9 @@ Thursday 27 November 2025 at 9:30 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -257,7 +258,7 @@ Friday 28 November 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -266,9 +267,9 @@ Friday 28 November 2025 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -280,7 +281,7 @@ Friday 28 November 2025 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 1 December 2025 at 9:00 | no launch event
+Monday 1 December 2025 at 8:30 | no launch event
 
 ### Status Information
 
@@ -303,7 +304,7 @@ Monday 1 December 2025 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 1 December 2025 at 9:00 | no launch event
+Monday 1 December 2025 at 8:30 | no launch event
 
 ### Status Information
 
@@ -461,6 +462,29 @@ Tuesday 2 December 2025 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Issue*
 * Format: *PDF*
+
+------
+
+## [Institutional Investor Engagement and Stewardship](https://doi.org/10.1787/a4902cee-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -921,6 +945,33 @@ Thursday 11 December 2025 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 12 December 2025
+
+## [Advancing the development of Safe-and-Sustainable-by-Design (SSbD) for advanced materials - Similarities between the SUNSHINE SSbD approach and Early4AdMa Step 5](https://doi.org/10.1787/633eb341-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 December 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
