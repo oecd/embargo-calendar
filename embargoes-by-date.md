@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 26 November 2025 at 23:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 27 November 2025 at 23:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 November 2025](#24-november-2025)
-* [25 November 2025](#25-november-2025)
 * [26 November 2025](#26-november-2025)
 * [27 November 2025](#27-november-2025)
 * [28 November 2025](#28-november-2025)
@@ -22,60 +20,6 @@ Data generated on | |
 * [17 December 2025](#17-december-2025)
 * [18 December 2025](#18-december-2025)
 * [5 January 2026](#5-january-2026)
-
-------
-
-# 24 November 2025
-
-## [OECD Development Co‑operation Peer Reviews: Slovak Republic 2025](https://doi.org/10.1787/b52e98a2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 November 2025 at 23:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 25 November 2025
-
-## [Corporate Tax Statistics 2025](https://doi.org/10.1787/6a915941-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 November 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -246,6 +190,29 @@ Thursday 27 November 2025 at 9:30 | no launch event
 
 ------
 
+## [Czechia](https://doi.org/10.1787/dd7aae9d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Panorama des pensions 2025 - Les indicateurs de l'OCDE et du G20](https://doi.org/10.1787/58bd74b1-fr)
 
 Embargo date | Launch date
@@ -269,6 +236,29 @@ Thursday 27 November 2025 at 9:30 | no launch event
 
 ------
 
+## [Germany](https://doi.org/10.1787/c480c8fa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Pensions at a Glance 2025 - OECD and G20 Indicators](https://doi.org/10.1787/e40274c1-en)
 
 Embargo date | Launch date
@@ -289,6 +279,190 @@ Thursday 27 November 2025 at 9:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Belgium](https://doi.org/10.1787/94938d4e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Mexico](https://doi.org/10.1787/b69f76d6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Italy](https://doi.org/10.1787/3dd0d4fa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Slovenia](https://doi.org/10.1787/7e509dba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Korea](https://doi.org/10.1787/5cd52913-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Poland](https://doi.org/10.1787/33765ee7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Chile](https://doi.org/10.1787/99e9160c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Norway](https://doi.org/10.1787/27c024f4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 November 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -404,7 +578,7 @@ Tuesday 2 December 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -413,9 +587,9 @@ Tuesday 2 December 2025 at 6:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -427,7 +601,7 @@ Tuesday 2 December 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -436,9 +610,9 @@ Tuesday 2 December 2025 at 6:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -482,9 +656,32 @@ Tuesday 2 December 2025 at 10:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Perspectives économiques de l'OCDE, Volume 2025 Numéro 2 - Une économie résiliente, malgré des fragilités croissantes](https://doi.org/10.1787/62298503-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
 
 ------
 
@@ -707,7 +904,7 @@ Wednesday 3 December 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -716,9 +913,9 @@ Wednesday 3 December 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -845,7 +1042,7 @@ Wednesday 3 December 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -854,9 +1051,9 @@ Wednesday 3 December 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
