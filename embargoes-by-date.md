@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 27 November 2025 at 23:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 28 November 2025 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [26 November 2025](#26-november-2025)
 * [27 November 2025](#27-november-2025)
@@ -12,7 +12,7 @@ Data generated on | |
 * [3 December 2025](#3-december-2025)
 * [4 December 2025](#4-december-2025)
 * [5 December 2025](#5-december-2025)
-* [7 December 2025](#7-december-2025)
+* [8 December 2025](#8-december-2025)
 * [9 December 2025](#9-december-2025)
 * [11 December 2025](#11-december-2025)
 * [12 December 2025](#12-december-2025)
@@ -24,75 +24,6 @@ Data generated on | |
 ------
 
 # 26 November 2025
-
-## [Perspectives de l’environnement sur la triple crise planétaire - Enjeux, évolution et liens entre les politiques publiques](https://doi.org/10.1787/9a81fa5c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 November 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Environmental Outlook on the Triple Planetary Crisis - Stakes, Evolution and Policy Linkages](https://doi.org/10.1787/257ffbb6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 November 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Economic Surveys: Spain 2025](https://doi.org/10.1787/abc5c435-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 November 2025 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ## [OECD Capital Market Review of Thailand 2025](https://doi.org/10.1787/0a975590-en)
 
@@ -639,6 +570,328 @@ Tuesday 2 December 2025 at 6:00 | no launch event
 
 ------
 
+## [Israel](https://doi.org/10.1787/3209c303-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Chile](https://doi.org/10.1787/03b1bde1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Norway](https://doi.org/10.1787/53f8cadd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Denmark](https://doi.org/10.1787/dd422b6c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [New Zealand](https://doi.org/10.1787/b44ff905-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Türkiye](https://doi.org/10.1787/06d122d6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Spain](https://doi.org/10.1787/608627ce-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Colombia](https://doi.org/10.1787/ee750064-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Canada](https://doi.org/10.1787/c303e920-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Germany](https://doi.org/10.1787/fbf3052d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Sweden](https://doi.org/10.1787/675c1e34-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Ireland](https://doi.org/10.1787/52d67857-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Finland](https://doi.org/10.1787/c9f7a50d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Morocco](https://doi.org/10.1787/1be68268-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
 ## [Results from TALIS Starting Strong 2024 - Strengthening Early Childhood Education and Care](https://doi.org/10.1787/20af08c0-en)
 
 Embargo date | Launch date
@@ -662,7 +915,30 @@ Tuesday 2 December 2025 at 10:00 | no launch event
 
 ------
 
-## [Perspectives économiques de l'OCDE, Volume 2025 Numéro 2 - Une économie résiliente, malgré des fragilités croissantes](https://doi.org/10.1787/62298503-fr)
+## [Japan](https://doi.org/10.1787/61c0a852-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Perspectives économiques de l'OCDE, Volume 2025 Numéro 2 - Une croissance résiliente, mais de plus en plus fragile](https://doi.org/10.1787/62298503-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -681,6 +957,29 @@ Tuesday 2 December 2025 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Belgium](https://doi.org/10.1787/21a4dab6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
 * Format: *PDF*
 
 ------
@@ -1774,6 +2073,29 @@ Thursday 4 December 2025 at 5:00 | no launch event
 
 ------
 
+## [Public Trust in Tax 2025: Asia and Beyond](https://doi.org/10.1787/a2b2aad8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 December 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ------
 
 # 5 December 2025
@@ -1803,13 +2125,13 @@ Friday 5 December 2025 at 1:00 | no launch event
 
 ------
 
-# 7 December 2025
+# 8 December 2025
 
 ## [OECD Economic Surveys: Thailand 2025](https://doi.org/10.1787/426b9bc0-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 7 December 2025 at 23:00 | no launch event
+Monday 8 December 2025 at 3:45 | no launch event
 
 ### Status Information
 
@@ -1831,6 +2153,29 @@ Sunday 7 December 2025 at 23:00 | no launch event
 ------
 
 # 9 December 2025
+
+## [Report on the State of the Science to Address Endocrine Disrupters Under the Globally Harmonised System of Classification and Labelling](https://doi.org/10.1787/9aa7cd81-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 December 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ## [Statistiques des recettes publiques 2025 - Décomposition des recettes fiscales de l'impôt sur le revenu des personnes physiques dans les pays de l’OCDE](https://doi.org/10.1787/f7a1e5e4-fr)
 
@@ -1909,7 +2254,7 @@ Tuesday 9 December 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1918,7 +2263,7 @@ Tuesday 9 December 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -2093,6 +2438,29 @@ Friday 12 December 2025 at 8:00 | no launch event
 
 ------
 
+## [The Identification of Exposure Metrics for Use in Evaluation of Inhalation Exposure to Nano-Objects and their Aggregates and Agglomerates (NOAA) in the Workplace](https://doi.org/10.1787/ac70e53a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 December 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ------
 
 # 15 December 2025
@@ -2101,7 +2469,7 @@ Friday 12 December 2025 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 15 December 2025 at 8:00 | no launch event
+Monday 15 December 2025 at 10:00 | no launch event
 
 ### Status Information
 
@@ -2128,7 +2496,7 @@ Monday 15 December 2025 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 17 December 2025 at 13:00 | no launch event
+Wednesday 17 December 2025 at 17:00 | no launch event
 
 ### Status Information
 
