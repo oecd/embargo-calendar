@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 30 November 2025 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 1 December 2025 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [1 December 2025](#1-december-2025)
 * [2 December 2025](#2-december-2025)
@@ -480,7 +480,7 @@ Tuesday 2 December 2025 at 10:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Published*
+* Availability: *Not yet available*
 * Type of publication: *Short content*
 * Format: *PDF*
 
@@ -540,7 +540,7 @@ Tuesday 2 December 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -549,9 +549,9 @@ Tuesday 2 December 2025 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -586,7 +586,7 @@ Tuesday 2 December 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -595,9 +595,9 @@ Tuesday 2 December 2025 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -659,7 +659,7 @@ Wednesday 3 December 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1684,7 +1684,7 @@ Thursday 4 December 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1894,7 +1894,7 @@ Tuesday 9 December 2025 at 17:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 11 December 2025 at 5:00 | no launch event
+Thursday 11 December 2025 at 1:00 | no launch event
 
 ### Status Information
 
@@ -1955,6 +1955,29 @@ Thursday 11 December 2025 at 7:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Guidance Document on Good In Vitro Method Practices (GIVIMP), Second Edition](https://doi.org/10.1787/5ba6777b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
