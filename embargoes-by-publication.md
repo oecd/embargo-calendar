@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 1 December 2025 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 2 December 2025 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A Decade of OECD Competition Trends, Data and Insights](https://doi.org/10.1787/05021ff2-en)
 
@@ -602,29 +602,6 @@ Tuesday 2 December 2025 at 14:00 | no launch event
 
 ------
 
-## [Guidance Document on the Determination of the Toxicity of a Test Chemical to the Dung Beetles Aphodius constans and Onthophagus taurus](https://doi.org/10.1787/aa8a7b48-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 December 2025 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ## [Guidance Document on the Generation, Reporting and Use of Research Data for Regulatory Assessments](https://doi.org/10.1787/8d49ec1d-en)
 
 Embargo date | Launch date
@@ -642,7 +619,7 @@ Wednesday 3 December 2025 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -656,7 +633,7 @@ Wednesday 3 December 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -665,7 +642,7 @@ Wednesday 3 December 2025 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1637,6 +1614,29 @@ Thursday 4 December 2025 at 5:00 | no launch event
 
 ------
 
+## [Guidance Document on the Determination of the Toxicity of a Test Chemical to the Dung Beetles Aphodius constans and Onthophagus taurus](https://doi.org/10.1787/aa8a7b48-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 December 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Public Trust in Tax 2025: Asia and Beyond](https://doi.org/10.1787/a2b2aad8-en)
 
 Embargo date | Launch date
@@ -1668,7 +1668,7 @@ Friday 5 December 2025 at 1:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1677,7 +1677,7 @@ Friday 5 December 2025 at 1:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
@@ -1737,7 +1737,7 @@ Tuesday 9 December 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1783,7 +1783,7 @@ Tuesday 9 December 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1936,7 +1936,7 @@ Thursday 11 December 2025 at 8:00 | no launch event
 
 ------
 
-## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2024 (version abrégée)](https://doi.org/10.1787/72b42e30-fr)
+## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2024 (version abrégée) - Cadre inclusif sur le BEPS : Action 5](https://doi.org/10.1787/72b42e30-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1999,7 +1999,7 @@ Friday 12 December 2025 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
