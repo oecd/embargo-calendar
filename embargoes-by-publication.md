@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 2 December 2025 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
-
-## [A Decade of OECD Competition Trends, Data and Insights](https://doi.org/10.1787/05021ff2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 1 December 2025 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Une décennie de tendances, de données et d'analyses OCDE sur la concurrence](https://doi.org/10.1787/9c7d1abb-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 1 December 2025 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 3 December 2025 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Examen par les pairs de l’échange automatique de renseignements sur les comptes financiers - Mise à jour 2025 (version abrégée)](https://doi.org/10.1787/d2ee608a-fr)
 
@@ -1614,29 +1568,6 @@ Thursday 4 December 2025 at 5:00 | no launch event
 
 ------
 
-## [Guidance Document on the Determination of the Toxicity of a Test Chemical to the Dung Beetles Aphodius constans and Onthophagus taurus](https://doi.org/10.1787/aa8a7b48-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 December 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ## [Public Trust in Tax 2025: Asia and Beyond](https://doi.org/10.1787/a2b2aad8-en)
 
 Embargo date | Launch date
@@ -1683,11 +1614,11 @@ Friday 5 December 2025 at 1:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Thailand 2025](https://doi.org/10.1787/426b9bc0-en)
+## [Guidance Document on the Determination of the Toxicity of a Test Chemical to the Dung Beetles Aphodius constans and Onthophagus taurus](https://doi.org/10.1787/aa8a7b48-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 8 December 2025 at 3:45 | no launch event
+Friday 5 December 2025 at 8:00 | no launch event
 
 ### Status Information
 
@@ -1698,9 +1629,32 @@ Monday 8 December 2025 at 3:45 | no launch event
 
 ### Additional Information
 
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Thailand 2025](https://doi.org/10.1787/426b9bc0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 December 2025 at 3:45 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -1746,9 +1700,9 @@ Tuesday 9 December 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1792,9 +1746,9 @@ Tuesday 9 December 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1817,6 +1771,29 @@ Tuesday 9 December 2025 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [L’adoption de l’IA par les petites et moyennes entreprises - Document de réflexion de l’OCDE pour le G7](https://doi.org/10.1787/1dbf96ef-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 December 2025 at 17:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -1875,7 +1852,7 @@ Thursday 11 December 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1884,9 +1861,9 @@ Thursday 11 December 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1908,6 +1885,29 @@ Thursday 11 December 2025 at 7:00 | no launch event
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Spanish*
 * Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Synthesis Report 2025: Health Policy Reform Trends in the EU](https://doi.org/10.1787/1f6a8e9a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -1944,7 +1944,7 @@ Thursday 11 December 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2048,6 +2048,29 @@ Monday 15 December 2025 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Guidance on Sample Preparation and Dosimetry for Manufactured Nanomaterials, 2025 Edition](https://doi.org/10.1787/87ec4ecc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 December 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
