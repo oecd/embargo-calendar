@@ -2,973 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 December 2025 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Guidance Document on the Generation, Reporting and Use of Research Data for Regulatory Assessments](https://doi.org/10.1787/8d49ec1d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Guidance Document on Aquatic and Sediment Toxicological Testing of Nanomaterials, Second Edition](https://doi.org/10.1787/17b3ce6f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Democratic Republic of the Congo](https://doi.org/10.1787/7060cd37-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Nigeria](https://doi.org/10.1787/fc80552b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Congo](https://doi.org/10.1787/c4941442-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Burkina Faso](https://doi.org/10.1787/6a73d323-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Revenue Statistics in Africa 2025 - Commonalities and Specificities across African Revenue Classifications](https://doi.org/10.1787/8d3bf3af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Gambia](https://doi.org/10.1787/f2575594-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Namibia](https://doi.org/10.1787/ff175efe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Chad](https://doi.org/10.1787/4dd3f72d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Mauritius](https://doi.org/10.1787/4be228c4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Malawi](https://doi.org/10.1787/2879b20e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Statistiques des recettes publiques en Afrique 2025 - Similitudes et particularités des systèmes de classification des recettes publiques africaines](https://doi.org/10.1787/1ce28fd2-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Lesotho](https://doi.org/10.1787/9cb809e1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Togo](https://doi.org/10.1787/e46afb75-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Guinea](https://doi.org/10.1787/1ff27bc3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Egypt](https://doi.org/10.1787/9d2e4198-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Seychelles](https://doi.org/10.1787/c83bc5d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Somalia](https://doi.org/10.1787/f81f7b7d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Morocco](https://doi.org/10.1787/f6320ed6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Mozambique](https://doi.org/10.1787/688eac10-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Liberia](https://doi.org/10.1787/878b9ce2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Zambia](https://doi.org/10.1787/9a37507d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Uganda](https://doi.org/10.1787/29a9edba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Cameroon](https://doi.org/10.1787/5a162627-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Gabon](https://doi.org/10.1787/30b99d77-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Equatorial Guinea](https://doi.org/10.1787/159b89ac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Tunisia](https://doi.org/10.1787/8915e415-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Kenya](https://doi.org/10.1787/ed161fa2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Mauritania](https://doi.org/10.1787/779fc483-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Botswana](https://doi.org/10.1787/86872c23-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Ghana](https://doi.org/10.1787/9ea30d33-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Mali](https://doi.org/10.1787/6f79cd57-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [South Africa](https://doi.org/10.1787/fee1e581-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Madagascar](https://doi.org/10.1787/56fa7d40-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Cape Verde](https://doi.org/10.1787/0678f7d5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Eswatini](https://doi.org/10.1787/26524aaf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Niger](https://doi.org/10.1787/532795e2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Sierra Leone](https://doi.org/10.1787/c07528a8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Rwanda](https://doi.org/10.1787/377eea23-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Senegal](https://doi.org/10.1787/c9729b8e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Cote d'Ivoire](https://doi.org/10.1787/9a48f40b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
+| *Saturday 6 December 2025 at 2:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Screen time and subjective well-being - Insights from a few countries worldwide](https://doi.org/10.1787/c840403c-en)
 
@@ -1082,6 +116,29 @@ Monday 8 December 2025 at 3:45 | no launch event
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [Global Insurance Market Trends 2025](https://doi.org/10.1787/0d11ecf4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 December 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -2082,7 +1139,7 @@ Tuesday 9 December 2025 at 17:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2091,7 +1148,7 @@ Tuesday 9 December 2025 at 17:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -2105,7 +1162,7 @@ Tuesday 9 December 2025 at 17:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2114,7 +1171,7 @@ Tuesday 9 December 2025 at 17:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -2160,9 +1217,9 @@ Thursday 11 December 2025 at 1:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -2186,29 +1243,6 @@ Thursday 11 December 2025 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Evaluación del impacto socioeconómico de la inversión extranjera directa en América Latina y el Caribe - Un enfoque en las inversiones de la UE](https://doi.org/10.1787/13c7d291-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 December 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
 
 ------
 
@@ -2301,29 +1335,6 @@ Thursday 11 December 2025 at 10:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF*
-
-------
-
-## [Guidance Document on the Determination of the Toxicity of a Test Chemical to the Dung Beetles Aphodius constans and Onthophagus taurus](https://doi.org/10.1787/aa8a7b48-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 12 December 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
 
 ------
 
@@ -2554,5 +1565,51 @@ Thursday 18 December 2025 at 23:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Guidance on Grouping of Chemicals, Third Edition](https://doi.org/10.1787/b254a158-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 December 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Denmark 2026](https://doi.org/10.1787/3d6cb4b8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 16 January 2026 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
