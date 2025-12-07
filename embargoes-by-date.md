@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 6 December 2025 at 2:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 7 December 2025 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 December 2025](#4-december-2025)
-* [5 December 2025](#5-december-2025)
 * [8 December 2025](#8-december-2025)
 * [9 December 2025](#9-december-2025)
 * [10 December 2025](#10-december-2025)
@@ -17,106 +15,6 @@ Data generated on | |
 * [18 December 2025](#18-december-2025)
 * [19 December 2025](#19-december-2025)
 * [16 January 2026](#16-january-2026)
-
-------
-
-# 4 December 2025
-
-## [Screen time and subjective well-being - Insights from a few countries worldwide](https://doi.org/10.1787/c840403c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 December 2025 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [How do people experience new technologies and generative AI? - Insights from a few countries worldwide](https://doi.org/10.1787/49b8d10e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 December 2025 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Public Trust in Tax 2025: Asia and Beyond](https://doi.org/10.1787/a2b2aad8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 December 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
-# 5 December 2025
-
-## [Education policy outlook in Korea](https://doi.org/10.1787/b515b9ce-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 December 2025 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
