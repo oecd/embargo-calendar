@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 7 December 2025 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 8 December 2025 at 23:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Thailand 2025](https://doi.org/10.1787/426b9bc0-en)
 
@@ -47,29 +47,6 @@ Monday 8 December 2025 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Report on the State of the Science to Address Endocrine Disrupters Under the Globally Harmonised System of Classification and Labelling](https://doi.org/10.1787/9aa7cd81-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 December 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
 
 ------
 
@@ -1093,7 +1070,7 @@ Wednesday 10 December 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1102,9 +1079,216 @@ Wednesday 10 December 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
+
+------
+
+## [Malaysia](https://doi.org/10.1787/89c6ce25-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Philippines](https://doi.org/10.1787/72a81afe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Brunei Darussalam](https://doi.org/10.1787/4ac2d167-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Laos](https://doi.org/10.1787/57527be1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Thailand](https://doi.org/10.1787/4abe6cbf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Viet Nam](https://doi.org/10.1787/ed273ab0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Indonesia](https://doi.org/10.1787/74a40737-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Singapore](https://doi.org/10.1787/a13de81b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Cambodia](https://doi.org/10.1787/5a4003df-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 December 2025 at 1:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1194,7 +1378,7 @@ Thursday 11 December 2025 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1231,7 +1415,7 @@ Thursday 11 December 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1240,9 +1424,9 @@ Thursday 11 December 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1286,7 +1470,7 @@ Friday 12 December 2025 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1332,7 +1516,7 @@ Tuesday 16 December 2025 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
