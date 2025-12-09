@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 8 December 2025 at 23:31* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 9 December 2025 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Thailand 2025](https://doi.org/10.1787/426b9bc0-en)
 
@@ -1081,6 +1081,29 @@ Wednesday 10 December 2025 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy paper*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [EBPO Atlikta Lietuvos Nepriklausomos Fiskalinės Institucijos Peržiūra 2025](https://doi.org/10.1787/148d18cd-lt)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 December 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Lithuanian*
+* Availability: *Published*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -1361,75 +1384,6 @@ Thursday 11 December 2025 at 8:00 | no launch event
 
 ------
 
-## [Guidance Document on Good In Vitro Method Practices (GIVIMP), Second Edition](https://doi.org/10.1787/5ba6777b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 December 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2024 (version abrégée) - Cadre inclusif sur le BEPS : Action 5](https://doi.org/10.1787/72b42e30-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Harmful Tax Practices – 2024 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/c069a357-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
 ## [Advancing the development of Safe-and-Sustainable-by-Design (SSbD) for advanced materials - Similarities between the SUNSHINE SSbD approach and Early4AdMa Step 5](https://doi.org/10.1787/633eb341-en)
 
 Embargo date | Launch date
@@ -1458,6 +1412,29 @@ Friday 12 December 2025 at 8:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Friday 12 December 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Guidance Document on Good In Vitro Method Practices (GIVIMP), Second Edition](https://doi.org/10.1787/5ba6777b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 December 2025 at 8:00 | no launch event
 
 ### Status Information
 
@@ -1519,6 +1496,52 @@ Tuesday 16 December 2025 at 8:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
+
+------
+
+## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2024 (version abrégée) - Cadre inclusif sur le BEPS : Action 5](https://doi.org/10.1787/72b42e30-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [Harmful Tax Practices – 2024 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/c069a357-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 December 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1683,6 +1706,29 @@ Friday 19 December 2025 at 8:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Portugal 2026](https://doi.org/10.1787/025b3445-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 January 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Economic Surveys: Denmark 2026](https://doi.org/10.1787/3d6cb4b8-en)
 
 Embargo date | Launch date
@@ -1702,6 +1748,29 @@ Friday 16 January 2026 at 9:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Digital Education Outlook 2026](https://doi.org/10.1787/062a7394-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 January 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
