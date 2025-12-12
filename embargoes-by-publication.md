@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 11 December 2025 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Review of Lithuania’s Independent Fiscal Institution 2025](https://doi.org/10.1787/7dc42e4c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 December 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [EBPO Atlikta Lietuvos Nepriklausomos Fiskalinės Institucijos Peržiūra 2025](https://doi.org/10.1787/148d18cd-lt)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 December 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Lithuanian*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
+| *Friday 12 December 2025 at 23:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Malaysia](https://doi.org/10.1787/89c6ce25-en)
 
@@ -1070,7 +1024,7 @@ Monday 15 December 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1079,7 +1033,7 @@ Monday 15 December 2025 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1177,7 +1131,7 @@ Wednesday 17 December 2025 at 10:00 | no launch event
 
 ------
 
-## [Mapping the global quantum ecosystem - A comprehensive analysis based on innovation, firm, investment, skills, trade and policy data](https://doi.org/10.1787/010c37da-en)
+## [Mapping the global quantum ecosystem - A comprehensive analysis based on innovation, firm, investment, skills, trade and policy data](https://doi.org/10.65216/20251217-0001)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1427,5 +1381,28 @@ Monday 19 January 2026 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Colombia 2026](https://doi.org/10.1787/968398f7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 January 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
