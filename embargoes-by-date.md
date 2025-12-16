@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 16 December 2025 at 2:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 16 December 2025 at 23:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 December 2025](#15-december-2025)
 * [16 December 2025](#16-december-2025)
@@ -12,6 +12,7 @@ Data generated on | |
 * [7 January 2026](#7-january-2026)
 * [16 January 2026](#16-january-2026)
 * [19 January 2026](#19-january-2026)
+* [21 January 2026](#21-january-2026)
 * [27 January 2026](#27-january-2026)
 * [29 January 2026](#29-january-2026)
 
@@ -867,7 +868,7 @@ Thursday 18 December 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -876,7 +877,7 @@ Thursday 18 December 2025 at 8:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -890,7 +891,7 @@ Thursday 18 December 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -899,7 +900,7 @@ Thursday 18 December 2025 at 8:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -913,7 +914,7 @@ Thursday 18 December 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -922,7 +923,7 @@ Thursday 18 December 2025 at 8:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -995,7 +996,7 @@ Friday 19 December 2025 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1009,7 +1010,7 @@ Friday 19 December 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1018,9 +1019,9 @@ Friday 19 December 2025 at 8:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1032,7 +1033,7 @@ Friday 19 December 2025 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 7 January 2026 at 9:00 | no launch event
+Wednesday 7 January 2026 at 10:00 | no launch event
 
 ### Status Information
 
@@ -1102,6 +1103,33 @@ Monday 19 January 2026 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+------
+
+# 21 January 2026
+
+## [Business Licensing Reforms in Romania](https://doi.org/10.1787/be4f13bb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 January 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 

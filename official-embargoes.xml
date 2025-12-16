@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-12-16T02:17:55.3180439+01:00">
+<report name="official-embargoes" generated="2025-12-16T23:52:08.8568501+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -4647,7 +4647,7 @@
     <cell name="subtitle">Implementing the Convention and Related Legal Instruments (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-12-18</cell>
     <cell name="embargo date">2025-12-18T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -4657,7 +4657,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f385283a</cell>
   </row>
   <row index="233">
@@ -4667,7 +4667,7 @@
     <cell name="subtitle">Implementing the Convention and Related Legal Instruments (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-12-18</cell>
     <cell name="embargo date">2025-12-18T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -4677,7 +4677,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3416167c</cell>
   </row>
   <row index="234">
@@ -4687,7 +4687,7 @@
     <cell name="subtitle">Implementing the Convention and Related Legal Instruments (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-12-18</cell>
     <cell name="embargo date">2025-12-18T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -4697,7 +4697,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/640e0eaf</cell>
   </row>
   <row index="235">
@@ -4741,13 +4741,33 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dca1792d</cell>
   </row>
   <row index="237">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/6fff0cb7-en</cell>
+    <cell name="title">OECD Inventory of Support Measures for Fossil Fuels 2025 (en)</cell>
+    <cell name="subtitle">Policy Trends (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-12-19</cell>
+    <cell name="embargo date">2025-12-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8418eb6</cell>
+  </row>
+  <row index="238">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/b254a158-en</cell>
     <cell name="title">Guidance on Grouping of Chemicals, Third Edition (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2025-12-19</cell>
     <cell name="embargo date">2025-12-19T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -4760,14 +4780,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68497f6e</cell>
   </row>
-  <row index="238">
+  <row index="239">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6fff0cb7-en</cell>
     <cell name="title">OECD Inventory of Support Measures for Fossil Fuels 2025 (en)</cell>
     <cell name="subtitle">Policy Trends (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-12-19</cell>
     <cell name="embargo date">2025-12-19T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -4778,9 +4798,49 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ffe1d714</cell>
+  </row>
+  <row index="240">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/6fff0cb7-en</cell>
+    <cell name="title">OECD Inventory of Support Measures for Fossil Fuels 2025 (en)</cell>
+    <cell name="subtitle">Policy Trends (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-12-19</cell>
+    <cell name="embargo date">2025-12-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/234d14aa</cell>
+  </row>
+  <row index="241">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/6fff0cb7-en</cell>
+    <cell name="title">OECD Inventory of Support Measures for Fossil Fuels 2025 (en)</cell>
+    <cell name="subtitle">Policy Trends (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-12-19</cell>
+    <cell name="embargo date">2025-12-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ebfb276</cell>
   </row>
-  <row index="239">
+  <row index="242">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/025b3445-en</cell>
     <cell name="title">OECD Economic Surveys: Portugal 2026 (en)</cell>
@@ -4789,7 +4849,7 @@
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2026-01-07</cell>
-    <cell name="embargo date">2026-01-07T09:00:00Z</cell>
+    <cell name="embargo date">2026-01-07T10:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -4800,7 +4860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a0b1515</cell>
   </row>
-  <row index="240">
+  <row index="243">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/3d6cb4b8-en</cell>
     <cell name="title">OECD Economic Surveys: Denmark 2026 (en)</cell>
@@ -4820,7 +4880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ac73ed6</cell>
   </row>
-  <row index="241">
+  <row index="244">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/3d6cb4b8-en</cell>
     <cell name="title">OECD Economic Surveys: Denmark 2026 (en)</cell>
@@ -4840,7 +4900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b274d96b</cell>
   </row>
-  <row index="242">
+  <row index="245">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/062a7394-en</cell>
     <cell name="title">OECD Digital Education Outlook 2026 (en)</cell>
@@ -4860,7 +4920,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ffde578</cell>
   </row>
-  <row index="243">
+  <row index="246">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/be4f13bb-en</cell>
+    <cell name="title">Business Licensing Reforms in Romania (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-01-21</cell>
+    <cell name="embargo date">2026-01-21T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d24511c</cell>
+  </row>
+  <row index="247">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/be4f13bb-en</cell>
+    <cell name="title">Business Licensing Reforms in Romania (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-01-21</cell>
+    <cell name="embargo date">2026-01-21T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1031e308</cell>
+  </row>
+  <row index="248">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/968398f7-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Colombia 2026 (en)</cell>
@@ -4880,7 +4980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/958fe044</cell>
   </row>
-  <row index="244">
+  <row index="249">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/968398f7-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Colombia 2026 (en)</cell>
@@ -4900,7 +5000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/212a74f0</cell>
   </row>
-  <row index="245">
+  <row index="250">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b52e3ac0-en</cell>
     <cell name="title">OECD Economic Surveys: Croatia 2026 (en)</cell>
@@ -4920,7 +5020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81e8d164</cell>
   </row>
-  <row index="246">
+  <row index="251">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b52e3ac0-en</cell>
     <cell name="title">OECD Economic Surveys: Croatia 2026 (en)</cell>
