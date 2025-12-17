@@ -2,69 +2,19 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 16 December 2025 at 23:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 17 December 2025 at 23:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 December 2025](#15-december-2025)
 * [16 December 2025](#16-december-2025)
 * [17 December 2025](#17-december-2025)
 * [18 December 2025](#18-december-2025)
 * [19 December 2025](#19-december-2025)
 * [7 January 2026](#7-january-2026)
+* [14 January 2026](#14-january-2026)
 * [16 January 2026](#16-january-2026)
 * [19 January 2026](#19-january-2026)
 * [21 January 2026](#21-january-2026)
 * [27 January 2026](#27-january-2026)
 * [29 January 2026](#29-january-2026)
-
-------
-
-# 15 December 2025
-
-## [Guidance Document on Good In Vitro Method Practices (GIVIMP), Second Edition](https://doi.org/10.1787/5ba6777b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 December 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Policies for the Future of Farming and Food in Croatia](https://doi.org/10.1787/011c6272-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -883,6 +833,29 @@ Thursday 18 December 2025 at 8:00 | no launch event
 
 ------
 
+## [Guidance on Grouping of Chemicals, Third Edition](https://doi.org/10.1787/b254a158-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 December 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [OECD Anti-Bribery Convention Phase 4 Report on Estonia - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/890a016f-en)
 
 Embargo date | Launch date
@@ -937,7 +910,7 @@ Thursday 18 December 2025 at 23:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -946,9 +919,9 @@ Thursday 18 December 2025 at 23:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -960,7 +933,7 @@ Thursday 18 December 2025 at 23:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -969,38 +942,15 @@ Thursday 18 December 2025 at 23:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
 ------
 
 # 19 December 2025
-
-## [Guidance on Grouping of Chemicals, Third Edition](https://doi.org/10.1787/b254a158-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 19 December 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ## [OECD Inventory of Support Measures for Fossil Fuels 2025 - Policy Trends](https://doi.org/10.1787/6fff0cb7-en)
 
@@ -1037,7 +987,7 @@ Wednesday 7 January 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1046,8 +996,127 @@ Wednesday 7 January 2026 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 14 January 2026
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Palau 2026 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/cb886cba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Seychelles 2026 (Second Round, In-depth Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/85ed0f04-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2026 (Second Round, In-depth Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8d903677-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Benin 2026 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/4cfacc95-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Cabo Verde 2026 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/2bbd378b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
