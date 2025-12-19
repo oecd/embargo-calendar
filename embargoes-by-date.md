@@ -2,91 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 18 December 2025 at 23:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 19 December 2025 at 23:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [17 December 2025](#17-december-2025)
 * [18 December 2025](#18-december-2025)
 * [19 December 2025](#19-december-2025)
 * [7 January 2026](#7-january-2026)
-* [14 January 2026](#14-january-2026)
 * [16 January 2026](#16-january-2026)
 * [19 January 2026](#19-january-2026)
 * [21 January 2026](#21-january-2026)
-* [27 January 2026](#27-january-2026)
+* [28 January 2026](#28-january-2026)
 * [29 January 2026](#29-january-2026)
-
-------
-
-# 17 December 2025
-
-## [Mapping the global quantum ecosystem - A comprehensive analysis based on innovation, firm, investment, skills, trade and policy data](https://doi.org/10.65216/20251217-0001)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 17 December 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2024 (version abrégée) - Cadre inclusif sur le BEPS : Action 5](https://doi.org/10.1787/72b42e30-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 17 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Harmful Tax Practices – 2024 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/c069a357-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 17 December 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -286,125 +211,6 @@ Wednesday 7 January 2026 at 10:00 | no launch event
 
 ------
 
-# 14 January 2026
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Palau 2026 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/cb886cba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 January 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Seychelles 2026 (Second Round, In-depth Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/85ed0f04-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 January 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2026 (Second Round, In-depth Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8d903677-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 January 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Benin 2026 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/4cfacc95-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 January 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Cabo Verde 2026 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/2bbd378b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 January 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
 # 16 January 2026
 
 ## [OECD Economic Surveys: Denmark 2026](https://doi.org/10.1787/3d6cb4b8-en)
@@ -484,15 +290,130 @@ Wednesday 21 January 2026 at 7:30 | no launch event
 
 ------
 
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Palau 2026 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/cb886cba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
 ------
 
-# 27 January 2026
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Seychelles 2026 (Second Round, In-depth Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/85ed0f04-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2026 (Second Round, In-depth Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8d903677-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Benin 2026 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/4cfacc95-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Cabo Verde 2026 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/2bbd378b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 28 January 2026
 
 ## [OECD Environmental Performance Reviews: Colombia 2026](https://doi.org/10.1787/968398f7-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 27 January 2026 at 9:00 | no launch event
+Wednesday 28 January 2026 at 15:00 | no launch event
 
 ### Status Information
 
@@ -507,7 +428,7 @@ Tuesday 27 January 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
