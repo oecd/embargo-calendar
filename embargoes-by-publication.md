@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 22 December 2025 at 23:52* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 23 December 2025 at 23:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Economic Outlook for Southeast Asia, China and India 2025 - Enhancing Disaster Risk Financing](https://doi.org/10.1787/6fc95782-en)
 
