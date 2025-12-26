@@ -2,42 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 25 December 2025 at 23:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 26 December 2025 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 December 2025](#24-december-2025)
 * [7 January 2026](#7-january-2026)
 * [16 January 2026](#16-january-2026)
 * [19 January 2026](#19-january-2026)
 * [21 January 2026](#21-january-2026)
 * [28 January 2026](#28-january-2026)
 * [29 January 2026](#29-january-2026)
-
-------
-
-# 24 December 2025
-
-## [Economic Outlook for Southeast Asia, China and India 2025 - Enhancing Disaster Risk Financing](https://doi.org/10.1787/6fc95782-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 December 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
