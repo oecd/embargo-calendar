@@ -2,9 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 29 December 2025 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 30 December 2025 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 January 2026](#7-january-2026)
+* [6 January 2026](#6-january-2026)
 * [16 January 2026](#16-january-2026)
 * [19 January 2026](#19-january-2026)
 * [21 January 2026](#21-january-2026)
@@ -13,13 +13,13 @@ Data generated on | |
 
 ------
 
-# 7 January 2026
+# 6 January 2026
 
 ## [OECD Economic Surveys: Portugal 2026](https://doi.org/10.1787/025b3445-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 7 January 2026 at 10:00 | no launch event
+Tuesday 6 January 2026 at 15:00 | no launch event
 
 ### Status Information
 

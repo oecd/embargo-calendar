@@ -10,29 +10,29 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  cs Department\nLanguage: English\nDOI: h
  ttps://doi.org/10.1787/025b3445-en\nPubl
  ication type: Economic survey\nReleased 
- as: PDF\n\nEmbargo date/time: Wednesday,
-  7 January 2026, 10:00 (GMT)\n\n\niLibra
- ry export: never\nFreepreview export: ne
- ver\nOECD.org export: never\nFTI loaded:
-  ✓\n\nFor more information see: https://
- oecd.github.io/embargo-calendar/embargoe
- s-by-publication.html.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 23:11, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=025b3
- 445-en.
-DTSTAMP:20251229T231111Z
-DTSTART:20260107T100000Z
-DTEND:20260107T101500Z
+ as: PDF\n\nEmbargo date/time: Tuesday, 6
+  January 2026, 15:00 (GMT)\n\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nOECD.org export: never\nFTI loaded: ✓
+ \n\nFor more information see: https://oe
+ cd.github.io/embargo-calendar/embargoes-
+ by-publication.html.\n\nPlease note: Thi
+ s information was correct as of this aft
+ ernoon at 23:10, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=025b344
+ 5-en.
+DTSTAMP:20251230T231055Z
+DTSTART:20260106T150000Z
+DTEND:20260106T151500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -57,7 +57,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:11, it is updated 
+  this afternoon at 23:10, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -66,7 +66,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=3d6cb4b8-en.
-DTSTAMP:20251229T231111Z
+DTSTAMP:20251230T231055Z
 DTSTART:20260116T093000Z
 DTEND:20260116T094500Z
 TRANSP:TRANSPARENT
@@ -96,7 +96,7 @@ DESCRIPTION:*[Book] OECD Digital Education Outlook 2
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 23:11, it is updated each night; there
+ t 23:10, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -104,7 +104,7 @@ DESCRIPTION:*[Book] OECD Digital Education Outlook 2
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=062a7394-en.
-DTSTAMP:20251229T231111Z
+DTSTAMP:20251230T231055Z
 DTSTART:20260119T080000Z
 DTEND:20260119T081500Z
 TRANSP:TRANSPARENT
@@ -135,7 +135,7 @@ DESCRIPTION:*[Stand-alone monograph] Business Licens
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 23:1
- 1, it is updated each night; therefore a
+ 0, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -143,7 +143,7 @@ DESCRIPTION:*[Stand-alone monograph] Business Licens
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=be4f13bb-en.
-DTSTAMP:20251229T231111Z
+DTSTAMP:20251230T231055Z
 DTSTART:20260121T073000Z
 DTEND:20260121T074500Z
 TRANSP:TRANSPARENT
@@ -179,7 +179,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
+ orrect as of this afternoon at 23:10, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -188,7 +188,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=cb886cba-en.
-DTSTAMP:20251229T231111Z
+DTSTAMP:20251230T231055Z
 DTSTART:20260121T100000Z
 DTEND:20260121T101500Z
 TRANSP:TRANSPARENT
@@ -228,7 +228,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 23:11, it is updated each night; the
+  at 23:10, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -236,7 +236,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=85ed0f04-en.
-DTSTAMP:20251229T231111Z
+DTSTAMP:20251230T231055Z
 DTSTART:20260121T100000Z
 DTEND:20260121T101500Z
 TRANSP:TRANSPARENT
@@ -278,7 +278,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:11, it is updated each n
+ afternoon at 23:10, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -287,7 +287,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=8d90
  3677-en.
-DTSTAMP:20251229T231111Z
+DTSTAMP:20251230T231055Z
 DTSTART:20260121T100000Z
 DTEND:20260121T101500Z
 TRANSP:TRANSPARENT
@@ -327,7 +327,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
+ orrect as of this afternoon at 23:10, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -336,7 +336,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=4cfacc95-en.
-DTSTAMP:20251229T231111Z
+DTSTAMP:20251230T231055Z
 DTSTART:20260121T100000Z
 DTEND:20260121T101500Z
 TRANSP:TRANSPARENT
@@ -376,7 +376,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 23:1
- 1, it is updated each night; therefore a
+ 0, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -384,7 +384,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=2bbd378b-en.
-DTSTAMP:20251229T231111Z
+DTSTAMP:20251230T231055Z
 DTSTART:20260121T100000Z
 DTEND:20260121T101500Z
 TRANSP:TRANSPARENT
@@ -417,7 +417,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:11, it is updated each nig
+ ternoon at 23:10, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -426,7 +426,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=968398
  f7-en.
-DTSTAMP:20251229T231111Z
+DTSTAMP:20251230T231055Z
 DTSTART:20260128T150000Z
 DTEND:20260128T151500Z
 TRANSP:TRANSPARENT
@@ -456,7 +456,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 23:11, it is updat
+  of this afternoon at 23:10, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -465,7 +465,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=b52e3ac0-en.
-DTSTAMP:20251229T231111Z
+DTSTAMP:20251230T231055Z
 DTSTART:20260129T230000Z
 DTEND:20260129T231500Z
 TRANSP:TRANSPARENT
