@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 31 December 2025 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 1 January 2026 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Portugal 2026](https://doi.org/10.1787/025b3445-en)
 
