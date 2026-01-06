@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 January 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 6 January 2026 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Portugal 2026](https://doi.org/10.1787/025b3445-en)
 
@@ -70,6 +70,29 @@ Monday 19 January 2026 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [From Fakes to Forced Labour - Evidence of Correlation Between Illicit Trade in Counterfeits and Labour Exploitation](https://doi.org/10.1787/540dc43e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 20 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *HTML, PDF*
 
 ------
 
