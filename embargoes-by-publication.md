@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 6 January 2026 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 7 January 2026 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Portugal 2026](https://doi.org/10.1787/025b3445-en)
 
@@ -50,7 +50,7 @@ Friday 16 January 2026 at 9:30 | no launch event
 
 ------
 
-## [OECD Digital Education Outlook 2026](https://doi.org/10.1787/062a7394-en)
+## [OECD Digital Education Outlook 2026 - Exploring Effective Uses of Generative AI in Education](https://doi.org/10.1787/062a7394-en)
 
 Embargo date | Launch date
 -------------|:------------:
