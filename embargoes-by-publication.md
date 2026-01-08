@@ -2,27 +2,50 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 7 January 2026 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 8 January 2026 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
-## [OECD Economic Surveys: Portugal 2026](https://doi.org/10.1787/025b3445-en)
+## [Digital technology diffusion in the age of AI - Cross-country evidence from microdata](https://doi.org/10.1787/ebc2debe-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 6 January 2026 at 15:00 | no launch event
+Wednesday 14 January 2026 at 23:01 | no launch event
 
 ### Status Information
 
-- [x] FTI loaded 
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Policies for people with dementia across OECD countries](https://doi.org/10.1787/e41e6eaa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 January 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -44,7 +67,7 @@ Friday 16 January 2026 at 9:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -67,7 +90,7 @@ Monday 19 January 2026 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -90,7 +113,7 @@ Tuesday 20 January 2026 at 10:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *HTML, PDF*
 
@@ -113,7 +136,7 @@ Wednesday 21 January 2026 at 7:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -274,7 +297,7 @@ Thursday 29 January 2026 at 23:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
