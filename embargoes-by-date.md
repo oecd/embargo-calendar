@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 8 January 2026 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 9 January 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 January 2026](#14-january-2026)
 * [15 January 2026](#15-january-2026)
@@ -133,7 +133,7 @@ Tuesday 20 January 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -142,9 +142,32 @@ Tuesday 20 January 2026 at 10:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *HTML, PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Economic Surveys: Australia 2026](https://doi.org/10.1787/d22a1efd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 20 January 2026 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -262,6 +285,29 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Bénin 2026 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/53e99a1f-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
