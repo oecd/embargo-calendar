@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 9 January 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 11 January 2026 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Digital technology diffusion in the age of AI - Cross-country evidence from microdata](https://doi.org/10.1787/ebc2debe-en)
 
