@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 11 January 2026 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Digital technology diffusion in the age of AI - Cross-country evidence from microdata](https://doi.org/10.1787/ebc2debe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 January 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Monday 12 January 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Policies for people with dementia across OECD countries](https://doi.org/10.1787/e41e6eaa-en)
 
@@ -81,7 +58,7 @@ Monday 19 January 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -90,7 +67,7 @@ Monday 19 January 2026 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -299,6 +276,29 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Digital technology diffusion in the age of AI - Cross-country evidence from microdata](https://doi.org/10.1787/ebc2debe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 January 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
