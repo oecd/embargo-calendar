@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 12 January 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 13 January 2026 at 23:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 January 2026](#15-january-2026)
 * [16 January 2026](#16-january-2026)
@@ -11,6 +11,8 @@ Data generated on | |
 * [21 January 2026](#21-january-2026)
 * [28 January 2026](#28-january-2026)
 * [29 January 2026](#29-january-2026)
+* [26 February 2026](#26-february-2026)
+* [1 March 2026](#1-march-2026)
 
 ------
 
@@ -155,7 +157,7 @@ Wednesday 21 January 2026 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -381,6 +383,60 @@ Thursday 29 January 2026 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 26 February 2026
+
+## [Promoting the Development of the Semiconductor Ecosystem in Mexico](https://doi.org/10.1787/02c81dec-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 February 2026 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 1 March 2026
+
+## [Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries](https://doi.org/10.1787/0b35b5a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 1 March 2026 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------

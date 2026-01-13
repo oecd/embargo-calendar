@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-01-12T23:13:23.6030233+01:00">
+<report name="official-embargoes" generated="2026-01-13T23:44:10.1758319+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -257,7 +257,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1031e308</cell>
   </row>
   <row index="13">
@@ -459,5 +459,85 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c5ba8bc6</cell>
+  </row>
+  <row index="23">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/02c81dec-en</cell>
+    <cell name="title">Promoting the Development of the Semiconductor Ecosystem in Mexico (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-02-27</cell>
+    <cell name="embargo date">2026-02-26T23:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac9263fa</cell>
+  </row>
+  <row index="24">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/02c81dec-en</cell>
+    <cell name="title">Promoting the Development of the Semiconductor Ecosystem in Mexico (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-02-27</cell>
+    <cell name="embargo date">2026-02-26T23:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3583fb49</cell>
+  </row>
+  <row index="25">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/0b35b5a6-en</cell>
+    <cell name="title">Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-03-02</cell>
+    <cell name="embargo date">2026-03-01T23:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a5b1033</cell>
+  </row>
+  <row index="26">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/0b35b5a6-en</cell>
+    <cell name="title">Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-03-02</cell>
+    <cell name="embargo date">2026-03-01T23:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0f999cc</cell>
   </row>
 </report>

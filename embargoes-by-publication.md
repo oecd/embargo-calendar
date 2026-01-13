@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 12 January 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 13 January 2026 at 23:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Policies for people with dementia across OECD countries](https://doi.org/10.1787/e41e6eaa-en)
 
@@ -127,7 +127,7 @@ Wednesday 21 January 2026 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -345,6 +345,52 @@ Thursday 29 January 2026 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Promoting the Development of the Semiconductor Ecosystem in Mexico](https://doi.org/10.1787/02c81dec-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 February 2026 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries](https://doi.org/10.1787/0b35b5a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 1 March 2026 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
