@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 January 2026 at 23:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 14 January 2026 at 23:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 January 2026](#15-january-2026)
 * [16 January 2026](#16-january-2026)
 * [19 January 2026](#19-january-2026)
 * [20 January 2026](#20-january-2026)
@@ -13,33 +12,7 @@ Data generated on | |
 * [29 January 2026](#29-january-2026)
 * [26 February 2026](#26-february-2026)
 * [1 March 2026](#1-march-2026)
-
-------
-
-# 15 January 2026
-
-## [Policies for people with dementia across OECD countries](https://doi.org/10.1787/e41e6eaa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 January 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+* [5 March 2026](#5-march-2026)
 
 ------
 
@@ -53,7 +26,7 @@ Friday 16 January 2026 at 9:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -62,7 +35,7 @@ Friday 16 January 2026 at 9:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -434,6 +407,33 @@ Sunday 1 March 2026 at 23:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 5 March 2026
+
+## [Financial Protection Against Catastrophic Risks - Floods, Fires and Other Major Risks](https://doi.org/10.1787/32a3acd7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 March 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*

@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 January 2026 at 23:44* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Policies for people with dementia across OECD countries](https://doi.org/10.1787/e41e6eaa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 January 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Wednesday 14 January 2026 at 23:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Denmark 2026](https://doi.org/10.1787/3d6cb4b8-en)
 
@@ -35,7 +12,7 @@ Friday 16 January 2026 at 9:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -44,7 +21,7 @@ Friday 16 January 2026 at 9:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -388,6 +365,29 @@ Sunday 1 March 2026 at 23:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Financial Protection Against Catastrophic Risks - Floods, Fires and Other Major Risks](https://doi.org/10.1787/32a3acd7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 March 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
