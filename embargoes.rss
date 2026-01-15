@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Wed, 14 Jan 2026 23:52:51 GMT</pubDate>
+      <pubDate>Thu, 15 Jan 2026 23:44:31 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -46,7 +46,23 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/540dc43e-en-d3e330</guid>
+         <guid isPermaLink="false">10.1787/c58230a4-en-d3e222</guid>
+         <pubDate>Tue, 20 Jan 2026 10:00:00 GMT</pubDate>
+         <title>OECD Development Co‑operation Peer Reviews: Australia 2025</title>
+         <link>https://doi.org/10.1787/c58230a4-en</link>
+         <description>OECD Development Co‑operation Peer Reviews: Australia 2025 by Development Co-operation Directorate has an embargo on Tuesday 20 January 2026 at 10:00.</description>
+         <oe:embargoTime>Tue, 20 Jan 2026 10:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Development Co-operation Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/540dc43e-en-d3e382</guid>
          <pubDate>Tue, 20 Jan 2026 11:00:00 GMT</pubDate>
          <title>From Fakes to Forced Labour - Evidence of Correlation Between Illicit Trade in Counterfeits and Labour Exploitation</title>
          <link>https://doi.org/10.1787/540dc43e-en</link>
@@ -62,28 +78,12 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d22a1efd-en-d3e490</guid>
-         <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
-         <title>OECD Economic Surveys: Australia 2026</title>
-         <link>https://doi.org/10.1787/d22a1efd-en</link>
-         <description>OECD Economic Surveys: Australia 2026 by Economics Department has an embargo on Wednesday 21 January 2026 at 0:00.</description>
-         <oe:embargoTime>Wed, 21 Jan 2026 00:00:00 GMT</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:languages>English</oe:languages>
-         <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport/>
-         <oe:freePreviewExport/>
-         <oe:oecdOrgExport/>
-         <oe:catalogueType>Economic survey</oe:catalogueType>
-      </item>
-      <item>
          <guid isPermaLink="false">10.1787/be4f13bb-en-d3e595</guid>
-         <pubDate>Wed, 21 Jan 2026 08:30:00 GMT</pubDate>
+         <pubDate>Wed, 21 Jan 2026 08:00:00 GMT</pubDate>
          <title>Business Licensing Reforms in Romania</title>
          <link>https://doi.org/10.1787/be4f13bb-en</link>
-         <description>Business Licensing Reforms in Romania by Economics Department has an embargo on Wednesday 21 January 2026 at 8:30.</description>
-         <oe:embargoTime>Wed, 21 Jan 2026 08:30:00 GMT</oe:embargoTime>
+         <description>Business Licensing Reforms in Romania by Economics Department has an embargo on Wednesday 21 January 2026 at 8:00.</description>
+         <oe:embargoTime>Wed, 21 Jan 2026 08:00:00 GMT</oe:embargoTime>
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Economics Department</oe:directorate>
@@ -190,7 +190,23 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/ebc2debe-en-d3e967</guid>
+         <guid isPermaLink="false">10.1787/d22a1efd-en-d3e967</guid>
+         <pubDate>Wed, 21 Jan 2026 16:00:00 GMT</pubDate>
+         <title>OECD Economic Surveys: Australia 2026</title>
+         <link>https://doi.org/10.1787/d22a1efd-en</link>
+         <description>OECD Economic Surveys: Australia 2026 by Economics Department has an embargo on Wednesday 21 January 2026 at 16:00.</description>
+         <oe:embargoTime>Wed, 21 Jan 2026 16:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Economic survey</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/ebc2debe-en-d3e1019</guid>
          <pubDate>Thu, 22 Jan 2026 00:01:00 GMT</pubDate>
          <title>Digital technology diffusion in the age of AI - Cross-country evidence from microdata</title>
          <link>https://doi.org/10.1787/ebc2debe-en</link>
@@ -206,7 +222,7 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/968398f7-en-d3e1020</guid>
+         <guid isPermaLink="false">10.1787/968398f7-en-d3e1072</guid>
          <pubDate>Wed, 28 Jan 2026 16:00:00 GMT</pubDate>
          <title>OECD Environmental Performance Reviews: Colombia 2026</title>
          <link>https://doi.org/10.1787/968398f7-en</link>
@@ -222,7 +238,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b52e3ac0-en-d3e1072</guid>
+         <guid isPermaLink="false">10.1787/b52e3ac0-en-d3e1124</guid>
          <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Croatia 2026</title>
          <link>https://doi.org/10.1787/b52e3ac0-en</link>
@@ -238,7 +254,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/02c81dec-en-d3e1229</guid>
+         <guid isPermaLink="false">10.1787/02c81dec-en-d3e1281</guid>
          <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
          <title>Promoting the Development of the Semiconductor Ecosystem in Mexico</title>
          <link>https://doi.org/10.1787/02c81dec-en</link>
@@ -254,7 +270,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0b35b5a6-en-d3e1281</guid>
+         <guid isPermaLink="false">10.1787/0b35b5a6-en-d3e1333</guid>
          <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
          <title>Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries</title>
          <link>https://doi.org/10.1787/0b35b5a6-en</link>
@@ -270,7 +286,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/32a3acd7-en-d3e1385</guid>
+         <guid isPermaLink="false">10.1787/32a3acd7-en-d3e1437</guid>
          <pubDate>Thu, 05 Mar 2026 07:00:00 GMT</pubDate>
          <title>Financial Protection Against Catastrophic Risks - Floods, Fires and Other Major Risks</title>
          <link>https://doi.org/10.1787/32a3acd7-en</link>

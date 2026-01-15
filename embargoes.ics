@@ -18,7 +18,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:52, it is updated 
+  this afternoon at 23:44, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -27,7 +27,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=3d6cb4b8-en.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260116T093000Z
 DTEND:20260116T094500Z
 TRANSP:TRANSPARENT
@@ -59,7 +59,7 @@ DESCRIPTION:*[Book] OECD Digital Education Outlook 2
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:52, it is updated 
+  this afternoon at 23:44, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -68,7 +68,7 @@ DESCRIPTION:*[Book] OECD Digital Education Outlook 2
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=062a7394-en.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260119T080000Z
 DTEND:20260119T081500Z
 TRANSP:TRANSPARENT
@@ -83,7 +83,46 @@ DESCRIPTION:Reminder: [Book] OECD Digital Education
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/540dc43e-end3e330
+UID:10.1787/c58230a4-end3e222
+SUMMARY:[Book] OECD Development Co‑operation Pee
+ r Reviews: Australia 2025
+DESCRIPTION:*[Book] OECD Development Co‑operation Pe
+ er Reviews: Australia 2025*\n\nDirectora
+ te: Development Co-operation Directorate
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/c58230a4-en\nPublication type:
+  Book\nReleased as: PDF\n\nEmbargo date/
+ time: Tuesday, 20 January 2026, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 23:44, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=c58230a4-en.
+DTSTAMP:20260115T234429Z
+DTSTART:20260120T090000Z
+DTEND:20260120T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] OECD Development Co‑ope
+ ration Peer Reviews: Australia 2025
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/540dc43e-end3e382
 SUMMARY:[Book] From Fakes to Forced Labour - Evi
  dence of Correlation Between Illicit Tra
  de in Counterfeits and Labour Exploitati
@@ -103,7 +142,7 @@ DESCRIPTION:*[Book] From Fakes to Forced Labour - Ev
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:52, it is updated 
+  this afternoon at 23:44, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -112,7 +151,7 @@ DESCRIPTION:*[Book] From Fakes to Forced Labour - Ev
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=540dc43e-en.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260120T100000Z
 DTEND:20260120T101500Z
 TRANSP:TRANSPARENT
@@ -128,45 +167,6 @@ DESCRIPTION:Reminder: [Book] From Fakes to Forced La
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d22a1efd-end3e490
-SUMMARY:[Economic survey] OECD Economic Surveys:
-  Australia 2026
-DESCRIPTION:*[Economic survey] OECD Economic Surveys
- : Australia 2026*\n\nDirectorate: Econom
- ics Department\nLanguage: English\nDOI: 
- https://doi.org/10.1787/d22a1efd-en\nPub
- lication type: Economic survey\nReleased
-  as: Paperback, PDF\n\nEmbargo date/time
- : Tuesday, 20 January 2026, 23:00 (GMT)\
- n\n\niLibrary export: never\nFreepreview
-  export: never\nOECD.org export: never\n
- FTI loaded: ✗\n\nFor more information se
- e: https://oecd.github.io/embargo-calend
- ar/embargoes-by-publication.html.\n\nPle
- ase note: This information was correct a
- s of this afternoon at 23:52, it is upda
- ted each night; therefore any subsequent
-  updates may not yet be visible here. Al
- so, please be aware that the different r
- eleased media (PDF, HTML, etc.) are not 
- necessarily released at the same time. F
- or complete and up-to-date information s
- ee here: http://kappa.oecd.org/v3/search
- ?term=d22a1efd-en.
-DTSTAMP:20260114T235248Z
-DTSTART:20260120T230000Z
-DTEND:20260120T231500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Economic survey] OECD Economi
- c Surveys: Australia 2026
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:10.1787/be4f13bb-end3e595
 SUMMARY:[Stand-alone monograph] Business Licensi
  ng Reforms in Romania
@@ -177,14 +177,14 @@ DESCRIPTION:*[Stand-alone monograph] Business Licens
  n\nPublication type: Stand-alone monogra
  ph\nReleased as: Paperback, PDF\n\nEmbar
  go date/time: Wednesday, 21 January 2026
- , 7:30 (GMT)\n\n\niLibrary export: never
+ , 7:00 (GMT)\n\n\niLibrary export: never
  \nFreepreview export: never\nOECD.org ex
  port: never\nFTI loaded: ✓\n\nFor more i
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:5
- 2, it is updated each night; therefore a
+ was correct as of this afternoon at 23:4
+ 4, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -192,9 +192,9 @@ DESCRIPTION:*[Stand-alone monograph] Business Licens
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=be4f13bb-en.
-DTSTAMP:20260114T235248Z
-DTSTART:20260121T073000Z
-DTEND:20260121T074500Z
+DTSTAMP:20260115T234429Z
+DTSTART:20260121T070000Z
+DTEND:20260121T071500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
@@ -228,7 +228,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:52, it
+ orrect as of this afternoon at 23:44, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -237,7 +237,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=cb886cba-en.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260121T100000Z
 DTEND:20260121T101500Z
 TRANSP:TRANSPARENT
@@ -277,7 +277,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 23:52, it is updated each night; the
+  at 23:44, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -285,7 +285,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=85ed0f04-en.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260121T100000Z
 DTEND:20260121T101500Z
 TRANSP:TRANSPARENT
@@ -327,7 +327,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:52, it is updated each n
+ afternoon at 23:44, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -336,7 +336,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=8d90
  3677-en.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260121T100000Z
 DTEND:20260121T101500Z
 TRANSP:TRANSPARENT
@@ -376,7 +376,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:52, it
+ orrect as of this afternoon at 23:44, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -385,7 +385,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=4cfacc95-en.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260121T100000Z
 DTEND:20260121T101500Z
 TRANSP:TRANSPARENT
@@ -426,7 +426,7 @@ DESCRIPTION:*[Report] Forum mondial sur la transpare
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:52, it is updated e
+ this afternoon at 23:44, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -435,7 +435,7 @@ DESCRIPTION:*[Report] Forum mondial sur la transpare
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =53e99a1f-fr.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260121T100000Z
 DTEND:20260121T101500Z
 TRANSP:TRANSPARENT
@@ -475,8 +475,8 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:5
- 2, it is updated each night; therefore a
+ was correct as of this afternoon at 23:4
+ 4, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -484,7 +484,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=2bbd378b-en.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260121T100000Z
 DTEND:20260121T101500Z
 TRANSP:TRANSPARENT
@@ -501,7 +501,46 @@ DESCRIPTION:Reminder: [Report] Global Forum on Trans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ebc2debe-end3e967
+UID:10.1787/d22a1efd-end3e967
+SUMMARY:[Economic survey] OECD Economic Surveys:
+  Australia 2026
+DESCRIPTION:*[Economic survey] OECD Economic Surveys
+ : Australia 2026*\n\nDirectorate: Econom
+ ics Department\nLanguage: English\nDOI: 
+ https://doi.org/10.1787/d22a1efd-en\nPub
+ lication type: Economic survey\nReleased
+  as: Paperback, PDF\n\nEmbargo date/time
+ : Wednesday, 21 January 2026, 15:00 (GMT
+ )\n\n\niLibrary export: never\nFreeprevi
+ ew export: never\nOECD.org export: never
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 23:44, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=d22a1efd-en.
+DTSTAMP:20260115T234429Z
+DTSTART:20260121T150000Z
+DTEND:20260121T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Economic survey] OECD Economi
+ c Surveys: Australia 2026
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ebc2debe-end3e1019
 SUMMARY:[Working paper] Digital technology diffu
  sion in the age of AI - Cross-country ev
  idence from microdata
@@ -520,7 +559,7 @@ DESCRIPTION:*[Working paper] Digital technology diff
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 23:52, it is updated each night; t
+ on at 23:44, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -529,7 +568,7 @@ DESCRIPTION:*[Working paper] Digital technology diff
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=ebc2debe-en
  .
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260121T230100Z
 DTEND:20260121T231600Z
 TRANSP:TRANSPARENT
@@ -544,7 +583,7 @@ DESCRIPTION:Reminder: [Working paper] Digital techno
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/968398f7-end3e1020
+UID:10.1787/968398f7-end3e1072
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Colombia 2026
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -560,7 +599,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:52, it is updated each nig
+ ternoon at 23:44, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -569,7 +608,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=968398
  f7-en.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260128T150000Z
 DTEND:20260128T151500Z
 TRANSP:TRANSPARENT
@@ -583,7 +622,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b52e3ac0-end3e1072
+UID:10.1787/b52e3ac0-end3e1124
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Croatia 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -599,7 +638,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 23:52, it is updat
+  of this afternoon at 23:44, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -608,7 +647,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=b52e3ac0-en.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260129T230000Z
 DTEND:20260129T231500Z
 TRANSP:TRANSPARENT
@@ -622,7 +661,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/02c81dec-end3e1229
+UID:10.1787/02c81dec-end3e1281
 SUMMARY:[Stand-alone monograph] Promoting the De
  velopment of the Semiconductor Ecosystem
   in Mexico
@@ -641,7 +680,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:52, it is updated each 
+  afternoon at 23:44, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -650,7 +689,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=02c
  81dec-en.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260226T230000Z
 DTEND:20260226T231500Z
 TRANSP:TRANSPARENT
@@ -665,7 +704,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b35b5a6-end3e1281
+UID:10.1787/0b35b5a6-end3e1333
 SUMMARY:[Stand-alone monograph] Review of the Do
  minican Republic's Enabling Environment 
  for the Semiconductor and Microelectroni
@@ -686,7 +725,7 @@ DESCRIPTION:*[Stand-alone monograph] Review of the D
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:52, it is updated each nig
+ ternoon at 23:44, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -695,7 +734,7 @@ DESCRIPTION:*[Stand-alone monograph] Review of the D
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=0b35b5
  a6-en.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260301T230000Z
 DTEND:20260301T231500Z
 TRANSP:TRANSPARENT
@@ -711,7 +750,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Review
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/32a3acd7-end3e1385
+UID:10.1787/32a3acd7-end3e1437
 SUMMARY:[Stand-alone monograph] Financial Protec
  tion Against Catastrophic Risks - Floods
  , Fires and Other Major Risks
@@ -730,7 +769,7 @@ DESCRIPTION:*[Stand-alone monograph] Financial Prote
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:52, it is
+ ect as of this afternoon at 23:44, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -739,7 +778,7 @@ DESCRIPTION:*[Stand-alone monograph] Financial Prote
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=32a3acd7-en.
-DTSTAMP:20260114T235248Z
+DTSTAMP:20260115T234429Z
 DTSTART:20260305T060000Z
 DTEND:20260305T061500Z
 TRANSP:TRANSPARENT

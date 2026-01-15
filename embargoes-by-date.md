@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 14 January 2026 at 23:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 15 January 2026 at 23:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [16 January 2026](#16-january-2026)
 * [19 January 2026](#19-january-2026)
@@ -72,6 +72,29 @@ Monday 19 January 2026 at 8:00 | no launch event
 
 # 20 January 2026
 
+## [OECD Development Co‑operation Peer Reviews: Australia 2025](https://doi.org/10.1787/c58230a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 20 January 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [From Fakes to Forced Labour - Evidence of Correlation Between Illicit Trade in Counterfeits and Labour Exploitation](https://doi.org/10.1787/540dc43e-en)
 
 Embargo date | Launch date
@@ -95,29 +118,6 @@ Tuesday 20 January 2026 at 10:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Australia 2026](https://doi.org/10.1787/d22a1efd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 January 2026 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
 ------
 
 # 21 January 2026
@@ -126,7 +126,7 @@ Tuesday 20 January 2026 at 23:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 21 January 2026 at 7:30 | no launch event
+Wednesday 21 January 2026 at 7:00 | no launch event
 
 ### Status Information
 
@@ -280,6 +280,29 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Australia 2026](https://doi.org/10.1787/d22a1efd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 January 2026 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
