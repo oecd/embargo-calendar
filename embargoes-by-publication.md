@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 15 January 2026 at 23:44* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 16 January 2026 at 23:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Denmark 2026](https://doi.org/10.1787/3d6cb4b8-en)
 
@@ -311,7 +311,7 @@ Wednesday 28 January 2026 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -344,6 +344,29 @@ Thursday 29 January 2026 at 23:00 | no launch event
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Bulgaria 2026](https://doi.org/10.1787/08af497f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 February 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 

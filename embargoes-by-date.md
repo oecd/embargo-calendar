@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 15 January 2026 at 23:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 16 January 2026 at 23:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [16 January 2026](#16-january-2026)
 * [19 January 2026](#19-january-2026)
@@ -10,6 +10,7 @@ Data generated on | |
 * [21 January 2026](#21-january-2026)
 * [28 January 2026](#28-january-2026)
 * [29 January 2026](#29-january-2026)
+* [5 February 2026](#5-february-2026)
 * [26 February 2026](#26-february-2026)
 * [1 March 2026](#1-march-2026)
 * [5 March 2026](#5-march-2026)
@@ -341,7 +342,7 @@ Wednesday 28 January 2026 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -378,6 +379,33 @@ Thursday 29 January 2026 at 23:00 | no launch event
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 5 February 2026
+
+## [OECD Economic Surveys: Bulgaria 2026](https://doi.org/10.1787/08af497f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 February 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
