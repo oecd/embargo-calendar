@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 16 January 2026 at 23:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 18 January 2026 at 23:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 January 2026](#16-january-2026)
 * [19 January 2026](#19-january-2026)
 * [20 January 2026](#20-january-2026)
 * [21 January 2026](#21-january-2026)
@@ -14,33 +13,6 @@ Data generated on | |
 * [26 February 2026](#26-february-2026)
 * [1 March 2026](#1-march-2026)
 * [5 March 2026](#5-march-2026)
-
-------
-
-# 16 January 2026
-
-## [OECD Economic Surveys: Denmark 2026](https://doi.org/10.1787/3d6cb4b8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 16 January 2026 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 

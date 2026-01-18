@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 16 January 2026 at 23:41* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Denmark 2026](https://doi.org/10.1787/3d6cb4b8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 16 January 2026 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Sunday 18 January 2026 at 23:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Digital Education Outlook 2026 - Exploring Effective Uses of Generative AI in Education](https://doi.org/10.1787/062a7394-en)
 
