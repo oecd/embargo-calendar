@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 18 January 2026 at 23:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 19 January 2026 at 23:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 January 2026](#19-january-2026)
 * [20 January 2026](#20-january-2026)
@@ -53,7 +53,7 @@ Tuesday 20 January 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -62,9 +62,9 @@ Tuesday 20 January 2026 at 9:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -88,6 +88,29 @@ Tuesday 20 January 2026 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [Labour exploitation and illicit trade - How counterfeit goods fuel forced labour](https://doi.org/10.1787/c55a3f66-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 20 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -126,7 +149,7 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -135,7 +158,7 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -149,7 +172,7 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -158,7 +181,7 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -172,7 +195,7 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -181,7 +204,7 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -195,7 +218,7 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -204,7 +227,7 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -218,7 +241,7 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -227,7 +250,7 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -241,7 +264,7 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -250,7 +273,7 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -260,7 +283,7 @@ Wednesday 21 January 2026 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 21 January 2026 at 15:00 | no launch event
+Wednesday 21 January 2026 at 13:00 | no launch event
 
 ### Status Information
 
@@ -275,7 +298,7 @@ Wednesday 21 January 2026 at 15:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -323,7 +346,7 @@ Wednesday 28 January 2026 at 15:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -377,7 +400,7 @@ Thursday 5 February 2026 at 8:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
