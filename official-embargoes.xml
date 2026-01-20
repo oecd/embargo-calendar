@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-01-19T23:41:21.6558783+01:00">
+<report name="official-embargoes" generated="2026-01-20T23:37:37.1529874+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -486,28 +486,8 @@
     <cell name="title">Business Licensing Reforms in Romania (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-01-21</cell>
-    <cell name="embargo date">2026-01-21T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d24511c</cell>
-  </row>
-  <row index="25">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/be4f13bb-en</cell>
-    <cell name="title">Business Licensing Reforms in Romania (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-01-21</cell>
     <cell name="embargo date">2026-01-21T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -520,7 +500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1031e308</cell>
   </row>
-  <row index="26">
+  <row index="25">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cb886cba-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Palau 2026 (Second Round, Phase 1) (en)</cell>
@@ -540,7 +520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19dee255</cell>
   </row>
-  <row index="27">
+  <row index="26">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/85ed0f04-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Seychelles 2026 (Second Round, In-depth Review) (en)</cell>
@@ -560,7 +540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20cbc8de</cell>
   </row>
-  <row index="28">
+  <row index="27">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8d903677-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2026 (Second Round, In-depth Review) (en)</cell>
@@ -580,7 +560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23872202</cell>
   </row>
-  <row index="29">
+  <row index="28">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4cfacc95-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Benin 2026 (Second Round, Phase 1) (en)</cell>
@@ -600,7 +580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/decd8e2b</cell>
   </row>
-  <row index="30">
+  <row index="29">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/53e99a1f-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Bénin 2026 (Deuxième cycle, Phase 1) (fr)</cell>
@@ -620,7 +600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2c39a9a</cell>
   </row>
-  <row index="31">
+  <row index="30">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2bbd378b-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Cabo Verde 2026 (Second Round, Phase 1) (en)</cell>
@@ -640,14 +620,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/58d2d632</cell>
   </row>
-  <row index="32">
+  <row index="31">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d22a1efd-en</cell>
     <cell name="title">OECD Economic Surveys: Australia 2026 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-01-21</cell>
     <cell name="embargo date">2026-01-21T13:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -657,10 +637,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7b7a8cc</cell>
   </row>
-  <row index="33">
+  <row index="32">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/ebc2debe-en</cell>
     <cell name="title">Digital technology diffusion in the age of AI (en)</cell>
@@ -679,6 +659,26 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06abf130</cell>
+  </row>
+  <row index="33">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/1eaf265d-en</cell>
+    <cell name="title">Artificial intelligence and local debt (en)</cell>
+    <cell name="subtitle">Evidence from five OECD bond markets (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-01-26</cell>
+    <cell name="embargo date">2026-01-26T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cf43be46</cell>
   </row>
   <row index="34">
     <cell name="directorate">Environment Directorate</cell>
@@ -881,6 +881,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c5ba8bc6</cell>
   </row>
   <row index="44">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/cb41117a-en</cell>
+    <cell name="title">Exploring possible AI trajectories through 2030 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-02-03</cell>
+    <cell name="embargo date">2026-02-03T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/746c52e8</cell>
+  </row>
+  <row index="45">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/08af497f-en</cell>
     <cell name="title">OECD Economic Surveys: Bulgaria 2026 (en)</cell>
@@ -900,7 +920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f59448f1</cell>
   </row>
-  <row index="45">
+  <row index="46">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/08af497f-en</cell>
     <cell name="title">OECD Economic Surveys: Bulgaria 2026 (en)</cell>
@@ -920,7 +940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/571605a0</cell>
   </row>
-  <row index="46">
+  <row index="47">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/02c81dec-en</cell>
     <cell name="title">Promoting the Development of the Semiconductor Ecosystem in Mexico (en)</cell>
@@ -940,7 +960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac9263fa</cell>
   </row>
-  <row index="47">
+  <row index="48">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/02c81dec-en</cell>
     <cell name="title">Promoting the Development of the Semiconductor Ecosystem in Mexico (en)</cell>
@@ -960,7 +980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3583fb49</cell>
   </row>
-  <row index="48">
+  <row index="49">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0b35b5a6-en</cell>
     <cell name="title">Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries (en)</cell>
@@ -980,7 +1000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a5b1033</cell>
   </row>
-  <row index="49">
+  <row index="50">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0b35b5a6-en</cell>
     <cell name="title">Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries (en)</cell>
@@ -1000,7 +1020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0f999cc</cell>
   </row>
-  <row index="50">
+  <row index="51">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32a3acd7-en</cell>
     <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
@@ -1020,7 +1040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d8e5427</cell>
   </row>
-  <row index="51">
+  <row index="52">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32a3acd7-en</cell>
     <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>

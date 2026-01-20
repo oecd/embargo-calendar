@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 19 January 2026 at 23:41* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 20 January 2026 at 23:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Digital Education Outlook 2026 - Exploring Effective Uses of Generative AI in Education](https://doi.org/10.1787/062a7394-en)
 
@@ -113,9 +113,9 @@ Wednesday 21 January 2026 at 7:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -265,7 +265,7 @@ Wednesday 21 January 2026 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -274,7 +274,7 @@ Wednesday 21 January 2026 at 13:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -298,6 +298,29 @@ Wednesday 21 January 2026 at 23:01 | no launch event
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Artificial intelligence and local debt - Evidence from five OECD bond markets](https://doi.org/10.1787/1eaf265d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 January 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
@@ -346,6 +369,29 @@ Thursday 29 January 2026 at 23:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Exploring possible AI trajectories through 2030](https://doi.org/10.1787/cb41117a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 February 2026 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
