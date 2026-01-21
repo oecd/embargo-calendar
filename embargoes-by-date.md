@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 20 January 2026 at 23:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 21 January 2026 at 23:29* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 January 2026](#19-january-2026)
 * [20 January 2026](#20-january-2026)
 * [21 January 2026](#21-january-2026)
 * [26 January 2026](#26-january-2026)
@@ -15,33 +14,6 @@ Data generated on | |
 * [26 February 2026](#26-february-2026)
 * [1 March 2026](#1-march-2026)
 * [5 March 2026](#5-march-2026)
-
-------
-
-# 19 January 2026
-
-## [OECD Digital Education Outlook 2026 - Exploring Effective Uses of Generative AI in Education](https://doi.org/10.1787/062a7394-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 January 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -312,7 +284,7 @@ Wednesday 21 January 2026 at 23:01 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -321,7 +293,7 @@ Wednesday 21 January 2026 at 23:01 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
