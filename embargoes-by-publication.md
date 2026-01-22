@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 21 January 2026 at 23:29* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Development Co‑operation Peer Reviews: Australia 2025](https://doi.org/10.1787/c58230a4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 January 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [From Fakes to Forced Labour - Evidence of Correlation Between Illicit Trade in Counterfeits and Labour Exploitation](https://doi.org/10.1787/540dc43e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 January 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Labour exploitation and illicit trade - How counterfeit goods fuel forced labour](https://doi.org/10.1787/c55a3f66-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 January 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
+| *Thursday 22 January 2026 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Business Licensing Reforms in Romania](https://doi.org/10.1787/be4f13bb-en)
 
