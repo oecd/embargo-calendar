@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 23 January 2026 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 25 January 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 January 2026](#21-january-2026)
 * [26 January 2026](#26-january-2026)
 * [28 January 2026](#28-january-2026)
 * [30 January 2026](#30-january-2026)
@@ -15,33 +14,6 @@ Data generated on | |
 * [26 February 2026](#26-february-2026)
 * [1 March 2026](#1-march-2026)
 * [5 March 2026](#5-march-2026)
-
-------
-
-# 21 January 2026
-
-## [Digital technology diffusion in the age of AI - Cross-country evidence from microdata](https://doi.org/10.1787/ebc2debe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 21 January 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
