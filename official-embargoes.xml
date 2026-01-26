@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-01-25T23:11:32.3993055+01:00">
+<report name="official-embargoes" generated="2026-01-26T23:20:04.9214157+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -227,7 +227,7 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-01-30</cell>
     <cell name="embargo date">2026-01-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -237,7 +237,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81e8d164</cell>
   </row>
   <row index="12">
@@ -601,6 +601,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0202ff91</cell>
   </row>
   <row index="30">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/8a7c0ac4-en</cell>
+    <cell name="title">OECD Economic Surveys: Mexico 2026 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-02-26</cell>
+    <cell name="embargo date">2026-02-26T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88d6b321</cell>
+  </row>
+  <row index="31">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/02c81dec-en</cell>
     <cell name="title">Promoting the Development of the Semiconductor Ecosystem in Mexico (en)</cell>
@@ -620,7 +640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac9263fa</cell>
   </row>
-  <row index="31">
+  <row index="32">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/02c81dec-en</cell>
     <cell name="title">Promoting the Development of the Semiconductor Ecosystem in Mexico (en)</cell>
@@ -640,7 +660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3583fb49</cell>
   </row>
-  <row index="32">
+  <row index="33">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0b35b5a6-en</cell>
     <cell name="title">Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries (en)</cell>
@@ -660,7 +680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a5b1033</cell>
   </row>
-  <row index="33">
+  <row index="34">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0b35b5a6-en</cell>
     <cell name="title">Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries (en)</cell>
@@ -680,7 +700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0f999cc</cell>
   </row>
-  <row index="34">
+  <row index="35">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32a3acd7-en</cell>
     <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
@@ -700,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d8e5427</cell>
   </row>
-  <row index="35">
+  <row index="36">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32a3acd7-en</cell>
     <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>

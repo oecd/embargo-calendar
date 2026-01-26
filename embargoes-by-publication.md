@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 25 January 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 26 January 2026 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Artificial intelligence and local debt - Evidence from five OECD bond markets](https://doi.org/10.1787/1eaf265d-en)
 
@@ -58,7 +58,7 @@ Friday 30 January 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -67,7 +67,7 @@ Friday 30 January 2026 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -161,6 +161,29 @@ Monday 23 February 2026 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Mexico 2026](https://doi.org/10.1787/8a7c0ac4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 February 2026 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
