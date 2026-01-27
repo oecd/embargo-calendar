@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 26 January 2026 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 27 January 2026 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [26 January 2026](#26-january-2026)
 * [28 January 2026](#28-january-2026)
@@ -10,6 +10,7 @@ Data generated on | |
 * [3 February 2026](#3-february-2026)
 * [4 February 2026](#4-february-2026)
 * [5 February 2026](#5-february-2026)
+* [11 February 2026](#11-february-2026)
 * [23 February 2026](#23-february-2026)
 * [26 February 2026](#26-february-2026)
 * [1 March 2026](#1-march-2026)
@@ -50,7 +51,7 @@ Monday 26 January 2026 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 28 January 2026 at 15:00 | no launch event
+Wednesday 28 January 2026 at 20:00 | no launch event
 
 ### Status Information
 
@@ -65,7 +66,7 @@ Wednesday 28 January 2026 at 15:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -172,6 +173,33 @@ Thursday 5 February 2026 at 8:00 | no launch event
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 11 February 2026
+
+## [OECD Economic Surveys: Philippines 2026](https://doi.org/10.1787/f0e0c581-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 11 February 2026 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
