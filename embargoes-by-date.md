@@ -2,11 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 27 January 2026 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 28 January 2026 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [26 January 2026](#26-january-2026)
 * [28 January 2026](#28-january-2026)
 * [30 January 2026](#30-january-2026)
+* [2 February 2026](#2-february-2026)
 * [3 February 2026](#3-february-2026)
 * [4 February 2026](#4-february-2026)
 * [5 February 2026](#5-february-2026)
@@ -15,33 +15,6 @@ Data generated on | |
 * [26 February 2026](#26-february-2026)
 * [1 March 2026](#1-march-2026)
 * [5 March 2026](#5-march-2026)
-
-------
-
-# 26 January 2026
-
-## [Artificial intelligence and local debt - Evidence from five OECD bond markets](https://doi.org/10.1787/1eaf265d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 January 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -94,6 +67,33 @@ Friday 30 January 2026 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 2 February 2026
+
+## [Manual on Effective Mutual Agreement Procedures (2026 Edition) - Inclusive Framework on BEPS](https://doi.org/10.1787/076ac4bd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 February 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
