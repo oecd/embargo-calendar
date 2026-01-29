@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 28 January 2026 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 29 January 2026 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 January 2026](#28-january-2026)
 * [30 January 2026](#30-january-2026)
@@ -14,6 +14,7 @@ Data generated on | |
 * [23 February 2026](#23-february-2026)
 * [26 February 2026](#26-february-2026)
 * [1 March 2026](#1-march-2026)
+* [2 March 2026](#2-march-2026)
 * [5 March 2026](#5-march-2026)
 
 ------
@@ -199,7 +200,7 @@ Wednesday 11 February 2026 at 23:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -311,6 +312,33 @@ Sunday 1 March 2026 at 23:00 | no launch event
 
 ------
 
+# 2 March 2026
+
+## [Consumer Finance Risk Monitor 2026](https://doi.org/10.1787/61f7dbe0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 March 2026 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
 # 5 March 2026
 
 ## [Financial Protection Against Catastrophic Risks - Floods, Fires and Other Major Risks](https://doi.org/10.1787/32a3acd7-en)
@@ -333,5 +361,28 @@ Thursday 5 March 2026 at 6:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Stronger Financial Markets and Institutions for Ukraine’s Recovery](https://doi.org/10.1787/0c41c8ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 March 2026 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------

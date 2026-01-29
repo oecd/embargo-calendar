@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-01-28T23:18:19.5490153+01:00">
+<report name="official-embargoes" generated="2026-01-29T23:12:39.6892141+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -707,7 +707,7 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2026-02-12</cell>
     <cell name="embargo date">2026-02-11T23:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -862,6 +862,26 @@
   </row>
   <row index="43">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/61f7dbe0-en</cell>
+    <cell name="title">Consumer Finance Risk Monitor 2026 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-03-02</cell>
+    <cell name="embargo date">2026-03-02T13:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1731fa9c</cell>
+  </row>
+  <row index="44">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32a3acd7-en</cell>
     <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
     <cell name="subtitle">Floods, Fires and Other Major Risks (en)</cell>
@@ -880,7 +900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d8e5427</cell>
   </row>
-  <row index="44">
+  <row index="45">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32a3acd7-en</cell>
     <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
@@ -899,5 +919,25 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43e8d765</cell>
+  </row>
+  <row index="46">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/0c41c8ac-en</cell>
+    <cell name="title">Stronger Financial Markets and Institutions for Ukraine’s Recovery (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-03-05</cell>
+    <cell name="embargo date">2026-03-05T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57e15805</cell>
   </row>
 </report>
