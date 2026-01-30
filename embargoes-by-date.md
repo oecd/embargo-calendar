@@ -2,13 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 29 January 2026 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 30 January 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 January 2026](#28-january-2026)
 * [30 January 2026](#30-january-2026)
 * [2 February 2026](#2-february-2026)
 * [3 February 2026](#3-february-2026)
-* [4 February 2026](#4-february-2026)
 * [5 February 2026](#5-february-2026)
 * [11 February 2026](#11-february-2026)
 * [23 February 2026](#23-february-2026)
@@ -16,33 +14,6 @@ Data generated on | |
 * [1 March 2026](#1-march-2026)
 * [2 March 2026](#2-march-2026)
 * [5 March 2026](#5-march-2026)
-
-------
-
-# 28 January 2026
-
-## [OECD Environmental Performance Reviews: Colombia 2026](https://doi.org/10.1787/968398f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 January 2026 at 20:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -75,6 +46,29 @@ Friday 30 January 2026 at 9:00 | no launch event
 
 # 2 February 2026
 
+## [Delivering High Value Cancer Care - European Cancer Inequalities Registry Analytical Report](https://doi.org/10.1787/060869fe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 February 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ## [Manual on Effective Mutual Agreement Procedures (2026 Edition) - Inclusive Framework on BEPS](https://doi.org/10.1787/076ac4bd-en)
 
 Embargo date | Launch date
@@ -83,7 +77,7 @@ Monday 2 February 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -92,7 +86,7 @@ Monday 2 February 2026 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -127,40 +121,13 @@ Tuesday 3 February 2026 at 5:00 | no launch event
 
 ------
 
-# 4 February 2026
-
-## [Delivering High Value Cancer Care - European Cancer Inequalities Registry Analytical Report](https://doi.org/10.1787/060869fe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 February 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-------
-
 # 5 February 2026
 
 ## [OECD Economic Surveys: Bulgaria 2026](https://doi.org/10.1787/08af497f-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 5 February 2026 at 8:00 | no launch event
+Thursday 5 February 2026 at 15:00 | no launch event
 
 ### Status Information
 
@@ -227,7 +194,7 @@ Monday 23 February 2026 at 23:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
