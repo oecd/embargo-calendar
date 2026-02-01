@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 30 January 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 1 February 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 January 2026](#30-january-2026)
 * [2 February 2026](#2-february-2026)
 * [3 February 2026](#3-february-2026)
 * [5 February 2026](#5-february-2026)
@@ -14,33 +13,6 @@ Data generated on | |
 * [1 March 2026](#1-march-2026)
 * [2 March 2026](#2-march-2026)
 * [5 March 2026](#5-march-2026)
-
-------
-
-# 30 January 2026
-
-## [OECD Economic Surveys: Croatia 2026](https://doi.org/10.1787/b52e3ac0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 January 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
