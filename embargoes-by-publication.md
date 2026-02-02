@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 1 February 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 2 February 2026 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Delivering High Value Cancer Care - European Cancer Inequalities Registry Analytical Report](https://doi.org/10.1787/060869fe-en)
 
@@ -54,7 +54,7 @@ Monday 2 February 2026 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 3 February 2026 at 5:00 | no launch event
+Thursday 5 February 2026 at 5:00 | no launch event
 
 ### Status Information
 
@@ -67,7 +67,7 @@ Tuesday 3 February 2026 at 5:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
@@ -81,7 +81,7 @@ Thursday 5 February 2026 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -90,7 +90,7 @@ Thursday 5 February 2026 at 15:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 

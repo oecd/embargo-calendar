@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-02-01T23:11:04.2717658+01:00">
+<report name="official-embargoes" generated="2026-02-02T23:23:35.4813407+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -327,9 +327,9 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-02-03</cell>
-    <cell name="embargo date">2026-02-03T05:00:00Z</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2026-02-05</cell>
+    <cell name="embargo date">2026-02-05T05:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -367,7 +367,7 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-02-05</cell>
     <cell name="embargo date">2026-02-05T15:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -377,7 +377,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/571605a0</cell>
   </row>
   <row index="19">
