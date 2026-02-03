@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 2 February 2026 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 3 February 2026 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 February 2026](#2-february-2026)
 * [5 February 2026](#5-february-2026)
@@ -66,29 +66,6 @@ Monday 2 February 2026 at 10:00 | no launch event
 ------
 
 # 5 February 2026
-
-## [Exploring possible AI trajectories through 2030](https://doi.org/10.1787/cb41117a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 February 2026 at 5:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ## [OECD Economic Surveys: Bulgaria 2026](https://doi.org/10.1787/08af497f-en)
 
