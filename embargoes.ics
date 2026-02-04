@@ -2,94 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/060869fe-end3e169
-SUMMARY:[Stand-alone monograph] Delivering High 
- Value Cancer Care - European Cancer Ineq
- ualities Registry Analytical Report
-DESCRIPTION:*[Stand-alone monograph] Delivering High
-  Value Cancer Care - European Cancer Ine
- qualities Registry Analytical Report*\n\
- nDirectorate: Directorate for Employment
- , Labour and Social Affairs\nLanguage: E
- nglish\nDOI: https://doi.org/10.1787/060
- 869fe-en\nPublication type: Stand-alone 
- monograph\nReleased as: HTML, Paperback,
-  PDF, ZJCR, ZXML\n\nEmbargo date/time: M
- onday, 2 February 2026, 8:00 (GMT)\n\n\n
- iLibrary export: never\nFreepreview expo
- rt: never\nOECD.org export: never\nFTI l
- oaded: ✓\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 23:16, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =060869fe-en.
-DTSTAMP:20260203T231616Z
-DTSTART:20260202T080000Z
-DTEND:20260202T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Delive
- ring High Value Cancer Care - European C
- ancer Inequalities Registry Analytical R
- eport
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/076ac4bd-end3e811
-SUMMARY:[Report] Manual on Effective Mutual Agre
- ement Procedures (2026 Edition) - Inclus
- ive Framework on BEPS
-DESCRIPTION:*[Report] Manual on Effective Mutual Agr
- eement Procedures (2026 Edition) - Inclu
- sive Framework on BEPS*\n\nDirectorate: 
- Centre for Tax Policy and Administration
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/076ac4bd-en\nPublication type:
-  Report\nReleased as: PDF\n\nEmbargo dat
- e/time: Monday, 2 February 2026, 10:00 (
- GMT)\n\n\niLibrary export: never\nFreepr
- eview export: never\nOECD.org export: ne
- ver\nFTI loaded: ✓\n\nFor more informati
- on see: https://oecd.github.io/embargo-c
- alendar/embargoes-by-publication.html.\n
- \nPlease note: This information was corr
- ect as of this afternoon at 23:16, it is
-  updated each night; therefore any subse
- quent updates may not yet be visible her
- e. Also, please be aware that the differ
- ent released media (PDF, HTML, etc.) are
-  not necessarily released at the same ti
- me. For complete and up-to-date informat
- ion see here: http://kappa.oecd.org/v3/s
- earch?term=076ac4bd-en.
-DTSTAMP:20260203T231616Z
-DTSTART:20260202T100000Z
-DTEND:20260202T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Report] Manual on Effective M
- utual Agreement Procedures (2026 Edition
- ) - Inclusive Framework on BEPS
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/08af497f-end3e918
+UID:10.1787/08af497f-end3e115
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Bulgaria 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -98,14 +11,14 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ttps://doi.org/10.1787/08af497f-en\nPubl
  ication type: Economic survey\nReleased 
  as: Paperback, PDF\n\nEmbargo date/time:
-  Thursday, 5 February 2026, 15:00 (GMT)\
+  Thursday, 5 February 2026, 14:00 (GMT)\
  n\n\niLibrary export: never\nFreepreview
   export: never\nOECD.org export: never\n
  FTI loaded: ✓\n\nFor more information se
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:16, it is upda
+ s of this afternoon at 23:12, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -114,9 +27,9 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=08af497f-en.
-DTSTAMP:20260203T231616Z
-DTSTART:20260205T150000Z
-DTEND:20260205T151500Z
+DTSTAMP:20260204T231210Z
+DTSTART:20260205T140000Z
+DTEND:20260205T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
@@ -128,7 +41,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f0e0c581-end3e971
+UID:10.1787/f0e0c581-end3e168
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Philippines 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -137,25 +50,25 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  : https://doi.org/10.1787/f0e0c581-en\nP
  ublication type: Economic survey\nReleas
  ed as: Paperback, PDF\n\nEmbargo date/ti
- me: Wednesday, 11 February 2026, 23:00 (
- GMT)\n\n\niLibrary export: never\nFreepr
- eview export: never\nOECD.org export: ne
- ver\nFTI loaded: ✗\n\nFor more informati
- on see: https://oecd.github.io/embargo-c
- alendar/embargoes-by-publication.html.\n
- \nPlease note: This information was corr
- ect as of this afternoon at 23:16, it is
-  updated each night; therefore any subse
- quent updates may not yet be visible her
- e. Also, please be aware that the differ
- ent released media (PDF, HTML, etc.) are
-  not necessarily released at the same ti
- me. For complete and up-to-date informat
- ion see here: http://kappa.oecd.org/v3/s
- earch?term=f0e0c581-en.
-DTSTAMP:20260203T231616Z
-DTSTART:20260211T230000Z
-DTEND:20260211T231500Z
+ me: Thursday, 12 February 2026, 2:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 23:12, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=f0e0c581-en.
+DTSTAMP:20260204T231210Z
+DTSTART:20260212T020000Z
+DTEND:20260212T021500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
@@ -167,7 +80,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7d430d1b-end3e1075
+UID:10.1787/7d430d1b-end3e273
 SUMMARY:[Book] Education and Skills in Peru
 DESCRIPTION:*[Book] Education and Skills in Peru*\n\
  nDirectorate: Directorate for Education 
@@ -182,7 +95,7 @@ DESCRIPTION:*[Book] Education and Skills in Peru*\n\
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 23:
- 16, it is updated each night; therefore 
+ 12, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -190,7 +103,7 @@ DESCRIPTION:*[Book] Education and Skills in Peru*\n\
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=7d430d1b-en.
-DTSTAMP:20260203T231616Z
+DTSTAMP:20260204T231210Z
 DTSTART:20260223T230000Z
 DTEND:20260223T231500Z
 TRANSP:TRANSPARENT
@@ -204,7 +117,49 @@ DESCRIPTION:Reminder: [Book] Education and Skills in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8a7c0ac4-end3e1127
+UID:10.1787/db87d74e-end3e378
+SUMMARY:[Stand-alone monograph] OECD Services Tr
+ ade Restrictiveness Index 2026 - Policy 
+ Trends
+DESCRIPTION:*[Stand-alone monograph] OECD Services T
+ rade Restrictiveness Index 2026 - Policy
+  Trends*\n\nDirectorate: Trade and Agric
+ ulture Directorate\nLanguage: English\nD
+ OI: https://doi.org/10.1787/db87d74e-en\
+ nPublication type: Stand-alone monograph
+ \nReleased as: Paperback, PDF\n\nEmbargo
+  date/time: Tuesday, 24 February 2026, 1
+ 0:00 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✗\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:12,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=db87d74e-en.
+DTSTAMP:20260204T231210Z
+DTSTART:20260224T100000Z
+DTEND:20260224T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] OECD S
+ ervices Trade Restrictiveness Index 2026
+  - Policy Trends
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8a7c0ac4-end3e431
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Mexico 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -220,7 +175,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:16, it is updated each nig
+ ternoon at 23:12, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -229,7 +184,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=8a7c0a
  c4-en.
-DTSTAMP:20260203T231616Z
+DTSTAMP:20260204T231210Z
 DTSTART:20260226T130000Z
 DTEND:20260226T131500Z
 TRANSP:TRANSPARENT
@@ -243,7 +198,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/02c81dec-end3e1232
+UID:10.1787/02c81dec-end3e535
 SUMMARY:[Stand-alone monograph] Promoting the De
  velopment of the Semiconductor Ecosystem
   in Mexico
@@ -262,7 +217,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:16, it is updated each 
+  afternoon at 23:12, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -271,7 +226,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=02c
  81dec-en.
-DTSTAMP:20260203T231616Z
+DTSTAMP:20260204T231210Z
 DTSTART:20260226T230000Z
 DTEND:20260226T231500Z
 TRANSP:TRANSPARENT
@@ -286,7 +241,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b35b5a6-end3e1284
+UID:10.1787/0b35b5a6-end3e588
 SUMMARY:[Stand-alone monograph] Review of the Do
  minican Republic's Enabling Environment 
  for the Semiconductor and Microelectroni
@@ -307,7 +262,7 @@ DESCRIPTION:*[Stand-alone monograph] Review of the D
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:16, it is updated each nig
+ ternoon at 23:12, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -316,7 +271,7 @@ DESCRIPTION:*[Stand-alone monograph] Review of the D
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=0b35b5
  a6-en.
-DTSTAMP:20260203T231616Z
+DTSTAMP:20260204T231210Z
 DTSTART:20260301T230000Z
 DTEND:20260301T231500Z
 TRANSP:TRANSPARENT
@@ -332,7 +287,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Review
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/61f7dbe0-end3e1388
+UID:10.1787/61f7dbe0-end3e692
 SUMMARY:[Stand-alone monograph] Consumer Finance
   Risk Monitor 2026
 DESCRIPTION:*[Stand-alone monograph] Consumer Financ
@@ -349,7 +304,7 @@ DESCRIPTION:*[Stand-alone monograph] Consumer Financ
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 23:16, it is updated each night; th
+ n at 23:12, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -357,7 +312,7 @@ DESCRIPTION:*[Stand-alone monograph] Consumer Financ
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=61f7dbe0-en.
-DTSTAMP:20260203T231616Z
+DTSTAMP:20260204T231210Z
 DTSTART:20260302T133000Z
 DTEND:20260302T134500Z
 TRANSP:TRANSPARENT
@@ -371,7 +326,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Consum
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/32a3acd7-end3e1440
+UID:10.1787/32a3acd7-end3e744
 SUMMARY:[Stand-alone monograph] Financial Protec
  tion Against Catastrophic Risks - Floods
  , Fires and Other Major Risks
@@ -390,7 +345,7 @@ DESCRIPTION:*[Stand-alone monograph] Financial Prote
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:16, it is
+ ect as of this afternoon at 23:12, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -399,7 +354,7 @@ DESCRIPTION:*[Stand-alone monograph] Financial Prote
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=32a3acd7-en.
-DTSTAMP:20260203T231616Z
+DTSTAMP:20260204T231210Z
 DTSTART:20260305T060000Z
 DTEND:20260305T061500Z
 TRANSP:TRANSPARENT
@@ -414,7 +369,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Financ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0c41c8ac-end3e1547
+UID:10.1787/0c41c8ac-end3e850
 SUMMARY:[Stand-alone monograph] Stronger Financi
  al Markets and Institutions for Ukraine’
  s Recovery
@@ -433,7 +388,7 @@ DESCRIPTION:*[Stand-alone monograph] Stronger Financ
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 3:16, it is updated each night; therefor
+ 3:12, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -441,7 +396,7 @@ DESCRIPTION:*[Stand-alone monograph] Stronger Financ
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=0c41c8ac-en.
-DTSTAMP:20260203T231616Z
+DTSTAMP:20260204T231210Z
 DTSTART:20260305T150000Z
 DTEND:20260305T151500Z
 TRANSP:TRANSPARENT
