@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 5 February 2026 at 23:22* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 6 February 2026 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Bulgaria 2026](https://doi.org/10.1787/08af497f-en)
 
@@ -35,7 +35,7 @@ Thursday 12 February 2026 at 2:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -44,9 +44,216 @@ Thursday 12 February 2026 at 2:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Bullying in education - Prevalence, impact and responses across countries](https://doi.org/10.1787/d9f8bd9f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 February 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [The agentic AI landscape and its conceptual foundations](https://doi.org/10.1787/396cf758-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 February 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Digital Government Index and Open, Useful and Re-usable Data Index - 2025 Results and Key Findings](https://doi.org/10.1787/6347ec74-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 15 February 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Venture capital investments in artificial intelligence through 2025](https://doi.org/10.1787/a13752f5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 15 February 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
+## [Supporting financial access and inclusion through quality financial products](https://doi.org/10.1787/8bef2589-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 February 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Area-based initiatives to transform neighbourhoods - An international policy mapping](https://doi.org/10.1787/d85ef103-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 February 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [State ownership and sustainability in Indonesia](https://doi.org/10.1787/130a7188-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 18 February 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [OECD Due Diligence Guidance for Responsible AI](https://doi.org/10.1787/41671712-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 February 2026 at 0:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Corridors, trade and local development in Africa - An agenda for action](https://doi.org/10.1787/660aa24e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 February 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy brief*
+* Format: *PDF*
 
 ------
 
@@ -90,7 +297,7 @@ Tuesday 24 February 2026 at 10:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -159,7 +366,7 @@ Sunday 1 March 2026 at 23:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -205,7 +412,7 @@ Thursday 5 March 2026 at 6:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
