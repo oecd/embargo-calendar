@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 February 2026 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Bulgaria 2026](https://doi.org/10.1787/08af497f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 February 2026 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Sunday 8 February 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Philippines 2026](https://doi.org/10.1787/f0e0c581-en)
 
