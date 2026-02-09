@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 8 February 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 9 February 2026 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Philippines 2026](https://doi.org/10.1787/f0e0c581-en)
 
@@ -27,29 +27,6 @@ Thursday 12 February 2026 at 2:00 | no launch event
 
 ------
 
-## [Bullying in education - Prevalence, impact and responses across countries](https://doi.org/10.1787/d9f8bd9f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 February 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
 ## [The agentic AI landscape and its conceptual foundations](https://doi.org/10.1787/396cf758-en)
 
 Embargo date | Launch date
@@ -68,6 +45,29 @@ Thursday 12 February 2026 at 23:01 | no launch event
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Bullying in education - Prevalence, impact and responses across countries](https://doi.org/10.1787/d9f8bd9f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 February 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 

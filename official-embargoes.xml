@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-02-08T23:14:54.1254515+01:00">
+<report name="official-embargoes" generated="2026-02-09T23:12:40.2969028+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -61,26 +61,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3fbffb00</cell>
   </row>
   <row index="3">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/d9f8bd9f-en</cell>
-    <cell name="title">Bullying in education (en)</cell>
-    <cell name="subtitle">Prevalence, impact and responses across countries (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-02-13</cell>
-    <cell name="embargo date">2026-02-12T23:01:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2bdbd773</cell>
-  </row>
-  <row index="4">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/396cf758-en</cell>
     <cell name="title">The agentic AI landscape and its conceptual foundations (en)</cell>
@@ -99,6 +79,26 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3ca810c</cell>
+  </row>
+  <row index="4">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/d9f8bd9f-en</cell>
+    <cell name="title">Bullying in education (en)</cell>
+    <cell name="subtitle">Prevalence, impact and responses across countries (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-02-13</cell>
+    <cell name="embargo date">2026-02-13T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2bdbd773</cell>
   </row>
   <row index="5">
     <cell name="directorate">Directorate for Public Governance</cell>
