@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 February 2026 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 10 February 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Philippines 2026](https://doi.org/10.1787/f0e0c581-en)
 
@@ -196,7 +196,7 @@ Thursday 19 February 2026 at 0:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -207,7 +207,7 @@ Thursday 19 February 2026 at 0:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -265,7 +265,7 @@ Tuesday 24 February 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -274,9 +274,9 @@ Tuesday 24 February 2026 at 10:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -354,6 +354,29 @@ Sunday 1 March 2026 at 23:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Monday 2 March 2026 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Global Debt Report 2026 - Sustaining Debt Market Resilience Under Pressure](https://doi.org/10.1787/e9d80efd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 March 2026 at 12:00 | no launch event
 
 ### Status Information
 

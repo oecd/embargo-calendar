@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 February 2026 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 10 February 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 February 2026](#12-february-2026)
 * [13 February 2026](#13-february-2026)
@@ -16,6 +16,7 @@ Data generated on | |
 * [26 February 2026](#26-february-2026)
 * [1 March 2026](#1-march-2026)
 * [2 March 2026](#2-march-2026)
+* [4 March 2026](#4-march-2026)
 * [5 March 2026](#5-march-2026)
 
 ------
@@ -238,7 +239,7 @@ Thursday 19 February 2026 at 0:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -249,7 +250,7 @@ Thursday 19 February 2026 at 0:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -315,7 +316,7 @@ Tuesday 24 February 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -324,9 +325,9 @@ Tuesday 24 February 2026 at 10:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -416,6 +417,33 @@ Sunday 1 March 2026 at 23:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Monday 2 March 2026 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 4 March 2026
+
+## [Global Debt Report 2026 - Sustaining Debt Market Resilience Under Pressure](https://doi.org/10.1787/e9d80efd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 March 2026 at 12:00 | no launch event
 
 ### Status Information
 
