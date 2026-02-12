@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 11 February 2026 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 12 February 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Philippines 2026](https://doi.org/10.1787/f0e0c581-en)
 
@@ -92,29 +92,6 @@ Sunday 15 February 2026 at 23:01 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Venture capital investments in artificial intelligence through 2025](https://doi.org/10.1787/a13752f5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 15 February 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy brief*
 * Format: *PDF*
 
 ------
@@ -1909,6 +1886,29 @@ Monday 16 February 2026 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Venture capital investments in artificial intelligence through 2025](https://doi.org/10.1787/a13752f5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 February 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy brief*
 * Format: *PDF*
 
 ------
