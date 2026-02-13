@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 February 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 13 February 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Philippines 2026](https://doi.org/10.1787/f0e0c581-en)
 
@@ -24,29 +24,6 @@ Thursday 12 February 2026 at 2:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
-
-------
-
-## [The agentic AI landscape and its conceptual foundations](https://doi.org/10.1787/396cf758-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 February 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
 
 ------
 
@@ -1894,7 +1871,7 @@ Monday 16 February 2026 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 16 February 2026 at 23:01 | no launch event
+Tuesday 17 February 2026 at 6:00 | no launch event
 
 ### Status Information
 
@@ -1909,29 +1886,6 @@ Monday 16 February 2026 at 23:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
-
-## [Area-based initiatives to transform neighbourhoods - An international policy mapping](https://doi.org/10.1787/d85ef103-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 February 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -1976,7 +1930,7 @@ Thursday 19 February 2026 at 0:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
@@ -2091,7 +2045,7 @@ Thursday 26 February 2026 at 23:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -2137,13 +2091,13 @@ Monday 2 March 2026 at 13:30 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
 
-## [Global Debt Report 2026 - Sustaining Debt Market Resilience Under Pressure](https://doi.org/10.1787/e9d80efd-en)
+## [Global Debt Report 2026 - Sustaining Debt Market Resilience Under Growing Pressure](https://doi.org/10.1787/e9d80efd-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -2160,7 +2114,7 @@ Wednesday 4 March 2026 at 12:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -2206,8 +2160,31 @@ Thursday 5 March 2026 at 15:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Promoting public-private collaboration through the SDGs in Paraná, Brazil](https://doi.org/10.1787/b14a601c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
