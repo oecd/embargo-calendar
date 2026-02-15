@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 February 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 15 February 2026 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 February 2026](#12-february-2026)
-* [13 February 2026](#13-february-2026)
 * [15 February 2026](#15-february-2026)
 * [16 February 2026](#16-february-2026)
 * [17 February 2026](#17-february-2026)
@@ -19,60 +17,6 @@ Data generated on | |
 * [4 March 2026](#4-march-2026)
 * [5 March 2026](#5-march-2026)
 * [9 March 2026](#9-march-2026)
-
-------
-
-# 12 February 2026
-
-## [OECD Economic Surveys: Philippines 2026](https://doi.org/10.1787/f0e0c581-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 February 2026 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 13 February 2026
-
-## [Bullying in education - Prevalence, impact and responses across countries](https://doi.org/10.1787/d9f8bd9f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 February 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 

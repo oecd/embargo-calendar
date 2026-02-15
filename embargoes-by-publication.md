@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 February 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Philippines 2026](https://doi.org/10.1787/f0e0c581-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 February 2026 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Bullying in education - Prevalence, impact and responses across countries](https://doi.org/10.1787/d9f8bd9f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 February 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Sunday 15 February 2026 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Digital Government Index and Open, Useful and Re-usable Data Index - 2025 Results and Key Findings](https://doi.org/10.1787/6347ec74-en)
 
