@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 16 February 2026 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 17 February 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Bulgaria](https://doi.org/10.1787/28e55f55-en)
 
@@ -1815,7 +1815,7 @@ Tuesday 17 February 2026 at 6:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy brief*
 * Format: *PDF*
 

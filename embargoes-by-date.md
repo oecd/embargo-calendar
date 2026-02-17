@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 16 February 2026 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 17 February 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [16 February 2026](#16-february-2026)
 * [17 February 2026](#17-february-2026)
@@ -1836,7 +1836,7 @@ Tuesday 17 February 2026 at 6:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy brief*
 * Format: *PDF*
 
