@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 February 2026 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 19 February 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [17 February 2026](#17-february-2026)
 * [19 February 2026](#19-february-2026)
 * [23 February 2026](#23-february-2026)
 * [24 February 2026](#24-february-2026)
@@ -16,33 +15,6 @@ Data generated on | |
 * [5 March 2026](#5-march-2026)
 * [9 March 2026](#9-march-2026)
 * [8 April 2026](#8-april-2026)
-
-------
-
-# 17 February 2026
-
-## [Venture capital investments in artificial intelligence through 2025](https://doi.org/10.1787/a13752f5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 February 2026 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
 
 ------
 
