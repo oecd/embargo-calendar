@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 February 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 20 February 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 February 2026](#19-february-2026)
 * [23 February 2026](#23-february-2026)
 * [24 February 2026](#24-february-2026)
+* [25 February 2026](#25-february-2026)
 * [26 February 2026](#26-february-2026)
 * [27 February 2026](#27-february-2026)
 * [1 March 2026](#1-march-2026)
@@ -14,6 +15,8 @@ Data generated on | |
 * [4 March 2026](#4-march-2026)
 * [5 March 2026](#5-march-2026)
 * [9 March 2026](#9-march-2026)
+* [18 March 2026](#18-march-2026)
+* [24 March 2026](#24-march-2026)
 * [8 April 2026](#8-april-2026)
 
 ------
@@ -43,29 +46,6 @@ Thursday 19 February 2026 at 0:00 | no launch event
 
 ------
 
-## [Corridors, trade and local development in Africa - An agenda for action](https://doi.org/10.1787/660aa24e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 February 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
-
 ------
 
 # 23 February 2026
@@ -90,6 +70,29 @@ Monday 23 February 2026 at 23:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Towards Chile’s Next Plan for Student Assessments](https://doi.org/10.1787/e703ddc4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 February 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
@@ -1272,6 +1275,33 @@ Tuesday 24 February 2026 at 10:00 | no launch event
 
 ------
 
+# 25 February 2026
+
+## [Teaching relationship skills - Evidence from classrooms to inform policy](https://doi.org/10.1787/d882368e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 February 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
+------
+
 # 26 February 2026
 
 ## [OECD Economic Surveys: Mexico 2026](https://doi.org/10.1787/8a7c0ac4-en)
@@ -1297,6 +1327,52 @@ Thursday 26 February 2026 at 18:00 | no launch event
 
 ------
 
+## [Corridors, trade and local development in Africa - An agenda for action](https://doi.org/10.1787/660aa24e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 February 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
+## [OECD review of the Canadian Parliamentary Budget Office](https://doi.org/10.1787/b26c361b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 February 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 27 February 2026
@@ -1309,7 +1385,7 @@ Friday 27 February 2026 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1318,9 +1394,9 @@ Friday 27 February 2026 at 12:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1363,7 +1439,7 @@ Monday 2 March 2026 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1372,9 +1448,9 @@ Monday 2 March 2026 at 13:30 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1405,6 +1481,29 @@ Wednesday 4 March 2026 at 12:00 | no launch event
 
 ------
 
+## [Towards an integrated rural fire management framework in Portugal](https://doi.org/10.1787/9cb528df-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 5 March 2026
@@ -1427,6 +1526,29 @@ Thursday 5 March 2026 at 6:00 | no launch event
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Cильніші фінансові ринки та інституції для відновлення України](https://doi.org/10.1787/00fed5be-uk)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 March 2026 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Ukrainian*
+* Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -1478,6 +1600,60 @@ Monday 9 March 2026 at 23:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 18 March 2026
+
+## [OECD Economic Surveys: Austria 2026](https://doi.org/10.1787/7cea027b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 18 March 2026 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 24 March 2026
+
+## [Policies for the Future of Fisheries and Aquaculture in Peru](https://doi.org/10.1787/3cccc492-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------

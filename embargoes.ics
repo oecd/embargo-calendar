@@ -20,7 +20,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Due Dilige
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:11, it is updated each nig
+ ternoon at 23:13, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -29,7 +29,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Due Dilige
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=416717
  12-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260219T000000Z
 DTEND:20260219T001500Z
 TRANSP:TRANSPARENT
@@ -43,48 +43,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/660aa24e-end3e328
-SUMMARY:[Policy brief] Corridors, trade and loca
- l development in Africa - An agenda for 
- action
-DESCRIPTION:*[Policy brief] Corridors, trade and loc
- al development in Africa - An agenda for
-  action*\n\nDirectorate: Development Cen
- tre\nLanguage: English\nDOI: https://doi
- .org/10.1787/660aa24e-en\nPublication ty
- pe: Policy brief\nReleased as: PDF\n\nEm
- bargo date/time: Thursday, 19 February 2
- 026, 23:01 (GMT)\n\n\niLibrary export: n
- ever\nFreepreview export: never\nOECD.or
- g export: never\nFTI loaded: ✓\n\nFor mo
- re information see: https://oecd.github.
- io/embargo-calendar/embargoes-by-publica
- tion.html.\n\nPlease note: This informat
- ion was correct as of this afternoon at 
- 23:11, it is updated each night; therefo
- re any subsequent updates may not yet be
-  visible here. Also, please be aware tha
- t the different released media (PDF, HTM
- L, etc.) are not necessarily released at
-  the same time. For complete and up-to-d
- ate information see here: http://kappa.o
- ecd.org/v3/search?term=660aa24e-en.
-DTSTAMP:20260219T231143Z
-DTSTART:20260219T230100Z
-DTEND:20260219T231600Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Policy brief] Corridors, trad
- e and local development in Africa - An a
- genda for action
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/7d430d1b-end3e541
+UID:10.1787/7d430d1b-end3e488
 SUMMARY:[Book] Education and Skills in Peru
 DESCRIPTION:*[Book] Education and Skills in Peru*\n\
  nDirectorate: Directorate for Education 
@@ -99,7 +58,7 @@ DESCRIPTION:*[Book] Education and Skills in Peru*\n\
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:11, it is u
+ t as of this afternoon at 23:13, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -108,7 +67,7 @@ DESCRIPTION:*[Book] Education and Skills in Peru*\n\
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=7d430d1b-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260223T230000Z
 DTEND:20260223T231500Z
 TRANSP:TRANSPARENT
@@ -119,6 +78,45 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: [Book] Education and Skills in
   Peru
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e703ddc4-end3e1072
+SUMMARY:[Policy paper] Towards Chile’s Next Plan
+  for Student Assessments
+DESCRIPTION:*[Policy paper] Towards Chile’s Next Pla
+ n for Student Assessments*\n\nDirectorat
+ e: Directorate for Education and Skills\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/e703ddc4-en\nPublication type: 
+ Policy paper\nReleased as: PDF\n\nEmbarg
+ o date/time: Monday, 23 February 2026, 2
+ 3:01 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:13,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=e703ddc4-en.
+DTSTAMP:20260220T231327Z
+DTSTART:20260223T230100Z
+DTEND:20260223T231600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Policy paper] Towards Chile’s
+  Next Plan for Student Assessments
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -136,7 +134,7 @@ DESCRIPTION:*[Short content] India*\n\nDirectorate:
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
+ rrect as of this afternoon at 23:13, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -145,7 +143,7 @@ DESCRIPTION:*[Short content] India*\n\nDirectorate:
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=531f7ecc-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -173,7 +171,7 @@ DESCRIPTION:*[Short content] Slovak Republic*\n\nDir
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 23:11, it is updated each night; therefo
+ 23:13, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -181,7 +179,7 @@ DESCRIPTION:*[Short content] Slovak Republic*\n\nDir
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=e0194116-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -210,7 +208,7 @@ DESCRIPTION:*[Short content] New Zealand*\n\nDirecto
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 23:1
- 1, it is updated each night; therefore a
+ 3, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -218,7 +216,7 @@ DESCRIPTION:*[Short content] New Zealand*\n\nDirecto
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=c1cec3ab-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -245,7 +243,7 @@ DESCRIPTION:*[Short content] Kazakhstan*\n\nDirector
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:11
+ as correct as of this afternoon at 23:13
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -254,7 +252,7 @@ DESCRIPTION:*[Short content] Kazakhstan*\n\nDirector
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=eac8268b-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -281,7 +279,7 @@ DESCRIPTION:*[Short content] Lithuania*\n\nDirectora
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:11,
+ s correct as of this afternoon at 23:13,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -290,7 +288,7 @@ DESCRIPTION:*[Short content] Lithuania*\n\nDirectora
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=cff89d76-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -318,7 +316,7 @@ DESCRIPTION:*[Short content] United States*\n\nDirec
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 23
- :11, it is updated each night; therefore
+ :13, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -326,7 +324,7 @@ DESCRIPTION:*[Short content] United States*\n\nDirec
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=684a84e2-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -353,7 +351,7 @@ DESCRIPTION:*[Short content] Czechia*\n\nDirectorate
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
+ correct as of this afternoon at 23:13, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -362,7 +360,7 @@ DESCRIPTION:*[Short content] Czechia*\n\nDirectorate
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=eaa63260-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -389,7 +387,7 @@ DESCRIPTION:*[Short content] Japan*\n\nDirectorate:
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
+ rrect as of this afternoon at 23:13, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -398,7 +396,7 @@ DESCRIPTION:*[Short content] Japan*\n\nDirectorate:
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=5f450b04-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -425,7 +423,7 @@ DESCRIPTION:*[Short content] Latvia*\n\nDirectorate:
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
+ orrect as of this afternoon at 23:13, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -434,7 +432,7 @@ DESCRIPTION:*[Short content] Latvia*\n\nDirectorate:
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=06501efe-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -461,7 +459,7 @@ DESCRIPTION:*[Short content] Chile*\n\nDirectorate:
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
+ rrect as of this afternoon at 23:13, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -470,7 +468,7 @@ DESCRIPTION:*[Short content] Chile*\n\nDirectorate:
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=1560dfc9-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -497,7 +495,7 @@ DESCRIPTION:*[Short content] Canada*\n\nDirectorate:
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
+ orrect as of this afternoon at 23:13, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -506,7 +504,7 @@ DESCRIPTION:*[Short content] Canada*\n\nDirectorate:
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=e8242e2f-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -533,7 +531,7 @@ DESCRIPTION:*[Short content] Hungary*\n\nDirectorate
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
+ correct as of this afternoon at 23:13, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -542,7 +540,7 @@ DESCRIPTION:*[Short content] Hungary*\n\nDirectorate
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=6e46345e-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -570,7 +568,7 @@ DESCRIPTION:*[Short content] United Kingdom*\n\nDire
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 3:11, it is updated each night; therefor
+ 3:13, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -578,7 +576,7 @@ DESCRIPTION:*[Short content] United Kingdom*\n\nDire
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=79d48557-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -605,7 +603,7 @@ DESCRIPTION:*[Short content] France*\n\nDirectorate:
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
+ orrect as of this afternoon at 23:13, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -614,7 +612,7 @@ DESCRIPTION:*[Short content] France*\n\nDirectorate:
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=eeb9cfd0-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -641,7 +639,7 @@ DESCRIPTION:*[Short content] Greece*\n\nDirectorate:
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
+ orrect as of this afternoon at 23:13, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -650,7 +648,7 @@ DESCRIPTION:*[Short content] Greece*\n\nDirectorate:
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=42f6b4f0-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -677,7 +675,7 @@ DESCRIPTION:*[Short content] Viet Nam*\n\nDirectorat
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:11, 
+  correct as of this afternoon at 23:13, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -686,7 +684,7 @@ DESCRIPTION:*[Short content] Viet Nam*\n\nDirectorat
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=d46d94cb-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -714,7 +712,7 @@ DESCRIPTION:*[Short content] Netherlands*\n\nDirecto
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 23:1
- 1, it is updated each night; therefore a
+ 3, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -722,7 +720,7 @@ DESCRIPTION:*[Short content] Netherlands*\n\nDirecto
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=e46babc7-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -749,7 +747,7 @@ DESCRIPTION:*[Short content] Indonesia*\n\nDirectora
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:11,
+ s correct as of this afternoon at 23:13,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -758,7 +756,7 @@ DESCRIPTION:*[Short content] Indonesia*\n\nDirectora
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=43d54791-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -785,7 +783,7 @@ DESCRIPTION:*[Short content] Finland*\n\nDirectorate
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
+ correct as of this afternoon at 23:13, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -794,7 +792,7 @@ DESCRIPTION:*[Short content] Finland*\n\nDirectorate
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=b13d9435-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -821,7 +819,7 @@ DESCRIPTION:*[Short content] Malaysia*\n\nDirectorat
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:11, 
+  correct as of this afternoon at 23:13, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -830,7 +828,7 @@ DESCRIPTION:*[Short content] Malaysia*\n\nDirectorat
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=51796123-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -857,7 +855,7 @@ DESCRIPTION:*[Short content] Slovenia*\n\nDirectorat
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:11, 
+  correct as of this afternoon at 23:13, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -866,7 +864,7 @@ DESCRIPTION:*[Short content] Slovenia*\n\nDirectorat
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=4e95cd16-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -893,7 +891,7 @@ DESCRIPTION:*[Short content] Luxembourg*\n\nDirector
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:11
+ as correct as of this afternoon at 23:13
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -902,7 +900,7 @@ DESCRIPTION:*[Short content] Luxembourg*\n\nDirector
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=b5c927d7-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -929,7 +927,7 @@ DESCRIPTION:*[Short content] Ireland*\n\nDirectorate
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
+ correct as of this afternoon at 23:13, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -938,7 +936,7 @@ DESCRIPTION:*[Short content] Ireland*\n\nDirectorate
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=87066638-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -965,7 +963,7 @@ DESCRIPTION:*[Short content] Iceland*\n\nDirectorate
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
+ correct as of this afternoon at 23:13, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -974,7 +972,7 @@ DESCRIPTION:*[Short content] Iceland*\n\nDirectorate
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=76d9749f-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1001,7 +999,7 @@ DESCRIPTION:*[Short content] Türkiye*\n\nDirectorate
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
+ correct as of this afternoon at 23:13, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -1010,7 +1008,7 @@ DESCRIPTION:*[Short content] Türkiye*\n\nDirectorate
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=8a4b83f6-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1037,7 +1035,7 @@ DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:11, 
+  correct as of this afternoon at 23:13, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -1046,7 +1044,7 @@ DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=167d4eb7-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1073,7 +1071,7 @@ DESCRIPTION:*[Short content] Peru*\n\nDirectorate: T
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 23:11, it i
+ rect as of this afternoon at 23:13, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -1082,7 +1080,7 @@ DESCRIPTION:*[Short content] Peru*\n\nDirectorate: T
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=25431d2c-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1109,7 +1107,7 @@ DESCRIPTION:*[Short content] Australia*\n\nDirectora
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:11,
+ s correct as of this afternoon at 23:13,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -1118,7 +1116,7 @@ DESCRIPTION:*[Short content] Australia*\n\nDirectora
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=94b78a69-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1145,7 +1143,7 @@ DESCRIPTION:*[Short content] Singapore*\n\nDirectora
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:11,
+ s correct as of this afternoon at 23:13,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -1154,7 +1152,7 @@ DESCRIPTION:*[Short content] Singapore*\n\nDirectora
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=e1b2cae3-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1186,7 +1184,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Services T
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  23:11, it is updated each night; theref
+  23:13, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -1194,7 +1192,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Services T
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=db87d74e-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1223,7 +1221,7 @@ DESCRIPTION:*[Short content] Norway*\n\nDirectorate:
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
+ orrect as of this afternoon at 23:13, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -1232,7 +1230,7 @@ DESCRIPTION:*[Short content] Norway*\n\nDirectorate:
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=d1dd0d64-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1259,7 +1257,7 @@ DESCRIPTION:*[Short content] Spain*\n\nDirectorate:
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
+ rrect as of this afternoon at 23:13, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -1268,7 +1266,7 @@ DESCRIPTION:*[Short content] Spain*\n\nDirectorate:
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=faf0e0e4-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1295,7 +1293,7 @@ DESCRIPTION:*[Short content] Poland*\n\nDirectorate:
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
+ orrect as of this afternoon at 23:13, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -1304,7 +1302,7 @@ DESCRIPTION:*[Short content] Poland*\n\nDirectorate:
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=d9f83b68-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1332,7 +1330,7 @@ DESCRIPTION:*[Short content] South Africa*\n\nDirect
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 23:
- 11, it is updated each night; therefore 
+ 13, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -1340,7 +1338,7 @@ DESCRIPTION:*[Short content] South Africa*\n\nDirect
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=340aea35-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1367,7 +1365,7 @@ DESCRIPTION:*[Short content] Sweden*\n\nDirectorate:
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
+ orrect as of this afternoon at 23:13, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -1376,7 +1374,7 @@ DESCRIPTION:*[Short content] Sweden*\n\nDirectorate:
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=b72050e4-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1403,7 +1401,7 @@ DESCRIPTION:*[Short content] Thailand*\n\nDirectorat
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:11, 
+  correct as of this afternoon at 23:13, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -1412,7 +1410,7 @@ DESCRIPTION:*[Short content] Thailand*\n\nDirectorat
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=da0fbd13-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1439,7 +1437,7 @@ DESCRIPTION:*[Short content] Denmark*\n\nDirectorate
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
+ correct as of this afternoon at 23:13, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -1448,7 +1446,7 @@ DESCRIPTION:*[Short content] Denmark*\n\nDirectorate
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=4a051513-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1475,7 +1473,7 @@ DESCRIPTION:*[Short content] Italy*\n\nDirectorate:
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
+ rrect as of this afternoon at 23:13, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -1484,7 +1482,7 @@ DESCRIPTION:*[Short content] Italy*\n\nDirectorate:
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=a16bdd12-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1511,7 +1509,7 @@ DESCRIPTION:*[Short content] Colombia*\n\nDirectorat
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:11, 
+  correct as of this afternoon at 23:13, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -1520,7 +1518,7 @@ DESCRIPTION:*[Short content] Colombia*\n\nDirectorat
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=2670da1b-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1547,7 +1545,7 @@ DESCRIPTION:*[Short content] Brazil*\n\nDirectorate:
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
+ orrect as of this afternoon at 23:13, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -1556,7 +1554,7 @@ DESCRIPTION:*[Short content] Brazil*\n\nDirectorate:
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=aa4ceee5-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1583,7 +1581,7 @@ DESCRIPTION:*[Short content] Costa Rica*\n\nDirector
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:11
+ as correct as of this afternoon at 23:13
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -1592,7 +1590,7 @@ DESCRIPTION:*[Short content] Costa Rica*\n\nDirector
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=06048a36-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1619,7 +1617,7 @@ DESCRIPTION:*[Short content] Austria*\n\nDirectorate
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
+ correct as of this afternoon at 23:13, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -1628,7 +1626,7 @@ DESCRIPTION:*[Short content] Austria*\n\nDirectorate
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=73e3296e-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1656,7 +1654,7 @@ DESCRIPTION:*[Short content] Philippines*\n\nDirecto
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 23:1
- 1, it is updated each night; therefore a
+ 3, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -1664,7 +1662,7 @@ DESCRIPTION:*[Short content] Philippines*\n\nDirecto
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=ab9932be-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1691,7 +1689,7 @@ DESCRIPTION:*[Short content] Belgium*\n\nDirectorate
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
+ correct as of this afternoon at 23:13, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -1700,7 +1698,7 @@ DESCRIPTION:*[Short content] Belgium*\n\nDirectorate
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=66302985-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1727,7 +1725,7 @@ DESCRIPTION:*[Short content] China*\n\nDirectorate:
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
+ rrect as of this afternoon at 23:13, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -1736,7 +1734,7 @@ DESCRIPTION:*[Short content] China*\n\nDirectorate:
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=e8d1aed8-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1763,7 +1761,7 @@ DESCRIPTION:*[Short content] Germany*\n\nDirectorate
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
+ correct as of this afternoon at 23:13, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -1772,7 +1770,7 @@ DESCRIPTION:*[Short content] Germany*\n\nDirectorate
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=beed8d1f-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1799,7 +1797,7 @@ DESCRIPTION:*[Short content] Estonia*\n\nDirectorate
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
+ correct as of this afternoon at 23:13, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -1808,7 +1806,7 @@ DESCRIPTION:*[Short content] Estonia*\n\nDirectorate
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=a8e6c41f-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1836,7 +1834,7 @@ DESCRIPTION:*[Short content] Switzerland*\n\nDirecto
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 23:1
- 1, it is updated each night; therefore a
+ 3, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -1844,7 +1842,7 @@ DESCRIPTION:*[Short content] Switzerland*\n\nDirecto
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=7eb592b2-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1871,7 +1869,7 @@ DESCRIPTION:*[Short content] Mexico*\n\nDirectorate:
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
+ orrect as of this afternoon at 23:13, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -1880,7 +1878,7 @@ DESCRIPTION:*[Short content] Mexico*\n\nDirectorate:
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=ec54ccc9-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1907,7 +1905,7 @@ DESCRIPTION:*[Short content] Israel*\n\nDirectorate:
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
+ orrect as of this afternoon at 23:13, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -1916,7 +1914,7 @@ DESCRIPTION:*[Short content] Israel*\n\nDirectorate:
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=86bfca33-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1943,7 +1941,7 @@ DESCRIPTION:*[Short content] Korea*\n\nDirectorate:
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
+ rrect as of this afternoon at 23:13, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -1952,7 +1950,7 @@ DESCRIPTION:*[Short content] Korea*\n\nDirectorate:
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=c88b35ea-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260224T100000Z
 DTEND:20260224T101500Z
 TRANSP:TRANSPARENT
@@ -1965,7 +1963,49 @@ DESCRIPTION:Reminder: [Short content] Korea
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8a7c0ac4-end3e3999
+UID:10.1787/d882368e-end3e3999
+SUMMARY:[Policy brief] Teaching relationship ski
+ lls - Evidence from classrooms to inform
+  policy
+DESCRIPTION:*[Policy brief] Teaching relationship sk
+ ills - Evidence from classrooms to infor
+ m policy*\n\nDirectorate: Directorate fo
+ r Education and Skills\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/d882368e
+ -en\nPublication type: Policy brief\nRel
+ eased as: PDF\n\nEmbargo date/time: Wedn
+ esday, 25 February 2026, 23:01 (GMT)\n\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nOECD.org export: never\nFTI
+  loaded: ✓\n\nFor more information see: 
+ https://oecd.github.io/embargo-calendar/
+ embargoes-by-publication.html.\n\nPlease
+  note: This information was correct as o
+ f this afternoon at 23:13, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=d882368e-en.
+DTSTAMP:20260220T231327Z
+DTSTART:20260225T230100Z
+DTEND:20260225T231600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Policy brief] Teaching relati
+ onship skills - Evidence from classrooms
+  to inform policy
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8a7c0ac4-end3e4053
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Mexico 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -1981,7 +2021,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:11, it is updated each nig
+ ternoon at 23:13, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -1990,7 +2030,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=8a7c0a
  c4-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260226T180000Z
 DTEND:20260226T181500Z
 TRANSP:TRANSPARENT
@@ -2004,7 +2044,87 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/02c81dec-end3e4105
+UID:10.1787/660aa24e-end3e4107
+SUMMARY:[Policy brief] Corridors, trade and loca
+ l development in Africa - An agenda for 
+ action
+DESCRIPTION:*[Policy brief] Corridors, trade and loc
+ al development in Africa - An agenda for
+  action*\n\nDirectorate: Development Cen
+ tre\nLanguage: English\nDOI: https://doi
+ .org/10.1787/660aa24e-en\nPublication ty
+ pe: Policy brief\nReleased as: PDF\n\nEm
+ bargo date/time: Thursday, 26 February 2
+ 026, 23:01 (GMT)\n\n\niLibrary export: n
+ ever\nFreepreview export: never\nOECD.or
+ g export: never\nFTI loaded: ✓\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 23:13, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=660aa24e-en.
+DTSTAMP:20260220T231327Z
+DTSTART:20260226T230100Z
+DTEND:20260226T231600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Policy brief] Corridors, trad
+ e and local development in Africa - An a
+ genda for action
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b26c361b-end3e4161
+SUMMARY:[Policy paper] OECD review of the Canadi
+ an Parliamentary Budget Office
+DESCRIPTION:*[Policy paper] OECD review of the Canad
+ ian Parliamentary Budget Office*\n\nDire
+ ctorate: Directorate for Public Governan
+ ce\nLanguage: English\nDOI: https://doi.
+ org/10.1787/b26c361b-en\nPublication typ
+ e: Policy paper\nReleased as: PDF\n\nEmb
+ argo date/time: Thursday, 26 February 20
+ 26, 23:01 (GMT)\n\n\niLibrary export: ne
+ ver\nFreepreview export: never\nOECD.org
+  export: never\nFTI loaded: ✗\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 3:13, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=b26c361b-en.
+DTSTAMP:20260220T231327Z
+DTSTART:20260226T230100Z
+DTEND:20260226T231600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Policy paper] OECD review of 
+ the Canadian Parliamentary Budget Office
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/02c81dec-end3e5222
 SUMMARY:[Stand-alone monograph] Promoting the De
  velopment of the Semiconductor Ecosystem
   in Mexico
@@ -2014,25 +2134,25 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
   for Science, Technology and Industry\nL
  anguage: English\nDOI: https://doi.org/1
  0.1787/02c81dec-en\nPublication type: St
- and-alone monograph\nReleased as: Paperb
- ack, PDF\n\nEmbargo date/time: Friday, 2
- 7 February 2026, 12:00 (GMT)\n\n\niLibra
- ry export: never\nFreepreview export: ne
- ver\nOECD.org export: never\nFTI loaded:
-  ✗\n\nFor more information see: https://
- oecd.github.io/embargo-calendar/embargoe
- s-by-publication.html.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 23:11, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=02c81
- dec-en.
-DTSTAMP:20260219T231143Z
+ and-alone monograph\nReleased as: HTML, 
+ Paperback, PDF, ZJCR, ZXML\n\nEmbargo da
+ te/time: Friday, 27 February 2026, 12:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 23:13, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=02c81dec-en.
+DTSTAMP:20260220T231327Z
 DTSTART:20260227T120000Z
 DTEND:20260227T121500Z
 TRANSP:TRANSPARENT
@@ -2047,7 +2167,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b35b5a6-end3e4157
+UID:10.1787/0b35b5a6-end3e5328
 SUMMARY:[Stand-alone monograph] Review of the Do
  minican Republic's Enabling Environment 
  for the Semiconductor and Microelectroni
@@ -2068,7 +2188,7 @@ DESCRIPTION:*[Stand-alone monograph] Review of the D
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:11, it is updated each nig
+ ternoon at 23:13, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -2077,7 +2197,7 @@ DESCRIPTION:*[Stand-alone monograph] Review of the D
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=0b35b5
  a6-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260301T230000Z
 DTEND:20260301T231500Z
 TRANSP:TRANSPARENT
@@ -2093,7 +2213,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Review
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/61f7dbe0-end3e4261
+UID:10.1787/61f7dbe0-end3e5592
 SUMMARY:[Stand-alone monograph] Consumer Finance
   Risk Monitor 2026
 DESCRIPTION:*[Stand-alone monograph] Consumer Financ
@@ -2102,23 +2222,24 @@ DESCRIPTION:*[Stand-alone monograph] Consumer Financ
  fairs\nLanguage: English\nDOI: https://d
  oi.org/10.1787/61f7dbe0-en\nPublication 
  type: Stand-alone monograph\nReleased as
- : PDF\n\nEmbargo date/time: Monday, 2 Ma
- rch 2026, 13:30 (GMT)\n\n\niLibrary expo
- rt: never\nFreepreview export: never\nOE
- CD.org export: never\nFTI loaded: ✗\n\nF
- or more information see: https://oecd.gi
- thub.io/embargo-calendar/embargoes-by-pu
- blication.html.\n\nPlease note: This inf
- ormation was correct as of this afternoo
- n at 23:11, it is updated each night; th
- erefore any subsequent updates may not y
- et be visible here. Also, please be awar
- e that the different released media (PDF
- , HTML, etc.) are not necessarily releas
- ed at the same time. For complete and up
- -to-date information see here: http://ka
- ppa.oecd.org/v3/search?term=61f7dbe0-en.
-DTSTAMP:20260219T231143Z
+ : HTML, Paperback, PDF, ZJCR, ZXML\n\nEm
+ bargo date/time: Monday, 2 March 2026, 1
+ 3:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:13,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=61f7dbe0-en.
+DTSTAMP:20260220T231327Z
 DTSTART:20260302T133000Z
 DTEND:20260302T134500Z
 TRANSP:TRANSPARENT
@@ -2132,7 +2253,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Consum
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e9d80efd-end3e4313
+UID:10.1787/e9d80efd-end3e6389
 SUMMARY:[Stand-alone monograph] Global Debt Repo
  rt 2026 - Sustaining Debt Market Resilie
  nce Under Growing Pressure
@@ -2151,7 +2272,7 @@ DESCRIPTION:*[Stand-alone monograph] Global Debt Rep
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:11, it is updated eac
+ is afternoon at 23:13, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -2160,7 +2281,7 @@ DESCRIPTION:*[Stand-alone monograph] Global Debt Rep
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=e
  9d80efd-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260304T120000Z
 DTEND:20260304T121500Z
 TRANSP:TRANSPARENT
@@ -2175,7 +2296,47 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Global
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/32a3acd7-end3e4366
+UID:10.1787/9cb528df-end3e6442
+SUMMARY:[Policy paper] Towards an integrated rur
+ al fire management framework in Portugal
+DESCRIPTION:*[Policy paper] Towards an integrated ru
+ ral fire management framework in Portuga
+ l*\n\nDirectorate: Environment Directora
+ te\nLanguage: English\nDOI: https://doi.
+ org/10.1787/9cb528df-en\nPublication typ
+ e: Policy paper\nReleased as: PDF\n\nEmb
+ argo date/time: Wednesday, 4 March 2026,
+  23:01 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✗\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 23:1
+ 3, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=9cb528df-en.
+DTSTAMP:20260220T231327Z
+DTSTART:20260304T230100Z
+DTEND:20260304T231600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Policy paper] Towards an inte
+ grated rural fire management framework i
+ n Portugal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/32a3acd7-end3e6494
 SUMMARY:[Stand-alone monograph] Financial Protec
  tion Against Catastrophic Risks - Floods
  , Fires and Other Major Risks
@@ -2194,7 +2355,7 @@ DESCRIPTION:*[Stand-alone monograph] Financial Prote
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:11, it is
+ ect as of this afternoon at 23:13, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -2203,7 +2364,7 @@ DESCRIPTION:*[Stand-alone monograph] Financial Prote
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=32a3acd7-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260305T060000Z
 DTEND:20260305T061500Z
 TRANSP:TRANSPARENT
@@ -2218,7 +2379,50 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Financ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0c41c8ac-end3e4473
+UID:10.1787/00fed5be-ukd3e6600
+SUMMARY:[Stand-alone monograph] Cильніші фінансо
+ ві ринки та інституції для відновлення У
+ країни
+DESCRIPTION:*[Stand-alone monograph] Cильніші фінанс
+ ові ринки та інституції для відновлення 
+ України*\n\nDirectorate: Directorate for
+  Financial and Enterprise Affairs\nLangu
+ age: Ukrainian\nDOI: https://doi.org/10.
+ 1787/00fed5be-uk\nPublication type: Stan
+ d-alone monograph\nReleased as: Paperbac
+ k, PDF\n\nEmbargo date/time: Thursday, 5
+  March 2026, 15:00 (GMT)\n\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nOECD.org export: never\nFTI loaded: ✗\n
+ \nFor more information see: https://oecd
+ .github.io/embargo-calendar/embargoes-by
+ -publication.html.\n\nPlease note: This 
+ information was correct as of this after
+ noon at 23:13, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=00fed5be-
+ uk.
+DTSTAMP:20260220T231327Z
+DTSTART:20260305T150000Z
+DTEND:20260305T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] Cильні
+ ші фінансові ринки та інституції для від
+ новлення України
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0c41c8ac-end3e6705
 SUMMARY:[Stand-alone monograph] Stronger Financi
  al Markets and Institutions for Ukraine’
  s Recovery
@@ -2237,7 +2441,7 @@ DESCRIPTION:*[Stand-alone monograph] Stronger Financ
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 3:11, it is updated each night; therefor
+ 3:13, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -2245,7 +2449,7 @@ DESCRIPTION:*[Stand-alone monograph] Stronger Financ
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=0c41c8ac-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260305T150000Z
 DTEND:20260305T151500Z
 TRANSP:TRANSPARENT
@@ -2260,7 +2464,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Strong
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b14a601c-end3e4525
+UID:10.1787/b14a601c-end3e6757
 SUMMARY:[Policy paper] Promoting public-private 
  collaboration through the SDGs in Paraná
  , Brazil
@@ -2278,7 +2482,7 @@ DESCRIPTION:*[Policy paper] Promoting public-private
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
+ orrect as of this afternoon at 23:13, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -2287,7 +2491,7 @@ DESCRIPTION:*[Policy paper] Promoting public-private
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=b14a601c-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260309T230100Z
 DTEND:20260309T231600Z
 TRANSP:TRANSPARENT
@@ -2302,7 +2506,88 @@ DESCRIPTION:Reminder: [Policy paper] Promoting publi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/40a7532f-end3e4577
+UID:10.1787/7cea027b-end3e6809
+SUMMARY:[Economic survey] OECD Economic Surveys:
+  Austria 2026
+DESCRIPTION:*[Economic survey] OECD Economic Surveys
+ : Austria 2026*\n\nDirectorate: Economic
+ s Department\nLanguage: English\nDOI: ht
+ tps://doi.org/10.1787/7cea027b-en\nPubli
+ cation type: Economic survey\nReleased a
+ s: PDF\n\nEmbargo date/time: Wednesday, 
+ 18 March 2026, 23:00 (GMT)\n\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nOECD.org export: never\nFTI loaded: ✗
+ \n\nFor more information see: https://oe
+ cd.github.io/embargo-calendar/embargoes-
+ by-publication.html.\n\nPlease note: Thi
+ s information was correct as of this aft
+ ernoon at 23:13, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=7cea027
+ b-en.
+DTSTAMP:20260220T231327Z
+DTSTART:20260318T230000Z
+DTEND:20260318T231500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Economic survey] OECD Economi
+ c Surveys: Austria 2026
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/3cccc492-end3e6861
+SUMMARY:[Stand-alone monograph] Policies for the
+  Future of Fisheries and Aquaculture in 
+ Peru
+DESCRIPTION:*[Stand-alone monograph] Policies for th
+ e Future of Fisheries and Aquaculture in
+  Peru*\n\nDirectorate: Trade and Agricul
+ ture Directorate\nLanguage: English\nDOI
+ : https://doi.org/10.1787/3cccc492-en\nP
+ ublication type: Stand-alone monograph\n
+ Released as: PDF\n\nEmbargo date/time: T
+ uesday, 24 March 2026, 14:00 (GMT)\n\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nOECD.org export: never\nFTI l
+ oaded: ✗\n\nFor more information see: ht
+ tps://oecd.github.io/embargo-calendar/em
+ bargoes-by-publication.html.\n\nPlease n
+ ote: This information was correct as of 
+ this afternoon at 23:13, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =3cccc492-en.
+DTSTAMP:20260220T231327Z
+DTSTART:20260324T140000Z
+DTEND:20260324T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] Polici
+ es for the Future of Fisheries and Aquac
+ ulture in Peru
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/40a7532f-end3e6913
 SUMMARY:[Stand-alone monograph] Foundations for 
  Growth and Competitiveness 2026
 DESCRIPTION:*[Stand-alone monograph] Foundations for
@@ -2318,7 +2603,7 @@ DESCRIPTION:*[Stand-alone monograph] Foundations for
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:11, 
+  correct as of this afternoon at 23:13, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -2327,7 +2612,7 @@ DESCRIPTION:*[Stand-alone monograph] Foundations for
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=40a7532f-en.
-DTSTAMP:20260219T231143Z
+DTSTAMP:20260220T231327Z
 DTSTART:20260408T220000Z
 DTEND:20260408T221500Z
 TRANSP:TRANSPARENT
