@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 February 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Due Diligence Guidance for Responsible AI](https://doi.org/10.1787/41671712-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 February 2026 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 22 February 2026 at 22:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Education and Skills in Peru](https://doi.org/10.1787/7d430d1b-en)
 

@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 February 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 22 February 2026 at 22:31* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 February 2026](#19-february-2026)
 * [23 February 2026](#23-february-2026)
 * [24 February 2026](#24-february-2026)
 * [25 February 2026](#25-february-2026)
@@ -18,33 +17,6 @@ Data generated on | |
 * [18 March 2026](#18-march-2026)
 * [24 March 2026](#24-march-2026)
 * [8 April 2026](#8-april-2026)
-
-------
-
-# 19 February 2026
-
-## [OECD Due Diligence Guidance for Responsible AI](https://doi.org/10.1787/41671712-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 February 2026 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
