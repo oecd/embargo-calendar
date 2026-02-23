@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-02-22T22:31:09.8965616+01:00">
+<report name="official-embargoes" generated="2026-02-24T00:03:32.5115166+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -1441,46 +1441,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88d6b321</cell>
   </row>
   <row index="72">
-    <cell name="directorate">Development Centre</cell>
-    <cell name="doi">10.1787/660aa24e-en</cell>
-    <cell name="title">Corridors, trade and local development in Africa (en)</cell>
-    <cell name="subtitle">An agenda for action (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-02-27</cell>
-    <cell name="embargo date">2026-02-26T23:01:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Policy brief</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3cb99e20</cell>
-  </row>
-  <row index="73">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/b26c361b-en</cell>
-    <cell name="title">OECD review of the Canadian Parliamentary Budget Office (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-02-27</cell>
-    <cell name="embargo date">2026-02-26T23:01:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Policy paper</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/392f80cc</cell>
-  </row>
-  <row index="74">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50a55bda-en</cell>
     <cell name="title">List of Harmonized System (HS) codes for semiconductor-related products (en)</cell>
@@ -1500,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3377b0bc</cell>
   </row>
-  <row index="75">
+  <row index="73">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8e0e7acf-en</cell>
     <cell name="title">List of high-technology manufacturing activities (en)</cell>
@@ -1520,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fcb6d81d</cell>
   </row>
-  <row index="76">
+  <row index="74">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/c2750c70-en</cell>
     <cell name="title">Relevant inputs under preferential tariffs under PROSEC programme (en)</cell>
@@ -1540,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e7ddcdc</cell>
   </row>
-  <row index="77">
+  <row index="75">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50f4010e-en</cell>
     <cell name="title">Examining the domestic semiconductor ecosystem (en)</cell>
@@ -1560,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5815a65</cell>
   </row>
-  <row index="78">
+  <row index="76">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/7bfa53a6-en</cell>
     <cell name="title">Understanding the semiconductor value chain (en)</cell>
@@ -1580,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76c544b7</cell>
   </row>
-  <row index="79">
+  <row index="77">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/02c81dec-en</cell>
     <cell name="title">Promoting the Development of the Semiconductor Ecosystem in Mexico (en)</cell>
@@ -1600,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac9263fa</cell>
   </row>
-  <row index="80">
+  <row index="78">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/fcd86d41-en</cell>
     <cell name="title">Additional key players in the Mexican semiconductor ecosystem (en)</cell>
@@ -1620,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/185b2ded</cell>
   </row>
-  <row index="81">
+  <row index="79">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0e0defd9-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1640,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20f589f8</cell>
   </row>
-  <row index="82">
+  <row index="80">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/f77b353e-en</cell>
     <cell name="title">Understanding the policy and regulatory landscape (en)</cell>
@@ -1660,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5cc5928c</cell>
   </row>
-  <row index="83">
+  <row index="81">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e9fa2da1-en</cell>
     <cell name="title">Most sought-after semiconductor-specific skills (en)</cell>
@@ -1680,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f60d0cc</cell>
   </row>
-  <row index="84">
+  <row index="82">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e433b459-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1700,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c05d8925</cell>
   </row>
-  <row index="85">
+  <row index="83">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/897f1f7b-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1720,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/870304d6</cell>
   </row>
-  <row index="86">
+  <row index="84">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/02c81dec-en</cell>
     <cell name="title">Promoting the Development of the Semiconductor Ecosystem in Mexico (en)</cell>
@@ -1740,7 +1700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25c4d547</cell>
   </row>
-  <row index="87">
+  <row index="85">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/f3136f0d-en</cell>
     <cell name="title">Most sought-after generic skills (en)</cell>
@@ -1760,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2279d933</cell>
   </row>
-  <row index="88">
+  <row index="86">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/03236055-en</cell>
     <cell name="title">Electricity tariff prices categories (en)</cell>
@@ -1780,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ffe27c8</cell>
   </row>
-  <row index="89">
+  <row index="87">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/02c81dec-en</cell>
     <cell name="title">Promoting the Development of the Semiconductor Ecosystem in Mexico (en)</cell>
@@ -1800,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d570016e</cell>
   </row>
-  <row index="90">
+  <row index="88">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/02c81dec-en</cell>
     <cell name="title">Promoting the Development of the Semiconductor Ecosystem in Mexico (en)</cell>
@@ -1820,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97b9750e</cell>
   </row>
-  <row index="91">
+  <row index="89">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/4b9a88d4-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1840,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba4de587</cell>
   </row>
-  <row index="92">
+  <row index="90">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/772fa337-en</cell>
     <cell name="title">Trade analysis methodology (en)</cell>
@@ -1860,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2436c20</cell>
   </row>
-  <row index="93">
+  <row index="91">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/02c81dec-en</cell>
     <cell name="title">Promoting the Development of the Semiconductor Ecosystem in Mexico (en)</cell>
@@ -1880,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3583fb49</cell>
   </row>
-  <row index="94">
+  <row index="92">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/b74d3e04-en</cell>
     <cell name="title">Additional insights on business dynamics by state (en)</cell>
@@ -1900,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/deeed650</cell>
   </row>
-  <row index="95">
+  <row index="93">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0b35b5a6-en</cell>
     <cell name="title">Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries (en)</cell>
@@ -1920,7 +1880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a5b1033</cell>
   </row>
-  <row index="96">
+  <row index="94">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0b35b5a6-en</cell>
     <cell name="title">Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries (en)</cell>
@@ -1940,7 +1900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0f999cc</cell>
   </row>
-  <row index="97">
+  <row index="95">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/dcaff262-en</cell>
     <cell name="title">Consumer complaints (en)</cell>
@@ -1960,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df05dc1a</cell>
   </row>
-  <row index="98">
+  <row index="96">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/282d1071-en</cell>
     <cell name="title">Risks stemming from the operating environment (en)</cell>
@@ -1980,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3587b21</cell>
   </row>
-  <row index="99">
+  <row index="97">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/61f7dbe0-en</cell>
     <cell name="title">Consumer Finance Risk Monitor 2026 (en)</cell>
@@ -2000,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a09b0445</cell>
   </row>
-  <row index="100">
+  <row index="98">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/61f7dbe0-en</cell>
     <cell name="title">Consumer Finance Risk Monitor 2026 (en)</cell>
@@ -2020,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1731fa9c</cell>
   </row>
-  <row index="101">
+  <row index="99">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/b368c42f-en</cell>
     <cell name="title">List of participating jurisdictions (en)</cell>
@@ -2040,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3860da66</cell>
   </row>
-  <row index="102">
+  <row index="100">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/8580a562-en</cell>
     <cell name="title">Products and services giving rise to consumer detriment (en)</cell>
@@ -2060,7 +2020,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f23b2713</cell>
   </row>
-  <row index="103">
+  <row index="101">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/854254cd-fr</cell>
+    <cell name="title">Observateur des risques pour les consommateurs dans le domaine financier 2026 (version abrégée) (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-03-02</cell>
+    <cell name="embargo date">2026-03-02T13:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a94d9176</cell>
+  </row>
+  <row index="102">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/8fe1fafc-en</cell>
     <cell name="title">Conduct-related risks (en)</cell>
@@ -2080,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3322dcb0</cell>
   </row>
-  <row index="104">
+  <row index="103">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/68a44fdd-en</cell>
     <cell name="title">Glossary (en)</cell>
@@ -2100,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54fa31a7</cell>
   </row>
-  <row index="105">
+  <row index="104">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/dae9cc9a-en</cell>
     <cell name="title">Methodological notes for selected figures and glossary (en)</cell>
@@ -2120,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fd9d0fc</cell>
   </row>
-  <row index="106">
+  <row index="105">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e7b76a92-en</cell>
     <cell name="title">Demand-side risks (en)</cell>
@@ -2140,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bbbdfc56</cell>
   </row>
-  <row index="107">
+  <row index="106">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f7df6305-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2160,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2375c67</cell>
   </row>
-  <row index="108">
+  <row index="107">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/ff6957cf-en</cell>
     <cell name="title">Monitoring risks faced by financial consumers (en)</cell>
@@ -2180,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0aefd7e8</cell>
   </row>
-  <row index="109">
+  <row index="108">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/61f7dbe0-en</cell>
     <cell name="title">Consumer Finance Risk Monitor 2026 (en)</cell>
@@ -2200,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dde0e0b6</cell>
   </row>
-  <row index="110">
+  <row index="109">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/96931112-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2220,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/34e333c8</cell>
   </row>
-  <row index="111">
+  <row index="110">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/61f7dbe0-en</cell>
     <cell name="title">Consumer Finance Risk Monitor 2026 (en)</cell>
@@ -2240,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f64d370</cell>
   </row>
-  <row index="112">
+  <row index="111">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/61f7dbe0-en</cell>
     <cell name="title">Consumer Finance Risk Monitor 2026 (en)</cell>
@@ -2260,7 +2240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4f2aa1f</cell>
   </row>
-  <row index="113">
+  <row index="112">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/79178929-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -2280,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5243d97</cell>
   </row>
-  <row index="114">
+  <row index="113">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/7c4a119c-en</cell>
     <cell name="title">Thematic risks, policy responses and actions (en)</cell>
@@ -2300,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a009c231</cell>
   </row>
-  <row index="115">
+  <row index="114">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e9d80efd-en</cell>
     <cell name="title">Global Debt Report 2026 (en)</cell>
@@ -2320,7 +2300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5856b06</cell>
   </row>
-  <row index="116">
+  <row index="115">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9cb528df-en</cell>
     <cell name="title">Towards an integrated rural fire management framework in Portugal (en)</cell>
@@ -2340,14 +2320,154 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2bacfeb7</cell>
   </row>
+  <row index="116">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/c8059b35-en</cell>
+    <cell name="title">Examining the need for government-supported financial protection for natural hazard, cyber and infectious disease risks (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-05</cell>
+    <cell name="embargo date">2026-03-05T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dea815f1</cell>
+  </row>
   <row index="117">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/4261b31d-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-05</cell>
+    <cell name="embargo date">2026-03-05T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bce5658b</cell>
+  </row>
+  <row index="118">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/762108a0-en</cell>
+    <cell name="title">Insurance coverage for wildfire risk (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-05</cell>
+    <cell name="embargo date">2026-03-05T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1bd3dcc1</cell>
+  </row>
+  <row index="119">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/de940498-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-05</cell>
+    <cell name="embargo date">2026-03-05T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/752f0a93</cell>
+  </row>
+  <row index="120">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/a379e9fb-en</cell>
+    <cell name="title">A framework for examining government-supported financial protection to respond to large-scale catastrophes (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-05</cell>
+    <cell name="embargo date">2026-03-05T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/466a1b45</cell>
+  </row>
+  <row index="121">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/f15b6991-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-05</cell>
+    <cell name="embargo date">2026-03-05T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16fe1175</cell>
+  </row>
+  <row index="122">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/7bb3f8ea-en</cell>
+    <cell name="title">The design of flood risk insurance programmes (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-05</cell>
+    <cell name="embargo date">2026-03-05T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf33d7b4</cell>
+  </row>
+  <row index="123">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32a3acd7-en</cell>
     <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
     <cell name="subtitle">Floods, Fires and Other Major Risks (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-03-05</cell>
     <cell name="embargo date">2026-03-05T06:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -2357,16 +2477,56 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d8e5427</cell>
   </row>
-  <row index="118">
+  <row index="124">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32a3acd7-en</cell>
     <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
     <cell name="subtitle">Floods, Fires and Other Major Risks (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-05</cell>
+    <cell name="embargo date">2026-03-05T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cbd74193</cell>
+  </row>
+  <row index="125">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/32a3acd7-en</cell>
+    <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
+    <cell name="subtitle">Floods, Fires and Other Major Risks (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-05</cell>
+    <cell name="embargo date">2026-03-05T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f3d0a257</cell>
+  </row>
+  <row index="126">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/dc53420a-fr</cell>
+    <cell name="title">Protection financière contre les risques de catastrophe (version abrégée) (fr)</cell>
+    <cell name="subtitle">Inondations, incendies et autres risques majeurs (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2026-03-05</cell>
     <cell name="embargo date">2026-03-05T06:00:00Z</cell>
@@ -2378,12 +2538,52 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ff3df74</cell>
+  </row>
+  <row index="127">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/32a3acd7-en</cell>
+    <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
+    <cell name="subtitle">Floods, Fires and Other Major Risks (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-05</cell>
+    <cell name="embargo date">2026-03-05T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/865e785b</cell>
+  </row>
+  <row index="128">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/32a3acd7-en</cell>
+    <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
+    <cell name="subtitle">Floods, Fires and Other Major Risks (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-05</cell>
+    <cell name="embargo date">2026-03-05T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43e8d765</cell>
   </row>
-  <row index="119">
+  <row index="129">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/00fed5be-uk</cell>
-    <cell name="title">Cильніші фінансові ринки та інституції для відновлення України (uk)</cell>
+    <cell name="title">Міцніші фінансові ринки та інституції для відновлення України (uk)</cell>
     <cell name="subtitle"/>
     <cell name="language">Ukrainian</cell>
     <cell name="medium">PDF</cell>
@@ -2400,10 +2600,10 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37cd79a4</cell>
   </row>
-  <row index="120">
+  <row index="130">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/00fed5be-uk</cell>
-    <cell name="title">Cильніші фінансові ринки та інституції для відновлення України (uk)</cell>
+    <cell name="title">Міцніші фінансові ринки та інституції для відновлення України (uk)</cell>
     <cell name="subtitle"/>
     <cell name="language">Ukrainian</cell>
     <cell name="medium">Paperback</cell>
@@ -2420,7 +2620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72956b14</cell>
   </row>
-  <row index="121">
+  <row index="131">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/0c41c8ac-en</cell>
     <cell name="title">Stronger Financial Markets and Institutions for Ukraine’s Recovery (en)</cell>
@@ -2440,7 +2640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57e15805</cell>
   </row>
-  <row index="122">
+  <row index="132">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b14a601c-en</cell>
     <cell name="title">Promoting public-private collaboration through the SDGs in Paraná, Brazil (en)</cell>
@@ -2460,7 +2660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78a145e6</cell>
   </row>
-  <row index="123">
+  <row index="133">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/7cea027b-en</cell>
     <cell name="title">OECD Economic Surveys: Austria 2026 (en)</cell>
@@ -2480,7 +2680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/58978743</cell>
   </row>
-  <row index="124">
+  <row index="134">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3cccc492-en</cell>
     <cell name="title">Policies for the Future of Fisheries and Aquaculture in Peru (en)</cell>
@@ -2500,7 +2700,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3931044</cell>
   </row>
-  <row index="125">
+  <row index="135">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/6e4a7983-en</cell>
+    <cell name="title">Health System Performance Assessment Framework for Luxembourg (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-03-25</cell>
+    <cell name="embargo date">2026-03-25T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63773689</cell>
+  </row>
+  <row index="136">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/40a7532f-en</cell>
     <cell name="title">Foundations for Growth and Competitiveness 2026 (en)</cell>

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 22 February 2026 at 22:31* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 24 February 2026 at 0:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 February 2026](#23-february-2026)
 * [24 February 2026](#24-february-2026)
@@ -16,6 +16,7 @@ Data generated on | |
 * [9 March 2026](#9-march-2026)
 * [18 March 2026](#18-march-2026)
 * [24 March 2026](#24-march-2026)
+* [25 March 2026](#25-march-2026)
 * [8 April 2026](#8-april-2026)
 
 ------
@@ -1299,52 +1300,6 @@ Thursday 26 February 2026 at 18:00 | no launch event
 
 ------
 
-## [Corridors, trade and local development in Africa - An agenda for action](https://doi.org/10.1787/660aa24e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 February 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
-
-## [OECD review of the Canadian Parliamentary Budget Office](https://doi.org/10.1787/b26c361b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 February 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ------
 
 # 27 February 2026
@@ -1426,6 +1381,29 @@ Monday 2 March 2026 at 13:30 | no launch event
 
 ------
 
+## [Observateur des risques pour les consommateurs dans le domaine financier 2026 (version abrégée)](https://doi.org/10.1787/854254cd-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 March 2026 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ------
 
 # 4 March 2026
@@ -1488,7 +1466,7 @@ Thursday 5 March 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1497,13 +1475,36 @@ Thursday 5 March 2026 at 6:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
-## [Cильніші фінансові ринки та інституції для відновлення України](https://doi.org/10.1787/00fed5be-uk)
+## [Protection financière contre les risques de catastrophe (version abrégée) - Inondations, incendies et autres risques majeurs](https://doi.org/10.1787/dc53420a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 March 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Міцніші фінансові ринки та інституції для відновлення України](https://doi.org/10.1787/00fed5be-uk)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1623,6 +1624,33 @@ Tuesday 24 March 2026 at 14:00 | no launch event
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 25 March 2026
+
+## [Health System Performance Assessment Framework for Luxembourg](https://doi.org/10.1787/6e4a7983-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 March 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
