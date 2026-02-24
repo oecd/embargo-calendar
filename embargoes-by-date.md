@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 24 February 2026 at 0:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 24 February 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 February 2026](#23-february-2026)
 * [24 February 2026](#24-february-2026)
@@ -14,6 +14,8 @@ Data generated on | |
 * [4 March 2026](#4-march-2026)
 * [5 March 2026](#5-march-2026)
 * [9 March 2026](#9-march-2026)
+* [12 March 2026](#12-march-2026)
+* [15 March 2026](#15-march-2026)
 * [18 March 2026](#18-march-2026)
 * [24 March 2026](#24-march-2026)
 * [25 March 2026](#25-march-2026)
@@ -43,29 +45,6 @@ Monday 23 February 2026 at 23:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Towards Chile’s Next Plan for Student Assessments](https://doi.org/10.1787/e703ddc4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 February 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
 
 ------
 
@@ -1489,7 +1468,7 @@ Thursday 5 March 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1498,13 +1477,13 @@ Thursday 5 March 2026 at 6:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
-## [Міцніші фінансові ринки та інституції для відновлення України](https://doi.org/10.1787/00fed5be-uk)
+## [Cильніші фінансові ринки та інституції для відновлення України](https://doi.org/10.1787/00fed5be-uk)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1573,6 +1552,60 @@ Monday 9 March 2026 at 23:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 12 March 2026
+
+## [Towards Chile’s Next Plan for Student Assessments](https://doi.org/10.1787/e703ddc4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 15 March 2026
+
+## [OECD Economic Surveys: Romania 2026](https://doi.org/10.1787/4844067e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 15 March 2026 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
