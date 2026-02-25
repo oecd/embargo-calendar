@@ -2,14 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 24 February 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 25 February 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 February 2026](#23-february-2026)
 * [24 February 2026](#24-february-2026)
 * [25 February 2026](#25-february-2026)
 * [26 February 2026](#26-february-2026)
 * [27 February 2026](#27-february-2026)
-* [1 March 2026](#1-march-2026)
 * [2 March 2026](#2-march-2026)
 * [4 March 2026](#4-march-2026)
 * [5 March 2026](#5-march-2026)
@@ -19,6 +18,7 @@ Data generated on | |
 * [18 March 2026](#18-march-2026)
 * [24 March 2026](#24-march-2026)
 * [25 March 2026](#25-march-2026)
+* [26 March 2026](#26-march-2026)
 * [8 April 2026](#8-april-2026)
 
 ------
@@ -1308,33 +1308,6 @@ Friday 27 February 2026 at 12:00 | no launch event
 
 ------
 
-# 1 March 2026
-
-## [Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries](https://doi.org/10.1787/0b35b5a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 1 March 2026 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 2 March 2026
 
 ## [Consumer Finance Risk Monitor 2026](https://doi.org/10.1787/61f7dbe0-en)
@@ -1380,6 +1353,29 @@ Monday 2 March 2026 at 13:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries](https://doi.org/10.1787/0b35b5a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 March 2026 at 15:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1514,7 +1510,7 @@ Thursday 5 March 2026 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1523,9 +1519,9 @@ Thursday 5 March 2026 at 15:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1687,6 +1683,33 @@ Wednesday 25 March 2026 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 26 March 2026
+
+## [OECD Anti-Bribery Convention Phase 4 Report on Argentina - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/38ac9206-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 March 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
