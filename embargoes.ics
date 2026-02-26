@@ -2,1888 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/7d430d1b-end3e222
-SUMMARY:[Book] Education and Skills in Peru
-DESCRIPTION:*[Book] Education and Skills in Peru*\n\
- nDirectorate: Directorate for Education 
- and Skills\nLanguage: English\nDOI: http
- s://doi.org/10.1787/7d430d1b-en\nPublica
- tion type: Book\nReleased as: HTML, Pape
- rback, PDF, ZJCR, ZXML\n\nEmbargo date/t
- ime: Monday, 23 February 2026, 23:00 (GM
- T)\n\n\niLibrary export: never\nFreeprev
- iew export: never\nOECD.org export: neve
- r\nFTI loaded: ✓\n\nFor more information
-  see: https://oecd.github.io/embargo-cal
- endar/embargoes-by-publication.html.\n\n
- Please note: This information was correc
- t as of this afternoon at 23:11, it is u
- pdated each night; therefore any subsequ
- ent updates may not yet be visible here.
-  Also, please be aware that the differen
- t released media (PDF, HTML, etc.) are n
- ot necessarily released at the same time
- . For complete and up-to-date informatio
- n see here: http://kappa.oecd.org/v3/sea
- rch?term=7d430d1b-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260223T230000Z
-DTEND:20260223T231500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Education and Skills in
-  Peru
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/531f7ecc-end3e807
-SUMMARY:[Short content] India
-DESCRIPTION:*[Short content] India*\n\nDirectorate: 
- Trade and Agriculture Directorate\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/531f7ecc-en\nPublication type: Short 
- content\nReleased as: PDF\n\nEmbargo dat
- e/time: Tuesday, 24 February 2026, 10:00
-  (GMT)\n\n\niLibrary export: never\nFree
- preview export: never\nOECD.org export: 
- never\nFTI loaded: ✓\n\nFor more informa
- tion see: https://oecd.github.io/embargo
- -calendar/embargoes-by-publication.html.
- \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=531f7ecc-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] India
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/e0194116-end3e861
-SUMMARY:[Short content] Slovak Republic
-DESCRIPTION:*[Short content] Slovak Republic*\n\nDir
- ectorate: Trade and Agriculture Director
- ate\nLanguage: English\nDOI: https://doi
- .org/10.1787/e0194116-en\nPublication ty
- pe: Short content\nReleased as: PDF\n\nE
- mbargo date/time: Tuesday, 24 February 2
- 026, 10:00 (GMT)\n\n\niLibrary export: n
- ever\nFreepreview export: never\nOECD.or
- g export: never\nFTI loaded: ✓\n\nFor mo
- re information see: https://oecd.github.
- io/embargo-calendar/embargoes-by-publica
- tion.html.\n\nPlease note: This informat
- ion was correct as of this afternoon at 
- 23:11, it is updated each night; therefo
- re any subsequent updates may not yet be
-  visible here. Also, please be aware tha
- t the different released media (PDF, HTM
- L, etc.) are not necessarily released at
-  the same time. For complete and up-to-d
- ate information see here: http://kappa.o
- ecd.org/v3/search?term=e0194116-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Slovak Republi
- c
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c1cec3ab-end3e916
-SUMMARY:[Short content] New Zealand
-DESCRIPTION:*[Short content] New Zealand*\n\nDirecto
- rate: Trade and Agriculture Directorate\
- nLanguage: English\nDOI: https://doi.org
- /10.1787/c1cec3ab-en\nPublication type: 
- Short content\nReleased as: PDF\n\nEmbar
- go date/time: Tuesday, 24 February 2026,
-  10:00 (GMT)\n\n\niLibrary export: never
- \nFreepreview export: never\nOECD.org ex
- port: never\nFTI loaded: ✓\n\nFor more i
- nformation see: https://oecd.github.io/e
- mbargo-calendar/embargoes-by-publication
- .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:1
- 1, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=c1cec3ab-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] New Zealand
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/eac8268b-end3e970
-SUMMARY:[Short content] Kazakhstan
-DESCRIPTION:*[Short content] Kazakhstan*\n\nDirector
- ate: Trade and Agriculture Directorate\n
- Language: English\nDOI: https://doi.org/
- 10.1787/eac8268b-en\nPublication type: S
- hort content\nReleased as: PDF\n\nEmbarg
- o date/time: Tuesday, 24 February 2026, 
- 10:00 (GMT)\n\n\niLibrary export: never\
- nFreepreview export: never\nOECD.org exp
- ort: never\nFTI loaded: ✓\n\nFor more in
- formation see: https://oecd.github.io/em
- bargo-calendar/embargoes-by-publication.
- html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:11
- , it is updated each night; therefore an
- y subsequent updates may not yet be visi
- ble here. Also, please be aware that the
-  different released media (PDF, HTML, et
- c.) are not necessarily released at the 
- same time. For complete and up-to-date i
- nformation see here: http://kappa.oecd.o
- rg/v3/search?term=eac8268b-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Kazakhstan
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/cff89d76-end3e1024
-SUMMARY:[Short content] Lithuania
-DESCRIPTION:*[Short content] Lithuania*\n\nDirectora
- te: Trade and Agriculture Directorate\nL
- anguage: English\nDOI: https://doi.org/1
- 0.1787/cff89d76-en\nPublication type: Sh
- ort content\nReleased as: PDF\n\nEmbargo
-  date/time: Tuesday, 24 February 2026, 1
- 0:00 (GMT)\n\n\niLibrary export: never\n
- Freepreview export: never\nOECD.org expo
- rt: never\nFTI loaded: ✓\n\nFor more inf
- ormation see: https://oecd.github.io/emb
- argo-calendar/embargoes-by-publication.h
- tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:11,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=cff89d76-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Lithuania
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/684a84e2-end3e1078
-SUMMARY:[Short content] United States
-DESCRIPTION:*[Short content] United States*\n\nDirec
- torate: Trade and Agriculture Directorat
- e\nLanguage: English\nDOI: https://doi.o
- rg/10.1787/684a84e2-en\nPublication type
- : Short content\nReleased as: PDF\n\nEmb
- argo date/time: Tuesday, 24 February 202
- 6, 10:00 (GMT)\n\n\niLibrary export: nev
- er\nFreepreview export: never\nOECD.org 
- export: never\nFTI loaded: ✓\n\nFor more
-  information see: https://oecd.github.io
- /embargo-calendar/embargoes-by-publicati
- on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 23
- :11, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=684a84e2-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] United States
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/eaa63260-end3e1132
-SUMMARY:[Short content] Czechia
-DESCRIPTION:*[Short content] Czechia*\n\nDirectorate
- : Trade and Agriculture Directorate\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/eaa63260-en\nPublication type: Shor
- t content\nReleased as: PDF\n\nEmbargo d
- ate/time: Tuesday, 24 February 2026, 10:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=eaa63260-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Czechia
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/5f450b04-end3e1186
-SUMMARY:[Short content] Japan
-DESCRIPTION:*[Short content] Japan*\n\nDirectorate: 
- Trade and Agriculture Directorate\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/5f450b04-en\nPublication type: Short 
- content\nReleased as: PDF\n\nEmbargo dat
- e/time: Tuesday, 24 February 2026, 10:00
-  (GMT)\n\n\niLibrary export: never\nFree
- preview export: never\nOECD.org export: 
- never\nFTI loaded: ✓\n\nFor more informa
- tion see: https://oecd.github.io/embargo
- -calendar/embargoes-by-publication.html.
- \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=5f450b04-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Japan
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/06501efe-end3e1241
-SUMMARY:[Short content] Latvia
-DESCRIPTION:*[Short content] Latvia*\n\nDirectorate:
-  Trade and Agriculture Directorate\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/06501efe-en\nPublication type: Short
-  content\nReleased as: PDF\n\nEmbargo da
- te/time: Tuesday, 24 February 2026, 10:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=06501efe-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Latvia
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/1560dfc9-end3e1295
-SUMMARY:[Short content] Chile
-DESCRIPTION:*[Short content] Chile*\n\nDirectorate: 
- Trade and Agriculture Directorate\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/1560dfc9-en\nPublication type: Short 
- content\nReleased as: PDF\n\nEmbargo dat
- e/time: Tuesday, 24 February 2026, 10:00
-  (GMT)\n\n\niLibrary export: never\nFree
- preview export: never\nOECD.org export: 
- never\nFTI loaded: ✓\n\nFor more informa
- tion see: https://oecd.github.io/embargo
- -calendar/embargoes-by-publication.html.
- \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=1560dfc9-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Chile
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/e8242e2f-end3e1349
-SUMMARY:[Short content] Canada
-DESCRIPTION:*[Short content] Canada*\n\nDirectorate:
-  Trade and Agriculture Directorate\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/e8242e2f-en\nPublication type: Short
-  content\nReleased as: PDF\n\nEmbargo da
- te/time: Tuesday, 24 February 2026, 10:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=e8242e2f-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Canada
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/6e46345e-end3e1403
-SUMMARY:[Short content] Hungary
-DESCRIPTION:*[Short content] Hungary*\n\nDirectorate
- : Trade and Agriculture Directorate\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/6e46345e-en\nPublication type: Shor
- t content\nReleased as: PDF\n\nEmbargo d
- ate/time: Tuesday, 24 February 2026, 10:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=6e46345e-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Hungary
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/79d48557-end3e1457
-SUMMARY:[Short content] United Kingdom
-DESCRIPTION:*[Short content] United Kingdom*\n\nDire
- ctorate: Trade and Agriculture Directora
- te\nLanguage: English\nDOI: https://doi.
- org/10.1787/79d48557-en\nPublication typ
- e: Short content\nReleased as: PDF\n\nEm
- bargo date/time: Tuesday, 24 February 20
- 26, 10:00 (GMT)\n\n\niLibrary export: ne
- ver\nFreepreview export: never\nOECD.org
-  export: never\nFTI loaded: ✓\n\nFor mor
- e information see: https://oecd.github.i
- o/embargo-calendar/embargoes-by-publicat
- ion.html.\n\nPlease note: This informati
- on was correct as of this afternoon at 2
- 3:11, it is updated each night; therefor
- e any subsequent updates may not yet be 
- visible here. Also, please be aware that
-  the different released media (PDF, HTML
- , etc.) are not necessarily released at 
- the same time. For complete and up-to-da
- te information see here: http://kappa.oe
- cd.org/v3/search?term=79d48557-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] United Kingdom
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/eeb9cfd0-end3e1511
-SUMMARY:[Short content] France
-DESCRIPTION:*[Short content] France*\n\nDirectorate:
-  Trade and Agriculture Directorate\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/eeb9cfd0-en\nPublication type: Short
-  content\nReleased as: PDF\n\nEmbargo da
- te/time: Tuesday, 24 February 2026, 10:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=eeb9cfd0-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] France
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/42f6b4f0-end3e1566
-SUMMARY:[Short content] Greece
-DESCRIPTION:*[Short content] Greece*\n\nDirectorate:
-  Trade and Agriculture Directorate\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/42f6b4f0-en\nPublication type: Short
-  content\nReleased as: PDF\n\nEmbargo da
- te/time: Tuesday, 24 February 2026, 10:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=42f6b4f0-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Greece
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/d46d94cb-end3e1620
-SUMMARY:[Short content] Viet Nam
-DESCRIPTION:*[Short content] Viet Nam*\n\nDirectorat
- e: Trade and Agriculture Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/d46d94cb-en\nPublication type: Sho
- rt content\nReleased as: PDF\n\nEmbargo 
- date/time: Tuesday, 24 February 2026, 10
- :00 (GMT)\n\n\niLibrary export: never\nF
- reepreview export: never\nOECD.org expor
- t: never\nFTI loaded: ✓\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:11, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=d46d94cb-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Viet Nam
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/e46babc7-end3e1674
-SUMMARY:[Short content] Netherlands
-DESCRIPTION:*[Short content] Netherlands*\n\nDirecto
- rate: Trade and Agriculture Directorate\
- nLanguage: English\nDOI: https://doi.org
- /10.1787/e46babc7-en\nPublication type: 
- Short content\nReleased as: PDF\n\nEmbar
- go date/time: Tuesday, 24 February 2026,
-  10:00 (GMT)\n\n\niLibrary export: never
- \nFreepreview export: never\nOECD.org ex
- port: never\nFTI loaded: ✓\n\nFor more i
- nformation see: https://oecd.github.io/e
- mbargo-calendar/embargoes-by-publication
- .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:1
- 1, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=e46babc7-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Netherlands
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/43d54791-end3e1728
-SUMMARY:[Short content] Indonesia
-DESCRIPTION:*[Short content] Indonesia*\n\nDirectora
- te: Trade and Agriculture Directorate\nL
- anguage: English\nDOI: https://doi.org/1
- 0.1787/43d54791-en\nPublication type: Sh
- ort content\nReleased as: PDF\n\nEmbargo
-  date/time: Tuesday, 24 February 2026, 1
- 0:00 (GMT)\n\n\niLibrary export: never\n
- Freepreview export: never\nOECD.org expo
- rt: never\nFTI loaded: ✓\n\nFor more inf
- ormation see: https://oecd.github.io/emb
- argo-calendar/embargoes-by-publication.h
- tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:11,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=43d54791-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Indonesia
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/b13d9435-end3e1836
-SUMMARY:[Short content] Finland
-DESCRIPTION:*[Short content] Finland*\n\nDirectorate
- : Trade and Agriculture Directorate\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/b13d9435-en\nPublication type: Shor
- t content\nReleased as: PDF\n\nEmbargo d
- ate/time: Tuesday, 24 February 2026, 10:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=b13d9435-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Finland
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/51796123-end3e1891
-SUMMARY:[Short content] Malaysia
-DESCRIPTION:*[Short content] Malaysia*\n\nDirectorat
- e: Trade and Agriculture Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/51796123-en\nPublication type: Sho
- rt content\nReleased as: PDF\n\nEmbargo 
- date/time: Tuesday, 24 February 2026, 10
- :00 (GMT)\n\n\niLibrary export: never\nF
- reepreview export: never\nOECD.org expor
- t: never\nFTI loaded: ✓\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:11, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=51796123-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Malaysia
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/4e95cd16-end3e1945
-SUMMARY:[Short content] Slovenia
-DESCRIPTION:*[Short content] Slovenia*\n\nDirectorat
- e: Trade and Agriculture Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/4e95cd16-en\nPublication type: Sho
- rt content\nReleased as: PDF\n\nEmbargo 
- date/time: Tuesday, 24 February 2026, 10
- :00 (GMT)\n\n\niLibrary export: never\nF
- reepreview export: never\nOECD.org expor
- t: never\nFTI loaded: ✓\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:11, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=4e95cd16-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Slovenia
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/b5c927d7-end3e1999
-SUMMARY:[Short content] Luxembourg
-DESCRIPTION:*[Short content] Luxembourg*\n\nDirector
- ate: Trade and Agriculture Directorate\n
- Language: English\nDOI: https://doi.org/
- 10.1787/b5c927d7-en\nPublication type: S
- hort content\nReleased as: PDF\n\nEmbarg
- o date/time: Tuesday, 24 February 2026, 
- 10:00 (GMT)\n\n\niLibrary export: never\
- nFreepreview export: never\nOECD.org exp
- ort: never\nFTI loaded: ✓\n\nFor more in
- formation see: https://oecd.github.io/em
- bargo-calendar/embargoes-by-publication.
- html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:11
- , it is updated each night; therefore an
- y subsequent updates may not yet be visi
- ble here. Also, please be aware that the
-  different released media (PDF, HTML, et
- c.) are not necessarily released at the 
- same time. For complete and up-to-date i
- nformation see here: http://kappa.oecd.o
- rg/v3/search?term=b5c927d7-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Luxembourg
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/87066638-end3e2107
-SUMMARY:[Short content] Ireland
-DESCRIPTION:*[Short content] Ireland*\n\nDirectorate
- : Trade and Agriculture Directorate\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/87066638-en\nPublication type: Shor
- t content\nReleased as: PDF\n\nEmbargo d
- ate/time: Tuesday, 24 February 2026, 10:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=87066638-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Ireland
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/76d9749f-end3e2161
-SUMMARY:[Short content] Iceland
-DESCRIPTION:*[Short content] Iceland*\n\nDirectorate
- : Trade and Agriculture Directorate\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/76d9749f-en\nPublication type: Shor
- t content\nReleased as: PDF\n\nEmbargo d
- ate/time: Tuesday, 24 February 2026, 10:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=76d9749f-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Iceland
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/8a4b83f6-end3e2216
-SUMMARY:[Short content] Türkiye
-DESCRIPTION:*[Short content] Türkiye*\n\nDirectorate
- : Trade and Agriculture Directorate\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/8a4b83f6-en\nPublication type: Shor
- t content\nReleased as: PDF\n\nEmbargo d
- ate/time: Tuesday, 24 February 2026, 10:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=8a4b83f6-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Türkiye
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/167d4eb7-end3e2270
-SUMMARY:[Short content] Portugal
-DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
- e: Trade and Agriculture Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/167d4eb7-en\nPublication type: Sho
- rt content\nReleased as: PDF\n\nEmbargo 
- date/time: Tuesday, 24 February 2026, 10
- :00 (GMT)\n\n\niLibrary export: never\nF
- reepreview export: never\nOECD.org expor
- t: never\nFTI loaded: ✓\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:11, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=167d4eb7-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Portugal
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/25431d2c-end3e2324
-SUMMARY:[Short content] Peru
-DESCRIPTION:*[Short content] Peru*\n\nDirectorate: T
- rade and Agriculture Directorate\nLangua
- ge: English\nDOI: https://doi.org/10.178
- 7/25431d2c-en\nPublication type: Short c
- ontent\nReleased as: PDF\n\nEmbargo date
- /time: Tuesday, 24 February 2026, 10:00 
- (GMT)\n\n\niLibrary export: never\nFreep
- review export: never\nOECD.org export: n
- ever\nFTI loaded: ✓\n\nFor more informat
- ion see: https://oecd.github.io/embargo-
- calendar/embargoes-by-publication.html.\
- n\nPlease note: This information was cor
- rect as of this afternoon at 23:11, it i
- s updated each night; therefore any subs
- equent updates may not yet be visible he
- re. Also, please be aware that the diffe
- rent released media (PDF, HTML, etc.) ar
- e not necessarily released at the same t
- ime. For complete and up-to-date informa
- tion see here: http://kappa.oecd.org/v3/
- search?term=25431d2c-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Peru
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/94b78a69-end3e2378
-SUMMARY:[Short content] Australia
-DESCRIPTION:*[Short content] Australia*\n\nDirectora
- te: Trade and Agriculture Directorate\nL
- anguage: English\nDOI: https://doi.org/1
- 0.1787/94b78a69-en\nPublication type: Sh
- ort content\nReleased as: PDF\n\nEmbargo
-  date/time: Tuesday, 24 February 2026, 1
- 0:00 (GMT)\n\n\niLibrary export: never\n
- Freepreview export: never\nOECD.org expo
- rt: never\nFTI loaded: ✓\n\nFor more inf
- ormation see: https://oecd.github.io/emb
- argo-calendar/embargoes-by-publication.h
- tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:11,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=94b78a69-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Australia
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/e1b2cae3-end3e2432
-SUMMARY:[Short content] Singapore
-DESCRIPTION:*[Short content] Singapore*\n\nDirectora
- te: Trade and Agriculture Directorate\nL
- anguage: English\nDOI: https://doi.org/1
- 0.1787/e1b2cae3-en\nPublication type: Sh
- ort content\nReleased as: PDF\n\nEmbargo
-  date/time: Tuesday, 24 February 2026, 1
- 0:00 (GMT)\n\n\niLibrary export: never\n
- Freepreview export: never\nOECD.org expo
- rt: never\nFTI loaded: ✓\n\nFor more inf
- ormation see: https://oecd.github.io/emb
- argo-calendar/embargoes-by-publication.h
- tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:11,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=e1b2cae3-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Singapore
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/db87d74e-end3e2486
-SUMMARY:[Stand-alone monograph] OECD Services Tr
- ade Restrictiveness Index 2026 - Policy 
- Trends
-DESCRIPTION:*[Stand-alone monograph] OECD Services T
- rade Restrictiveness Index 2026 - Policy
-  Trends*\n\nDirectorate: Trade and Agric
- ulture Directorate\nLanguage: English\nD
- OI: https://doi.org/10.1787/db87d74e-en\
- nPublication type: Stand-alone monograph
- \nReleased as: HTML, PDF, ZJCR, ZXML\n\n
- Embargo date/time: Tuesday, 24 February 
- 2026, 10:00 (GMT)\n\n\niLibrary export: 
- never\nFreepreview export: never\nOECD.o
- rg export: never\nFTI loaded: ✓\n\nFor m
- ore information see: https://oecd.github
- .io/embargo-calendar/embargoes-by-public
- ation.html.\n\nPlease note: This informa
- tion was correct as of this afternoon at
-  23:11, it is updated each night; theref
- ore any subsequent updates may not yet b
- e visible here. Also, please be aware th
- at the different released media (PDF, HT
- ML, etc.) are not necessarily released a
- t the same time. For complete and up-to-
- date information see here: http://kappa.
- oecd.org/v3/search?term=db87d74e-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] OECD S
- ervices Trade Restrictiveness Index 2026
-  - Policy Trends
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/d1dd0d64-end3e2542
-SUMMARY:[Short content] Norway
-DESCRIPTION:*[Short content] Norway*\n\nDirectorate:
-  Trade and Agriculture Directorate\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/d1dd0d64-en\nPublication type: Short
-  content\nReleased as: PDF\n\nEmbargo da
- te/time: Tuesday, 24 February 2026, 10:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=d1dd0d64-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Norway
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/faf0e0e4-end3e2596
-SUMMARY:[Short content] Spain
-DESCRIPTION:*[Short content] Spain*\n\nDirectorate: 
- Trade and Agriculture Directorate\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/faf0e0e4-en\nPublication type: Short 
- content\nReleased as: PDF\n\nEmbargo dat
- e/time: Tuesday, 24 February 2026, 10:00
-  (GMT)\n\n\niLibrary export: never\nFree
- preview export: never\nOECD.org export: 
- never\nFTI loaded: ✓\n\nFor more informa
- tion see: https://oecd.github.io/embargo
- -calendar/embargoes-by-publication.html.
- \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=faf0e0e4-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Spain
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/d9f83b68-end3e2650
-SUMMARY:[Short content] Poland
-DESCRIPTION:*[Short content] Poland*\n\nDirectorate:
-  Trade and Agriculture Directorate\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/d9f83b68-en\nPublication type: Short
-  content\nReleased as: PDF\n\nEmbargo da
- te/time: Tuesday, 24 February 2026, 10:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=d9f83b68-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Poland
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/340aea35-end3e2704
-SUMMARY:[Short content] South Africa
-DESCRIPTION:*[Short content] South Africa*\n\nDirect
- orate: Trade and Agriculture Directorate
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/340aea35-en\nPublication type:
-  Short content\nReleased as: PDF\n\nEmba
- rgo date/time: Tuesday, 24 February 2026
- , 10:00 (GMT)\n\n\niLibrary export: neve
- r\nFreepreview export: never\nOECD.org e
- xport: never\nFTI loaded: ✓\n\nFor more 
- information see: https://oecd.github.io/
- embargo-calendar/embargoes-by-publicatio
- n.html.\n\nPlease note: This information
-  was correct as of this afternoon at 23:
- 11, it is updated each night; therefore 
- any subsequent updates may not yet be vi
- sible here. Also, please be aware that t
- he different released media (PDF, HTML, 
- etc.) are not necessarily released at th
- e same time. For complete and up-to-date
-  information see here: http://kappa.oecd
- .org/v3/search?term=340aea35-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] South Africa
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/b72050e4-end3e2758
-SUMMARY:[Short content] Sweden
-DESCRIPTION:*[Short content] Sweden*\n\nDirectorate:
-  Trade and Agriculture Directorate\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/b72050e4-en\nPublication type: Short
-  content\nReleased as: PDF\n\nEmbargo da
- te/time: Tuesday, 24 February 2026, 10:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=b72050e4-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Sweden
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/da0fbd13-end3e2812
-SUMMARY:[Short content] Thailand
-DESCRIPTION:*[Short content] Thailand*\n\nDirectorat
- e: Trade and Agriculture Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/da0fbd13-en\nPublication type: Sho
- rt content\nReleased as: PDF\n\nEmbargo 
- date/time: Tuesday, 24 February 2026, 10
- :00 (GMT)\n\n\niLibrary export: never\nF
- reepreview export: never\nOECD.org expor
- t: never\nFTI loaded: ✓\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:11, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=da0fbd13-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Thailand
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/4a051513-end3e2920
-SUMMARY:[Short content] Denmark
-DESCRIPTION:*[Short content] Denmark*\n\nDirectorate
- : Trade and Agriculture Directorate\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/4a051513-en\nPublication type: Shor
- t content\nReleased as: PDF\n\nEmbargo d
- ate/time: Tuesday, 24 February 2026, 10:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=4a051513-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Denmark
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/a16bdd12-end3e2974
-SUMMARY:[Short content] Italy
-DESCRIPTION:*[Short content] Italy*\n\nDirectorate: 
- Trade and Agriculture Directorate\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/a16bdd12-en\nPublication type: Short 
- content\nReleased as: PDF\n\nEmbargo dat
- e/time: Tuesday, 24 February 2026, 10:00
-  (GMT)\n\n\niLibrary export: never\nFree
- preview export: never\nOECD.org export: 
- never\nFTI loaded: ✓\n\nFor more informa
- tion see: https://oecd.github.io/embargo
- -calendar/embargoes-by-publication.html.
- \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=a16bdd12-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Italy
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/2670da1b-end3e3028
-SUMMARY:[Short content] Colombia
-DESCRIPTION:*[Short content] Colombia*\n\nDirectorat
- e: Trade and Agriculture Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/2670da1b-en\nPublication type: Sho
- rt content\nReleased as: PDF\n\nEmbargo 
- date/time: Tuesday, 24 February 2026, 10
- :00 (GMT)\n\n\niLibrary export: never\nF
- reepreview export: never\nOECD.org expor
- t: never\nFTI loaded: ✓\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:11, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=2670da1b-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Colombia
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/aa4ceee5-end3e3082
-SUMMARY:[Short content] Brazil
-DESCRIPTION:*[Short content] Brazil*\n\nDirectorate:
-  Trade and Agriculture Directorate\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/aa4ceee5-en\nPublication type: Short
-  content\nReleased as: PDF\n\nEmbargo da
- te/time: Tuesday, 24 February 2026, 10:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=aa4ceee5-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Brazil
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/06048a36-end3e3136
-SUMMARY:[Short content] Costa Rica
-DESCRIPTION:*[Short content] Costa Rica*\n\nDirector
- ate: Trade and Agriculture Directorate\n
- Language: English\nDOI: https://doi.org/
- 10.1787/06048a36-en\nPublication type: S
- hort content\nReleased as: PDF\n\nEmbarg
- o date/time: Tuesday, 24 February 2026, 
- 10:00 (GMT)\n\n\niLibrary export: never\
- nFreepreview export: never\nOECD.org exp
- ort: never\nFTI loaded: ✓\n\nFor more in
- formation see: https://oecd.github.io/em
- bargo-calendar/embargoes-by-publication.
- html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:11
- , it is updated each night; therefore an
- y subsequent updates may not yet be visi
- ble here. Also, please be aware that the
-  different released media (PDF, HTML, et
- c.) are not necessarily released at the 
- same time. For complete and up-to-date i
- nformation see here: http://kappa.oecd.o
- rg/v3/search?term=06048a36-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Costa Rica
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/73e3296e-end3e3191
-SUMMARY:[Short content] Austria
-DESCRIPTION:*[Short content] Austria*\n\nDirectorate
- : Trade and Agriculture Directorate\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/73e3296e-en\nPublication type: Shor
- t content\nReleased as: PDF\n\nEmbargo d
- ate/time: Tuesday, 24 February 2026, 10:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=73e3296e-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Austria
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/ab9932be-end3e3245
-SUMMARY:[Short content] Philippines
-DESCRIPTION:*[Short content] Philippines*\n\nDirecto
- rate: Trade and Agriculture Directorate\
- nLanguage: English\nDOI: https://doi.org
- /10.1787/ab9932be-en\nPublication type: 
- Short content\nReleased as: PDF\n\nEmbar
- go date/time: Tuesday, 24 February 2026,
-  10:00 (GMT)\n\n\niLibrary export: never
- \nFreepreview export: never\nOECD.org ex
- port: never\nFTI loaded: ✓\n\nFor more i
- nformation see: https://oecd.github.io/e
- mbargo-calendar/embargoes-by-publication
- .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:1
- 1, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=ab9932be-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Philippines
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/66302985-end3e3299
-SUMMARY:[Short content] Belgium
-DESCRIPTION:*[Short content] Belgium*\n\nDirectorate
- : Trade and Agriculture Directorate\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/66302985-en\nPublication type: Shor
- t content\nReleased as: PDF\n\nEmbargo d
- ate/time: Tuesday, 24 February 2026, 10:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=66302985-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Belgium
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/e8d1aed8-end3e3353
-SUMMARY:[Short content] China
-DESCRIPTION:*[Short content] China*\n\nDirectorate: 
- Trade and Agriculture Directorate\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/e8d1aed8-en\nPublication type: Short 
- content\nReleased as: PDF\n\nEmbargo dat
- e/time: Tuesday, 24 February 2026, 10:00
-  (GMT)\n\n\niLibrary export: never\nFree
- preview export: never\nOECD.org export: 
- never\nFTI loaded: ✓\n\nFor more informa
- tion see: https://oecd.github.io/embargo
- -calendar/embargoes-by-publication.html.
- \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=e8d1aed8-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] China
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/beed8d1f-end3e3407
-SUMMARY:[Short content] Germany
-DESCRIPTION:*[Short content] Germany*\n\nDirectorate
- : Trade and Agriculture Directorate\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/beed8d1f-en\nPublication type: Shor
- t content\nReleased as: PDF\n\nEmbargo d
- ate/time: Tuesday, 24 February 2026, 10:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=beed8d1f-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Germany
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/a8e6c41f-end3e3461
-SUMMARY:[Short content] Estonia
-DESCRIPTION:*[Short content] Estonia*\n\nDirectorate
- : Trade and Agriculture Directorate\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/a8e6c41f-en\nPublication type: Shor
- t content\nReleased as: PDF\n\nEmbargo d
- ate/time: Tuesday, 24 February 2026, 10:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:11, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=a8e6c41f-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Estonia
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/7eb592b2-end3e3516
-SUMMARY:[Short content] Switzerland
-DESCRIPTION:*[Short content] Switzerland*\n\nDirecto
- rate: Trade and Agriculture Directorate\
- nLanguage: English\nDOI: https://doi.org
- /10.1787/7eb592b2-en\nPublication type: 
- Short content\nReleased as: PDF\n\nEmbar
- go date/time: Tuesday, 24 February 2026,
-  10:00 (GMT)\n\n\niLibrary export: never
- \nFreepreview export: never\nOECD.org ex
- port: never\nFTI loaded: ✓\n\nFor more i
- nformation see: https://oecd.github.io/e
- mbargo-calendar/embargoes-by-publication
- .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:1
- 1, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=7eb592b2-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Switzerland
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/ec54ccc9-end3e3570
-SUMMARY:[Short content] Mexico
-DESCRIPTION:*[Short content] Mexico*\n\nDirectorate:
-  Trade and Agriculture Directorate\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/ec54ccc9-en\nPublication type: Short
-  content\nReleased as: PDF\n\nEmbargo da
- te/time: Tuesday, 24 February 2026, 10:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=ec54ccc9-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Mexico
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/86bfca33-end3e3624
-SUMMARY:[Short content] Israel
-DESCRIPTION:*[Short content] Israel*\n\nDirectorate:
-  Trade and Agriculture Directorate\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/86bfca33-en\nPublication type: Short
-  content\nReleased as: PDF\n\nEmbargo da
- te/time: Tuesday, 24 February 2026, 10:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:11, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=86bfca33-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Israel
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c88b35ea-end3e3678
-SUMMARY:[Short content] Korea
-DESCRIPTION:*[Short content] Korea*\n\nDirectorate: 
- Trade and Agriculture Directorate\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/c88b35ea-en\nPublication type: Short 
- content\nReleased as: PDF\n\nEmbargo dat
- e/time: Tuesday, 24 February 2026, 10:00
-  (GMT)\n\n\niLibrary export: never\nFree
- preview export: never\nOECD.org export: 
- never\nFTI loaded: ✓\n\nFor more informa
- tion see: https://oecd.github.io/embargo
- -calendar/embargoes-by-publication.html.
- \n\nPlease note: This information was co
- rrect as of this afternoon at 23:11, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=c88b35ea-en.
-DTSTAMP:20260225T231126Z
-DTSTART:20260224T100000Z
-DTEND:20260224T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Korea
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/d882368e-end3e3732
+UID:10.1787/d882368e-end3e63
 SUMMARY:[Policy brief] Teaching relationship ski
  lls - Evidence from classrooms to inform
   policy
@@ -1910,7 +29,7 @@ DESCRIPTION:*[Policy brief] Teaching relationship sk
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=d882368e-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260225T230100Z
 DTEND:20260225T231600Z
 TRANSP:TRANSPARENT
@@ -1925,7 +44,7 @@ DESCRIPTION:Reminder: [Policy brief] Teaching relati
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8a7c0ac4-end3e3786
+UID:10.1787/8a7c0ac4-end3e117
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Mexico 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -1950,7 +69,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=8a7c0a
  c4-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260226T180000Z
 DTEND:20260226T181500Z
 TRANSP:TRANSPARENT
@@ -1964,7 +83,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/02c81dec-end3e4849
+UID:10.1787/02c81dec-end3e1179
 SUMMARY:[Stand-alone monograph] Promoting the De
  velopment of the Semiconductor Ecosystem
   in Mexico
@@ -1992,7 +111,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=02c81dec-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260227T120000Z
 DTEND:20260227T121500Z
 TRANSP:TRANSPARENT
@@ -2007,7 +126,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/61f7dbe0-end3e5805
+UID:10.1787/61f7dbe0-end3e2135
 SUMMARY:[Stand-alone monograph] Consumer Finance
   Risk Monitor 2026
 DESCRIPTION:*[Stand-alone monograph] Consumer Financ
@@ -2033,7 +152,7 @@ DESCRIPTION:*[Stand-alone monograph] Consumer Financ
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=61f7dbe0-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260302T133000Z
 DTEND:20260302T134500Z
 TRANSP:TRANSPARENT
@@ -2047,7 +166,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Consum
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/854254cd-frd3e5964
+UID:10.1787/854254cd-frd3e2295
 SUMMARY:[Stand-alone monograph] Observateur des 
  risques pour les consommateurs dans le d
  omaine financier 2026 (version abrégée)
@@ -2075,7 +194,7 @@ DESCRIPTION:*[Stand-alone monograph] Observateur des
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=854254cd-fr.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260302T133000Z
 DTEND:20260302T134500Z
 TRANSP:TRANSPARENT
@@ -2091,7 +210,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Observ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b35b5a6-end3e6653
+UID:10.1787/0b35b5a6-end3e2984
 SUMMARY:[Stand-alone monograph] Review of the Do
  minican Republic's Enabling Environment 
  for the Semiconductor and Microelectroni
@@ -2121,7 +240,7 @@ DESCRIPTION:*[Stand-alone monograph] Review of the D
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=0b35b5a6-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260302T150000Z
 DTEND:20260302T151500Z
 TRANSP:TRANSPARENT
@@ -2137,7 +256,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Review
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e9d80efd-end3e6707
+UID:10.1787/e9d80efd-end3e3037
 SUMMARY:[Stand-alone monograph] Global Debt Repo
  rt 2026 - Sustaining Debt Market Resilie
  nce Under Growing Pressure
@@ -2165,7 +284,7 @@ DESCRIPTION:*[Stand-alone monograph] Global Debt Rep
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=e
  9d80efd-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260304T120000Z
 DTEND:20260304T121500Z
 TRANSP:TRANSPARENT
@@ -2180,7 +299,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Global
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9cb528df-end3e6760
+UID:10.1787/9cb528df-end3e3090
 SUMMARY:[Policy paper] Towards an integrated rur
  al fire management framework in Portugal
 DESCRIPTION:*[Policy paper] Towards an integrated ru
@@ -2205,7 +324,7 @@ DESCRIPTION:*[Policy paper] Towards an integrated ru
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=9cb528df-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260304T230100Z
 DTEND:20260304T231600Z
 TRANSP:TRANSPARENT
@@ -2220,7 +339,7 @@ DESCRIPTION:Reminder: [Policy paper] Towards an inte
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/32a3acd7-end3e7291
+UID:10.1787/32a3acd7-end3e3622
 SUMMARY:[Stand-alone monograph] Financial Protec
  tion Against Catastrophic Risks - Floods
  , Fires and Other Major Risks
@@ -2249,7 +368,7 @@ DESCRIPTION:*[Stand-alone monograph] Financial Prote
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=32a3acd7-en
  .
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260305T060000Z
 DTEND:20260305T061500Z
 TRANSP:TRANSPARENT
@@ -2264,7 +383,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Financ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dc53420a-frd3e7454
+UID:10.1787/dc53420a-frd3e3785
 SUMMARY:[Stand-alone monograph] Protection finan
  cière contre les risques de catastrophe 
  (version abrégée) - Inondations, incendi
@@ -2294,7 +413,7 @@ DESCRIPTION:*[Stand-alone monograph] Protection fina
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=dc53420a-fr.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260305T060000Z
 DTEND:20260305T061500Z
 TRANSP:TRANSPARENT
@@ -2310,7 +429,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Protec
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/00fed5be-ukd3e7722
+UID:10.1787/00fed5be-ukd3e4159
 SUMMARY:[Stand-alone monograph] Cильніші фінансо
  ві ринки та інституції для відновлення У
  країни
@@ -2320,25 +439,25 @@ DESCRIPTION:*[Stand-alone monograph] Cильніші фінанс
   Financial and Enterprise Affairs\nLangu
  age: Ukrainian\nDOI: https://doi.org/10.
  1787/00fed5be-uk\nPublication type: Stan
- d-alone monograph\nReleased as: Paperbac
- k, PDF\n\nEmbargo date/time: Thursday, 5
-  March 2026, 15:00 (GMT)\n\n\niLibrary e
- xport: never\nFreepreview export: never\
- nOECD.org export: never\nFTI loaded: ✗\n
- \nFor more information see: https://oecd
- .github.io/embargo-calendar/embargoes-by
- -publication.html.\n\nPlease note: This 
- information was correct as of this after
- noon at 23:11, it is updated each night;
-  therefore any subsequent updates may no
- t yet be visible here. Also, please be a
- ware that the different released media (
- PDF, HTML, etc.) are not necessarily rel
- eased at the same time. For complete and
-  up-to-date information see here: http:/
- /kappa.oecd.org/v3/search?term=00fed5be-
- uk.
-DTSTAMP:20260225T231126Z
+ d-alone monograph\nReleased as: HTML, Pa
+ perback, PDF, ZJCR, ZXML\n\nEmbargo date
+ /time: Thursday, 5 March 2026, 15:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✓\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 23:11, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=00fed5be-uk.
+DTSTAMP:20260226T231132Z
 DTSTART:20260305T150000Z
 DTEND:20260305T151500Z
 TRANSP:TRANSPARENT
@@ -2353,7 +472,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Cильні
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0c41c8ac-end3e8145
+UID:10.1787/0c41c8ac-end3e4903
 SUMMARY:[Stand-alone monograph] Stronger Financi
  al Markets and Institutions for Ukraine’
  s Recovery
@@ -2381,7 +500,7 @@ DESCRIPTION:*[Stand-alone monograph] Stronger Financ
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=0c41c8ac-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260305T150000Z
 DTEND:20260305T151500Z
 TRANSP:TRANSPARENT
@@ -2396,7 +515,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Strong
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b14a601c-end3e8517
+UID:10.1787/b14a601c-end3e5487
 SUMMARY:[Policy paper] Promoting public-private 
  collaboration through the SDGs in Paraná
  , Brazil
@@ -2423,7 +542,7 @@ DESCRIPTION:*[Policy paper] Promoting public-private
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=b14a601c-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260309T230100Z
 DTEND:20260309T231600Z
 TRANSP:TRANSPARENT
@@ -2438,7 +557,7 @@ DESCRIPTION:Reminder: [Policy paper] Promoting publi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e703ddc4-end3e8569
+UID:10.1787/e703ddc4-end3e5539
 SUMMARY:[Policy paper] Towards Chile’s Next Plan
   for Student Assessments
 DESCRIPTION:*[Policy paper] Towards Chile’s Next Pla
@@ -2463,7 +582,7 @@ DESCRIPTION:*[Policy paper] Towards Chile’s Next Pla
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=e703ddc4-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260312T230100Z
 DTEND:20260312T231600Z
 TRANSP:TRANSPARENT
@@ -2477,7 +596,7 @@ DESCRIPTION:Reminder: [Policy paper] Towards Chile’s
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4844067e-end3e8623
+UID:10.1787/4844067e-end3e5592
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Romania 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -2502,7 +621,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=4844067e-e
  n.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260315T230000Z
 DTEND:20260315T231500Z
 TRANSP:TRANSPARENT
@@ -2516,7 +635,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7cea027b-end3e8675
+UID:10.1787/7cea027b-end3e5644
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Austria 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -2541,7 +660,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=7cea027
  b-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260318T230000Z
 DTEND:20260318T231500Z
 TRANSP:TRANSPARENT
@@ -2555,7 +674,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3cccc492-end3e8727
+UID:10.1787/3cccc492-end3e5697
 SUMMARY:[Stand-alone monograph] Policies for the
   Future of Fisheries and Aquaculture in 
  Peru
@@ -2582,7 +701,7 @@ DESCRIPTION:*[Stand-alone monograph] Policies for th
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =3cccc492-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260324T140000Z
 DTEND:20260324T141500Z
 TRANSP:TRANSPARENT
@@ -2597,7 +716,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Polici
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6e4a7983-end3e8779
+UID:10.1787/6e4a7983-end3e5749
 SUMMARY:[Stand-alone monograph] Health System Pe
  rformance Assessment Framework for Luxem
  bourg
@@ -2624,7 +743,7 @@ DESCRIPTION:*[Stand-alone monograph] Health System P
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=6e4a7983-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260325T120000Z
 DTEND:20260325T121500Z
 TRANSP:TRANSPARENT
@@ -2639,7 +758,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Health
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/38ac9206-end3e8831
+UID:10.1787/38ac9206-end3e5801
 SUMMARY:[Report] OECD Anti-Bribery Convention Ph
  ase 4 Report on Argentina - Implementing
   the Convention and Related Legal Instru
@@ -2668,7 +787,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=38ac9206-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260326T100000Z
 DTEND:20260326T101500Z
 TRANSP:TRANSPARENT
@@ -2684,7 +803,7 @@ DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/40a7532f-end3e8884
+UID:10.1787/40a7532f-end3e5854
 SUMMARY:[Stand-alone monograph] Foundations for 
  Growth and Competitiveness 2026
 DESCRIPTION:*[Stand-alone monograph] Foundations for
@@ -2709,7 +828,7 @@ DESCRIPTION:*[Stand-alone monograph] Foundations for
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=40a7532f-en.
-DTSTAMP:20260225T231126Z
+DTSTAMP:20260226T231132Z
 DTSTART:20260408T220000Z
 DTEND:20260408T221500Z
 TRANSP:TRANSPARENT
