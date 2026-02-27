@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 February 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 27 February 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Teaching relationship skills - Evidence from classrooms to inform policy](https://doi.org/10.1787/d882368e-en)
 
@@ -104,7 +104,7 @@ Monday 2 March 2026 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -113,9 +113,9 @@ Monday 2 March 2026 at 13:30 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 

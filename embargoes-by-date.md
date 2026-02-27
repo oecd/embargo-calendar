@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 February 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 27 February 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [25 February 2026](#25-february-2026)
 * [26 February 2026](#26-february-2026)
@@ -135,7 +135,7 @@ Monday 2 March 2026 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -144,9 +144,9 @@ Monday 2 March 2026 at 13:30 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
