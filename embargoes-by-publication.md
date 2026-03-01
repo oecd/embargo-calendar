@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 27 February 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Teaching relationship skills - Evidence from classrooms to inform policy](https://doi.org/10.1787/d882368e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 February 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Mexico 2026](https://doi.org/10.1787/8a7c0ac4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 February 2026 at 18:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Promoting the Development of the Semiconductor Ecosystem in Mexico](https://doi.org/10.1787/02c81dec-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 27 February 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 1 March 2026 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Consumer Finance Risk Monitor 2026](https://doi.org/10.1787/61f7dbe0-en)
 

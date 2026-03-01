@@ -2,11 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 27 February 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 1 March 2026 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 February 2026](#25-february-2026)
-* [26 February 2026](#26-february-2026)
-* [27 February 2026](#27-february-2026)
 * [2 March 2026](#2-march-2026)
 * [4 March 2026](#4-march-2026)
 * [5 March 2026](#5-march-2026)
@@ -18,87 +15,6 @@ Data generated on | |
 * [25 March 2026](#25-march-2026)
 * [26 March 2026](#26-march-2026)
 * [8 April 2026](#8-april-2026)
-
-------
-
-# 25 February 2026
-
-## [Teaching relationship skills - Evidence from classrooms to inform policy](https://doi.org/10.1787/d882368e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 February 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
-
-------
-
-# 26 February 2026
-
-## [OECD Economic Surveys: Mexico 2026](https://doi.org/10.1787/8a7c0ac4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 February 2026 at 18:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-------
-
-# 27 February 2026
-
-## [Promoting the Development of the Semiconductor Ecosystem in Mexico](https://doi.org/10.1787/02c81dec-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 27 February 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
