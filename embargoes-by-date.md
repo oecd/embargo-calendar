@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 1 March 2026 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 2 March 2026 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 March 2026](#2-march-2026)
 * [4 March 2026](#4-march-2026)
@@ -101,7 +101,7 @@ Wednesday 4 March 2026 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -147,7 +147,7 @@ Wednesday 4 March 2026 at 23:01 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 5 March 2026 at 6:00 | no launch event
+Thursday 5 March 2026 at 8:30 | no launch event
 
 ### Status Information
 
@@ -170,7 +170,7 @@ Thursday 5 March 2026 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 5 March 2026 at 6:00 | no launch event
+Thursday 5 March 2026 at 8:30 | no launch event
 
 ### Status Information
 
@@ -193,7 +193,7 @@ Thursday 5 March 2026 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 5 March 2026 at 15:00 | no launch event
+Thursday 5 March 2026 at 13:00 | no launch event
 
 ### Status Information
 
@@ -216,7 +216,7 @@ Thursday 5 March 2026 at 15:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 5 March 2026 at 15:00 | no launch event
+Thursday 5 March 2026 at 13:00 | no launch event
 
 ### Status Information
 
