@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-03-02T23:10:09.9505673+01:00">
+<report name="official-embargoes" generated="2026-03-03T23:11:24.476104+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -374,7 +374,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2026-03-02T22:42:41Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -434,7 +434,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2026-03-02T22:42:41Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -734,7 +734,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2026-03-02T22:42:41Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -742,12 +742,32 @@
   </row>
   <row index="37">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e9d80efd-en</cell>
+    <cell name="title">Global Debt Report 2026 (en)</cell>
+    <cell name="subtitle">Sustaining Debt Market Resilience Under Growing Pressure (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-04</cell>
+    <cell name="embargo date">2026-03-04T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b35c50b4</cell>
+  </row>
+  <row index="38">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/71c955e3-en</cell>
     <cell name="title">The investor base for government and corporate bond markets (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-03-04</cell>
     <cell name="embargo date">2026-03-04T12:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -760,14 +780,34 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/18014fcd</cell>
   </row>
-  <row index="38">
+  <row index="39">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e9d80efd-en</cell>
+    <cell name="title">Global Debt Report 2026 (en)</cell>
+    <cell name="subtitle">Sustaining Debt Market Resilience Under Growing Pressure (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-04</cell>
+    <cell name="embargo date">2026-03-04T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95b101a3</cell>
+  </row>
+  <row index="40">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/5517b7ea-en</cell>
     <cell name="title">Key facts and figures (infographic) (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-03-04</cell>
     <cell name="embargo date">2026-03-04T12:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -780,14 +820,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c72049a7</cell>
   </row>
-  <row index="39">
+  <row index="41">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/06974973-en</cell>
     <cell name="title">Foreword (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-03-04</cell>
     <cell name="embargo date">2026-03-04T12:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -800,14 +840,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/febe9946</cell>
   </row>
-  <row index="40">
+  <row index="42">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e9d80efd-en</cell>
     <cell name="title">Global Debt Report 2026 (en)</cell>
     <cell name="subtitle">Sustaining Debt Market Resilience Under Growing Pressure (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-03-04</cell>
     <cell name="embargo date">2026-03-04T12:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -820,14 +860,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5856b06</cell>
   </row>
-  <row index="41">
+  <row index="43">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/44bdc31a-en</cell>
     <cell name="title">Editorial (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-03-04</cell>
     <cell name="embargo date">2026-03-04T12:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -840,14 +880,34 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d168990</cell>
   </row>
-  <row index="42">
+  <row index="44">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e9d80efd-en</cell>
+    <cell name="title">Global Debt Report 2026 (en)</cell>
+    <cell name="subtitle">Sustaining Debt Market Resilience Under Growing Pressure (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-04</cell>
+    <cell name="embargo date">2026-03-04T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8f39734</cell>
+  </row>
+  <row index="45">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/0cfb3d20-en</cell>
     <cell name="title">Sovereign borrowing outlook (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-03-04</cell>
     <cell name="embargo date">2026-03-04T12:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -860,14 +920,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/969d606f</cell>
   </row>
-  <row index="43">
+  <row index="46">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/11a86098-en</cell>
     <cell name="title">Executive summary (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-03-04</cell>
     <cell name="embargo date">2026-03-04T12:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -880,14 +940,34 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/79c12688</cell>
   </row>
-  <row index="44">
+  <row index="47">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e9d80efd-en</cell>
+    <cell name="title">Global Debt Report 2026 (en)</cell>
+    <cell name="subtitle">Sustaining Debt Market Resilience Under Growing Pressure (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-03-04</cell>
+    <cell name="embargo date">2026-03-04T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a3ad48b6</cell>
+  </row>
+  <row index="48">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/2155ed1e-en</cell>
     <cell name="title">Corporate debt market outlook in a transforming world (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-03-04</cell>
     <cell name="embargo date">2026-03-04T12:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -900,14 +980,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/360b2aa5</cell>
   </row>
-  <row index="45">
+  <row index="49">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/9d379836-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-03-04</cell>
     <cell name="embargo date">2026-03-04T12:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -920,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9c3ee15</cell>
   </row>
-  <row index="46">
+  <row index="50">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9cb528df-en</cell>
     <cell name="title">Towards an integrated rural fire management framework in Portugal (en)</cell>
@@ -940,7 +1020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2bacfeb7</cell>
   </row>
-  <row index="47">
+  <row index="51">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/c8059b35-en</cell>
     <cell name="title">Examining the need for government-supported financial protection for natural hazard, cyber and infectious disease risks (en)</cell>
@@ -960,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dea815f1</cell>
   </row>
-  <row index="48">
+  <row index="52">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/4261b31d-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -980,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bce5658b</cell>
   </row>
-  <row index="49">
+  <row index="53">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/dc53420a-fr</cell>
     <cell name="title">Protection financière contre les risques de catastrophe (version abrégée) (fr)</cell>
@@ -1000,7 +1080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a646074</cell>
   </row>
-  <row index="50">
+  <row index="54">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/762108a0-en</cell>
     <cell name="title">Insurance coverage for wildfire risk (en)</cell>
@@ -1020,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1bd3dcc1</cell>
   </row>
-  <row index="51">
+  <row index="55">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/de940498-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1040,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/752f0a93</cell>
   </row>
-  <row index="52">
+  <row index="56">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/a379e9fb-en</cell>
     <cell name="title">A framework for examining government-supported financial protection to respond to large-scale catastrophes (en)</cell>
@@ -1060,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/466a1b45</cell>
   </row>
-  <row index="53">
+  <row index="57">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/dc53420a-fr</cell>
     <cell name="title">Protection financière contre les risques de catastrophe (version abrégée) (fr)</cell>
@@ -1080,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a65dbf99</cell>
   </row>
-  <row index="54">
+  <row index="58">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f15b6991-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1100,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16fe1175</cell>
   </row>
-  <row index="55">
+  <row index="59">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/7bb3f8ea-en</cell>
     <cell name="title">The design of flood risk insurance programmes (en)</cell>
@@ -1120,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf33d7b4</cell>
   </row>
-  <row index="56">
+  <row index="60">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32a3acd7-en</cell>
     <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
@@ -1140,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d8e5427</cell>
   </row>
-  <row index="57">
+  <row index="61">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32a3acd7-en</cell>
     <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
@@ -1160,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cbd74193</cell>
   </row>
-  <row index="58">
+  <row index="62">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32a3acd7-en</cell>
     <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
@@ -1180,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f3d0a257</cell>
   </row>
-  <row index="59">
+  <row index="63">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/dc53420a-fr</cell>
     <cell name="title">Protection financière contre les risques de catastrophe (version abrégée) (fr)</cell>
@@ -1200,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ff3df74</cell>
   </row>
-  <row index="60">
+  <row index="64">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32a3acd7-en</cell>
     <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
@@ -1220,7 +1300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/865e785b</cell>
   </row>
-  <row index="61">
+  <row index="65">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/dc53420a-fr</cell>
     <cell name="title">Protection financière contre les risques de catastrophe (version abrégée) (fr)</cell>
@@ -1240,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1bcfd36c</cell>
   </row>
-  <row index="62">
+  <row index="66">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/32a3acd7-en</cell>
     <cell name="title">Financial Protection Against Catastrophic Risks (en)</cell>
@@ -1260,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43e8d765</cell>
   </row>
-  <row index="63">
+  <row index="67">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/0c41c8ac-en</cell>
     <cell name="title">Stronger Financial Markets and Institutions for Ukraine’s Recovery (en)</cell>
@@ -1280,7 +1360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cf531cd2</cell>
   </row>
-  <row index="64">
+  <row index="68">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/185b5d1d-uk</cell>
     <cell name="title">Передмова (uk)</cell>
@@ -1300,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7e2fc86</cell>
   </row>
-  <row index="65">
+  <row index="69">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/d9042893-uk</cell>
     <cell name="title">Управління державним боргом в Україні (uk)</cell>
@@ -1320,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09e97805</cell>
   </row>
-  <row index="66">
+  <row index="70">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/00fed5be-uk</cell>
     <cell name="title">Cильніші фінансові ринки та інституції для відновлення України (uk)</cell>
@@ -1340,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37cd79a4</cell>
   </row>
-  <row index="67">
+  <row index="71">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/60330087-uk</cell>
     <cell name="title">Рекомендації та дорожня карта (uk)</cell>
@@ -1360,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9d9768d</cell>
   </row>
-  <row index="68">
+  <row index="72">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/00fed5be-uk</cell>
     <cell name="title">Cильніші фінансові ринки та інституції для відновлення України (uk)</cell>
@@ -1380,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/674355b7</cell>
   </row>
-  <row index="69">
+  <row index="73">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/ca1481fa-uk</cell>
     <cell name="title">Короткий виклад (uk)</cell>
@@ -1400,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e6ed3c6</cell>
   </row>
-  <row index="70">
+  <row index="74">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/8f9ed441-en</cell>
     <cell name="title">Recommendations and roadmap (en)</cell>
@@ -1420,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81221efa</cell>
   </row>
-  <row index="71">
+  <row index="75">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/00fed5be-uk</cell>
     <cell name="title">Cильніші фінансові ринки та інституції для відновлення України (uk)</cell>
@@ -1440,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6a7e228</cell>
   </row>
-  <row index="72">
+  <row index="76">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/79328bba-uk</cell>
     <cell name="title">Система корпоративного управління в Україні (uk)</cell>
@@ -1460,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36cc7752</cell>
   </row>
-  <row index="73">
+  <row index="77">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/66b25df9-en</cell>
     <cell name="title">Guidelines to develop asset-backed pensions in Ukraine (en)</cell>
@@ -1480,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/028cd010</cell>
   </row>
-  <row index="74">
+  <row index="78">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/00fed5be-uk</cell>
     <cell name="title">Cильніші фінансові ринки та інституції для відновлення України (uk)</cell>
@@ -1500,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72956b14</cell>
   </row>
-  <row index="75">
+  <row index="79">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/0c41c8ac-en</cell>
     <cell name="title">Stronger Financial Markets and Institutions for Ukraine’s Recovery (en)</cell>
@@ -1520,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19976e46</cell>
   </row>
-  <row index="76">
+  <row index="80">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/cb2f83a5-uk</cell>
     <cell name="title">Рекомендації щодо розвитку в Україні забезпечених активами пенсій (uk)</cell>
@@ -1540,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/216072da</cell>
   </row>
-  <row index="77">
+  <row index="81">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/5b6a1359-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1560,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51301c2d</cell>
   </row>
-  <row index="78">
+  <row index="82">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/0c41c8ac-en</cell>
     <cell name="title">Stronger Financial Markets and Institutions for Ukraine’s Recovery (en)</cell>
@@ -1580,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c82bdd7</cell>
   </row>
-  <row index="79">
+  <row index="83">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/cd732887-en</cell>
     <cell name="title">Public debt management in Ukraine (en)</cell>
@@ -1600,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7319c622</cell>
   </row>
-  <row index="80">
+  <row index="84">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/0c41c8ac-en</cell>
     <cell name="title">Stronger Financial Markets and Institutions for Ukraine’s Recovery (en)</cell>
@@ -1620,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57e15805</cell>
   </row>
-  <row index="81">
+  <row index="85">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/eead0114-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1640,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4171223</cell>
   </row>
-  <row index="82">
+  <row index="86">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/00fed5be-uk</cell>
     <cell name="title">Cильніші фінансові ринки та інституції для відновлення України (uk)</cell>
@@ -1660,7 +1740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/383367c8</cell>
   </row>
-  <row index="83">
+  <row index="87">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/d19745b6-en</cell>
     <cell name="title">Financial consumer protection and financial literacy in Ukraine (en)</cell>
@@ -1680,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d11e3343</cell>
   </row>
-  <row index="84">
+  <row index="88">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/bfbc3175-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1700,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a7e75a1</cell>
   </row>
-  <row index="85">
+  <row index="89">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/4d187280-uk</cell>
     <cell name="title">Структура фінансової системи України (uk)</cell>
@@ -1720,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d8e2e10</cell>
   </row>
-  <row index="86">
+  <row index="90">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/0c41c8ac-en</cell>
     <cell name="title">Stronger Financial Markets and Institutions for Ukraine’s Recovery (en)</cell>
@@ -1740,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a75222d</cell>
   </row>
-  <row index="87">
+  <row index="91">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/b8b9bab1-uk</cell>
     <cell name="title">Скорочення та абревіатури (uk)</cell>
@@ -1760,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dce0c7d3</cell>
   </row>
-  <row index="88">
+  <row index="92">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/a50bb784-uk</cell>
     <cell name="title">Захист прав споживачів фінансових послуг та фінансова грамотність в Україні (uk)</cell>
@@ -1780,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca3c2d43</cell>
   </row>
-  <row index="89">
+  <row index="93">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/0069b223-en</cell>
     <cell name="title">Ukraine’s financial system framework (en)</cell>
@@ -1800,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cdf39485</cell>
   </row>
-  <row index="90">
+  <row index="94">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/6dac6ea5-en</cell>
     <cell name="title">Ukraine’s corporate governance framework (en)</cell>
@@ -1820,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1268331</cell>
   </row>
-  <row index="91">
+  <row index="95">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b14a601c-en</cell>
     <cell name="title">Promoting public-private collaboration through the SDGs in Paraná, Brazil (en)</cell>
@@ -1840,7 +1920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78a145e6</cell>
   </row>
-  <row index="92">
+  <row index="96">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e703ddc4-en</cell>
     <cell name="title">Towards Chile’s Next Plan for Student Assessments (en)</cell>
@@ -1860,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7165b4b6</cell>
   </row>
-  <row index="93">
+  <row index="97">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/4844067e-en</cell>
     <cell name="title">OECD Economic Surveys: Romania 2026 (en)</cell>
@@ -1880,7 +1960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09ec7ab3</cell>
   </row>
-  <row index="94">
+  <row index="98">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/7cea027b-en</cell>
     <cell name="title">OECD Economic Surveys: Austria 2026 (en)</cell>
@@ -1900,14 +1980,34 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/58978743</cell>
   </row>
-  <row index="95">
+  <row index="99">
+    <cell name="directorate">Global Relations and Cooperation Directorate</cell>
+    <cell name="doi">10.1787/a02e31fe-en</cell>
+    <cell name="title">Creating well-functioning energy markets in the Republic of Moldova (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-03-24</cell>
+    <cell name="embargo date">2026-03-23T23:01:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Policy paper</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b43d2cfb</cell>
+  </row>
+  <row index="100">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3cccc492-en</cell>
     <cell name="title">Policies for the Future of Fisheries and Aquaculture in Peru (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2026-03-24</cell>
     <cell name="embargo date">2026-03-24T14:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1920,14 +2020,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3931044</cell>
   </row>
-  <row index="96">
+  <row index="101">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6e4a7983-en</cell>
     <cell name="title">Health System Performance Assessment Framework for Luxembourg (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2026-03-25</cell>
     <cell name="embargo date">2026-03-25T12:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1940,7 +2040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63773689</cell>
   </row>
-  <row index="97">
+  <row index="102">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/38ac9206-en</cell>
     <cell name="title">OECD Anti-Bribery Convention Phase 4 Report on Argentina (en)</cell>
@@ -1960,7 +2060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20493cb3</cell>
   </row>
-  <row index="98">
+  <row index="103">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/40a7532f-en</cell>
     <cell name="title">Foundations for Growth and Competitiveness 2026 (en)</cell>

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 2 March 2026 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 3 March 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Consumer Finance Risk Monitor 2026](https://doi.org/10.1787/61f7dbe0-en)
 
@@ -90,9 +90,9 @@ Wednesday 4 March 2026 at 12:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -303,6 +303,29 @@ Wednesday 18 March 2026 at 23:00 | no launch event
 
 ------
 
+## [Creating well-functioning energy markets in the Republic of Moldova](https://doi.org/10.1787/a02e31fe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Policies for the Future of Fisheries and Aquaculture in Peru](https://doi.org/10.1787/3cccc492-en)
 
 Embargo date | Launch date
@@ -320,7 +343,7 @@ Tuesday 24 March 2026 at 14:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -343,7 +366,7 @@ Wednesday 25 March 2026 at 12:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 

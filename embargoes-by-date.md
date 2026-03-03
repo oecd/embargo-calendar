@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 2 March 2026 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 3 March 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 March 2026](#2-march-2026)
 * [4 March 2026](#4-march-2026)
@@ -11,6 +11,7 @@ Data generated on | |
 * [12 March 2026](#12-march-2026)
 * [15 March 2026](#15-march-2026)
 * [18 March 2026](#18-march-2026)
+* [23 March 2026](#23-march-2026)
 * [24 March 2026](#24-march-2026)
 * [25 March 2026](#25-march-2026)
 * [26 March 2026](#26-march-2026)
@@ -110,9 +111,9 @@ Wednesday 4 March 2026 at 12:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -345,6 +346,33 @@ Wednesday 18 March 2026 at 23:00 | no launch event
 
 ------
 
+# 23 March 2026
+
+## [Creating well-functioning energy markets in the Republic of Moldova](https://doi.org/10.1787/a02e31fe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 24 March 2026
 
 ## [Policies for the Future of Fisheries and Aquaculture in Peru](https://doi.org/10.1787/3cccc492-en)
@@ -364,7 +392,7 @@ Tuesday 24 March 2026 at 14:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -391,7 +419,7 @@ Wednesday 25 March 2026 at 12:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
