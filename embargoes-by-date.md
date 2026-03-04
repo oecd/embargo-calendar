@@ -2,16 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 3 March 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 4 March 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 March 2026](#2-march-2026)
 * [4 March 2026](#4-march-2026)
 * [5 March 2026](#5-march-2026)
 * [9 March 2026](#9-march-2026)
 * [12 March 2026](#12-march-2026)
 * [15 March 2026](#15-march-2026)
+* [17 March 2026](#17-march-2026)
 * [18 March 2026](#18-march-2026)
-* [23 March 2026](#23-march-2026)
 * [24 March 2026](#24-march-2026)
 * [25 March 2026](#25-march-2026)
 * [26 March 2026](#26-march-2026)
@@ -19,36 +18,13 @@ Data generated on | |
 
 ------
 
-# 2 March 2026
+# 4 March 2026
 
-## [Consumer Finance Risk Monitor 2026](https://doi.org/10.1787/61f7dbe0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 March 2026 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Observateur des risques pour les consommateurs dans le domaine financier 2026 (version abrégée)](https://doi.org/10.1787/854254cd-fr)
+## [Rapport sur la dette mondiale 2026 (version abrégée) - Soutenir la résilience d’un marché de la dette sous une tension croissante](https://doi.org/10.1787/874315d7-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 2 March 2026 at 13:30 | no launch event
+Wednesday 4 March 2026 at 12:00 | no launch event
 
 ### Status Information
 
@@ -63,36 +39,9 @@ Monday 2 March 2026 at 13:30 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
+* Format: *PDF*
 
 ------
-
-## [Review of the Dominican Republic's Enabling Environment for the Semiconductor and Microelectronics Industries](https://doi.org/10.1787/0b35b5a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 March 2026 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 4 March 2026
 
 ## [Global Debt Report 2026 - Sustaining Debt Market Resilience Under Growing Pressure](https://doi.org/10.1787/e9d80efd-en)
 
@@ -114,29 +63,6 @@ Wednesday 4 March 2026 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Towards an integrated rural fire management framework in Portugal](https://doi.org/10.1787/9cb528df-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
 
 ------
 
@@ -319,6 +245,33 @@ Sunday 15 March 2026 at 23:00 | no launch event
 
 ------
 
+# 17 March 2026
+
+## [Creating well-functioning energy markets in the Republic of Moldova](https://doi.org/10.1787/a02e31fe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 18 March 2026
 
 ## [OECD Economic Surveys: Austria 2026](https://doi.org/10.1787/7cea027b-en)
@@ -340,33 +293,6 @@ Wednesday 18 March 2026 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-------
-
-# 23 March 2026
-
-## [Creating well-functioning energy markets in the Republic of Moldova](https://doi.org/10.1787/a02e31fe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -425,6 +351,29 @@ Wednesday 25 March 2026 at 12:00 | no launch event
 
 ------
 
+## [Towards an integrated rural fire management framework in Portugal](https://doi.org/10.1787/9cb528df-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 26 March 2026
@@ -449,6 +398,29 @@ Thursday 26 March 2026 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Outlook, Interim Report March 2026](https://doi.org/10.1787/d4623013-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 March 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
 
 ------
 
