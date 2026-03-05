@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 4 March 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 5 March 2026 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Rapport sur la dette mondiale 2026 (version abrégée) - Soutenir la résilience d’un marché de la dette sous une tension croissante](https://doi.org/10.1787/874315d7-fr)
 
@@ -265,7 +265,7 @@ Tuesday 24 March 2026 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -274,9 +274,9 @@ Tuesday 24 March 2026 at 14:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 

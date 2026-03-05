@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 4 March 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 5 March 2026 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 March 2026](#4-march-2026)
 * [5 March 2026](#5-march-2026)
@@ -309,7 +309,7 @@ Tuesday 24 March 2026 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -318,9 +318,9 @@ Tuesday 24 March 2026 at 14:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
