@@ -2,69 +2,22 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 5 March 2026 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 6 March 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 March 2026](#4-march-2026)
 * [5 March 2026](#5-march-2026)
-* [9 March 2026](#9-march-2026)
+* [11 March 2026](#11-march-2026)
 * [12 March 2026](#12-march-2026)
+* [14 March 2026](#14-march-2026)
 * [15 March 2026](#15-march-2026)
+* [16 March 2026](#16-march-2026)
 * [17 March 2026](#17-march-2026)
 * [18 March 2026](#18-march-2026)
+* [22 March 2026](#22-march-2026)
 * [24 March 2026](#24-march-2026)
 * [25 March 2026](#25-march-2026)
 * [26 March 2026](#26-march-2026)
+* [2 April 2026](#2-april-2026)
 * [8 April 2026](#8-april-2026)
-
-------
-
-# 4 March 2026
-
-## [Rapport sur la dette mondiale 2026 (version abrégée) - Soutenir la résilience d’un marché de la dette sous une tension croissante](https://doi.org/10.1787/874315d7-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 March 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Global Debt Report 2026 - Sustaining Debt Market Resilience Under Growing Pressure](https://doi.org/10.1787/e9d80efd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 March 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -164,13 +117,13 @@ Thursday 5 March 2026 at 13:00 | no launch event
 
 ------
 
-# 9 March 2026
+# 11 March 2026
 
-## [Promoting public-private collaboration through the SDGs in Paraná, Brazil](https://doi.org/10.1787/b14a601c-en)
+## [The real wage recovery is slowing down - The OECD wage bulletin](https://doi.org/10.1787/507d3cf8-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 9 March 2026 at 23:01 | no launch event
+Wednesday 11 March 2026 at 23:01 | no launch event
 
 ### Status Information
 
@@ -181,7 +134,7 @@ Monday 9 March 2026 at 23:01 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
@@ -218,6 +171,33 @@ Thursday 12 March 2026 at 23:01 | no launch event
 
 ------
 
+# 14 March 2026
+
+## [Industrial Policies in Canada](https://doi.org/10.1787/3887025f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Saturday 14 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 15 March 2026
 
 ## [OECD Economic Surveys: Romania 2026](https://doi.org/10.1787/4844067e-en)
@@ -239,6 +219,56 @@ Sunday 15 March 2026 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Mobilising private investment to address societal challenges - The role of business in mission-oriented innovation policies](https://doi.org/10.1787/ff217951-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 15 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 16 March 2026
+
+## [Regulation and growth reloaded - Lessons from 25 years of retail trade and professional services reforms](https://doi.org/10.1787/4326cd65-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -299,6 +329,56 @@ Wednesday 18 March 2026 at 23:00 | no launch event
 
 ------
 
+# 22 March 2026
+
+## [OECD review of the Italian Parliamentary Budget Office](https://doi.org/10.1787/0075d7a5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 22 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Can the Sahm rule indicator signal recession in OECD countries?](https://doi.org/10.1787/c15f9c28-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 22 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 24 March 2026
 
 ## [Policies for the Future of Fisheries and Aquaculture in Peru](https://doi.org/10.1787/3cccc492-en)
@@ -321,6 +401,29 @@ Tuesday 24 March 2026 at 14:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Mandatory spending in budgeting in selected OECD countries](https://doi.org/10.1787/960063a5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
@@ -395,7 +498,7 @@ Thursday 26 March 2026 at 10:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -421,6 +524,33 @@ Thursday 26 March 2026 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 2 April 2026
+
+## [Implementing budgetary reforms in Greece - Performance budgeting, spending reviews and green budgeting](https://doi.org/10.1787/75348f67-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 April 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
