@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 March 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 8 March 2026 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 March 2026](#5-march-2026)
 * [11 March 2026](#11-march-2026)
 * [12 March 2026](#12-march-2026)
 * [14 March 2026](#14-march-2026)
@@ -18,102 +17,6 @@ Data generated on | |
 * [26 March 2026](#26-march-2026)
 * [2 April 2026](#2-april-2026)
 * [8 April 2026](#8-april-2026)
-
-------
-
-# 5 March 2026
-
-## [Financial Protection Against Catastrophic Risks - Floods, Fires and Other Major Risks](https://doi.org/10.1787/32a3acd7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 March 2026 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Protection financière contre les risques de catastrophe (version abrégée) - Inondations, incendies et autres risques majeurs](https://doi.org/10.1787/dc53420a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 March 2026 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Cильніші фінансові ринки та інституції для відновлення України](https://doi.org/10.1787/00fed5be-uk)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 March 2026 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Ukrainian*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Stronger Financial Markets and Institutions for Ukraine’s Recovery](https://doi.org/10.1787/0c41c8ac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 March 2026 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
