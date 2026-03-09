@@ -2,21 +2,21 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 8 March 2026 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 9 March 2026 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 March 2026](#11-march-2026)
 * [12 March 2026](#12-march-2026)
-* [14 March 2026](#14-march-2026)
 * [15 March 2026](#15-march-2026)
-* [16 March 2026](#16-march-2026)
 * [17 March 2026](#17-march-2026)
 * [18 March 2026](#18-march-2026)
+* [19 March 2026](#19-march-2026)
 * [22 March 2026](#22-march-2026)
 * [24 March 2026](#24-march-2026)
 * [25 March 2026](#25-march-2026)
 * [26 March 2026](#26-march-2026)
 * [2 April 2026](#2-april-2026)
 * [8 April 2026](#8-april-2026)
+* [22 April 2026](#22-april-2026)
 
 ------
 
@@ -74,33 +74,6 @@ Thursday 12 March 2026 at 23:01 | no launch event
 
 ------
 
-# 14 March 2026
-
-## [Industrial Policies in Canada](https://doi.org/10.1787/3887025f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Saturday 14 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 15 March 2026
 
 ## [OECD Economic Surveys: Romania 2026](https://doi.org/10.1787/4844067e-en)
@@ -120,58 +93,8 @@ Sunday 15 March 2026 at 23:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Mobilising private investment to address societal challenges - The role of business in mission-oriented innovation policies](https://doi.org/10.1787/ff217951-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 15 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 16 March 2026
-
-## [Regulation and growth reloaded - Lessons from 25 years of retail trade and professional services reforms](https://doi.org/10.1787/4326cd65-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -224,8 +147,35 @@ Wednesday 18 March 2026 at 23:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 19 March 2026
+
+## [Industrial Policies in Canada](https://doi.org/10.1787/3887025f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -283,6 +233,75 @@ Sunday 22 March 2026 at 23:01 | no launch event
 ------
 
 # 24 March 2026
+
+## [Perspectivas de anticorrupción e integridad 2026 - La integridad como ventaja estratégica](https://doi.org/10.1787/f112b919-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Anti-Corruption and Integrity Outlook 2026 - Harnessing the Integrity Advantage](https://doi.org/10.1787/16708b78-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Perspectives de l’OCDE sur l’intégrité et la lutte contre la corruption 2026 - Faire de l'intégrité un atout stratégique](https://doi.org/10.1787/9b8b4cae-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
 
 ## [Policies for the Future of Fisheries and Aquaculture in Peru](https://doi.org/10.1787/3cccc492-en)
 
@@ -407,6 +426,29 @@ Thursday 26 March 2026 at 10:00 | no launch event
 
 ------
 
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2026](https://doi.org/10.1787/b961ba49-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 March 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Outlook, Interim Report March 2026](https://doi.org/10.1787/d4623013-en)
 
 Embargo date | Launch date
@@ -480,6 +522,33 @@ Wednesday 8 April 2026 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 22 April 2026
+
+## [Taxing Wages 2026 - The Progressivity of Labour Taxation in OECD Countries](https://doi.org/10.1787/3a5169ef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 April 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
