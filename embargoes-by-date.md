@@ -2,11 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 March 2026 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 10 March 2026 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 March 2026](#11-march-2026)
 * [12 March 2026](#12-march-2026)
-* [15 March 2026](#15-march-2026)
+* [16 March 2026](#16-march-2026)
 * [17 March 2026](#17-march-2026)
 * [18 March 2026](#18-march-2026)
 * [19 March 2026](#19-march-2026)
@@ -17,33 +16,6 @@ Data generated on | |
 * [2 April 2026](#2-april-2026)
 * [8 April 2026](#8-april-2026)
 * [22 April 2026](#22-april-2026)
-
-------
-
-# 11 March 2026
-
-## [The real wage recovery is slowing down - The OECD wage bulletin](https://doi.org/10.1787/507d3cf8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 11 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -74,13 +46,36 @@ Thursday 12 March 2026 at 23:01 | no launch event
 
 ------
 
-# 15 March 2026
+# 16 March 2026
 
 ## [OECD Economic Surveys: Romania 2026](https://doi.org/10.1787/4844067e-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 15 March 2026 at 23:00 | no launch event
+Monday 16 March 2026 at 8:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [The real wage recovery is slowing down - The OECD wage bulletin](https://doi.org/10.1787/507d3cf8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 March 2026 at 23:01 | no launch event
 
 ### Status Information
 
@@ -91,10 +86,10 @@ Sunday 15 March 2026 at 23:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -203,29 +198,6 @@ Sunday 22 March 2026 at 23:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Can the Sahm rule indicator signal recession in OECD countries?](https://doi.org/10.1787/c15f9c28-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 22 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -550,5 +522,28 @@ Wednesday 22 April 2026 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Results from the Teacher Knowledge Survey - What Teachers Know About General Pedagogy](https://doi.org/10.1787/5542e88a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 April 2026 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
