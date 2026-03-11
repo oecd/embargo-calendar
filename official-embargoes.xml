@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-03-10T23:10:11.1510714+01:00">
+<report name="official-embargoes" generated="2026-03-11T23:42:52.3396958+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -601,26 +601,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9efbec98</cell>
   </row>
   <row index="30">
-    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
-    <cell name="doi">10.1787/38ac9206-en</cell>
-    <cell name="title">OECD Anti-Bribery Convention Phase 4 Report on Argentina (en)</cell>
-    <cell name="subtitle">Implementing the Convention and Related Legal Instruments (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2026-03-26</cell>
-    <cell name="embargo date">2026-03-26T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20493cb3</cell>
-  </row>
-  <row index="31">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b961ba49-fr</cell>
     <cell name="title">Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2026 (fr)</cell>
@@ -640,7 +620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e1b55902</cell>
   </row>
-  <row index="32">
+  <row index="31">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d4623013-en</cell>
     <cell name="title">OECD Economic Outlook, Interim Report March 2026 (en)</cell>
@@ -660,7 +640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25eef9ce</cell>
   </row>
-  <row index="33">
+  <row index="32">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/75348f67-en</cell>
     <cell name="title">Implementing budgetary reforms in Greece (en)</cell>
@@ -679,6 +659,26 @@
     <cell name="catalogue type">Policy paper</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/159e24ab</cell>
+  </row>
+  <row index="33">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/f61872c5-fr</cell>
+    <cell name="title">Cadre d’évaluation de la performance du système de santé pour le Luxembourg (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-04-08</cell>
+    <cell name="embargo date">2026-04-08T11:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/404e07a6</cell>
   </row>
   <row index="34">
     <cell name="directorate">Economics Department</cell>

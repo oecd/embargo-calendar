@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 10 March 2026 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 11 March 2026 at 23:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Towards Chile’s Next Plan for Student Assessments](https://doi.org/10.1787/e703ddc4-en)
 
@@ -326,29 +326,6 @@ Wednesday 25 March 2026 at 23:01 | no launch event
 
 ------
 
-## [OECD Anti-Bribery Convention Phase 4 Report on Argentina - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/38ac9206-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 March 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2026](https://doi.org/10.1787/b961ba49-fr)
 
 Embargo date | Launch date
@@ -414,6 +391,29 @@ Thursday 2 April 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Cadre d’évaluation de la performance du système de santé pour le Luxembourg](https://doi.org/10.1787/f61872c5-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 April 2026 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
