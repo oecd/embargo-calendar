@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-03-11T23:42:52.3396958+01:00">
+<report name="official-embargoes" generated="2026-03-12T23:24:25.7163315+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -49,7 +49,7 @@
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2026-03-16</cell>
-    <cell name="embargo date">2026-03-16T08:30:00Z</cell>
+    <cell name="embargo date">2026-03-16T08:40:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -61,46 +61,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09ec7ab3</cell>
   </row>
   <row index="3">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/507d3cf8-en</cell>
-    <cell name="title">The real wage recovery is slowing down (en)</cell>
-    <cell name="subtitle">The OECD wage bulletin (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-03-17</cell>
-    <cell name="embargo date">2026-03-16T23:01:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Policy paper</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08bcade9</cell>
-  </row>
-  <row index="4">
-    <cell name="directorate">Global Relations and Cooperation Directorate</cell>
-    <cell name="doi">10.1787/a02e31fe-en</cell>
-    <cell name="title">Creating well-functioning energy markets in the Republic of Moldova (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-03-18</cell>
-    <cell name="embargo date">2026-03-17T23:01:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Policy paper</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b43d2cfb</cell>
-  </row>
-  <row index="5">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/7cea027b-en</cell>
     <cell name="title">OECD Economic Surveys: Austria 2026 (en)</cell>
@@ -120,7 +80,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/58978743</cell>
   </row>
-  <row index="6">
+  <row index="4">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3887025f-en</cell>
     <cell name="title">Industrial Policies in Canada (en)</cell>
@@ -140,7 +100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/244a51cf</cell>
   </row>
-  <row index="7">
+  <row index="5">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0075d7a5-en</cell>
     <cell name="title">OECD review of the Italian Parliamentary Budget Office (en)</cell>
@@ -160,7 +120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53d0f535</cell>
   </row>
-  <row index="8">
+  <row index="6">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f112b919-es</cell>
     <cell name="title">Perspectivas de anticorrupción e integridad 2026 (es)</cell>
@@ -180,7 +140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ff437fc</cell>
   </row>
-  <row index="9">
+  <row index="7">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/16708b78-en</cell>
     <cell name="title">Anti-Corruption and Integrity Outlook 2026 (en)</cell>
@@ -200,7 +160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/adb2909f</cell>
   </row>
-  <row index="10">
+  <row index="8">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9b8b4cae-fr</cell>
     <cell name="title">Perspectives de l’OCDE sur l’intégrité et la lutte contre la corruption 2026 (fr)</cell>
@@ -220,7 +180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1be30442</cell>
   </row>
-  <row index="11">
+  <row index="9">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/31720b76-en</cell>
     <cell name="title">Acronyms (en)</cell>
@@ -240,7 +200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a3a7ebdb</cell>
   </row>
-  <row index="12">
+  <row index="10">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/30d8f5cf-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -260,7 +220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f73bdab</cell>
   </row>
-  <row index="13">
+  <row index="11">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/cc2c82d5-en</cell>
     <cell name="title">Fisheries management in Peru (en)</cell>
@@ -280,7 +240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e44616de</cell>
   </row>
-  <row index="14">
+  <row index="12">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0ad3566a-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -300,7 +260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fcd11884</cell>
   </row>
-  <row index="15">
+  <row index="13">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ec3218bc-en</cell>
     <cell name="title">Government support to fisheries in Peru (en)</cell>
@@ -320,7 +280,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03567219</cell>
   </row>
-  <row index="16">
+  <row index="14">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/712e7084-es</cell>
+    <cell name="title">Políticas para el futuro de la pesca y la acuicultura en Perú (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-03-24</cell>
+    <cell name="embargo date">2026-03-24T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ced50d66</cell>
+  </row>
+  <row index="15">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3cccc492-en</cell>
     <cell name="title">Policies for the Future of Fisheries and Aquaculture in Peru (en)</cell>
@@ -340,7 +320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3931044</cell>
   </row>
-  <row index="17">
+  <row index="16">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f7e82bfc-en</cell>
     <cell name="title">Aquaculture policies in Peru (en)</cell>
@@ -360,7 +340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42d68482</cell>
   </row>
-  <row index="18">
+  <row index="17">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3cccc492-en</cell>
     <cell name="title">Policies for the Future of Fisheries and Aquaculture in Peru (en)</cell>
@@ -380,7 +360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/336a2a6c</cell>
   </row>
-  <row index="19">
+  <row index="18">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a2087ca0-en</cell>
     <cell name="title">The state of fisheries and aquaculture in Peru (en)</cell>
@@ -400,7 +380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d9c815a1</cell>
   </row>
-  <row index="20">
+  <row index="19">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0d5dfc44-en</cell>
     <cell name="title">Fisheries governance in Peru (en)</cell>
@@ -420,7 +400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70e55582</cell>
   </row>
-  <row index="21">
+  <row index="20">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ef82a5b1-en</cell>
     <cell name="title">Key findings and recommendations (en)</cell>
@@ -440,7 +420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc181ebb</cell>
   </row>
-  <row index="22">
+  <row index="21">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3cccc492-en</cell>
     <cell name="title">Policies for the Future of Fisheries and Aquaculture in Peru (en)</cell>
@@ -460,7 +440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/accaf080</cell>
   </row>
-  <row index="23">
+  <row index="22">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bf732174-en</cell>
     <cell name="title">Monitoring, control and surveillance and the fight against illegal, unreported and unregulated fishing in Peru (en)</cell>
@@ -480,7 +460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a623e05</cell>
   </row>
-  <row index="24">
+  <row index="23">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3cccc492-en</cell>
     <cell name="title">Policies for the Future of Fisheries and Aquaculture in Peru (en)</cell>
@@ -500,7 +480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37763beb</cell>
   </row>
-  <row index="25">
+  <row index="24">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3cccc492-en</cell>
     <cell name="title">Policies for the Future of Fisheries and Aquaculture in Peru (en)</cell>
@@ -520,7 +500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62862578</cell>
   </row>
-  <row index="26">
+  <row index="25">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/960063a5-en</cell>
     <cell name="title">Mandatory spending in budgeting in selected OECD countries (en)</cell>
@@ -540,7 +520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/79e373de</cell>
   </row>
-  <row index="27">
+  <row index="26">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6e4a7983-en</cell>
     <cell name="title">Health System Performance Assessment Framework for Luxembourg (en)</cell>
@@ -560,7 +540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63773689</cell>
   </row>
-  <row index="28">
+  <row index="27">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9cb528df-en</cell>
     <cell name="title">Towards an integrated rural fire management framework in Portugal (en)</cell>
@@ -580,7 +560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2bacfeb7</cell>
   </row>
-  <row index="29">
+  <row index="28">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d4623013-en</cell>
     <cell name="title">OECD Economic Outlook, Interim Report March 2026 (en)</cell>
@@ -600,7 +580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9efbec98</cell>
   </row>
-  <row index="30">
+  <row index="29">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b961ba49-fr</cell>
     <cell name="title">Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2026 (fr)</cell>
@@ -620,7 +600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e1b55902</cell>
   </row>
-  <row index="31">
+  <row index="30">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d4623013-en</cell>
     <cell name="title">OECD Economic Outlook, Interim Report March 2026 (en)</cell>
@@ -640,7 +620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25eef9ce</cell>
   </row>
-  <row index="32">
+  <row index="31">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/75348f67-en</cell>
     <cell name="title">Implementing budgetary reforms in Greece (en)</cell>
@@ -660,7 +640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/159e24ab</cell>
   </row>
-  <row index="33">
+  <row index="32">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f61872c5-fr</cell>
     <cell name="title">Cadre d’évaluation de la performance du système de santé pour le Luxembourg (fr)</cell>
@@ -680,7 +660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/404e07a6</cell>
   </row>
-  <row index="34">
+  <row index="33">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/40a7532f-en</cell>
     <cell name="title">Foundations for Growth and Competitiveness 2026 (en)</cell>
@@ -700,7 +680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4de0bf9</cell>
   </row>
-  <row index="35">
+  <row index="34">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3a5169ef-en</cell>
     <cell name="title">Taxing Wages 2026 (en)</cell>
@@ -720,7 +700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/866dcfc5</cell>
   </row>
-  <row index="36">
+  <row index="35">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5542e88a-en</cell>
     <cell name="title">Results from the Teacher Knowledge Survey (en)</cell>
@@ -740,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af8d6ff9</cell>
   </row>
-  <row index="37">
+  <row index="36">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5542e88a-en</cell>
     <cell name="title">Results from the Teacher Knowledge Survey (en)</cell>

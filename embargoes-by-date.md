@@ -2,11 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 11 March 2026 at 23:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 12 March 2026 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 March 2026](#12-march-2026)
 * [16 March 2026](#16-march-2026)
-* [17 March 2026](#17-march-2026)
 * [18 March 2026](#18-march-2026)
 * [19 March 2026](#19-march-2026)
 * [22 March 2026](#22-march-2026)
@@ -52,7 +51,7 @@ Thursday 12 March 2026 at 23:01 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 16 March 2026 at 8:30 | no launch event
+Monday 16 March 2026 at 8:40 | no launch event
 
 ### Status Information
 
@@ -67,56 +66,6 @@ Monday 16 March 2026 at 8:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [The real wage recovery is slowing down - The OECD wage bulletin](https://doi.org/10.1787/507d3cf8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 17 March 2026
-
-## [Creating well-functioning energy markets in the Republic of Moldova](https://doi.org/10.1787/a02e31fe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -269,6 +218,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Políticas para el futuro de la pesca y la acuicultura en Perú](https://doi.org/10.1787/712e7084-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
