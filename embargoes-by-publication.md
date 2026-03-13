@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 March 2026 at 23:24* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 13 March 2026 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Towards Chile’s Next Plan for Student Assessments](https://doi.org/10.1787/e703ddc4-en)
 
@@ -412,7 +412,7 @@ Wednesday 8 April 2026 at 22:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 

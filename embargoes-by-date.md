@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 March 2026 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 13 March 2026 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 March 2026](#12-march-2026)
 * [16 March 2026](#16-march-2026)
@@ -464,7 +464,7 @@ Wednesday 8 April 2026 at 22:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
