@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 March 2026 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Towards Chile’s Next Plan for Student Assessments](https://doi.org/10.1787/e703ddc4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
+| *Sunday 15 March 2026 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Romania 2026](https://doi.org/10.1787/4844067e-en)
 

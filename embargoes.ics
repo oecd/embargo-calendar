@@ -2,46 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/e703ddc4-end3e63
-SUMMARY:[Policy paper] Towards Chile’s Next Plan
-  for Student Assessments
-DESCRIPTION:*[Policy paper] Towards Chile’s Next Pla
- n for Student Assessments*\n\nDirectorat
- e: Directorate for Education and Skills\
- nLanguage: English\nDOI: https://doi.org
- /10.1787/e703ddc4-en\nPublication type: 
- Policy paper\nReleased as: PDF\n\nEmbarg
- o date/time: Thursday, 12 March 2026, 23
- :01 (GMT)\n\n\niLibrary export: never\nF
- reepreview export: never\nOECD.org expor
- t: never\nFTI loaded: ✓\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:09, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=e703ddc4-en.
-DTSTAMP:20260313T230906Z
-DTSTART:20260312T230100Z
-DTEND:20260312T231600Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Policy paper] Towards Chile’s
-  Next Plan for Student Assessments
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/4844067e-end3e116
+UID:10.1787/4844067e-end3e63
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Romania 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -57,7 +18,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 23:09, it is updated each night; t
+ on at 23:05, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -66,7 +27,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=4844067e-en
  .
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260316T084000Z
 DTEND:20260316T085500Z
 TRANSP:TRANSPARENT
@@ -80,7 +41,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7cea027b-end3e169
+UID:10.1787/7cea027b-end3e116
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Austria 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -96,7 +57,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 23:09, it is updated each nigh
+ ernoon at 23:05, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -105,7 +66,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=7cea027
  b-en.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260318T230000Z
 DTEND:20260318T231500Z
 TRANSP:TRANSPARENT
@@ -119,7 +80,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3887025f-end3e221
+UID:10.1787/3887025f-end3e168
 SUMMARY:[Policy paper] Industrial Policies in Ca
  nada
 DESCRIPTION:*[Policy paper] Industrial Policies in C
@@ -135,7 +96,7 @@ DESCRIPTION:*[Policy paper] Industrial Policies in C
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:09, it is up
+  as of this afternoon at 23:05, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -144,7 +105,7 @@ DESCRIPTION:*[Policy paper] Industrial Policies in C
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=3887025f-en.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260319T230100Z
 DTEND:20260319T231600Z
 TRANSP:TRANSPARENT
@@ -158,7 +119,7 @@ DESCRIPTION:Reminder: [Policy paper] Industrial Poli
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0075d7a5-end3e274
+UID:10.1787/0075d7a5-end3e220
 SUMMARY:[Policy paper] OECD review of the Italia
  n Parliamentary Budget Office
 DESCRIPTION:*[Policy paper] OECD review of the Itali
@@ -174,7 +135,7 @@ DESCRIPTION:*[Policy paper] OECD review of the Itali
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:09, 
+  correct as of this afternoon at 23:05, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -183,7 +144,7 @@ DESCRIPTION:*[Policy paper] OECD review of the Itali
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=0075d7a5-en.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260322T230100Z
 DTEND:20260322T231600Z
 TRANSP:TRANSPARENT
@@ -197,7 +158,7 @@ DESCRIPTION:Reminder: [Policy paper] OECD review of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f112b919-esd3e326
+UID:10.1787/f112b919-esd3e273
 SUMMARY:[Stand-alone monograph] Perspectivas de 
  anticorrupción e integridad 2026 - La in
  tegridad como ventaja estratégica
@@ -216,7 +177,7 @@ DESCRIPTION:*[Stand-alone monograph] Perspectivas de
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 23:09, it is updated each night; t
+ on at 23:05, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -225,7 +186,7 @@ DESCRIPTION:*[Stand-alone monograph] Perspectivas de
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=f112b919-es
  .
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260324T073000Z
 DTEND:20260324T074500Z
 TRANSP:TRANSPARENT
@@ -241,7 +202,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Perspe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/16708b78-end3e379
+UID:10.1787/16708b78-end3e326
 SUMMARY:[Stand-alone monograph] Anti-Corruption 
  and Integrity Outlook 2026 - Harnessing 
  the Integrity Advantage
@@ -260,7 +221,7 @@ DESCRIPTION:*[Stand-alone monograph] Anti-Corruption
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 23:0
- 9, it is updated each night; therefore a
+ 5, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -268,7 +229,7 @@ DESCRIPTION:*[Stand-alone monograph] Anti-Corruption
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=16708b78-en.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260324T073000Z
 DTEND:20260324T074500Z
 TRANSP:TRANSPARENT
@@ -283,7 +244,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Anti-C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9b8b4cae-frd3e432
+UID:10.1787/9b8b4cae-frd3e379
 SUMMARY:[Stand-alone monograph] Perspectives de 
  l’OCDE sur l’intégrité et la lutte contr
  e la corruption 2026 - Faire de l'intégr
@@ -304,7 +265,7 @@ DESCRIPTION:*[Stand-alone monograph] Perspectives de
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 23:0
- 9, it is updated each night; therefore a
+ 5, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -312,7 +273,7 @@ DESCRIPTION:*[Stand-alone monograph] Perspectives de
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=9b8b4cae-fr.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260324T073000Z
 DTEND:20260324T074500Z
 TRANSP:TRANSPARENT
@@ -328,7 +289,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Perspe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/712e7084-esd3e751
+UID:10.1787/712e7084-esd3e698
 SUMMARY:[Stand-alone monograph] Políticas para e
  l futuro de la pesca y la acuicultura en
   Perú
@@ -346,7 +307,7 @@ DESCRIPTION:*[Stand-alone monograph] Políticas para
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:09, it is updated 
+  this afternoon at 23:05, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -355,7 +316,7 @@ DESCRIPTION:*[Stand-alone monograph] Políticas para
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=712e7084-es.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260324T140000Z
 DTEND:20260324T141500Z
 TRANSP:TRANSPARENT
@@ -370,7 +331,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Políti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3cccc492-end3e803
+UID:10.1787/3cccc492-end3e750
 SUMMARY:[Stand-alone monograph] Policies for the
   Future of Fisheries and Aquaculture in 
  Peru
@@ -389,7 +350,7 @@ DESCRIPTION:*[Stand-alone monograph] Policies for th
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 23:09, it is updated each night; 
+ oon at 23:05, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -398,7 +359,7 @@ DESCRIPTION:*[Stand-alone monograph] Policies for th
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=3cccc492-e
  n.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260324T140000Z
 DTEND:20260324T141500Z
 TRANSP:TRANSPARENT
@@ -413,7 +374,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Polici
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/960063a5-end3e1334
+UID:10.1787/960063a5-end3e1281
 SUMMARY:[Policy paper] Mandatory spending in bud
  geting in selected OECD countries
 DESCRIPTION:*[Policy paper] Mandatory spending in bu
@@ -430,7 +391,7 @@ DESCRIPTION:*[Policy paper] Mandatory spending in bu
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 23
- :09, it is updated each night; therefore
+ :05, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -438,7 +399,7 @@ DESCRIPTION:*[Policy paper] Mandatory spending in bu
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=960063a5-en.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260324T230100Z
 DTEND:20260324T231600Z
 TRANSP:TRANSPARENT
@@ -453,7 +414,7 @@ DESCRIPTION:Reminder: [Policy paper] Mandatory spend
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6e4a7983-end3e1386
+UID:10.1787/6e4a7983-end3e1333
 SUMMARY:[Stand-alone monograph] Health System Pe
  rformance Assessment Framework for Luxem
  bourg
@@ -472,7 +433,7 @@ DESCRIPTION:*[Stand-alone monograph] Health System P
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  23:09, it is updated each night; theref
+  23:05, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -480,7 +441,7 @@ DESCRIPTION:*[Stand-alone monograph] Health System P
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=6e4a7983-en.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260325T120000Z
 DTEND:20260325T121500Z
 TRANSP:TRANSPARENT
@@ -495,7 +456,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Health
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9cb528df-end3e1438
+UID:10.1787/9cb528df-end3e1385
 SUMMARY:[Policy paper] Towards an integrated rur
  al fire management framework in Portugal
 DESCRIPTION:*[Policy paper] Towards an integrated ru
@@ -512,7 +473,7 @@ DESCRIPTION:*[Policy paper] Towards an integrated ru
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 23:
- 09, it is updated each night; therefore 
+ 05, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -520,7 +481,7 @@ DESCRIPTION:*[Policy paper] Towards an integrated ru
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=9cb528df-en.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260325T230100Z
 DTEND:20260325T231600Z
 TRANSP:TRANSPARENT
@@ -535,7 +496,7 @@ DESCRIPTION:Reminder: [Policy paper] Towards an inte
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b961ba49-frd3e1543
+UID:10.1787/b961ba49-frd3e1489
 SUMMARY:[Issue] Perspectives économiques de l'OC
  DE, Rapport intermédiaire, mars 2026
 DESCRIPTION:*[Issue] Perspectives économiques de l'O
@@ -551,7 +512,7 @@ DESCRIPTION:*[Issue] Perspectives économiques de l'O
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:09, it is update
+ of this afternoon at 23:05, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -560,7 +521,7 @@ DESCRIPTION:*[Issue] Perspectives économiques de l'O
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=b961ba49-fr.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260326T100000Z
 DTEND:20260326T101500Z
 TRANSP:TRANSPARENT
@@ -575,7 +536,7 @@ DESCRIPTION:Reminder: [Issue] Perspectives économiqu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d4623013-end3e1595
+UID:10.1787/d4623013-end3e1542
 SUMMARY:[Issue] OECD Economic Outlook, Interim R
  eport March 2026
 DESCRIPTION:*[Issue] OECD Economic Outlook, Interim 
@@ -591,7 +552,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Interim
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:09, it is updated each n
+ afternoon at 23:05, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -600,7 +561,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Interim
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=d462
  3013-en.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260326T100000Z
 DTEND:20260326T101500Z
 TRANSP:TRANSPARENT
@@ -614,7 +575,7 @@ DESCRIPTION:Reminder: [Issue] OECD Economic Outlook,
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/75348f67-end3e1647
+UID:10.1787/75348f67-end3e1594
 SUMMARY:[Policy paper] Implementing budgetary re
  forms in Greece - Performance budgeting,
   spending reviews and green budgeting
@@ -633,7 +594,7 @@ DESCRIPTION:*[Policy paper] Implementing budgetary r
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 23:09, it is updated each night; there
+ t 23:05, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -641,7 +602,7 @@ DESCRIPTION:*[Policy paper] Implementing budgetary r
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=75348f67-en.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260402T220100Z
 DTEND:20260402T221600Z
 TRANSP:TRANSPARENT
@@ -657,7 +618,7 @@ DESCRIPTION:Reminder: [Policy paper] Implementing bu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f61872c5-frd3e1700
+UID:10.1787/f61872c5-frd3e1647
 SUMMARY:[Stand-alone monograph] Cadre d’évaluati
  on de la performance du système de santé
   pour le Luxembourg
@@ -676,7 +637,7 @@ DESCRIPTION:*[Stand-alone monograph] Cadre d’évaluat
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:09, it is updated each n
+ afternoon at 23:05, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -685,7 +646,7 @@ DESCRIPTION:*[Stand-alone monograph] Cadre d’évaluat
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=f618
  72c5-fr.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260408T110000Z
 DTEND:20260408T111500Z
 TRANSP:TRANSPARENT
@@ -700,7 +661,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Cadre
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/40a7532f-end3e1752
+UID:10.1787/40a7532f-end3e1699
 SUMMARY:[Stand-alone monograph] Foundations for 
  Growth and Competitiveness 2026
 DESCRIPTION:*[Stand-alone monograph] Foundations for
@@ -716,7 +677,7 @@ DESCRIPTION:*[Stand-alone monograph] Foundations for
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:09, 
+  correct as of this afternoon at 23:05, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -725,7 +686,7 @@ DESCRIPTION:*[Stand-alone monograph] Foundations for
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=40a7532f-en.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260408T220000Z
 DTEND:20260408T221500Z
 TRANSP:TRANSPARENT
@@ -740,7 +701,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Founda
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3a5169ef-end3e1804
+UID:10.1787/3a5169ef-end3e1751
 SUMMARY:[Book] Taxing Wages 2026 - The Progressi
  vity of Labour Taxation in OECD Countrie
  s
@@ -758,7 +719,7 @@ DESCRIPTION:*[Book] Taxing Wages 2026 - The Progress
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 23:09, it is updated each night; t
+ on at 23:05, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -767,7 +728,7 @@ DESCRIPTION:*[Book] Taxing Wages 2026 - The Progress
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=3a5169ef-en
  .
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260422T090000Z
 DTEND:20260422T091500Z
 TRANSP:TRANSPARENT
@@ -782,7 +743,7 @@ DESCRIPTION:Reminder: [Book] Taxing Wages 2026 - The
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5542e88a-end3e1858
+UID:10.1787/5542e88a-end3e1804
 SUMMARY:[Book] Results from the Teacher Knowledg
  e Survey - What Teachers Know About Gene
  ral Pedagogy
@@ -800,7 +761,7 @@ DESCRIPTION:*[Book] Results from the Teacher Knowled
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:09, it is up
+  as of this afternoon at 23:05, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -809,7 +770,7 @@ DESCRIPTION:*[Book] Results from the Teacher Knowled
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=5542e88a-en.
-DTSTAMP:20260313T230906Z
+DTSTAMP:20260315T230523Z
 DTSTART:20260422T110000Z
 DTEND:20260422T111500Z
 TRANSP:TRANSPARENT

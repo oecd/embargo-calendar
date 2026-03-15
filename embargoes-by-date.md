@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 March 2026 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 15 March 2026 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 March 2026](#12-march-2026)
 * [16 March 2026](#16-march-2026)
 * [18 March 2026](#18-march-2026)
 * [19 March 2026](#19-march-2026)
@@ -15,33 +14,6 @@ Data generated on | |
 * [2 April 2026](#2-april-2026)
 * [8 April 2026](#8-april-2026)
 * [22 April 2026](#22-april-2026)
-
-------
-
-# 12 March 2026
-
-## [Towards Chile’s Next Plan for Student Assessments](https://doi.org/10.1787/e703ddc4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
