@@ -2,10 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 15 March 2026 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 16 March 2026 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [16 March 2026](#16-march-2026)
-* [18 March 2026](#18-march-2026)
 * [19 March 2026](#19-march-2026)
 * [22 March 2026](#22-march-2026)
 * [24 March 2026](#24-march-2026)
@@ -13,6 +12,7 @@ Data generated on | |
 * [26 March 2026](#26-march-2026)
 * [2 April 2026](#2-april-2026)
 * [8 April 2026](#8-april-2026)
+* [13 April 2026](#13-april-2026)
 * [22 April 2026](#22-april-2026)
 
 ------
@@ -44,17 +44,17 @@ Monday 16 March 2026 at 8:40 | no launch event
 
 ------
 
-# 18 March 2026
+# 19 March 2026
 
 ## [OECD Economic Surveys: Austria 2026](https://doi.org/10.1787/7cea027b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 18 March 2026 at 23:00 | no launch event
+Thursday 19 March 2026 at 9:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -63,15 +63,11 @@ Wednesday 18 March 2026 at 23:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
-
-------
-
-# 19 March 2026
 
 ## [Industrial Policies in Canada](https://doi.org/10.1787/3887025f-en)
 
@@ -204,7 +200,7 @@ Tuesday 24 March 2026 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -213,9 +209,9 @@ Tuesday 24 March 2026 at 14:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -438,6 +434,33 @@ Wednesday 8 April 2026 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 13 April 2026
+
+## [Chemical content validation of recycled plastics](https://doi.org/10.1787/7c862db6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 April 2026 at 6:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------

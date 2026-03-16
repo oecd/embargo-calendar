@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 15 March 2026 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 16 March 2026 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Romania 2026](https://doi.org/10.1787/4844067e-en)
 
@@ -31,11 +31,11 @@ Monday 16 March 2026 at 8:40 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 18 March 2026 at 23:00 | no launch event
+Thursday 19 March 2026 at 9:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -44,7 +44,7 @@ Wednesday 18 March 2026 at 23:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -173,7 +173,7 @@ Tuesday 24 March 2026 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -182,9 +182,9 @@ Tuesday 24 March 2026 at 14:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -391,6 +391,29 @@ Wednesday 8 April 2026 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Chemical content validation of recycled plastics](https://doi.org/10.1787/7c862db6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 April 2026 at 6:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
