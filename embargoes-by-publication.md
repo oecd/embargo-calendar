@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 16 March 2026 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 17 March 2026 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Romania 2026](https://doi.org/10.1787/4844067e-en)
 
@@ -234,7 +234,7 @@ Tuesday 24 March 2026 at 23:01 | no launch event
 
 ------
 
-## [Health System Performance Assessment Framework for Luxembourg](https://doi.org/10.1787/6e4a7983-en)
+## [Cadre d’évaluation de la performance du système de santé pour le Luxembourg](https://doi.org/10.1787/f61872c5-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -250,10 +250,33 @@ Wednesday 25 March 2026 at 12:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
+* Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF*
+
+------
+
+## [Health System Performance Assessment Framework for Luxembourg](https://doi.org/10.1787/6e4a7983-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 March 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -345,29 +368,6 @@ Thursday 2 April 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Cadre d’évaluation de la performance du système de santé pour le Luxembourg](https://doi.org/10.1787/f61872c5-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 April 2026 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
