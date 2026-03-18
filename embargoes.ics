@@ -2,46 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/4844067e-end3e63
-SUMMARY:[Economic survey] OECD Economic Surveys:
-  Romania 2026
-DESCRIPTION:*[Economic survey] OECD Economic Surveys
- : Romania 2026*\n\nDirectorate: Economic
- s Department\nLanguage: English\nDOI: ht
- tps://doi.org/10.1787/4844067e-en\nPubli
- cation type: Economic survey\nReleased a
- s: PDF\n\nEmbargo date/time: Monday, 16 
- March 2026, 8:40 (GMT)\n\n\niLibrary exp
- ort: never\nFreepreview export: never\nO
- ECD.org export: never\nFTI loaded: ✓\n\n
- For more information see: https://oecd.g
- ithub.io/embargo-calendar/embargoes-by-p
- ublication.html.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 23:09, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=4844067e-en
- .
-DTSTAMP:20260317T230910Z
-DTSTART:20260316T084000Z
-DTEND:20260316T085500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Economic survey] OECD Economi
- c Surveys: Romania 2026
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/7cea027b-end3e117
+UID:10.1787/7cea027b-end3e63
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Austria 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -66,7 +27,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=7cea027b-
  en.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260319T093000Z
 DTEND:20260319T094500Z
 TRANSP:TRANSPARENT
@@ -80,46 +41,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3887025f-end3e170
-SUMMARY:[Policy paper] Industrial Policies in Ca
- nada
-DESCRIPTION:*[Policy paper] Industrial Policies in C
- anada*\n\nDirectorate: Directorate for S
- cience, Technology and Industry\nLanguag
- e: English\nDOI: https://doi.org/10.1787
- /3887025f-en\nPublication type: Policy p
- aper\nReleased as: PDF\n\nEmbargo date/t
- ime: Thursday, 19 March 2026, 23:01 (GMT
- )\n\n\niLibrary export: never\nFreeprevi
- ew export: never\nOECD.org export: never
- \nFTI loaded: ✗\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 23:09, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=3887025f-en.
-DTSTAMP:20260317T230910Z
-DTSTART:20260319T230100Z
-DTEND:20260319T231600Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Policy paper] Industrial Poli
- cies in Canada
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/0075d7a5-end3e222
+UID:10.1787/0075d7a5-end3e116
 SUMMARY:[Policy paper] OECD review of the Italia
  n Parliamentary Budget Office
 DESCRIPTION:*[Policy paper] OECD review of the Itali
@@ -144,7 +66,7 @@ DESCRIPTION:*[Policy paper] OECD review of the Itali
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=0075d7a5-en.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260322T230100Z
 DTEND:20260322T231600Z
 TRANSP:TRANSPARENT
@@ -158,7 +80,1130 @@ DESCRIPTION:Reminder: [Policy paper] OECD review of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f112b919-esd3e275
+UID:10.1787/bff5d25a-end3e168
+SUMMARY:[Stand-alone monograph] OECD Digital Con
+ nectivity Review of Colombia
+DESCRIPTION:*[Stand-alone monograph] OECD Digital Co
+ nnectivity Review of Colombia*\n\nDirect
+ orate: Directorate for Science, Technolo
+ gy and Industry\nLanguage: English\nDOI:
+  https://doi.org/10.1787/bff5d25a-en\nPu
+ blication type: Stand-alone monograph\nR
+ eleased as: PDF\n\nEmbargo date/time: Tu
+ esday, 24 March 2026, 6:00 (GMT)\n\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nOECD.org export: never\nFTI loa
+ ded: ✗\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 23:09, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=b
+ ff5d25a-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T060000Z
+DTEND:20260324T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] OECD D
+ igital Connectivity Review of Colombia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9e74e510-end3e220
+SUMMARY:[Short content] Moldova
+DESCRIPTION:*[Short content] Moldova*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/9e74e510-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=9e74e510-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Moldova
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a0698c8a-end3e380
+SUMMARY:[Short content] Indonesia
+DESCRIPTION:*[Short content] Indonesia*\n\nDirectora
+ te: Directorate for Public Governance\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/a0698c8a-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF\n\nE
+ mbargo date/time: Tuesday, 24 March 2026
+ , 7:30 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 23:0
+ 9, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=a0698c8a-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Indonesia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ed06008b-end3e433
+SUMMARY:[Short content] Peru
+DESCRIPTION:*[Short content] Peru*\n\nDirectorate: D
+ irectorate for Public Governance\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/ed06008b-en\nPublication type: Short c
+ ontent\nReleased as: DOCX, PDF\n\nEmbarg
+ o date/time: Tuesday, 24 March 2026, 7:3
+ 0 (GMT)\n\n\niLibrary export: never\nFre
+ epreview export: never\nOECD.org export:
+  never\nFTI loaded: ✓\n\nFor more inform
+ ation see: https://oecd.github.io/embarg
+ o-calendar/embargoes-by-publication.html
+ .\n\nPlease note: This information was c
+ orrect as of this afternoon at 23:09, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=ed06008b-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Peru
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c41adc41-end3e539
+SUMMARY:[Short content] Netherlands
+DESCRIPTION:*[Short content] Netherlands*\n\nDirecto
+ rate: Directorate for Public Governance\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/c41adc41-en\nPublication type: 
+ Short content\nReleased as: DOCX, PDF\n\
+ nEmbargo date/time: Tuesday, 24 March 20
+ 26, 7:30 (GMT)\n\n\niLibrary export: nev
+ er\nFreepreview export: never\nOECD.org 
+ export: never\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 23
+ :09, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=c41adc41-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Netherlands
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/78c60a2f-end3e699
+SUMMARY:[Short content] Serbia
+DESCRIPTION:*[Short content] Serbia*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/78c60a2f-en\nPublication type: Short
+  content\nReleased as: DOCX, PDF\n\nEmba
+ rgo date/time: Tuesday, 24 March 2026, 7
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:09, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=78c60a2f-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Serbia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5272b943-end3e912
+SUMMARY:[Short content] Latvia
+DESCRIPTION:*[Short content] Latvia*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/5272b943-en\nPublication type: Short
+  content\nReleased as: DOCX, PDF\n\nEmba
+ rgo date/time: Tuesday, 24 March 2026, 7
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:09, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=5272b943-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Latvia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/6624e706-end3e965
+SUMMARY:[Short content] Greece
+DESCRIPTION:*[Short content] Greece*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/6624e706-en\nPublication type: Short
+  content\nReleased as: DOCX, PDF\n\nEmba
+ rgo date/time: Tuesday, 24 March 2026, 7
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:09, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=6624e706-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Greece
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/78ff2b97-end3e1071
+SUMMARY:[Short content] Italy
+DESCRIPTION:*[Short content] Italy*\n\nDirectorate: 
+ Directorate for Public Governance\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/78ff2b97-en\nPublication type: Short 
+ content\nReleased as: DOCX, PDF\n\nEmbar
+ go date/time: Tuesday, 24 March 2026, 7:
+ 30 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:09, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=78ff2b97-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Italy
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f21aa719-end3e1124
+SUMMARY:[Short content] Honduras
+DESCRIPTION:*[Short content] Honduras*\n\nDirectorat
+ e: Directorate for Public Governance\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/f21aa719-en\nPublication type: Sho
+ rt content\nReleased as: DOCX, PDF\n\nEm
+ bargo date/time: Tuesday, 24 March 2026,
+  7:30 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:09
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=f21aa719-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Honduras
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/58fc515f-end3e1231
+SUMMARY:[Short content] Thailand
+DESCRIPTION:*[Short content] Thailand*\n\nDirectorat
+ e: Directorate for Public Governance\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/58fc515f-en\nPublication type: Sho
+ rt content\nReleased as: DOCX, PDF\n\nEm
+ bargo date/time: Tuesday, 24 March 2026,
+  7:30 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:09
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=58fc515f-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Thailand
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4311a9df-end3e1284
+SUMMARY:[Short content] Australia
+DESCRIPTION:*[Short content] Australia*\n\nDirectora
+ te: Directorate for Public Governance\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/4311a9df-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF\n\nE
+ mbargo date/time: Tuesday, 24 March 2026
+ , 7:30 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 23:0
+ 9, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=4311a9df-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Australia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/952fc8f4-end3e1390
+SUMMARY:[Short content] Luxembourg
+DESCRIPTION:*[Short content] Luxembourg*\n\nDirector
+ ate: Directorate for Public Governance\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/952fc8f4-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF\n\n
+ Embargo date/time: Tuesday, 24 March 202
+ 6, 7:30 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 09, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=952fc8f4-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Luxembourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/237acf05-end3e1762
+SUMMARY:[Short content] Brazil
+DESCRIPTION:*[Short content] Brazil*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/237acf05-en\nPublication type: Short
+  content\nReleased as: DOCX, PDF\n\nEmba
+ rgo date/time: Tuesday, 24 March 2026, 7
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:09, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=237acf05-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Brazil
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/fd7a6d8c-end3e1869
+SUMMARY:[Short content] Kosovo
+DESCRIPTION:*[Short content] Kosovo*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/fd7a6d8c-en\nPublication type: Short
+  content\nReleased as: DOCX, PDF\n\nEmba
+ rgo date/time: Tuesday, 24 March 2026, 7
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:09, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=fd7a6d8c-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Kosovo
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/6733ca8f-end3e1922
+SUMMARY:[Short content] Poland
+DESCRIPTION:*[Short content] Poland*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/6733ca8f-en\nPublication type: Short
+  content\nReleased as: DOCX, PDF\n\nEmba
+ rgo date/time: Tuesday, 24 March 2026, 7
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:09, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=6733ca8f-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Poland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/751ab64d-end3e2081
+SUMMARY:[Short content] Sweden
+DESCRIPTION:*[Short content] Sweden*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/751ab64d-en\nPublication type: Short
+  content\nReleased as: DOCX, PDF\n\nEmba
+ rgo date/time: Tuesday, 24 March 2026, 7
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:09, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=751ab64d-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Sweden
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c67e1fb6-end3e2134
+SUMMARY:[Short content] Korea
+DESCRIPTION:*[Short content] Korea*\n\nDirectorate: 
+ Directorate for Public Governance\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/c67e1fb6-en\nPublication type: Short 
+ content\nReleased as: DOCX, PDF\n\nEmbar
+ go date/time: Tuesday, 24 March 2026, 7:
+ 30 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:09, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=c67e1fb6-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Korea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/190298ba-end3e2188
+SUMMARY:[Short content] Israel
+DESCRIPTION:*[Short content] Israel*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/190298ba-en\nPublication type: Short
+  content\nReleased as: DOCX, PDF\n\nEmba
+ rgo date/time: Tuesday, 24 March 2026, 7
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:09, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=190298ba-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Israel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/14511829-end3e2241
+SUMMARY:[Short content] Seychelles
+DESCRIPTION:*[Short content] Seychelles*\n\nDirector
+ ate: Directorate for Public Governance\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/14511829-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF\n\n
+ Embargo date/time: Tuesday, 24 March 202
+ 6, 7:30 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 09, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=14511829-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Seychelles
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/d04d2122-end3e2347
+SUMMARY:[Short content] Finland
+DESCRIPTION:*[Short content] Finland*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/d04d2122-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=d04d2122-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Finland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1f87dbb6-end3e2453
+SUMMARY:[Short content] Costa Rica
+DESCRIPTION:*[Short content] Costa Rica*\n\nDirector
+ ate: Directorate for Public Governance\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/1f87dbb6-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF\n\n
+ Embargo date/time: Tuesday, 24 March 202
+ 6, 7:30 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 09, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=1f87dbb6-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Costa Rica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f3475cd2-end3e2613
+SUMMARY:[Short content] Lithuania
+DESCRIPTION:*[Short content] Lithuania*\n\nDirectora
+ te: Directorate for Public Governance\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/f3475cd2-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF\n\nE
+ mbargo date/time: Tuesday, 24 March 2026
+ , 7:30 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 23:0
+ 9, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=f3475cd2-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Lithuania
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8b6b5144-end3e2932
+SUMMARY:[Short content] Jordan
+DESCRIPTION:*[Short content] Jordan*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/8b6b5144-en\nPublication type: Short
+  content\nReleased as: DOCX, PDF\n\nEmba
+ rgo date/time: Tuesday, 24 March 2026, 7
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:09, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=8b6b5144-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Jordan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/defa1838-end3e2985
+SUMMARY:[Short content] United Kingdom
+DESCRIPTION:*[Short content] United Kingdom*\n\nDire
+ ctorate: Directorate for Public Governan
+ ce\nLanguage: English\nDOI: https://doi.
+ org/10.1787/defa1838-en\nPublication typ
+ e: Short content\nReleased as: DOCX, PDF
+ \n\nEmbargo date/time: Tuesday, 24 March
+  2026, 7:30 (GMT)\n\n\niLibrary export: 
+ never\nFreepreview export: never\nOECD.o
+ rg export: never\nFTI loaded: ✓\n\nFor m
+ ore information see: https://oecd.github
+ .io/embargo-calendar/embargoes-by-public
+ ation.html.\n\nPlease note: This informa
+ tion was correct as of this afternoon at
+  23:09, it is updated each night; theref
+ ore any subsequent updates may not yet b
+ e visible here. Also, please be aware th
+ at the different released media (PDF, HT
+ ML, etc.) are not necessarily released a
+ t the same time. For complete and up-to-
+ date information see here: http://kappa.
+ oecd.org/v3/search?term=defa1838-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] United Kingdom
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/521c4ca1-end3e3091
+SUMMARY:[Short content] New Zealand
+DESCRIPTION:*[Short content] New Zealand*\n\nDirecto
+ rate: Directorate for Public Governance\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/521c4ca1-en\nPublication type: 
+ Short content\nReleased as: DOCX, PDF\n\
+ nEmbargo date/time: Tuesday, 24 March 20
+ 26, 7:30 (GMT)\n\n\niLibrary export: nev
+ er\nFreepreview export: never\nOECD.org 
+ export: never\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 23
+ :09, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=521c4ca1-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] New Zealand
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/48d6317f-end3e3198
+SUMMARY:[Short content] Armenia
+DESCRIPTION:*[Short content] Armenia*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/48d6317f-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=48d6317f-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Armenia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0a73fbe7-end3e3251
+SUMMARY:[Short content] Bosnia and Herzegovina
+DESCRIPTION:*[Short content] Bosnia and Herzegovina*
+ \n\nDirectorate: Directorate for Public 
+ Governance\nLanguage: English\nDOI: http
+ s://doi.org/10.1787/0a73fbe7-en\nPublica
+ tion type: Short content\nReleased as: D
+ OCX, PDF\n\nEmbargo date/time: Tuesday, 
+ 24 March 2026, 7:30 (GMT)\n\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nOECD.org export: never\nFTI loaded: ✓\
+ n\nFor more information see: https://oec
+ d.github.io/embargo-calendar/embargoes-b
+ y-publication.html.\n\nPlease note: This
+  information was correct as of this afte
+ rnoon at 23:09, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=0a73fbe7
+ -en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Bosnia and Her
+ zegovina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/07db3c8f-end3e3357
+SUMMARY:[Short content] Croatia
+DESCRIPTION:*[Short content] Croatia*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/07db3c8f-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=07db3c8f-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Croatia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/fd73d0c9-end3e3410
+SUMMARY:[Short content] Morocco
+DESCRIPTION:*[Short content] Morocco*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/fd73d0c9-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=fd73d0c9-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Morocco
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2c69a236-end3e3464
+SUMMARY:[Short content] Slovak Republic
+DESCRIPTION:*[Short content] Slovak Republic*\n\nDir
+ ectorate: Directorate for Public Governa
+ nce\nLanguage: English\nDOI: https://doi
+ .org/10.1787/2c69a236-en\nPublication ty
+ pe: Short content\nReleased as: DOCX, PD
+ F\n\nEmbargo date/time: Tuesday, 24 Marc
+ h 2026, 7:30 (GMT)\n\n\niLibrary export:
+  never\nFreepreview export: never\nOECD.
+ org export: never\nFTI loaded: ✓\n\nFor 
+ more information see: https://oecd.githu
+ b.io/embargo-calendar/embargoes-by-publi
+ cation.html.\n\nPlease note: This inform
+ ation was correct as of this afternoon a
+ t 23:09, it is updated each night; there
+ fore any subsequent updates may not yet 
+ be visible here. Also, please be aware t
+ hat the different released media (PDF, H
+ TML, etc.) are not necessarily released 
+ at the same time. For complete and up-to
+ -date information see here: http://kappa
+ .oecd.org/v3/search?term=2c69a236-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Slovak Republi
+ c
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f112b919-esd3e3517
 SUMMARY:[Stand-alone monograph] Perspectivas de 
  anticorrupción e integridad 2026 - La in
  tegridad como ventaja estratégica
@@ -186,7 +1231,7 @@ DESCRIPTION:*[Stand-alone monograph] Perspectivas de
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=f112b919-es
  .
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260324T073000Z
 DTEND:20260324T074500Z
 TRANSP:TRANSPARENT
@@ -202,7 +1247,79 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Perspe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/16708b78-end3e328
+UID:10.1787/78e9777c-end3e3623
+SUMMARY:[Short content] Belgium
+DESCRIPTION:*[Short content] Belgium*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/78e9777c-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=78e9777c-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Belgium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4f98f194-end3e3729
+SUMMARY:[Short content] France
+DESCRIPTION:*[Short content] France*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/4f98f194-en\nPublication type: Short
+  content\nReleased as: DOCX, PDF\n\nEmba
+ rgo date/time: Tuesday, 24 March 2026, 7
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:09, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=4f98f194-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] France
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/16708b78-end3e3783
 SUMMARY:[Stand-alone monograph] Anti-Corruption 
  and Integrity Outlook 2026 - Harnessing 
  the Integrity Advantage
@@ -229,7 +1346,7 @@ DESCRIPTION:*[Stand-alone monograph] Anti-Corruption
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=16708b78-en.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260324T073000Z
 DTEND:20260324T074500Z
 TRANSP:TRANSPARENT
@@ -244,7 +1361,476 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Anti-C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9b8b4cae-frd3e381
+UID:10.1787/ce059d33-end3e3836
+SUMMARY:[Short content] Spain
+DESCRIPTION:*[Short content] Spain*\n\nDirectorate: 
+ Directorate for Public Governance\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/ce059d33-en\nPublication type: Short 
+ content\nReleased as: DOCX, PDF\n\nEmbar
+ go date/time: Tuesday, 24 March 2026, 7:
+ 30 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:09, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=ce059d33-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Spain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/129dcd14-end3e3889
+SUMMARY:[Short content] Ecuador
+DESCRIPTION:*[Short content] Ecuador*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/129dcd14-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=129dcd14-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Ecuador
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/69c6f06f-end3e4155
+SUMMARY:[Short content] Iceland
+DESCRIPTION:*[Short content] Iceland*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/69c6f06f-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=69c6f06f-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Iceland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/73b9db4d-end3e4208
+SUMMARY:[Short content] Argentina
+DESCRIPTION:*[Short content] Argentina*\n\nDirectora
+ te: Directorate for Public Governance\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/73b9db4d-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF\n\nE
+ mbargo date/time: Tuesday, 24 March 2026
+ , 7:30 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 23:0
+ 9, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=73b9db4d-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Argentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e51f13f9-end3e4261
+SUMMARY:[Short content] Dominican Republic
+DESCRIPTION:*[Short content] Dominican Republic*\n\n
+ Directorate: Directorate for Public Gove
+ rnance\nLanguage: English\nDOI: https://
+ doi.org/10.1787/e51f13f9-en\nPublication
+  type: Short content\nReleased as: DOCX,
+  PDF\n\nEmbargo date/time: Tuesday, 24 M
+ arch 2026, 7:30 (GMT)\n\n\niLibrary expo
+ rt: never\nFreepreview export: never\nOE
+ CD.org export: never\nFTI loaded: ✓\n\nF
+ or more information see: https://oecd.gi
+ thub.io/embargo-calendar/embargoes-by-pu
+ blication.html.\n\nPlease note: This inf
+ ormation was correct as of this afternoo
+ n at 23:09, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=e51f13f9-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Dominican Repu
+ blic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1d9a74d5-end3e4474
+SUMMARY:[Short content] United States
+DESCRIPTION:*[Short content] United States*\n\nDirec
+ torate: Directorate for Public Governanc
+ e\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/1d9a74d5-en\nPublication type
+ : Short content\nReleased as: DOCX, PDF\
+ n\nEmbargo date/time: Tuesday, 24 March 
+ 2026, 7:30 (GMT)\n\n\niLibrary export: n
+ ever\nFreepreview export: never\nOECD.or
+ g export: never\nFTI loaded: ✓\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 23:09, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=1d9a74d5-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] United States
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c05dde5b-end3e4527
+SUMMARY:[Short content] Romania
+DESCRIPTION:*[Short content] Romania*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/c05dde5b-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=c05dde5b-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Romania
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4d5d0dcc-end3e4580
+SUMMARY:[Short content] Kazakhstan
+DESCRIPTION:*[Short content] Kazakhstan*\n\nDirector
+ ate: Directorate for Public Governance\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/4d5d0dcc-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF\n\n
+ Embargo date/time: Tuesday, 24 March 202
+ 6, 7:30 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 09, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=4d5d0dcc-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Kazakhstan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c2686ea4-end3e4740
+SUMMARY:[Short content] Hungary
+DESCRIPTION:*[Short content] Hungary*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/c2686ea4-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=c2686ea4-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Hungary
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ae8d380b-end3e4899
+SUMMARY:[Short content] Chile
+DESCRIPTION:*[Short content] Chile*\n\nDirectorate: 
+ Directorate for Public Governance\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/ae8d380b-en\nPublication type: Short 
+ content\nReleased as: DOCX, PDF\n\nEmbar
+ go date/time: Tuesday, 24 March 2026, 7:
+ 30 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:09, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=ae8d380b-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Chile
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2c58f168-end3e5005
+SUMMARY:[Short content] Mexico
+DESCRIPTION:*[Short content] Mexico*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/2c58f168-en\nPublication type: Short
+  content\nReleased as: DOCX, PDF\n\nEmba
+ rgo date/time: Tuesday, 24 March 2026, 7
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:09, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=2c58f168-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Mexico
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a5a6c8e3-end3e5059
+SUMMARY:[Short content] Austria
+DESCRIPTION:*[Short content] Austria*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/a5a6c8e3-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=a5a6c8e3-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Austria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/d57a73fc-end3e5112
+SUMMARY:[Short content] Germany
+DESCRIPTION:*[Short content] Germany*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/d57a73fc-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=d57a73fc-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Germany
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9b8b4cae-frd3e5165
 SUMMARY:[Stand-alone monograph] Perspectives de 
  l’OCDE sur l’intégrité et la lutte contr
  e la corruption 2026 - Faire de l'intégr
@@ -273,7 +1859,7 @@ DESCRIPTION:*[Stand-alone monograph] Perspectives de
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=9b8b4cae-fr.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260324T073000Z
 DTEND:20260324T074500Z
 TRANSP:TRANSPARENT
@@ -289,7 +1875,511 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Perspe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/712e7084-esd3e1284
+UID:10.1787/a4bff19b-end3e5218
+SUMMARY:[Short content] Ireland
+DESCRIPTION:*[Short content] Ireland*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/a4bff19b-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=a4bff19b-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Ireland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/fa10228f-end3e5324
+SUMMARY:[Short content] Norway
+DESCRIPTION:*[Short content] Norway*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/fa10228f-en\nPublication type: Short
+  content\nReleased as: DOCX, PDF\n\nEmba
+ rgo date/time: Tuesday, 24 March 2026, 7
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:09, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=fa10228f-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Norway
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4db85a15-end3e5378
+SUMMARY:[Short content] Colombia
+DESCRIPTION:*[Short content] Colombia*\n\nDirectorat
+ e: Directorate for Public Governance\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/4db85a15-en\nPublication type: Sho
+ rt content\nReleased as: DOCX, PDF\n\nEm
+ bargo date/time: Tuesday, 24 March 2026,
+  7:30 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:09
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=4db85a15-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Colombia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/3b2dc8e9-end3e5484
+SUMMARY:[Short content] Ukraine
+DESCRIPTION:*[Short content] Ukraine*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/3b2dc8e9-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=3b2dc8e9-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Ukraine
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8599e169-end3e5537
+SUMMARY:[Short content] Bulgaria
+DESCRIPTION:*[Short content] Bulgaria*\n\nDirectorat
+ e: Directorate for Public Governance\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/8599e169-en\nPublication type: Sho
+ rt content\nReleased as: DOCX, PDF\n\nEm
+ bargo date/time: Tuesday, 24 March 2026,
+  7:30 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:09
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=8599e169-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Bulgaria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b3e66709-end3e5590
+SUMMARY:[Short content] Türkiye
+DESCRIPTION:*[Short content] Türkiye*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/b3e66709-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=b3e66709-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Türkiye
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0986f5f0-end3e5750
+SUMMARY:[Short content] Paraguay
+DESCRIPTION:*[Short content] Paraguay*\n\nDirectorat
+ e: Directorate for Public Governance\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/0986f5f0-en\nPublication type: Sho
+ rt content\nReleased as: DOCX, PDF\n\nEm
+ bargo date/time: Tuesday, 24 March 2026,
+  7:30 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:09
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=0986f5f0-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Paraguay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ddf7b7ae-end3e5856
+SUMMARY:[Short content] Portugal
+DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
+ e: Directorate for Public Governance\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/ddf7b7ae-en\nPublication type: Sho
+ rt content\nReleased as: DOCX, PDF\n\nEm
+ bargo date/time: Tuesday, 24 March 2026,
+  7:30 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:09
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=ddf7b7ae-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Portugal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/46aad98c-end3e5909
+SUMMARY:[Short content] Slovenia
+DESCRIPTION:*[Short content] Slovenia*\n\nDirectorat
+ e: Directorate for Public Governance\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/46aad98c-en\nPublication type: Sho
+ rt content\nReleased as: DOCX, PDF\n\nEm
+ bargo date/time: Tuesday, 24 March 2026,
+  7:30 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:09
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=46aad98c-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Slovenia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8c749615-end3e6016
+SUMMARY:[Short content] Canada
+DESCRIPTION:*[Short content] Canada*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/8c749615-en\nPublication type: Short
+  content\nReleased as: DOCX, PDF\n\nEmba
+ rgo date/time: Tuesday, 24 March 2026, 7
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:09, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=8c749615-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Canada
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5ecd87ba-end3e6122
+SUMMARY:[Short content] Czechia
+DESCRIPTION:*[Short content] Czechia*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/5ecd87ba-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=5ecd87ba-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Czechia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/300e7906-end3e6175
+SUMMARY:[Short content] Guatemala
+DESCRIPTION:*[Short content] Guatemala*\n\nDirectora
+ te: Directorate for Public Governance\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/300e7906-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF\n\nE
+ mbargo date/time: Tuesday, 24 March 2026
+ , 7:30 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 23:0
+ 9, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=300e7906-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Guatemala
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/536aa145-end3e6228
+SUMMARY:[Short content] Switzerland
+DESCRIPTION:*[Short content] Switzerland*\n\nDirecto
+ rate: Directorate for Public Governance\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/536aa145-en\nPublication type: 
+ Short content\nReleased as: DOCX, PDF\n\
+ nEmbargo date/time: Tuesday, 24 March 20
+ 26, 7:30 (GMT)\n\n\niLibrary export: nev
+ er\nFreepreview export: never\nOECD.org 
+ export: never\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 23
+ :09, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=536aa145-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Switzerland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e811553b-end3e6600
+SUMMARY:[Short content] Estonia
+DESCRIPTION:*[Short content] Estonia*\n\nDirectorate
+ : Directorate for Public Governance\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/e811553b-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF\n\nEmb
+ argo date/time: Tuesday, 24 March 2026, 
+ 7:30 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:09,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=e811553b-en.
+DTSTAMP:20260318T230938Z
+DTSTART:20260324T073000Z
+DTEND:20260324T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Estonia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/712e7084-esd3e7503
 SUMMARY:[Stand-alone monograph] Políticas para e
  l futuro de la pesca y la acuicultura en
   Perú
@@ -317,7 +2407,7 @@ DESCRIPTION:*[Stand-alone monograph] Políticas para
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=712e7084-
  es.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260324T140000Z
 DTEND:20260324T141500Z
 TRANSP:TRANSPARENT
@@ -332,7 +2422,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Políti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3cccc492-end3e1337
+UID:10.1787/3cccc492-end3e7556
 SUMMARY:[Stand-alone monograph] Policies for the
   Future of Fisheries and Aquaculture in 
  Peru
@@ -360,7 +2450,7 @@ DESCRIPTION:*[Stand-alone monograph] Policies for th
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=3cccc492-e
  n.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260324T140000Z
 DTEND:20260324T141500Z
 TRANSP:TRANSPARENT
@@ -375,7 +2465,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Polici
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/960063a5-end3e2027
+UID:10.1787/960063a5-end3e8247
 SUMMARY:[Policy paper] Mandatory spending in bud
  geting in selected OECD countries
 DESCRIPTION:*[Policy paper] Mandatory spending in bu
@@ -400,7 +2490,7 @@ DESCRIPTION:*[Policy paper] Mandatory spending in bu
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=960063a5-en.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260324T230100Z
 DTEND:20260324T231600Z
 TRANSP:TRANSPARENT
@@ -415,7 +2505,7 @@ DESCRIPTION:Reminder: [Policy paper] Mandatory spend
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f61872c5-frd3e2131
+UID:10.1787/f61872c5-frd3e8351
 SUMMARY:[Stand-alone monograph] Cadre d’évaluati
  on de la performance du système de santé
   pour le Luxembourg
@@ -443,7 +2533,7 @@ DESCRIPTION:*[Stand-alone monograph] Cadre d’évaluat
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=f61872c5-fr.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260325T120000Z
 DTEND:20260325T121500Z
 TRANSP:TRANSPARENT
@@ -458,7 +2548,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Cadre
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6e4a7983-end3e2448
+UID:10.1787/6e4a7983-end3e8668
 SUMMARY:[Stand-alone monograph] Health System Pe
  rformance Assessment Framework for Luxem
  bourg
@@ -486,7 +2576,7 @@ DESCRIPTION:*[Stand-alone monograph] Health System P
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=6e4a7983-en.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260325T120000Z
 DTEND:20260325T121500Z
 TRANSP:TRANSPARENT
@@ -501,7 +2591,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Health
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9cb528df-end3e3139
+UID:10.1787/9cb528df-end3e9358
 SUMMARY:[Policy paper] Towards an integrated rur
  al fire management framework in Portugal
 DESCRIPTION:*[Policy paper] Towards an integrated ru
@@ -526,7 +2616,7 @@ DESCRIPTION:*[Policy paper] Towards an integrated ru
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=9cb528df-en.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260325T230100Z
 DTEND:20260325T231600Z
 TRANSP:TRANSPARENT
@@ -541,7 +2631,7 @@ DESCRIPTION:Reminder: [Policy paper] Towards an inte
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b961ba49-frd3e3243
+UID:10.1787/b961ba49-frd3e9462
 SUMMARY:[Issue] Perspectives économiques de l'OC
  DE, Rapport intermédiaire, mars 2026
 DESCRIPTION:*[Issue] Perspectives économiques de l'O
@@ -566,7 +2656,7 @@ DESCRIPTION:*[Issue] Perspectives économiques de l'O
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=b961ba49-fr.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260326T100000Z
 DTEND:20260326T101500Z
 TRANSP:TRANSPARENT
@@ -581,7 +2671,7 @@ DESCRIPTION:Reminder: [Issue] Perspectives économiqu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d4623013-end3e3295
+UID:10.1787/d4623013-end3e9515
 SUMMARY:[Issue] OECD Economic Outlook, Interim R
  eport March 2026
 DESCRIPTION:*[Issue] OECD Economic Outlook, Interim 
@@ -606,7 +2696,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Interim
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=d462
  3013-en.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260326T100000Z
 DTEND:20260326T101500Z
 TRANSP:TRANSPARENT
@@ -620,7 +2710,7 @@ DESCRIPTION:Reminder: [Issue] OECD Economic Outlook,
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/75348f67-end3e3347
+UID:10.1787/75348f67-end3e9567
 SUMMARY:[Policy paper] Implementing budgetary re
  forms in Greece - Performance budgeting,
   spending reviews and green budgeting
@@ -647,7 +2737,7 @@ DESCRIPTION:*[Policy paper] Implementing budgetary r
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=75348f67-en.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260402T220100Z
 DTEND:20260402T221600Z
 TRANSP:TRANSPARENT
@@ -663,7 +2753,7 @@ DESCRIPTION:Reminder: [Policy paper] Implementing bu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/40a7532f-end3e3400
+UID:10.1787/40a7532f-end3e9620
 SUMMARY:[Stand-alone monograph] Foundations for 
  Growth and Competitiveness 2026
 DESCRIPTION:*[Stand-alone monograph] Foundations for
@@ -688,7 +2778,7 @@ DESCRIPTION:*[Stand-alone monograph] Foundations for
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=40a7532f-en.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260408T220000Z
 DTEND:20260408T221500Z
 TRANSP:TRANSPARENT
@@ -703,7 +2793,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Founda
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7c862db6-end3e3453
+UID:10.1787/7c862db6-end3e9672
 SUMMARY:[Report] Chemical content validation of 
  recycled plastics
 DESCRIPTION:*[Report] Chemical content validation of
@@ -727,7 +2817,7 @@ DESCRIPTION:*[Report] Chemical content validation of
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=7c862db6-en.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260413T063000Z
 DTEND:20260413T064500Z
 TRANSP:TRANSPARENT
@@ -741,7 +2831,7 @@ DESCRIPTION:Reminder: [Report] Chemical content vali
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3a5169ef-end3e3505
+UID:10.1787/3a5169ef-end3e9724
 SUMMARY:[Book] Taxing Wages 2026 - The Progressi
  vity of Labour Taxation in OECD Countrie
  s
@@ -768,7 +2858,7 @@ DESCRIPTION:*[Book] Taxing Wages 2026 - The Progress
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=3a5169ef-en
  .
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260422T090000Z
 DTEND:20260422T091500Z
 TRANSP:TRANSPARENT
@@ -783,7 +2873,7 @@ DESCRIPTION:Reminder: [Book] Taxing Wages 2026 - The
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5542e88a-end3e3558
+UID:10.1787/5542e88a-end3e9777
 SUMMARY:[Book] Results from the Teacher Knowledg
  e Survey - What Teachers Know About Gene
  ral Pedagogy
@@ -810,7 +2900,7 @@ DESCRIPTION:*[Book] Results from the Teacher Knowled
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=5542e88a-en.
-DTSTAMP:20260317T230910Z
+DTSTAMP:20260318T230938Z
 DTSTART:20260422T110000Z
 DTEND:20260422T111500Z
 TRANSP:TRANSPARENT
