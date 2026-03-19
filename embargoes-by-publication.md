@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 March 2026 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 19 March 2026 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Austria 2026](https://doi.org/10.1787/7cea027b-en)
 
@@ -58,7 +58,7 @@ Tuesday 24 March 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -67,9 +67,9 @@ Tuesday 24 March 2026 at 6:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -92,7 +92,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -115,7 +115,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -138,7 +138,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -161,7 +161,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -184,7 +184,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -207,7 +207,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -230,7 +230,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -253,7 +253,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -276,7 +276,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -299,7 +299,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -322,7 +322,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -345,7 +345,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -368,7 +368,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -391,7 +391,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -414,7 +414,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -437,7 +437,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -460,7 +460,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -483,7 +483,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -506,7 +506,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -529,7 +529,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -552,7 +552,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -575,7 +575,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -598,7 +598,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -621,7 +621,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -644,7 +644,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -667,7 +667,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -690,7 +690,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -713,7 +713,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -736,7 +736,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -759,7 +759,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -805,7 +805,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -828,7 +828,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -840,7 +840,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -849,9 +849,9 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -874,7 +874,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -897,7 +897,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -920,7 +920,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -943,7 +943,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -966,7 +966,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -989,7 +989,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1012,7 +1012,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1035,7 +1035,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1058,7 +1058,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1081,7 +1081,30 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Denmark](https://doi.org/10.1787/d09775ae-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1104,7 +1127,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1127,7 +1150,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1150,7 +1173,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1162,7 +1185,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1171,9 +1194,9 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1196,7 +1219,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1219,7 +1242,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1242,7 +1265,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1265,7 +1288,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1288,7 +1311,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1311,7 +1334,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1334,7 +1357,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1357,7 +1380,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1380,7 +1403,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1403,7 +1426,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1426,7 +1449,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1449,7 +1472,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1472,7 +1495,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1495,7 +1518,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -1565,29 +1588,6 @@ Tuesday 24 March 2026 at 23:01 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
 * Format: *PDF*
-
-------
-
-## [Cadre d’évaluation de la performance du système de santé pour le Luxembourg](https://doi.org/10.1787/f61872c5-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 March 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -1706,11 +1706,34 @@ Thursday 2 April 2026 at 22:01 | no launch event
 
 ------
 
+## [Les fondements de la croissance et de la compétitivité 2026](https://doi.org/10.1787/df51b240-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 9 April 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Foundations for Growth and Competitiveness 2026](https://doi.org/10.1787/40a7532f-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 8 April 2026 at 22:00 | no launch event
+Thursday 9 April 2026 at 7:30 | no launch event
 
 ### Status Information
 
@@ -1749,6 +1772,29 @@ Monday 13 April 2026 at 6:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
+
+------
+
+## [Cadre d’évaluation de la performance du système de santé pour le Luxembourg](https://doi.org/10.1787/f61872c5-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 April 2026 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -1795,5 +1841,51 @@ Wednesday 22 April 2026 at 11:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Artificial Intelligence in Italian Financial Markets](https://doi.org/10.1787/6f42c977-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 April 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Financement de la protection sociale au Cameroun - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/526eff6e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
