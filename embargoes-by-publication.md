@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 March 2026 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 20 March 2026 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Austria 2026](https://doi.org/10.1787/7cea027b-en)
 
@@ -23,29 +23,6 @@ Thursday 19 March 2026 at 9:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD review of the Italian Parliamentary Budget Office](https://doi.org/10.1787/0075d7a5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 22 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -771,7 +748,7 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -780,9 +757,9 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1680,6 +1657,29 @@ Thursday 26 March 2026 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD review of the Italian Parliamentary Budget Office](https://doi.org/10.1787/0075d7a5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 March 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
