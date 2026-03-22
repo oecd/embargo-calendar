@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 March 2026 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 22 March 2026 at 22:31* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 March 2026](#19-march-2026)
 * [24 March 2026](#24-march-2026)
 * [25 March 2026](#25-march-2026)
 * [26 March 2026](#26-march-2026)
@@ -15,33 +14,6 @@ Data generated on | |
 * [22 April 2026](#22-april-2026)
 * [24 April 2026](#24-april-2026)
 * [7 May 2026](#7-may-2026)
-
-------
-
-# 19 March 2026
-
-## [OECD Economic Surveys: Austria 2026](https://doi.org/10.1787/7cea027b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 March 2026 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 

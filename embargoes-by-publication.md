@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 March 2026 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Austria 2026](https://doi.org/10.1787/7cea027b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 March 2026 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Sunday 22 March 2026 at 22:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Digital Connectivity Review of Colombia](https://doi.org/10.1787/bff5d25a-en)
 
