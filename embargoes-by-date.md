@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 22 March 2026 at 22:31* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 23 March 2026 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 March 2026](#24-march-2026)
 * [25 March 2026](#25-march-2026)
@@ -42,6 +42,29 @@ Tuesday 24 March 2026 at 6:00 | no launch event
 
 ------
 
+## [Luxembourg](https://doi.org/10.1787/eeff4fc0-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Moldova](https://doi.org/10.1787/9e74e510-en)
 
 Embargo date | Launch date
@@ -59,6 +82,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [España](https://doi.org/10.1787/3f8dcaf9-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -295,6 +341,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 ------
 
+## [Costa Rica](https://doi.org/10.1787/14fada14-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Luxembourg](https://doi.org/10.1787/952fc8f4-en)
 
 Embargo date | Launch date
@@ -318,6 +387,52 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 ------
 
+## [France](https://doi.org/10.1787/f6e55130-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Chile](https://doi.org/10.1787/a79eb7f6-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Brazil](https://doi.org/10.1787/237acf05-en)
 
 Embargo date | Launch date
@@ -335,6 +450,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Suisse](https://doi.org/10.1787/40401fef-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -387,6 +525,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 ------
 
+## [República Dominicana](https://doi.org/10.1787/ba251aaf-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Sweden](https://doi.org/10.1787/751ab64d-en)
 
 Embargo date | Launch date
@@ -404,6 +565,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Україна](https://doi.org/10.1787/690e7191-uk)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Ukrainian*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -525,6 +709,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 ------
 
+## [Argentina](https://doi.org/10.1787/f54532e6-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Lithuania](https://doi.org/10.1787/f3475cd2-en)
 
 Embargo date | Launch date
@@ -542,6 +749,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Guatemala](https://doi.org/10.1787/74278d22-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -571,6 +801,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 ------
 
+## [Belgique](https://doi.org/10.1787/3eb7db55-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [United Kingdom](https://doi.org/10.1787/defa1838-en)
 
 Embargo date | Launch date
@@ -594,6 +847,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 ------
 
+## [Canada](https://doi.org/10.1787/ddb4228a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [New Zealand](https://doi.org/10.1787/521c4ca1-en)
 
 Embargo date | Launch date
@@ -611,6 +887,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [México](https://doi.org/10.1787/5bced1a9-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -686,6 +985,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 ------
 
+## [Perú](https://doi.org/10.1787/d1084188-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Morocco](https://doi.org/10.1787/fd73d0c9-en)
 
 Embargo date | Launch date
@@ -732,6 +1054,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 ------
 
+## [Honduras](https://doi.org/10.1787/f2e7ff01-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Perspectivas de anticorrupción e integridad 2026 - La integridad como ventaja estratégica](https://doi.org/10.1787/f112b919-es)
 
 Embargo date | Launch date
@@ -752,6 +1097,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Ecuador](https://doi.org/10.1787/abf5bcd0-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -864,6 +1232,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Paraguay](https://doi.org/10.1787/a3c97867-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -1353,6 +1744,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 ------
 
+## [Maroc](https://doi.org/10.1787/72ad8701-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Slovenia](https://doi.org/10.1787/46aad98c-en)
 
 Embargo date | Launch date
@@ -1370,6 +1784,29 @@ Tuesday 24 March 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Indonesia](https://doi.org/10.1787/c45ba2ab-id)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 March 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Indonesian*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -1631,7 +2068,7 @@ Thursday 26 March 2026 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Issue*
 * Format: *PDF*
 
@@ -1654,32 +2091,9 @@ Thursday 26 March 2026 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
-
-------
-
-## [OECD review of the Italian Parliamentary Budget Office](https://doi.org/10.1787/0075d7a5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
 
 ------
 
@@ -1781,7 +2195,7 @@ Monday 13 April 2026 at 6:30 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1858,7 +2272,7 @@ Wednesday 22 April 2026 at 11:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
