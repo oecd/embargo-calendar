@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 23 March 2026 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 24 March 2026 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Digital Connectivity Review of Colombia](https://doi.org/10.1787/bff5d25a-en)
 
@@ -1959,29 +1959,6 @@ Tuesday 24 March 2026 at 14:00 | no launch event
 
 ------
 
-## [Mandatory spending in budgeting in selected OECD countries](https://doi.org/10.1787/960063a5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ## [Health System Performance Assessment Framework for Luxembourg](https://doi.org/10.1787/6e4a7983-en)
 
 Embargo date | Launch date
@@ -2005,30 +1982,7 @@ Wednesday 25 March 2026 at 12:00 | no launch event
 
 ------
 
-## [Towards an integrated rural fire management framework in Portugal](https://doi.org/10.1787/9cb528df-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 March 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2026](https://doi.org/10.1787/b961ba49-fr)
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2026 - La résilience à l’épreuve](https://doi.org/10.1787/b961ba49-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -2051,7 +2005,7 @@ Thursday 26 March 2026 at 10:00 | no launch event
 
 ------
 
-## [OECD Economic Outlook, Interim Report March 2026](https://doi.org/10.1787/d4623013-en)
+## [OECD Economic Outlook, Interim Report March 2026 - Testing Resilience](https://doi.org/10.1787/d4623013-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -2070,7 +2024,30 @@ Thursday 26 March 2026 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
+
+------
+
+## [Mandatory spending in budgeting in selected OECD countries](https://doi.org/10.1787/960063a5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 March 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
@@ -2090,6 +2067,29 @@ Thursday 2 April 2026 at 22:01 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Towards an integrated rural fire management framework in Portugal](https://doi.org/10.1787/9cb528df-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 April 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
@@ -2258,6 +2258,29 @@ Friday 24 April 2026 at 8:00 | no launch event
 
 ------
 
+## [OECD Reviews of Innovation Policy: Egypt 2026](https://doi.org/10.1787/c6675315-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 May 2026 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Financement de la protection sociale au Cameroun - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/526eff6e-fr)
 
 Embargo date | Launch date
@@ -2278,5 +2301,28 @@ Thursday 7 May 2026 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Japan 2026](https://doi.org/10.1787/54cc833d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 May 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
