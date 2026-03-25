@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 24 March 2026 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 25 March 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Digital Connectivity Review of Colombia](https://doi.org/10.1787/bff5d25a-en)
 
@@ -1990,7 +1990,7 @@ Thursday 26 March 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1999,9 +1999,9 @@ Thursday 26 March 2026 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -2013,7 +2013,7 @@ Thursday 26 March 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2022,8 +2022,31 @@ Thursday 26 March 2026 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Issue*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [Advancing Public Integrity in Thailand - Recent Progress and Priorities for Reform](https://doi.org/10.1787/91fa1cd8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 March 2026 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -2036,7 +2059,7 @@ Monday 30 March 2026 at 22:01 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2045,7 +2068,7 @@ Monday 30 March 2026 at 22:01 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
