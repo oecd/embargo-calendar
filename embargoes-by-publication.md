@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 March 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Health System Performance Assessment Framework for Luxembourg](https://doi.org/10.1787/6e4a7983-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 March 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Friday 27 March 2026 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2026 - La résilience à l’épreuve](https://doi.org/10.1787/b961ba49-fr)
 
@@ -93,6 +70,29 @@ Thursday 26 March 2026 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [OECD review of the Italian Parliamentary Budget Office](https://doi.org/10.1787/0075d7a5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 March 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
