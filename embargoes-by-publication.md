@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 27 March 2026 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2026 - La résilience à l’épreuve](https://doi.org/10.1787/b961ba49-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 March 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Economic Outlook, Interim Report March 2026 - Testing Resilience](https://doi.org/10.1787/d4623013-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 March 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Advancing Public Integrity in Thailand - Recent Progress and Priorities for Reform](https://doi.org/10.1787/91fa1cd8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 March 2026 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Sunday 29 March 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD review of the Italian Parliamentary Budget Office](https://doi.org/10.1787/0075d7a5-en)
 
