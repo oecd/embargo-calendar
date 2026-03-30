@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 29 March 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 30 March 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 March 2026](#30-march-2026)
 * [6 April 2026](#6-april-2026)
@@ -11,6 +11,7 @@ Data generated on | |
 * [17 April 2026](#17-april-2026)
 * [22 April 2026](#22-april-2026)
 * [24 April 2026](#24-april-2026)
+* [3 May 2026](#3-may-2026)
 * [4 May 2026](#4-may-2026)
 * [7 May 2026](#7-may-2026)
 * [13 May 2026](#13-may-2026)
@@ -92,7 +93,7 @@ Thursday 9 April 2026 at 7:30 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -104,7 +105,7 @@ Thursday 9 April 2026 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -113,9 +114,9 @@ Thursday 9 April 2026 at 7:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -194,7 +195,7 @@ Wednesday 22 April 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -232,6 +233,33 @@ Wednesday 22 April 2026 at 11:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Friday 24 April 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 3 May 2026
+
+## [Mobilising Financing and Investment for Quality Infrastructure in Egypt](https://doi.org/10.1787/928bd5b8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 3 May 2026 at 22:00 | no launch event
 
 ### Status Information
 
