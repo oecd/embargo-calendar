@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 30 March 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 31 March 2026 at 22:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD review of the Italian Parliamentary Budget Office](https://doi.org/10.1787/0075d7a5-en)
 
@@ -165,6 +165,29 @@ Wednesday 22 April 2026 at 9:00 | no launch event
 
 ------
 
+## [Les impôts sur les salaires 2026 (version abrégée) - La progressivité de l’imposition des revenus du travail dans les pays de l’OCDE](https://doi.org/10.1787/96484ff2-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 April 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Results from the Teacher Knowledge Survey - What Teachers Know About General Pedagogy](https://doi.org/10.1787/5542e88a-en)
 
 Embargo date | Launch date
@@ -185,6 +208,29 @@ Wednesday 22 April 2026 at 11:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Italy 2026](https://doi.org/10.1787/539538b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 April 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
