@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 31 March 2026 at 22:44* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD review of the Italian Parliamentary Budget Office](https://doi.org/10.1787/0075d7a5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 March 2026 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 1 April 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Towards an integrated rural fire management framework in Portugal](https://doi.org/10.1787/9cb528df-en)
 
@@ -114,6 +91,29 @@ Monday 13 April 2026 at 6:30 | no launch event
 * Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, April 2026)](https://doi.org/10.1787/02d05307-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 April 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -303,6 +303,52 @@ Monday 4 May 2026 at 5:00 | no launch event
 
 ------
 
+## [Building Strong Foundations for Life - Results from the 2025 Early Learning and Child Well-being Study](https://doi.org/10.1787/02bf8efe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Revenue Statistics in Latin America and the Caribbean 2026](https://doi.org/10.1787/2f21f131-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Financement de la protection sociale au Cameroun - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/526eff6e-fr)
 
 Embargo date | Launch date
@@ -346,5 +392,28 @@ Wednesday 13 May 2026 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Austria 2026](https://doi.org/10.1787/520533a1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 May 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------

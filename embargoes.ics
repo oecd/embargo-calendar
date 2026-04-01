@@ -2,46 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/0075d7a5-end3e116
-SUMMARY:[Policy paper] OECD review of the Italia
- n Parliamentary Budget Office
-DESCRIPTION:*[Policy paper] OECD review of the Itali
- an Parliamentary Budget Office*\n\nDirec
- torate: Directorate for Public Governanc
- e\nLanguage: English\nDOI: https://doi.o
- rg/10.1787/0075d7a5-en\nPublication type
- : Policy paper\nReleased as: PDF, ZJCR, 
- ZXML\n\nEmbargo date/time: Monday, 30 Ma
- rch 2026, 6:00 (GMT)\n\n\niLibrary expor
- t: never\nFreepreview export: never\nOEC
- D.org export: never\nFTI loaded: ✓\n\nFo
- r more information see: https://oecd.git
- hub.io/embargo-calendar/embargoes-by-pub
- lication.html.\n\nPlease note: This info
- rmation was correct as of this afternoon
-  at 22:44, it is updated each night; the
- refore any subsequent updates may not ye
- t be visible here. Also, please be aware
-  that the different released media (PDF,
-  HTML, etc.) are not necessarily release
- d at the same time. For complete and up-
- to-date information see here: http://kap
- pa.oecd.org/v3/search?term=0075d7a5-en.
-DTSTAMP:20260331T224428Z
-DTSTART:20260330T060000Z
-DTEND:20260330T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Policy paper] OECD review of 
- the Italian Parliamentary Budget Office
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9cb528df-end3e223
+UID:10.1787/9cb528df-end3e63
 SUMMARY:[Policy paper] Towards an integrated rur
  al fire management framework in Portugal
 DESCRIPTION:*[Policy paper] Towards an integrated ru
@@ -57,7 +18,7 @@ DESCRIPTION:*[Policy paper] Towards an integrated ru
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 22:44, 
+  correct as of this afternoon at 23:11, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -66,7 +27,7 @@ DESCRIPTION:*[Policy paper] Towards an integrated ru
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=9cb528df-en.
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260406T220100Z
 DTEND:20260406T221600Z
 TRANSP:TRANSPARENT
@@ -81,7 +42,7 @@ DESCRIPTION:Reminder: [Policy paper] Towards an inte
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/df51b240-frd3e1020
+UID:10.1787/df51b240-frd3e859
 SUMMARY:[Stand-alone monograph] Les fondements d
  e la croissance et de la compétitivité 2
  026
@@ -99,7 +60,7 @@ DESCRIPTION:*[Stand-alone monograph] Les fondements
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 22:44, it is updated 
+  this afternoon at 23:11, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -108,7 +69,7 @@ DESCRIPTION:*[Stand-alone monograph] Les fondements
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=df51b240-fr.
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260409T073000Z
 DTEND:20260409T074500Z
 TRANSP:TRANSPARENT
@@ -123,7 +84,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Les fo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/40a7532f-end3e1551
+UID:10.1787/40a7532f-end3e1390
 SUMMARY:[Stand-alone monograph] Foundations for 
  Growth and Competitiveness 2026
 DESCRIPTION:*[Stand-alone monograph] Foundations for
@@ -140,7 +101,7 @@ DESCRIPTION:*[Stand-alone monograph] Foundations for
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 22:44, it is updated
+ f this afternoon at 23:11, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -149,7 +110,7 @@ DESCRIPTION:*[Stand-alone monograph] Foundations for
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=40a7532f-en.
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260409T073000Z
 DTEND:20260409T074500Z
 TRANSP:TRANSPARENT
@@ -164,7 +125,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Founda
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7c862db6-end3e3462
+UID:10.1787/7c862db6-end3e3301
 SUMMARY:[Report] Chemical content validation of 
  recycled plastics
 DESCRIPTION:*[Report] Chemical content validation of
@@ -180,7 +141,7 @@ DESCRIPTION:*[Report] Chemical content validation of
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 22:44, it is updated each night; the
+  at 23:11, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -188,7 +149,7 @@ DESCRIPTION:*[Report] Chemical content validation of
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=7c862db6-en.
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260413T063000Z
 DTEND:20260413T064500Z
 TRANSP:TRANSPARENT
@@ -202,7 +163,52 @@ DESCRIPTION:Reminder: [Report] Chemical content vali
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f61872c5-frd3e3566
+UID:10.1787/02d05307-end3e3353
+SUMMARY:[Report] OECD Secretary-General Tax Repo
+ rt to G20 Finance Ministers and Central 
+ Bank Governors (G20 United States, April
+  2026)
+DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
+ ort to G20 Finance Ministers and Central
+  Bank Governors (G20 United States, Apri
+ l 2026)*\n\nDirectorate: Centre for Tax 
+ Policy and Administration\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/02d05
+ 307-en\nPublication type: Report\nReleas
+ ed as: PDF\n\nEmbargo date/time: Thursda
+ y, 16 April 2026, 12:00 (GMT)\n\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nOECD.org export: never\nFTI loaded
+ : ✗\n\nFor more information see: https:/
+ /oecd.github.io/embargo-calendar/embargo
+ es-by-publication.html.\n\nPlease note: 
+ This information was correct as of this 
+ afternoon at 23:11, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=02d0
+ 5307-en.
+DTSTAMP:20260401T231202Z
+DTSTART:20260416T120000Z
+DTEND:20260416T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] OECD Secretary-Genera
+ l Tax Report to G20 Finance Ministers an
+ d Central Bank Governors (G20 United Sta
+ tes, April 2026)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f61872c5-frd3e3458
 SUMMARY:[Stand-alone monograph] Cadre d’évaluati
  on de la performance du système de santé
   pour le Luxembourg
@@ -221,7 +227,7 @@ DESCRIPTION:*[Stand-alone monograph] Cadre d’évaluat
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 22:44, it is
+ ect as of this afternoon at 23:11, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -230,7 +236,7 @@ DESCRIPTION:*[Stand-alone monograph] Cadre d’évaluat
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=f61872c5-fr.
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260417T110000Z
 DTEND:20260417T111500Z
 TRANSP:TRANSPARENT
@@ -245,7 +251,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Cadre
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3a5169ef-end3e3670
+UID:10.1787/3a5169ef-end3e3562
 SUMMARY:[Book] Taxing Wages 2026 - The Progressi
  vity of Labour Taxation in OECD Countrie
  s
@@ -263,7 +269,7 @@ DESCRIPTION:*[Book] Taxing Wages 2026 - The Progress
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:44, it is updated each night; t
+ on at 23:11, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -272,7 +278,7 @@ DESCRIPTION:*[Book] Taxing Wages 2026 - The Progress
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=3a5169ef-en
  .
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260422T090000Z
 DTEND:20260422T091500Z
 TRANSP:TRANSPARENT
@@ -287,7 +293,7 @@ DESCRIPTION:Reminder: [Book] Taxing Wages 2026 - The
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/96484ff2-frd3e3723
+UID:10.1787/96484ff2-frd3e3615
 SUMMARY:[Book] Les impôts sur les salaires 2026 
  (version abrégée) - La progressivité de 
  l’imposition des revenus du travail dans
@@ -307,7 +313,7 @@ DESCRIPTION:*[Book] Les impôts sur les salaires 2026
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 22:44, it is upda
+ s of this afternoon at 23:11, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -316,7 +322,7 @@ DESCRIPTION:*[Book] Les impôts sur les salaires 2026
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=96484ff2-fr.
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260422T090000Z
 DTEND:20260422T091500Z
 TRANSP:TRANSPARENT
@@ -332,7 +338,7 @@ DESCRIPTION:Reminder: [Book] Les impôts sur les sala
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5542e88a-end3e3777
+UID:10.1787/5542e88a-end3e3668
 SUMMARY:[Book] Results from the Teacher Knowledg
  e Survey - What Teachers Know About Gene
  ral Pedagogy
@@ -350,7 +356,7 @@ DESCRIPTION:*[Book] Results from the Teacher Knowled
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 22:44, it is up
+  as of this afternoon at 23:11, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -359,7 +365,7 @@ DESCRIPTION:*[Book] Results from the Teacher Knowled
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=5542e88a-en.
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260422T110000Z
 DTEND:20260422T111500Z
 TRANSP:TRANSPARENT
@@ -374,7 +380,7 @@ DESCRIPTION:Reminder: [Book] Results from the Teache
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/539538b2-end3e3883
+UID:10.1787/539538b2-end3e3775
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Italy 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -390,7 +396,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 22:44, it is updated each night;
+ noon at 23:11, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -399,7 +405,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=539538b2-
  en.
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260422T220000Z
 DTEND:20260422T221500Z
 TRANSP:TRANSPARENT
@@ -413,7 +419,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6f42c977-end3e3935
+UID:10.1787/6f42c977-end3e3827
 SUMMARY:[Stand-alone monograph] Artificial Intel
  ligence in Italian Financial Markets
 DESCRIPTION:*[Stand-alone monograph] Artificial Inte
@@ -430,7 +436,7 @@ DESCRIPTION:*[Stand-alone monograph] Artificial Inte
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 22:44, it is upda
+ s of this afternoon at 23:11, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -439,7 +445,7 @@ DESCRIPTION:*[Stand-alone monograph] Artificial Inte
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=6f42c977-en.
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260424T080000Z
 DTEND:20260424T081500Z
 TRANSP:TRANSPARENT
@@ -454,7 +460,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Artifi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/928bd5b8-end3e3987
+UID:10.1787/928bd5b8-end3e3879
 SUMMARY:[Stand-alone monograph] Mobilising Finan
  cing and Investment for Quality Infrastr
  ucture in Egypt
@@ -473,7 +479,7 @@ DESCRIPTION:*[Stand-alone monograph] Mobilising Fina
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 22:44, it is updated each night; therefo
+ 23:11, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -481,7 +487,7 @@ DESCRIPTION:*[Stand-alone monograph] Mobilising Fina
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=928bd5b8-en.
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260503T220000Z
 DTEND:20260503T221500Z
 TRANSP:TRANSPARENT
@@ -496,7 +502,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Mobili
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c6675315-end3e4092
+UID:10.1787/c6675315-end3e3983
 SUMMARY:[Book] OECD Reviews of Innovation Policy
  : Egypt 2026
 DESCRIPTION:*[Book] OECD Reviews of Innovation Polic
@@ -512,7 +518,7 @@ DESCRIPTION:*[Book] OECD Reviews of Innovation Polic
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 22:44, it 
+ rrect as of this afternoon at 23:11, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -521,7 +527,7 @@ DESCRIPTION:*[Book] OECD Reviews of Innovation Polic
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=c6675315-en.
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260504T050000Z
 DTEND:20260504T051500Z
 TRANSP:TRANSPARENT
@@ -535,7 +541,91 @@ DESCRIPTION:Reminder: [Book] OECD Reviews of Innovat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/526eff6e-frd3e4144
+UID:10.1787/02bf8efe-end3e4035
+SUMMARY:[Stand-alone monograph] Building Strong 
+ Foundations for Life - Results from the 
+ 2025 Early Learning and Child Well-being
+  Study
+DESCRIPTION:*[Stand-alone monograph] Building Strong
+  Foundations for Life - Results from the
+  2025 Early Learning and Child Well-bein
+ g Study*\n\nDirectorate: Directorate for
+  Education and Skills\nLanguage: English
+ \nDOI: https://doi.org/10.1787/02bf8efe-
+ en\nPublication type: Stand-alone monogr
+ aph\nReleased as: PDF\n\nEmbargo date/ti
+ me: Tuesday, 5 May 2026, 8:00 (GMT)\n\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nOECD.org export: never\nFTI 
+ loaded: ✗\n\nFor more information see: h
+ ttps://oecd.github.io/embargo-calendar/e
+ mbargoes-by-publication.html.\n\nPlease 
+ note: This information was correct as of
+  this afternoon at 23:11, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=02bf8efe-en.
+DTSTAMP:20260401T231202Z
+DTSTART:20260505T080000Z
+DTEND:20260505T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] Buildi
+ ng Strong Foundations for Life - Results
+  from the 2025 Early Learning and Child 
+ Well-being Study
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2f21f131-end3e4089
+SUMMARY:[Book] Revenue Statistics in Latin Ameri
+ ca and the Caribbean 2026
+DESCRIPTION:*[Book] Revenue Statistics in Latin Amer
+ ica and the Caribbean 2026*\n\nDirectora
+ te: Centre for Tax Policy and Administra
+ tion\nLanguage: English\nDOI: https://do
+ i.org/10.1787/2f21f131-en\nPublication t
+ ype: Book\nReleased as: PDF\n\nEmbargo d
+ ate/time: Tuesday, 5 May 2026, 9:00 (GMT
+ )\n\n\niLibrary export: never\nFreeprevi
+ ew export: never\nOECD.org export: never
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 23:11, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=2f21f131-en.
+DTSTAMP:20260401T231202Z
+DTSTART:20260505T090000Z
+DTEND:20260505T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Revenue Statistics in L
+ atin America and the Caribbean 2026
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/526eff6e-frd3e4141
 SUMMARY:[Stand-alone monograph] Financement de l
  a protection sociale au Cameroun - Le rô
  le de la fiscalité générale, des cotisat
@@ -557,7 +647,7 @@ DESCRIPTION:*[Stand-alone monograph] Financement de
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 22:44, i
+ correct as of this afternoon at 23:11, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -566,7 +656,7 @@ DESCRIPTION:*[Stand-alone monograph] Financement de
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=526eff6e-fr.
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260507T090000Z
 DTEND:20260507T091500Z
 TRANSP:TRANSPARENT
@@ -583,7 +673,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Financ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/54cc833d-end3e4249
+UID:10.1787/54cc833d-end3e4246
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Japan 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -599,7 +689,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 22:44, it is updated eac
+ is afternoon at 23:11, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -608,7 +698,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=5
  4cc833d-en.
-DTSTAMP:20260331T224428Z
+DTSTAMP:20260401T231202Z
 DTSTART:20260513T080000Z
 DTEND:20260513T081500Z
 TRANSP:TRANSPARENT
@@ -619,6 +709,44 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: [Economic survey] OECD Economi
  c Surveys: Japan 2026
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/520533a1-end3e4298
+SUMMARY:[Book] OECD Environmental Performance Re
+ views: Austria 2026
+DESCRIPTION:*[Book] OECD Environmental Performance R
+ eviews: Austria 2026*\n\nDirectorate: En
+ vironment Directorate\nLanguage: English
+ \nDOI: https://doi.org/10.1787/520533a1-
+ en\nPublication type: Book\nReleased as:
+  PDF\n\nEmbargo date/time: Friday, 22 Ma
+ y 2026, 12:00 (GMT)\n\n\niLibrary export
+ : never\nFreepreview export: never\nOECD
+ .org export: never\nFTI loaded: ✗\n\nFor
+  more information see: https://oecd.gith
+ ub.io/embargo-calendar/embargoes-by-publ
+ ication.html.\n\nPlease note: This infor
+ mation was correct as of this afternoon 
+ at 23:11, it is updated each night; ther
+ efore any subsequent updates may not yet
+  be visible here. Also, please be aware 
+ that the different released media (PDF, 
+ HTML, etc.) are not necessarily released
+  at the same time. For complete and up-t
+ o-date information see here: http://kapp
+ a.oecd.org/v3/search?term=520533a1-en.
+DTSTAMP:20260401T231202Z
+DTSTART:20260522T120000Z
+DTEND:20260522T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] OECD Environmental Perf
+ ormance Reviews: Austria 2026
 END:VALARM
 END:VEVENT
 END:VCALENDAR
