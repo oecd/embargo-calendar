@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 1 April 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Towards an integrated rural fire management framework in Portugal](https://doi.org/10.1787/9cb528df-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 April 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
+| *Friday 3 April 2026 at 0:03* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Les fondements de la croissance et de la compétitivité 2026](https://doi.org/10.1787/df51b240-fr)
 
@@ -35,7 +12,7 @@ Thursday 9 April 2026 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -44,9 +21,9 @@ Thursday 9 April 2026 at 7:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -392,6 +369,29 @@ Wednesday 13 May 2026 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Competition Market Study of Online Marketplaces in Poland, Latvia and Lithuania](https://doi.org/10.1787/3134e707-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 May 2026 at 12:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 

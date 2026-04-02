@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-04-01T23:11:58.8520154+02:00">
+<report name="official-embargoes" generated="2026-04-03T00:03:05.3826083+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,26 +21,146 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9cb528df-en</cell>
-    <cell name="title">Towards an integrated rural fire management framework in Portugal (en)</cell>
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/3d14f9e5-fr</cell>
+    <cell name="title">Vue d’ensemble (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English</cell>
+    <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-04-07</cell>
-    <cell name="embargo date">2026-04-06T22:01:00Z</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Policy paper</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2bacfeb7</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4dc62f24</cell>
   </row>
   <row index="2">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/df67b8b9-fr</cell>
+    <cell name="title">Japon (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec021342</cell>
+  </row>
+  <row index="3">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/8bce6bfc-fr</cell>
+    <cell name="title">Pérou (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b4186c5</cell>
+  </row>
+  <row index="4">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/a3922ce3-fr</cell>
+    <cell name="title">Suisse (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16fa07fa</cell>
+  </row>
+  <row index="5">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/df51b240-fr</cell>
+    <cell name="title">Les fondements de la croissance et de la compétitivité 2026 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2301350f</cell>
+  </row>
+  <row index="6">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/c626fa9f-fr</cell>
+    <cell name="title">Estonie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a907045</cell>
+  </row>
+  <row index="7">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/11cfca12-fr</cell>
+    <cell name="title">Chili (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/111aabad</cell>
+  </row>
+  <row index="8">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9eee00ee-en</cell>
     <cell name="title">Iceland (en)</cell>
@@ -60,7 +180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f813092</cell>
   </row>
-  <row index="3">
+  <row index="9">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9d928270-en</cell>
     <cell name="title">Costa Rica (en)</cell>
@@ -80,7 +200,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de17cf6d</cell>
   </row>
-  <row index="4">
+  <row index="10">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/05f1b4f8-fr</cell>
+    <cell name="title">France (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ece3351</cell>
+  </row>
+  <row index="11">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/28f82954-en</cell>
     <cell name="title">Poland (en)</cell>
@@ -100,7 +240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3447b404</cell>
   </row>
-  <row index="5">
+  <row index="12">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/40a7532f-en</cell>
     <cell name="title">Foundations for Growth and Competitiveness 2026 (en)</cell>
@@ -120,7 +260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31960852</cell>
   </row>
-  <row index="6">
+  <row index="13">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/40a7532f-en</cell>
     <cell name="title">Foundations for Growth and Competitiveness 2026 (en)</cell>
@@ -140,7 +280,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1843702f</cell>
   </row>
-  <row index="7">
+  <row index="14">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/e6a1b929-fr</cell>
+    <cell name="title">Codes ISO (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d68e9b9</cell>
+  </row>
+  <row index="15">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/cc74379a-fr</cell>
+    <cell name="title">Pologne (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/988f30cb</cell>
+  </row>
+  <row index="16">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/40a7532f-en</cell>
     <cell name="title">Foundations for Growth and Competitiveness 2026 (en)</cell>
@@ -160,7 +340,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6820c998</cell>
   </row>
-  <row index="8">
+  <row index="17">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/e267c687-fr</cell>
+    <cell name="title">Italie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/082eda3a</cell>
+  </row>
+  <row index="18">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/7a56e0f3-en</cell>
     <cell name="title">Australia (en)</cell>
@@ -180,7 +380,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd2bd06d</cell>
   </row>
-  <row index="9">
+  <row index="19">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/2d9c156a-fr</cell>
+    <cell name="title">Autriche (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c184a7c7</cell>
+  </row>
+  <row index="20">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/df51b240-fr</cell>
+    <cell name="title">Les fondements de la croissance et de la compétitivité 2026 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37dce2a5</cell>
+  </row>
+  <row index="21">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/afb7ba93-en</cell>
     <cell name="title">Czechia (en)</cell>
@@ -200,7 +440,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1153b4e8</cell>
   </row>
-  <row index="10">
+  <row index="22">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/446a9aca-fr</cell>
+    <cell name="title">Canada (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/310b4527</cell>
+  </row>
+  <row index="23">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2d7b91e1-en</cell>
     <cell name="title">Estonia (en)</cell>
@@ -220,7 +480,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a25fbd90</cell>
   </row>
-  <row index="11">
+  <row index="24">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/a12b4517-fr</cell>
+    <cell name="title">Roumanie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/956aeef2</cell>
+  </row>
+  <row index="25">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/398c5f70-en</cell>
     <cell name="title">Norway (en)</cell>
@@ -240,7 +520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bbda2d44</cell>
   </row>
-  <row index="12">
+  <row index="26">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/f0edd922-en</cell>
     <cell name="title">United States (en)</cell>
@@ -260,7 +540,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3b917bcf</cell>
   </row>
-  <row index="13">
+  <row index="27">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/a9be3b34-fr</cell>
+    <cell name="title">Afrique du Sud (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c1bb354d</cell>
+  </row>
+  <row index="28">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/d4f4ae78-fr</cell>
+    <cell name="title">Colombie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/686ece97</cell>
+  </row>
+  <row index="29">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/5a22d22e-en</cell>
     <cell name="title">Türkiye (en)</cell>
@@ -280,7 +600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5582ca69</cell>
   </row>
-  <row index="14">
+  <row index="30">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a6a722e0-en</cell>
     <cell name="title">Overview (en)</cell>
@@ -300,7 +620,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e14d83c</cell>
   </row>
-  <row index="15">
+  <row index="31">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/b626f228-fr</cell>
+    <cell name="title">Belgique (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4337713</cell>
+  </row>
+  <row index="32">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/39b26f5c-fr</cell>
+    <cell name="title">Irlande (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/903d68e2</cell>
+  </row>
+  <row index="33">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/a5f2476d-fr</cell>
+    <cell name="title">République slovaque (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd02517a</cell>
+  </row>
+  <row index="34">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/c587acf2-en</cell>
     <cell name="title">Switzerland (en)</cell>
@@ -320,14 +700,34 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fbc7bfc</cell>
   </row>
-  <row index="16">
+  <row index="35">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/d856c33e-fr</cell>
+    <cell name="title">Brésil (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2fc92483</cell>
+  </row>
+  <row index="36">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/df51b240-fr</cell>
     <cell name="title">Les fondements de la croissance et de la compétitivité 2026 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-04-09</cell>
     <cell name="embargo date">2026-04-09T07:30:00Z</cell>
     <cell name="launch date/time"/>
@@ -337,10 +737,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5514f723</cell>
   </row>
-  <row index="17">
+  <row index="37">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/30f87a34-en</cell>
     <cell name="title">South Africa (en)</cell>
@@ -360,7 +760,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c44e183b</cell>
   </row>
-  <row index="18">
+  <row index="38">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/ef1a87e3-fr</cell>
+    <cell name="title">Espagne (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5065e687</cell>
+  </row>
+  <row index="39">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/9963b391-fr</cell>
+    <cell name="title">Israël (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3ead702d</cell>
+  </row>
+  <row index="40">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/63403fb1-en</cell>
     <cell name="title">China (en)</cell>
@@ -380,7 +820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f057ef2</cell>
   </row>
-  <row index="19">
+  <row index="41">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/757e3a98-en</cell>
     <cell name="title">Greece (en)</cell>
@@ -400,7 +840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b63bd14</cell>
   </row>
-  <row index="20">
+  <row index="42">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/0e9b253b-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -420,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/786b285b</cell>
   </row>
-  <row index="21">
+  <row index="43">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a0d67ff3-en</cell>
     <cell name="title">Netherlands (en)</cell>
@@ -440,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e2a01db</cell>
   </row>
-  <row index="22">
+  <row index="44">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/91645765-en</cell>
     <cell name="title">Slovak Republic (en)</cell>
@@ -460,7 +900,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d0e458b</cell>
   </row>
-  <row index="23">
+  <row index="45">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/a0c044d8-fr</cell>
+    <cell name="title">Bulgarie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d232c82</cell>
+  </row>
+  <row index="46">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/70a2e06f-en</cell>
     <cell name="title">Belgium (en)</cell>
@@ -480,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/71d82a6b</cell>
   </row>
-  <row index="24">
+  <row index="47">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/efe3423d-en</cell>
     <cell name="title">Finland (en)</cell>
@@ -500,7 +960,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f3494214</cell>
   </row>
-  <row index="25">
+  <row index="48">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/3986cd71-fr</cell>
+    <cell name="title">Inde (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f99d4f16</cell>
+  </row>
+  <row index="49">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/89789e67-en</cell>
     <cell name="title">Argentina (en)</cell>
@@ -520,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c753508</cell>
   </row>
-  <row index="26">
+  <row index="50">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/40a7532f-en</cell>
     <cell name="title">Foundations for Growth and Competitiveness 2026 (en)</cell>
@@ -540,7 +1020,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4de0bf9</cell>
   </row>
-  <row index="27">
+  <row index="51">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/8a31abf0-fr</cell>
+    <cell name="title">Costa Rica (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e7f6050</cell>
+  </row>
+  <row index="52">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/343778ba-en</cell>
     <cell name="title">Romania (en)</cell>
@@ -560,7 +1060,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e55deae1</cell>
   </row>
-  <row index="28">
+  <row index="53">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/31f61cca-fr</cell>
+    <cell name="title">Argentine (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f83c674</cell>
+  </row>
+  <row index="54">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/73f861f6-fr</cell>
+    <cell name="title">Finlande (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92b9792e</cell>
+  </row>
+  <row index="55">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/effd5538-en</cell>
     <cell name="title">Canada (en)</cell>
@@ -580,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d8ee2ee4</cell>
   </row>
-  <row index="29">
+  <row index="56">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d52e6f37-en</cell>
     <cell name="title">Mexico (en)</cell>
@@ -600,7 +1140,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a22356a</cell>
   </row>
-  <row index="30">
+  <row index="57">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/d339423b-fr</cell>
+    <cell name="title">Résumé (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/48e02934</cell>
+  </row>
+  <row index="58">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/6cbf24ed-en</cell>
     <cell name="title">New Zealand (en)</cell>
@@ -620,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/595f41d8</cell>
   </row>
-  <row index="31">
+  <row index="59">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/92782eae-en</cell>
     <cell name="title">ISO Codes (en)</cell>
@@ -640,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0aafa358</cell>
   </row>
-  <row index="32">
+  <row index="60">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9345c04e-en</cell>
     <cell name="title">Indonesia (en)</cell>
@@ -660,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a444023a</cell>
   </row>
-  <row index="33">
+  <row index="61">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/40a7532f-en</cell>
     <cell name="title">Foundations for Growth and Competitiveness 2026 (en)</cell>
@@ -680,7 +1240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a84b43a</cell>
   </row>
-  <row index="34">
+  <row index="62">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/3715ebb0-en</cell>
     <cell name="title">Bulgaria (en)</cell>
@@ -700,7 +1260,87 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/17b05b9e</cell>
   </row>
-  <row index="35">
+  <row index="63">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/4e80540a-fr</cell>
+    <cell name="title">Tchéquie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa61781c</cell>
+  </row>
+  <row index="64">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/01bf035d-fr</cell>
+    <cell name="title">Hongrie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80b12ded</cell>
+  </row>
+  <row index="65">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/2f5d223c-fr</cell>
+    <cell name="title">Australie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bbc200b4</cell>
+  </row>
+  <row index="66">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/e18bd164-fr</cell>
+    <cell name="title">Pays‑Bas (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb4dcc74</cell>
+  </row>
+  <row index="67">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/88bc97d3-en</cell>
     <cell name="title">Lithuania (en)</cell>
@@ -720,7 +1360,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66fe10a6</cell>
   </row>
-  <row index="36">
+  <row index="68">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/3a010c68-fr</cell>
+    <cell name="title">Mexique (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30a3d193</cell>
+  </row>
+  <row index="69">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/e31a7a0b-en</cell>
     <cell name="title">Latvia (en)</cell>
@@ -740,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9de72d1c</cell>
   </row>
-  <row index="37">
+  <row index="70">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/020d8089-en</cell>
     <cell name="title">Germany (en)</cell>
@@ -760,14 +1420,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f68e1597</cell>
   </row>
-  <row index="38">
+  <row index="71">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/df51b240-fr</cell>
     <cell name="title">Les fondements de la croissance et de la compétitivité 2026 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-04-09</cell>
     <cell name="embargo date">2026-04-09T07:30:00Z</cell>
     <cell name="launch date/time"/>
@@ -780,7 +1440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6173ad14</cell>
   </row>
-  <row index="39">
+  <row index="72">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/550e16bf-en</cell>
     <cell name="title">Hungary (en)</cell>
@@ -800,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2bde2d47</cell>
   </row>
-  <row index="40">
+  <row index="73">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/5aea8633-en</cell>
     <cell name="title">Japan (en)</cell>
@@ -820,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ce4023f</cell>
   </row>
-  <row index="41">
+  <row index="74">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/dda42a6e-en</cell>
     <cell name="title">India (en)</cell>
@@ -840,7 +1500,87 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e21ea50b</cell>
   </row>
-  <row index="42">
+  <row index="75">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/1dcec2ed-fr</cell>
+    <cell name="title">Lettonie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe9513fe</cell>
+  </row>
+  <row index="76">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/672b7e02-fr</cell>
+    <cell name="title">Royaume-Uni (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d5d1d12</cell>
+  </row>
+  <row index="77">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/0c9bb05d-fr</cell>
+    <cell name="title">Allemagne (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd65b2c1</cell>
+  </row>
+  <row index="78">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/c62990d4-fr</cell>
+    <cell name="title">Türkiye (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96b03138</cell>
+  </row>
+  <row index="79">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/45e835eb-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -860,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e765c161</cell>
   </row>
-  <row index="43">
+  <row index="80">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/0c925e05-en</cell>
     <cell name="title">Chile (en)</cell>
@@ -880,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f94f5cc</cell>
   </row>
-  <row index="44">
+  <row index="81">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/62d19800-en</cell>
     <cell name="title">Slovenia (en)</cell>
@@ -900,7 +1640,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/671bf50c</cell>
   </row>
-  <row index="45">
+  <row index="82">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/c307f811-fr</cell>
+    <cell name="title">Grèce (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f38d4afe</cell>
+  </row>
+  <row index="83">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/4679e7e5-en</cell>
     <cell name="title">Denmark (en)</cell>
@@ -920,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/34d5d5fe</cell>
   </row>
-  <row index="46">
+  <row index="84">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d12a778f-en</cell>
     <cell name="title">Spain (en)</cell>
@@ -940,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/feee0d84</cell>
   </row>
-  <row index="47">
+  <row index="85">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/87a500a5-en</cell>
     <cell name="title">Israel (en)</cell>
@@ -960,14 +1720,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2560189</cell>
   </row>
-  <row index="48">
+  <row index="86">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/df51b240-fr</cell>
     <cell name="title">Les fondements de la croissance et de la compétitivité 2026 (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-04-09</cell>
     <cell name="embargo date">2026-04-09T07:30:00Z</cell>
     <cell name="launch date/time"/>
@@ -977,10 +1737,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee938249</cell>
   </row>
-  <row index="49">
+  <row index="87">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2be128a4-en</cell>
     <cell name="title">Italy (en)</cell>
@@ -1000,7 +1760,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26a04250</cell>
   </row>
-  <row index="50">
+  <row index="88">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/8687df15-fr</cell>
+    <cell name="title">États‑Unis (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c20777e2</cell>
+  </row>
+  <row index="89">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/7d3788ac-en</cell>
     <cell name="title">Korea (en)</cell>
@@ -1020,7 +1800,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba757a06</cell>
   </row>
-  <row index="51">
+  <row index="90">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/43d988d0-fr</cell>
+    <cell name="title">Chine (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f051ee49</cell>
+  </row>
+  <row index="91">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/02bd3297-fr</cell>
+    <cell name="title">Portugal (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82d9edd0</cell>
+  </row>
+  <row index="92">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/d7ae8087-fr</cell>
+    <cell name="title">Éditorial (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f809169c</cell>
+  </row>
+  <row index="93">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/c93c838c-en</cell>
     <cell name="title">Sweden (en)</cell>
@@ -1040,7 +1880,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d07a5e4</cell>
   </row>
-  <row index="52">
+  <row index="94">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/6deb4a00-fr</cell>
+    <cell name="title">Suède (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d087b55</cell>
+  </row>
+  <row index="95">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/acfdcf21-fr</cell>
+    <cell name="title">Danemark (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e62ec7fc</cell>
+  </row>
+  <row index="96">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/c3ac202d-en</cell>
     <cell name="title">Ireland (en)</cell>
@@ -1060,7 +1940,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50805f51</cell>
   </row>
-  <row index="53">
+  <row index="97">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/8ab264dc-fr</cell>
+    <cell name="title">Norvège (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03f32294</cell>
+  </row>
+  <row index="98">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/94828d62-en</cell>
     <cell name="title">Croatia (en)</cell>
@@ -1080,7 +1980,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45028ed1</cell>
   </row>
-  <row index="54">
+  <row index="99">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/03aedecc-fr</cell>
+    <cell name="title">Islande (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc5490cb</cell>
+  </row>
+  <row index="100">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/50d8e8ca-en</cell>
     <cell name="title">Peru (en)</cell>
@@ -1100,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/728e0632</cell>
   </row>
-  <row index="55">
+  <row index="101">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/ccdb8886-en</cell>
     <cell name="title">Colombia (en)</cell>
@@ -1120,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/780fe621</cell>
   </row>
-  <row index="56">
+  <row index="102">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/c8aa7c34-en</cell>
     <cell name="title">Luxembourg (en)</cell>
@@ -1140,7 +2060,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c54685d0</cell>
   </row>
-  <row index="57">
+  <row index="103">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/a2b14a2d-fr</cell>
+    <cell name="title">Indonésie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a1594ca</cell>
+  </row>
+  <row index="104">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/d086231d-fr</cell>
+    <cell name="title">Corée (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4419a9bc</cell>
+  </row>
+  <row index="105">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/3f34e28e-fr</cell>
+    <cell name="title">Lituanie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/408049c6</cell>
+  </row>
+  <row index="106">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b3512739-en</cell>
     <cell name="title">Brazil (en)</cell>
@@ -1160,7 +2140,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f69a7b2</cell>
   </row>
-  <row index="58">
+  <row index="107">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/f9270b29-fr</cell>
+    <cell name="title">Slovénie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7101cd4e</cell>
+  </row>
+  <row index="108">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eff93527-en</cell>
     <cell name="title">Portugal (en)</cell>
@@ -1180,7 +2180,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a959df1f</cell>
   </row>
-  <row index="59">
+  <row index="109">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/a3b24d58-fr</cell>
+    <cell name="title">Nouvelle‑Zélande (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93719f86</cell>
+  </row>
+  <row index="110">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/312bb346-fr</cell>
+    <cell name="title">Luxembourg (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f842f601</cell>
+  </row>
+  <row index="111">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/68184a9c-fr</cell>
+    <cell name="title">Croatie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-09</cell>
+    <cell name="embargo date">2026-04-09T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd9056aa</cell>
+  </row>
+  <row index="112">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/7cd730ba-en</cell>
     <cell name="title">Austria (en)</cell>
@@ -1200,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/756b85ff</cell>
   </row>
-  <row index="60">
+  <row index="113">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/c3b2c5b1-en</cell>
     <cell name="title">United Kingdom (en)</cell>
@@ -1220,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e0e3c1a</cell>
   </row>
-  <row index="61">
+  <row index="114">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9fd51d80-en</cell>
     <cell name="title">France (en)</cell>
@@ -1240,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f94a2105</cell>
   </row>
-  <row index="62">
+  <row index="115">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/7c862db6-en</cell>
     <cell name="title">Chemical content validation of recycled plastics (en)</cell>
@@ -1260,7 +2320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/991f40bc</cell>
   </row>
-  <row index="63">
+  <row index="116">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/02d05307-en</cell>
     <cell name="title">OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, April 2026) (en)</cell>
@@ -1280,7 +2340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c06f28b4</cell>
   </row>
-  <row index="64">
+  <row index="117">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f61872c5-fr</cell>
     <cell name="title">Cadre d’évaluation de la performance du système de santé pour le Luxembourg (fr)</cell>
@@ -1300,7 +2360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ed6763a</cell>
   </row>
-  <row index="65">
+  <row index="118">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f61872c5-fr</cell>
     <cell name="title">Cadre d’évaluation de la performance du système de santé pour le Luxembourg (fr)</cell>
@@ -1320,7 +2380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/404e07a6</cell>
   </row>
-  <row index="66">
+  <row index="119">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f61872c5-fr</cell>
     <cell name="title">Cadre d’évaluation de la performance du système de santé pour le Luxembourg (fr)</cell>
@@ -1340,7 +2400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a669781</cell>
   </row>
-  <row index="67">
+  <row index="120">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3a5169ef-en</cell>
     <cell name="title">Taxing Wages 2026 (en)</cell>
@@ -1360,7 +2420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/866dcfc5</cell>
   </row>
-  <row index="68">
+  <row index="121">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/96484ff2-fr</cell>
     <cell name="title">Les impôts sur les salaires 2026 (version abrégée) (fr)</cell>
@@ -1380,7 +2440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27460558</cell>
   </row>
-  <row index="69">
+  <row index="122">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5542e88a-en</cell>
     <cell name="title">Results from the Teacher Knowledge Survey (en)</cell>
@@ -1400,7 +2460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af8d6ff9</cell>
   </row>
-  <row index="70">
+  <row index="123">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5542e88a-en</cell>
     <cell name="title">Results from the Teacher Knowledge Survey (en)</cell>
@@ -1420,7 +2480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f5617d8</cell>
   </row>
-  <row index="71">
+  <row index="124">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/539538b2-en</cell>
     <cell name="title">OECD Economic Surveys: Italy 2026 (en)</cell>
@@ -1440,7 +2500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/430710eb</cell>
   </row>
-  <row index="72">
+  <row index="125">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/6f42c977-en</cell>
     <cell name="title">Artificial Intelligence in Italian Financial Markets (en)</cell>
@@ -1460,7 +2520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8a4231a</cell>
   </row>
-  <row index="73">
+  <row index="126">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/928bd5b8-en</cell>
     <cell name="title">Mobilising Financing and Investment for Quality Infrastructure in Egypt (en)</cell>
@@ -1480,7 +2540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31f7311b</cell>
   </row>
-  <row index="74">
+  <row index="127">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/c6675315-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Egypt 2026 (en)</cell>
@@ -1500,7 +2560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/906b89da</cell>
   </row>
-  <row index="75">
+  <row index="128">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/c6675315-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Egypt 2026 (en)</cell>
@@ -1520,7 +2580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39e4efa6</cell>
   </row>
-  <row index="76">
+  <row index="129">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/02bf8efe-en</cell>
     <cell name="title">Building Strong Foundations for Life (en)</cell>
@@ -1540,7 +2600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41007bae</cell>
   </row>
-  <row index="77">
+  <row index="130">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2f21f131-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2026 (en)</cell>
@@ -1560,7 +2620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d67af943</cell>
   </row>
-  <row index="78">
+  <row index="131">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/526eff6e-fr</cell>
     <cell name="title">Financement de la protection sociale au Cameroun (fr)</cell>
@@ -1580,7 +2640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/adad457f</cell>
   </row>
-  <row index="79">
+  <row index="132">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/54cc833d-en</cell>
     <cell name="title">OECD Economic Surveys: Japan 2026 (en)</cell>
@@ -1600,7 +2660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/102062a2</cell>
   </row>
-  <row index="80">
+  <row index="133">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/54cc833d-en</cell>
     <cell name="title">OECD Economic Surveys: Japan 2026 (en)</cell>
@@ -1620,7 +2680,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca071c1e</cell>
   </row>
-  <row index="81">
+  <row index="134">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/3134e707-en</cell>
+    <cell name="title">Competition Market Study of Online Marketplaces in Poland, Latvia and Lithuania (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-05-18</cell>
+    <cell name="embargo date">2026-05-18T12:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/afbc04b4</cell>
+  </row>
+  <row index="135">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/520533a1-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Austria 2026 (en)</cell>
