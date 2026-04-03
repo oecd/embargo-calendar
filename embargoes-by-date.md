@@ -2,12 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 April 2026 at 0:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 3 April 2026 at 23:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 April 2026](#9-april-2026)
 * [13 April 2026](#13-april-2026)
 * [16 April 2026](#16-april-2026)
-* [17 April 2026](#17-april-2026)
 * [22 April 2026](#22-april-2026)
 * [24 April 2026](#24-april-2026)
 * [3 May 2026](#3-may-2026)
@@ -116,36 +115,9 @@ Thursday 16 April 2026 at 12:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
-
-------
-
-------
-
-# 17 April 2026
-
-## [Cadre d’évaluation de la performance du système de santé pour le Luxembourg](https://doi.org/10.1787/f61872c5-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 April 2026 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -293,7 +265,7 @@ Sunday 3 May 2026 at 22:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -320,7 +292,7 @@ Monday 4 May 2026 at 5:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -370,7 +342,7 @@ Tuesday 5 May 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -397,7 +369,7 @@ Thursday 7 May 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
