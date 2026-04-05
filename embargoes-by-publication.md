@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 April 2026 at 23:49* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 5 April 2026 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Les fondements de la croissance et de la compétitivité 2026](https://doi.org/10.1787/df51b240-fr)
 
