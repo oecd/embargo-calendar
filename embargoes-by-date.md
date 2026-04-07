@@ -2,11 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 6 April 2026 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 7 April 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 April 2026](#9-april-2026)
+* [12 April 2026](#12-april-2026)
 * [13 April 2026](#13-april-2026)
+* [14 April 2026](#14-april-2026)
 * [16 April 2026](#16-april-2026)
+* [19 April 2026](#19-april-2026)
 * [22 April 2026](#22-april-2026)
 * [24 April 2026](#24-april-2026)
 * [3 May 2026](#3-may-2026)
@@ -67,6 +70,56 @@ Thursday 9 April 2026 at 7:30 | no launch event
 
 ------
 
+## [Explaining rural start-up firms and entrepreneurship in Portugal](https://doi.org/10.1787/024f0ea2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 9 April 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 12 April 2026
+
+## [Empowering SMEs in the age of AI - The 2026 OECD D4SME Survey](https://doi.org/10.1787/bf5a9816-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 12 April 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 13 April 2026
@@ -96,6 +149,33 @@ Monday 13 April 2026 at 6:30 | no launch event
 
 ------
 
+# 14 April 2026
+
+## [Participation of third-country bidders in the EU procurement market](https://doi.org/10.1787/c2b218e1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 April 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
+------
+
 # 16 April 2026
 
 ## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, April 2026)](https://doi.org/10.1787/02d05307-en)
@@ -117,6 +197,79 @@ Thursday 16 April 2026 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-unis, avril 2026)](https://doi.org/10.1787/13d978a3-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 April 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Benchmarking SME decarbonisation policies](https://doi.org/10.1787/6736b4f3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 April 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 19 April 2026
+
+## [Harnessing the private sector’s contribution to climate adaptation](https://doi.org/10.1787/43d93534-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 19 April 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy brief*
 * Format: *PDF*
 
 ------
@@ -175,7 +328,7 @@ Wednesday 22 April 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 22 April 2026 at 11:00 | no launch event
+Wednesday 22 April 2026 at 14:30 | no launch event
 
 ### Status Information
 
