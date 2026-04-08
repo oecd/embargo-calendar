@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 April 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 8 April 2026 at 22:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 April 2026](#9-april-2026)
 * [12 April 2026](#12-april-2026)
@@ -67,29 +67,6 @@ Thursday 9 April 2026 at 7:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Explaining rural start-up firms and entrepreneurship in Portugal](https://doi.org/10.1787/024f0ea2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 April 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
 
 ------
 
