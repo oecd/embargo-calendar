@@ -2,16 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 April 2026 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 10 April 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 April 2026](#9-april-2026)
-* [12 April 2026](#12-april-2026)
 * [13 April 2026](#13-april-2026)
 * [14 April 2026](#14-april-2026)
+* [15 April 2026](#15-april-2026)
 * [16 April 2026](#16-april-2026)
 * [19 April 2026](#19-april-2026)
+* [21 April 2026](#21-april-2026)
 * [22 April 2026](#22-april-2026)
 * [24 April 2026](#24-april-2026)
+* [29 April 2026](#29-april-2026)
 * [3 May 2026](#3-may-2026)
 * [4 May 2026](#4-may-2026)
 * [5 May 2026](#5-may-2026)
@@ -19,6 +21,7 @@ Data generated on | |
 * [13 May 2026](#13-may-2026)
 * [18 May 2026](#18-may-2026)
 * [22 May 2026](#22-may-2026)
+* [31 May 2026](#31-may-2026)
 
 ------
 
@@ -72,33 +75,6 @@ Thursday 9 April 2026 at 7:30 | no launch event
 
 ------
 
-# 12 April 2026
-
-## [Empowering SMEs in the age of AI - The 2026 OECD D4SME Survey](https://doi.org/10.1787/bf5a9816-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 12 April 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 13 April 2026
 
 ## [Chemical content validation of recycled plastics](https://doi.org/10.1787/7c862db6-en)
@@ -109,7 +85,7 @@ Monday 13 April 2026 at 6:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -118,7 +94,7 @@ Monday 13 April 2026 at 6:30 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -148,6 +124,33 @@ Tuesday 14 April 2026 at 22:01 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Policy brief*
 * Format: *PDF*
+
+------
+
+------
+
+# 15 April 2026
+
+## [Policies for the Future of Farming and Food in Romania](https://doi.org/10.1787/6ef8fa3c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 April 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -247,6 +250,33 @@ Sunday 19 April 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
+------
+
+# 21 April 2026
+
+## [Protecting and empowering consumers to advance their financial well-being](https://doi.org/10.1787/e02f9112-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 April 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -376,6 +406,240 @@ Friday 24 April 2026 at 8:00 | no launch event
 
 ------
 
+# 29 April 2026
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Vanuatu 2026 (Second Round, Supplementary Report) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/75b3bc85-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Guinea 2026 (Second Round, Phase 1) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/574618bd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Montserrat 2026 (Second Round, Phase 1) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/669b04da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Niue 2026 (Second Round, Phase 1) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/78de2acb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: El Salvador 2026 (Second Round) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/8d538d31-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Belize 2026 (Second Round, In-depth Review) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/1bce4ec5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Gabon 2026 (Second Round) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/77f8805e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Cambodia 2026 (Second Round) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/549b27f0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Public Procurement in Costa Rica - Manual to strengthen market engagement and advance technological neutrality and competition](https://doi.org/10.1787/d94a03ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Budgeting in Egypt - Consolidating reform for better spending](https://doi.org/10.1787/b59acef0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 3 May 2026
 
 ## [Mobilising Financing and Investment for Quality Infrastructure in Egypt](https://doi.org/10.1787/928bd5b8-en)
@@ -449,7 +713,7 @@ Tuesday 5 May 2026 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -582,6 +846,33 @@ Friday 22 May 2026 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 31 May 2026
+
+## [Strengthening capital markets in Bosnia and Herzegovina](https://doi.org/10.1787/0b8fa0de-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 31 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------

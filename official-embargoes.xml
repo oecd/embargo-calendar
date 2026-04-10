@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-04-09T23:17:29.8530292+02:00">
+<report name="official-embargoes" generated="2026-04-10T23:13:05.712437+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -734,7 +734,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2026-04-09T21:44:29Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1014,7 +1014,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2026-04-09T21:44:29Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -2301,33 +2301,13 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f94a2105</cell>
   </row>
   <row index="115">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
-    <cell name="doi">10.1787/bf5a9816-en</cell>
-    <cell name="title">Empowering SMEs in the age of AI (en)</cell>
-    <cell name="subtitle">The 2026 OECD D4SME Survey (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-04-13</cell>
-    <cell name="embargo date">2026-04-12T22:01:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Policy paper</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39c30ec7</cell>
-  </row>
-  <row index="116">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/7c862db6-en</cell>
     <cell name="title">Chemical content validation of recycled plastics (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-04-13</cell>
     <cell name="embargo date">2026-04-13T06:30:00Z</cell>
     <cell name="launch date/time"/>
@@ -2337,10 +2317,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/991f40bc</cell>
   </row>
-  <row index="117">
+  <row index="116">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c2b218e1-en</cell>
     <cell name="title">Participation of third-country bidders in the EU procurement market (en)</cell>
@@ -2360,7 +2340,307 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9ff0932</cell>
   </row>
+  <row index="117">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/a190c134-en</cell>
+    <cell name="title">Agricultural policy performance in achieving national objectives (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5557fee9</cell>
+  </row>
   <row index="118">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/6ef8fa3c-en</cell>
+    <cell name="title">Policies for the Future of Farming and Food in Romania (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/18b8e145</cell>
+  </row>
+  <row index="119">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/066cf2f7-en</cell>
+    <cell name="title">The agricultural policy context (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4c9be25f</cell>
+  </row>
+  <row index="120">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/5c2e9128-en</cell>
+    <cell name="title">Agriculture innovation system (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7ec043c</cell>
+  </row>
+  <row index="121">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/bdebdd78-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e3fb5ce</cell>
+  </row>
+  <row index="122">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/30ae0ced-en</cell>
+    <cell name="title">Acronyms and Abbreviations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b3924dc</cell>
+  </row>
+  <row index="123">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/6ef8fa3c-en</cell>
+    <cell name="title">Policies for the Future of Farming and Food in Romania (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d820ae93</cell>
+  </row>
+  <row index="124">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/23cc9ae5-en</cell>
+    <cell name="title">Trends and evaluation of agricultural policies (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84fce2d0</cell>
+  </row>
+  <row index="125">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/65bd92a5-en</cell>
+    <cell name="title">Executive Summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/923fd355</cell>
+  </row>
+  <row index="126">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/f290980b-en</cell>
+    <cell name="title">Food systems (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22b8791d</cell>
+  </row>
+  <row index="127">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/6ef8fa3c-en</cell>
+    <cell name="title">Policies for the Future of Farming and Food in Romania (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b7c0ae52</cell>
+  </row>
+  <row index="128">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/6ef8fa3c-en</cell>
+    <cell name="title">Policies for the Future of Farming and Food in Romania (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72e2b834</cell>
+  </row>
+  <row index="129">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/05892d8c-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50e027e4</cell>
+  </row>
+  <row index="130">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/6ef8fa3c-en</cell>
+    <cell name="title">Policies for the Future of Farming and Food in Romania (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f5c1fab</cell>
+  </row>
+  <row index="131">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/b1ae82c4-en</cell>
+    <cell name="title">Natural resources management (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-15</cell>
+    <cell name="embargo date">2026-04-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da341a37</cell>
+  </row>
+  <row index="132">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/02d05307-en</cell>
     <cell name="title">OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, April 2026) (en)</cell>
@@ -2380,7 +2660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c06f28b4</cell>
   </row>
-  <row index="119">
+  <row index="133">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/13d978a3-fr</cell>
     <cell name="title">Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-unis, avril 2026) (fr)</cell>
@@ -2400,7 +2680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c81d1221</cell>
   </row>
-  <row index="120">
+  <row index="134">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6736b4f3-en</cell>
     <cell name="title">Benchmarking SME decarbonisation policies (en)</cell>
@@ -2420,7 +2700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b43139b0</cell>
   </row>
-  <row index="121">
+  <row index="135">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/43d93534-en</cell>
     <cell name="title">Harnessing the private sector’s contribution to climate adaptation (en)</cell>
@@ -2440,7 +2720,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ecd164b7</cell>
   </row>
-  <row index="122">
+  <row index="136">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e02f9112-en</cell>
+    <cell name="title">Protecting and empowering consumers to advance their financial well-being (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-04-22</cell>
+    <cell name="embargo date">2026-04-21T22:01:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Policy paper</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91563fea</cell>
+  </row>
+  <row index="137">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3a5169ef-en</cell>
     <cell name="title">Taxing Wages 2026 (en)</cell>
@@ -2460,7 +2760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/866dcfc5</cell>
   </row>
-  <row index="123">
+  <row index="138">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/96484ff2-fr</cell>
     <cell name="title">Les impôts sur les salaires 2026 (version abrégée) (fr)</cell>
@@ -2480,7 +2780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27460558</cell>
   </row>
-  <row index="124">
+  <row index="139">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5542e88a-en</cell>
     <cell name="title">Results from the Teacher Knowledge Survey (en)</cell>
@@ -2500,7 +2800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f5617d8</cell>
   </row>
-  <row index="125">
+  <row index="140">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5542e88a-en</cell>
     <cell name="title">Results from the Teacher Knowledge Survey (en)</cell>
@@ -2520,7 +2820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af8d6ff9</cell>
   </row>
-  <row index="126">
+  <row index="141">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/539538b2-en</cell>
     <cell name="title">OECD Economic Surveys: Italy 2026 (en)</cell>
@@ -2540,7 +2840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/430710eb</cell>
   </row>
-  <row index="127">
+  <row index="142">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/6f42c977-en</cell>
     <cell name="title">Artificial Intelligence in Italian Financial Markets (en)</cell>
@@ -2560,7 +2860,207 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8a4231a</cell>
   </row>
-  <row index="128">
+  <row index="143">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/75b3bc85-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Vanuatu 2026 (Second Round, Supplementary Report) (en)</cell>
+    <cell name="subtitle">Peer Review on Transparency and Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-04-29</cell>
+    <cell name="embargo date">2026-04-29T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf97a7d0</cell>
+  </row>
+  <row index="144">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/574618bd-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Guinea 2026 (Second Round, Phase 1) (en)</cell>
+    <cell name="subtitle">Peer Review on Transparency and Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-04-29</cell>
+    <cell name="embargo date">2026-04-29T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed1ec6ef</cell>
+  </row>
+  <row index="145">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/669b04da-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Montserrat 2026 (Second Round, Phase 1) (en)</cell>
+    <cell name="subtitle">Peer Review on Transparency and Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-04-29</cell>
+    <cell name="embargo date">2026-04-29T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16cecc65</cell>
+  </row>
+  <row index="146">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/78de2acb-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Niue 2026 (Second Round, Phase 1) (en)</cell>
+    <cell name="subtitle">Peer Review on Transparency and Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-04-29</cell>
+    <cell name="embargo date">2026-04-29T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/318e2669</cell>
+  </row>
+  <row index="147">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/8d538d31-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: El Salvador 2026 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review on Transparency and Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-04-29</cell>
+    <cell name="embargo date">2026-04-29T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f606a60</cell>
+  </row>
+  <row index="148">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/1bce4ec5-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Belize 2026 (Second Round, In-depth Review) (en)</cell>
+    <cell name="subtitle">Peer Review on Transparency and Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-04-29</cell>
+    <cell name="embargo date">2026-04-29T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1097132d</cell>
+  </row>
+  <row index="149">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/77f8805e-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Gabon 2026 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review on Transparency and Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-04-29</cell>
+    <cell name="embargo date">2026-04-29T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/98d6eaea</cell>
+  </row>
+  <row index="150">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/549b27f0-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Cambodia 2026 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review on Transparency and Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-04-29</cell>
+    <cell name="embargo date">2026-04-29T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7a1b374</cell>
+  </row>
+  <row index="151">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/d94a03ac-en</cell>
+    <cell name="title">Public Procurement in Costa Rica (en)</cell>
+    <cell name="subtitle">Manual to strengthen market engagement and advance technological neutrality and competition (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-04-30</cell>
+    <cell name="embargo date">2026-04-29T22:01:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Policy paper</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc02fce2</cell>
+  </row>
+  <row index="152">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/b59acef0-en</cell>
+    <cell name="title">Budgeting in Egypt (en)</cell>
+    <cell name="subtitle">Consolidating reform for better spending (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-04-30</cell>
+    <cell name="embargo date">2026-04-29T22:01:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Policy paper</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/225bd5e0</cell>
+  </row>
+  <row index="153">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/928bd5b8-en</cell>
     <cell name="title">Mobilising Financing and Investment for Quality Infrastructure in Egypt (en)</cell>
@@ -2580,7 +3080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31f7311b</cell>
   </row>
-  <row index="129">
+  <row index="154">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/c6675315-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Egypt 2026 (en)</cell>
@@ -2600,7 +3100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/906b89da</cell>
   </row>
-  <row index="130">
+  <row index="155">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/c6675315-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Egypt 2026 (en)</cell>
@@ -2620,14 +3120,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39e4efa6</cell>
   </row>
-  <row index="131">
+  <row index="156">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/02bf8efe-en</cell>
     <cell name="title">Building Strong Foundations for Life (en)</cell>
     <cell name="subtitle">Results from the 2025 Early Learning and Child Well-being Study (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2026-05-05</cell>
     <cell name="embargo date">2026-05-05T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -2640,7 +3140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41007bae</cell>
   </row>
-  <row index="132">
+  <row index="157">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2f21f131-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2026 (en)</cell>
@@ -2660,7 +3160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d67af943</cell>
   </row>
-  <row index="133">
+  <row index="158">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/526eff6e-fr</cell>
     <cell name="title">Financement de la protection sociale au Cameroun (fr)</cell>
@@ -2680,7 +3180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/adad457f</cell>
   </row>
-  <row index="134">
+  <row index="159">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/54cc833d-en</cell>
     <cell name="title">OECD Economic Surveys: Japan 2026 (en)</cell>
@@ -2700,7 +3200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/102062a2</cell>
   </row>
-  <row index="135">
+  <row index="160">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/54cc833d-en</cell>
     <cell name="title">OECD Economic Surveys: Japan 2026 (en)</cell>
@@ -2720,7 +3220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca071c1e</cell>
   </row>
-  <row index="136">
+  <row index="161">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/3134e707-en</cell>
     <cell name="title">Competition Market Study of Online Marketplaces in Poland, Latvia and Lithuania (en)</cell>
@@ -2740,7 +3240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/afbc04b4</cell>
   </row>
-  <row index="137">
+  <row index="162">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/520533a1-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Austria 2026 (en)</cell>
@@ -2759,5 +3259,25 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3bf4e7e</cell>
+  </row>
+  <row index="163">
+    <cell name="directorate">Global Relations and Cooperation Directorate</cell>
+    <cell name="doi">10.1787/0b8fa0de-en</cell>
+    <cell name="title">Strengthening capital markets in Bosnia and Herzegovina (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-06-01</cell>
+    <cell name="embargo date">2026-05-31T22:01:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Policy paper</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2392e12f</cell>
   </row>
 </report>
