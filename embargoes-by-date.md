@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 10 April 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 12 April 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 April 2026](#9-april-2026)
 * [13 April 2026](#13-april-2026)
 * [14 April 2026](#14-april-2026)
 * [15 April 2026](#15-april-2026)
@@ -22,56 +21,6 @@ Data generated on | |
 * [18 May 2026](#18-may-2026)
 * [22 May 2026](#22-may-2026)
 * [31 May 2026](#31-may-2026)
-
-------
-
-# 9 April 2026
-
-## [Les fondements de la croissance et de la compétitivité 2026](https://doi.org/10.1787/df51b240-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 April 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Foundations for Growth and Competitiveness 2026](https://doi.org/10.1787/40a7532f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 April 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 

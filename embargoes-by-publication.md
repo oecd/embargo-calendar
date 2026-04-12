@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 10 April 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Les fondements de la croissance et de la compétitivité 2026](https://doi.org/10.1787/df51b240-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 April 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Foundations for Growth and Competitiveness 2026](https://doi.org/10.1787/40a7532f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 April 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 12 April 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Chemical content validation of recycled plastics](https://doi.org/10.1787/7c862db6-en)
 
