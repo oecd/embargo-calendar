@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 12 April 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 13 April 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Chemical content validation of recycled plastics](https://doi.org/10.1787/7c862db6-en)
 
@@ -303,6 +303,29 @@ Friday 24 April 2026 at 8:00 | no launch event
 
 ------
 
+## [OECD Inventory of Export Restrictions on Critical Raw Materials 2026 - Monitoring the Use of Export Restrictions amidst Growing Market and Policy Tensions](https://doi.org/10.1787/d5ca8f62-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 April 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Vanuatu 2026 (Second Round, Supplementary Report) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/75b3bc85-en)
 
 Embargo date | Launch date
@@ -326,6 +349,29 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 ------
 
+## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Gabon 2026 (Deuxième cycle) - Rapport d'examen par les pairs sur la transparence et l'échange de renseignements sur demande](https://doi.org/10.1787/9b1fbdac-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Guinea 2026 (Second Round, Phase 1) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/574618bd-en)
 
 Embargo date | Launch date
@@ -343,6 +389,29 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Guinée 2026 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur la transparence et l'échange de renseignements sur demande](https://doi.org/10.1787/5af5f6f6-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 April 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
