@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 14 April 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Chemical content validation of recycled plastics](https://doi.org/10.1787/7c862db6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 April 2026 at 6:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Wednesday 15 April 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Participation of third-country bidders in the EU procurement market](https://doi.org/10.1787/c2b218e1-en)
 
@@ -44,7 +21,7 @@ Tuesday 14 April 2026 at 22:01 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy brief*
 * Format: *PDF*
 
@@ -81,7 +58,7 @@ Thursday 16 April 2026 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -90,7 +67,7 @@ Thursday 16 April 2026 at 12:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -104,7 +81,7 @@ Thursday 16 April 2026 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -113,7 +90,7 @@ Thursday 16 April 2026 at 12:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1116,7 +1093,7 @@ Wednesday 22 April 2026 at 14:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1125,9 +1102,9 @@ Wednesday 22 April 2026 at 14:30 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1151,6 +1128,29 @@ Thursday 23 April 2026 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Studi economici dell'OCSE: Italia 2026](https://doi.org/10.1787/fea691db-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 April 2026 at 12:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Italian*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -1223,7 +1223,7 @@ Friday 24 April 2026 at 8:00 | no launch event
 
 ------
 
-## [OECD Inventory of Export Restrictions on Critical Raw Materials 2026 - Monitoring the Use of Export Restrictions amidst Growing Market and Policy Tensions](https://doi.org/10.1787/d5ca8f62-en)
+## [OECD Inventory of Export Restrictions on Critical Raw Materials 2026 - Monitoring the Use of Export Restrictions Amidst Growing Market and Policy Tensions](https://doi.org/10.1787/d5ca8f62-en)
 
 Embargo date | Launch date
 -------------|:------------:
