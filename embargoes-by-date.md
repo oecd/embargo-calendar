@@ -2,12 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 April 2026 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 16 April 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 April 2026](#14-april-2026)
 * [15 April 2026](#15-april-2026)
 * [16 April 2026](#16-april-2026)
-* [19 April 2026](#19-april-2026)
 * [21 April 2026](#21-april-2026)
 * [22 April 2026](#22-april-2026)
 * [23 April 2026](#23-april-2026)
@@ -123,33 +122,6 @@ Thursday 16 April 2026 at 12:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
-# 19 April 2026
-
-## [Harnessing the private sector’s contribution to climate adaptation](https://doi.org/10.1787/43d93534-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 19 April 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy brief*
 * Format: *PDF*
 
 ------
@@ -1286,7 +1258,7 @@ Tuesday 28 April 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1297,7 +1269,7 @@ Tuesday 28 April 2026 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 

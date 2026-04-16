@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 April 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 16 April 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Participation of third-country bidders in the EU procurement market](https://doi.org/10.1787/c2b218e1-en)
 
@@ -92,29 +92,6 @@ Thursday 16 April 2026 at 12:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Harnessing the private sector’s contribution to climate adaptation](https://doi.org/10.1787/43d93534-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 19 April 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy brief*
 * Format: *PDF*
 
 ------
@@ -1231,7 +1208,7 @@ Tuesday 28 April 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1242,7 +1219,7 @@ Tuesday 28 April 2026 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
