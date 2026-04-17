@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 16 April 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 17 April 2026 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 April 2026](#14-april-2026)
-* [15 April 2026](#15-april-2026)
 * [16 April 2026](#16-april-2026)
 * [21 April 2026](#21-april-2026)
 * [22 April 2026](#22-april-2026)
@@ -19,62 +17,9 @@ Data generated on | |
 * [7 May 2026](#7-may-2026)
 * [13 May 2026](#13-may-2026)
 * [18 May 2026](#18-may-2026)
+* [21 May 2026](#21-may-2026)
 * [22 May 2026](#22-may-2026)
 * [31 May 2026](#31-may-2026)
-
-------
-
-# 14 April 2026
-
-## [Participation of third-country bidders in the EU procurement market](https://doi.org/10.1787/c2b218e1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 April 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
-
-------
-
-# 15 April 2026
-
-## [Policies for the Future of Farming and Food in Romania](https://doi.org/10.1787/6ef8fa3c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 April 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -1190,7 +1135,7 @@ Thursday 23 April 2026 at 12:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -1751,7 +1696,7 @@ Wednesday 13 May 2026 at 8:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -1780,6 +1725,33 @@ Monday 18 May 2026 at 12:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 21 May 2026
+
+## [Climate Finance Provided and Mobilised by Developed Countries in 2013-2024](https://doi.org/10.1787/ab5eb9ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
