@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 April 2026 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 19 April 2026 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 April 2026](#16-april-2026)
 * [21 April 2026](#21-april-2026)
 * [22 April 2026](#22-april-2026)
 * [23 April 2026](#23-april-2026)
@@ -20,56 +19,6 @@ Data generated on | |
 * [21 May 2026](#21-may-2026)
 * [22 May 2026](#22-may-2026)
 * [31 May 2026](#31-may-2026)
-
-------
-
-# 16 April 2026
-
-## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, April 2026)](https://doi.org/10.1787/02d05307-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 April 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-unis, avril 2026)](https://doi.org/10.1787/13d978a3-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 April 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
