@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 April 2026 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 21 April 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [United States](https://doi.org/10.1787/45ba1ff7-en)
 
@@ -978,7 +978,7 @@ Thursday 23 April 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -987,9 +987,9 @@ Thursday 23 April 2026 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1043,7 +1043,7 @@ Thursday 23 April 2026 at 12:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 24 April 2026 at 8:00 | no launch event
+Friday 24 April 2026 at 7:00 | no launch event
 
 ### Status Information
 
@@ -1066,7 +1066,7 @@ Friday 24 April 2026 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 24 April 2026 at 8:00 | no launch event
+Friday 24 April 2026 at 7:00 | no launch event
 
 ### Status Information
 
@@ -1104,6 +1104,29 @@ Friday 24 April 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [The potential of development finance to unlock investments in the critical minerals value chain](https://doi.org/10.1787/70f31293-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 26 April 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
 * Format: *PDF*
 
 ------
@@ -1158,7 +1181,7 @@ Monday 27 April 2026 at 22:01 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 28 April 2026 at 8:00 | no launch event
+Tuesday 28 April 2026 at 9:00 | no launch event
 
 ### Status Information
 
@@ -1407,7 +1430,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 ------
 
-## [Public Procurement in Costa Rica - Manual to strengthen market engagement and advance technological neutrality and competition](https://doi.org/10.1787/d94a03ac-en)
+## [Public procurement in Costa Rica - Manual to strengthen market engagement and advance technological neutrality and competition](https://doi.org/10.1787/d94a03ac-en)
 
 Embargo date | Launch date
 -------------|:------------:
