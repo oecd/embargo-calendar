@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 21 April 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 22 April 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 April 2026](#22-april-2026)
 * [23 April 2026](#23-april-2026)
@@ -1073,11 +1073,11 @@ Thursday 23 April 2026 at 12:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 24 April 2026 at 7:00 | no launch event
+Friday 24 April 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1086,9 +1086,9 @@ Friday 24 April 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1096,7 +1096,7 @@ Friday 24 April 2026 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 24 April 2026 at 7:00 | no launch event
+Friday 24 April 2026 at 8:00 | no launch event
 
 ### Status Information
 
@@ -1141,29 +1141,6 @@ Friday 24 April 2026 at 9:00 | no launch event
 ------
 
 # 26 April 2026
-
-## [The potential of development finance to unlock investments in the critical minerals value chain](https://doi.org/10.1787/70f31293-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 26 April 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
 
 ## [Critical minerals and clean energy applications - The role of innovation across the supply chain](https://doi.org/10.1787/e3b08f4d-en)
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-04-21T23:14:12.0127109+02:00">
+<report name="official-embargoes" generated="2026-04-22T23:13:15.0125956+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -2806,10 +2806,10 @@
     <cell name="title">Artificial Intelligence in Italian Financial Markets (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-04-24</cell>
-    <cell name="embargo date">2026-04-24T07:00:00Z</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -2817,30 +2817,70 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8a4231a</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7159858</cell>
   </row>
   <row index="141">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
-    <cell name="doi">10.1787/7ecf1246-it</cell>
-    <cell name="title">L’intelligenza artificiale nei mercati finanziari italiani (it)</cell>
+    <cell name="doi">10.1787/875092c6-en</cell>
+    <cell name="title">Firms participating in bilateral consultations (en)</cell>
     <cell name="subtitle"/>
-    <cell name="language">Italian</cell>
+    <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-04-24</cell>
-    <cell name="embargo date">2026-04-24T07:00:00Z</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21d5ae28</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ede70c5</cell>
   </row>
   <row index="142">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/5059c9b3-en</cell>
+    <cell name="title">Project background and survey methodology (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-24</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09baf740</cell>
+  </row>
+  <row index="143">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/973985b9-en</cell>
+    <cell name="title">AI in the Italian financial sector (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-24</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/764d5f47</cell>
+  </row>
+  <row index="144">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/7ecf1246-it</cell>
     <cell name="title">L’intelligenza artificiale nei mercati finanziari italiani (it)</cell>
@@ -2860,7 +2900,207 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b346557e</cell>
   </row>
-  <row index="143">
+  <row index="145">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/6f42c977-en</cell>
+    <cell name="title">Artificial Intelligence in Italian Financial Markets (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-24</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8a4231a</cell>
+  </row>
+  <row index="146">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/3a2617ee-en</cell>
+    <cell name="title">Policy considerations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-24</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aca2e124</cell>
+  </row>
+  <row index="147">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/7ecf1246-it</cell>
+    <cell name="title">L’intelligenza artificiale nei mercati finanziari italiani (it)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Italian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2026-04-24</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21d5ae28</cell>
+  </row>
+  <row index="148">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/80b2e2ba-en</cell>
+    <cell name="title">Approaches by Italian financial authorities to promote safe AI deployment (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-24</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c02157ce</cell>
+  </row>
+  <row index="149">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/6f42c977-en</cell>
+    <cell name="title">Artificial Intelligence in Italian Financial Markets (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-24</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/022f43a6</cell>
+  </row>
+  <row index="150">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/6f42c977-en</cell>
+    <cell name="title">Artificial Intelligence in Italian Financial Markets (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-24</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9083e189</cell>
+  </row>
+  <row index="151">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/6cb8ef1d-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-24</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83d04207</cell>
+  </row>
+  <row index="152">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/2e79e7ac-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-24</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca04f40f</cell>
+  </row>
+  <row index="153">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/6f42c977-en</cell>
+    <cell name="title">Artificial Intelligence in Italian Financial Markets (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-24</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9bb58ce</cell>
+  </row>
+  <row index="154">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/cea4fd34-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-04-24</cell>
+    <cell name="embargo date">2026-04-24T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fcb4d46</cell>
+  </row>
+  <row index="155">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0ee66d84-en</cell>
     <cell name="title">The Global Minimum Tax Implementation Toolkit (en)</cell>
@@ -2880,27 +3120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66ed5c64</cell>
   </row>
-  <row index="144">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/70f31293-en</cell>
-    <cell name="title">The potential of development finance to unlock investments in the critical minerals value chain (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2026-04-27</cell>
-    <cell name="embargo date">2026-04-26T22:01:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Policy brief</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f96fb8fd</cell>
-  </row>
-  <row index="145">
+  <row index="156">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/e3b08f4d-en</cell>
     <cell name="title">Critical minerals and clean energy applications (en)</cell>
@@ -2920,7 +3140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2eead963</cell>
   </row>
-  <row index="146">
+  <row index="157">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1423066e-en</cell>
     <cell name="title">Centre of government co-ordination of government communications in the Western Balkans, the Republic of Moldova and Ukraine (en)</cell>
@@ -2940,7 +3160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db0a43a9</cell>
   </row>
-  <row index="147">
+  <row index="158">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d5ca8f62-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Critical Raw Materials 2026 (en)</cell>
@@ -2960,7 +3180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12dbff96</cell>
   </row>
-  <row index="148">
+  <row index="159">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d5ca8f62-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Critical Raw Materials 2026 (en)</cell>
@@ -2980,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cec0160c</cell>
   </row>
-  <row index="149">
+  <row index="160">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d5ca8f62-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Critical Raw Materials 2026 (en)</cell>
@@ -3000,7 +3220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0395e90</cell>
   </row>
-  <row index="150">
+  <row index="161">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d5ca8f62-en</cell>
     <cell name="title">OECD Inventory of Export Restrictions on Critical Raw Materials 2026 (en)</cell>
@@ -3020,7 +3240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9639c14</cell>
   </row>
-  <row index="151">
+  <row index="162">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/75b3bc85-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Vanuatu 2026 (Second Round, Supplementary Report) (en)</cell>
@@ -3040,7 +3260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf97a7d0</cell>
   </row>
-  <row index="152">
+  <row index="163">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9b1fbdac-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Gabon 2026 (Deuxième cycle) (fr)</cell>
@@ -3060,7 +3280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef593413</cell>
   </row>
-  <row index="153">
+  <row index="164">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/574618bd-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Guinea 2026 (Second Round, Phase 1) (en)</cell>
@@ -3080,7 +3300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed1ec6ef</cell>
   </row>
-  <row index="154">
+  <row index="165">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5af5f6f6-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Guinée 2026 (Deuxième cycle, Phase 1) (fr)</cell>
@@ -3100,7 +3320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ab5955d</cell>
   </row>
-  <row index="155">
+  <row index="166">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/669b04da-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Montserrat 2026 (Second Round, Phase 1) (en)</cell>
@@ -3120,7 +3340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16cecc65</cell>
   </row>
-  <row index="156">
+  <row index="167">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/78de2acb-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Niue 2026 (Second Round, Phase 1) (en)</cell>
@@ -3140,7 +3360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/318e2669</cell>
   </row>
-  <row index="157">
+  <row index="168">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8d538d31-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: El Salvador 2026 (Second Round) (en)</cell>
@@ -3160,7 +3380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f606a60</cell>
   </row>
-  <row index="158">
+  <row index="169">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1bce4ec5-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Belize 2026 (Second Round, In-depth Review) (en)</cell>
@@ -3180,7 +3400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1097132d</cell>
   </row>
-  <row index="159">
+  <row index="170">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/77f8805e-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Gabon 2026 (Second Round) (en)</cell>
@@ -3200,7 +3420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/98d6eaea</cell>
   </row>
-  <row index="160">
+  <row index="171">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/549b27f0-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Cambodia 2026 (Second Round) (en)</cell>
@@ -3220,7 +3440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7a1b374</cell>
   </row>
-  <row index="161">
+  <row index="172">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d94a03ac-en</cell>
     <cell name="title">Public procurement in Costa Rica (en)</cell>
@@ -3240,7 +3460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc02fce2</cell>
   </row>
-  <row index="162">
+  <row index="173">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b59acef0-en</cell>
     <cell name="title">Budgeting in Egypt (en)</cell>
@@ -3260,7 +3480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/225bd5e0</cell>
   </row>
-  <row index="163">
+  <row index="174">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/928bd5b8-en</cell>
     <cell name="title">Mobilising Financing and Investment for Quality Infrastructure in Egypt (en)</cell>
@@ -3280,7 +3500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31f7311b</cell>
   </row>
-  <row index="164">
+  <row index="175">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/c6675315-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Egypt 2026 (en)</cell>
@@ -3300,7 +3520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/906b89da</cell>
   </row>
-  <row index="165">
+  <row index="176">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/c6675315-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Egypt 2026 (en)</cell>
@@ -3320,7 +3540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39e4efa6</cell>
   </row>
-  <row index="166">
+  <row index="177">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/02bf8efe-en</cell>
     <cell name="title">Building Strong Foundations for Life (en)</cell>
@@ -3340,7 +3560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41007bae</cell>
   </row>
-  <row index="167">
+  <row index="178">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/38649e87-es</cell>
     <cell name="title">Estadísticas tributarias en América Latina y el Caribe 2026 (es)</cell>
@@ -3360,7 +3580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b4e7ad2</cell>
   </row>
-  <row index="168">
+  <row index="179">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2f21f131-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2026 (en)</cell>
@@ -3380,7 +3600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d67af943</cell>
   </row>
-  <row index="169">
+  <row index="180">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/3ec5de98-en</cell>
     <cell name="title">OECD Economic Surveys: New Zealand 2026 (en)</cell>
@@ -3400,7 +3620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee62eb10</cell>
   </row>
-  <row index="170">
+  <row index="181">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/526eff6e-fr</cell>
     <cell name="title">Financement de la protection sociale au Cameroun (fr)</cell>
@@ -3420,7 +3640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/adad457f</cell>
   </row>
-  <row index="171">
+  <row index="182">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/54cc833d-en</cell>
     <cell name="title">OECD Economic Surveys: Japan 2026 (en)</cell>
@@ -3440,7 +3660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/102062a2</cell>
   </row>
-  <row index="172">
+  <row index="183">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/54cc833d-en</cell>
     <cell name="title">OECD Economic Surveys: Japan 2026 (en)</cell>
@@ -3460,7 +3680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca071c1e</cell>
   </row>
-  <row index="173">
+  <row index="184">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/3134e707-en</cell>
     <cell name="title">Competition Market Study of Online Marketplaces in Poland, Latvia and Lithuania (en)</cell>
@@ -3480,7 +3700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/afbc04b4</cell>
   </row>
-  <row index="174">
+  <row index="185">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ab5eb9ad-en</cell>
     <cell name="title">Climate Finance Provided and Mobilised by Developed Countries in 2013-2024 (en)</cell>
@@ -3500,7 +3720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b67795b</cell>
   </row>
-  <row index="175">
+  <row index="186">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/520533a1-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Austria 2026 (en)</cell>
@@ -3520,7 +3740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3bf4e7e</cell>
   </row>
-  <row index="176">
+  <row index="187">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/fbcf9161-en</cell>
     <cell name="title">Restoring Public Finances (en)</cell>
@@ -3540,7 +3760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05390a7d</cell>
   </row>
-  <row index="177">
+  <row index="188">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/fbcf9161-en</cell>
     <cell name="title">Restoring Public Finances (en)</cell>
@@ -3560,7 +3780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e080648b</cell>
   </row>
-  <row index="178">
+  <row index="189">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/0b8fa0de-en</cell>
     <cell name="title">Strengthening capital markets in Bosnia and Herzegovina (en)</cell>
