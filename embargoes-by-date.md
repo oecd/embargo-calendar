@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 April 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 23 April 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 April 2026](#22-april-2026)
 * [23 April 2026](#23-april-2026)
@@ -11,12 +11,12 @@ Data generated on | |
 * [27 April 2026](#27-april-2026)
 * [28 April 2026](#28-april-2026)
 * [29 April 2026](#29-april-2026)
-* [3 May 2026](#3-may-2026)
 * [4 May 2026](#4-may-2026)
 * [5 May 2026](#5-may-2026)
 * [7 May 2026](#7-may-2026)
 * [13 May 2026](#13-may-2026)
 * [18 May 2026](#18-may-2026)
+* [19 May 2026](#19-may-2026)
 * [21 May 2026](#21-may-2026)
 * [22 May 2026](#22-may-2026)
 * [27 May 2026](#27-may-2026)
@@ -1100,7 +1100,7 @@ Friday 24 April 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1109,32 +1109,9 @@ Friday 24 April 2026 at 8:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Italian*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [The Global Minimum Tax Implementation Toolkit](https://doi.org/10.1787/0ee66d84-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 April 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1216,6 +1193,29 @@ Tuesday 28 April 2026 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [The Global Minimum Tax Implementation Toolkit](https://doi.org/10.1787/0ee66d84-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 April 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -1501,33 +1501,6 @@ Wednesday 29 April 2026 at 22:01 | no launch event
 
 ------
 
-# 3 May 2026
-
-## [Mobilising Financing and Investment for Quality Infrastructure in Egypt](https://doi.org/10.1787/928bd5b8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 3 May 2026 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-------
-
 # 4 May 2026
 
 ## [OECD Reviews of Innovation Policy: Egypt 2026](https://doi.org/10.1787/c6675315-en)
@@ -1732,7 +1705,57 @@ Monday 18 May 2026 at 12:30 | no launch event
 
 ------
 
+# 19 May 2026
+
+## [Digital Trade Review of the Association of Southeast Asian Nations](https://doi.org/10.1787/abd6f44a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 May 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
 # 21 May 2026
+
+## [Scaling Up Private Action for Nature - Opportunities for Development Co-operation and Finance](https://doi.org/10.1787/cae9a3dc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 May 2026 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
 
 ## [Climate Finance Provided and Mobilised by Developed Countries in 2013-2024](https://doi.org/10.1787/ab5eb9ad-en)
 
