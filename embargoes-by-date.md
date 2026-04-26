@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 April 2026 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 26 April 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 April 2026](#23-april-2026)
-* [24 April 2026](#24-april-2026)
 * [27 April 2026](#27-april-2026)
 * [28 April 2026](#28-april-2026)
 * [29 April 2026](#29-april-2026)
@@ -20,129 +18,6 @@ Data generated on | |
 * [22 May 2026](#22-may-2026)
 * [27 May 2026](#27-may-2026)
 * [31 May 2026](#31-may-2026)
-
-------
-
-# 23 April 2026
-
-## [Findings from TALIS 2024 in Albania, Kosovo, Montenegro, North Macedonia and Serbia - Improving Teacher Policies and Practice](https://doi.org/10.1787/f544229c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 April 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Studi economici dell'OCSE: Italia 2026](https://doi.org/10.1787/fea691db-it)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 April 2026 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Italy 2026](https://doi.org/10.1787/539538b2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 April 2026 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-------
-
-# 24 April 2026
-
-## [Artificial Intelligence in Italian Financial Markets](https://doi.org/10.1787/6f42c977-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 April 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [L’intelligenza artificiale nei mercati finanziari italiani](https://doi.org/10.1787/7ecf1246-it)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 April 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
