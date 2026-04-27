@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 26 April 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 28 April 2026 at 0:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Centre of government co-ordination of government communications in the Western Balkans, the Republic of Moldova and Ukraine - Institutional set-ups, regulatory frameworks and current practices](https://doi.org/10.1787/1423066e-en)
 
@@ -50,29 +50,6 @@ Tuesday 28 April 2026 at 9:00 | no launch event
 
 ------
 
-## [The Global Minimum Tax Implementation Toolkit](https://doi.org/10.1787/0ee66d84-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 April 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Vanuatu 2026 (Second Round, Supplementary Report) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/75b3bc85-en)
 
 Embargo date | Launch date
@@ -81,7 +58,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -104,7 +81,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -127,7 +104,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -150,7 +127,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -173,7 +150,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -196,7 +173,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -219,7 +196,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -242,7 +219,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -265,7 +242,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -288,6 +265,29 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 ### Status Information
 
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [The Global Minimum Tax Implementation Toolkit](https://doi.org/10.1787/0ee66d84-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 April 2026 at 9:00 | no launch event
+
+### Status Information
+
 - [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
@@ -303,52 +303,6 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 ------
 
-## [Public procurement in Costa Rica - Manual to strengthen market engagement and advance technological neutrality and competition](https://doi.org/10.1787/d94a03ac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 April 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Budgeting in Egypt - Consolidating reform for better spending](https://doi.org/10.1787/b59acef0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 April 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ## [OECD Reviews of Innovation Policy: Egypt 2026](https://doi.org/10.1787/c6675315-en)
 
 Embargo date | Launch date
@@ -357,7 +311,7 @@ Monday 4 May 2026 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -366,9 +320,9 @@ Monday 4 May 2026 at 5:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -445,7 +399,7 @@ Tuesday 5 May 2026 at 14:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 7 May 2026 at 7:00 | no launch event
+Thursday 7 May 2026 at 1:00 | no launch event
 
 ### Status Information
 
@@ -694,6 +648,29 @@ Friday 22 May 2026 at 12:00 | no launch event
 
 ------
 
+## [Job Creation and Local Economic Development 2026 - Global Trade, Local Jobs](https://doi.org/10.1787/996a56eb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 May 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Restoring Public Finances - Savings Measures for Fiscal Sustainability](https://doi.org/10.1787/fbcf9161-en)
 
 Embargo date | Launch date
@@ -717,6 +694,29 @@ Wednesday 27 May 2026 at 7:00 | no launch event
 
 ------
 
+## [Promoting the Development of the Semiconductor Ecosystem in Panama](https://doi.org/10.1787/50f1e10d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 May 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Strengthening capital markets in Bosnia and Herzegovina](https://doi.org/10.1787/0b8fa0de-en)
 
 Embargo date | Launch date
@@ -736,6 +736,167 @@ Sunday 31 May 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for North Macedonia](https://doi.org/10.1787/f8e57052-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 June 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for Kosovo](https://doi.org/10.1787/5737889a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 June 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 June 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for Montenegro](https://doi.org/10.1787/8b6d7a9f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 June 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for Albania](https://doi.org/10.1787/ab22c29c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 July 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for Serbia](https://doi.org/10.1787/58c3689d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 July 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for Bosnia and Herzegovina](https://doi.org/10.1787/846bbe2d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 July 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
