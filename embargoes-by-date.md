@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 28 April 2026 at 0:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 28 April 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 April 2026](#27-april-2026)
 * [28 April 2026](#28-april-2026)
 * [29 April 2026](#29-april-2026)
 * [30 April 2026](#30-april-2026)
@@ -17,40 +16,14 @@ Data generated on | |
 * [19 May 2026](#19-may-2026)
 * [21 May 2026](#21-may-2026)
 * [22 May 2026](#22-may-2026)
-* [26 May 2026](#26-may-2026)
 * [27 May 2026](#27-may-2026)
 * [28 May 2026](#28-may-2026)
 * [31 May 2026](#31-may-2026)
 * [1 June 2026](#1-june-2026)
+* [4 June 2026](#4-june-2026)
 * [15 June 2026](#15-june-2026)
+* [30 June 2026](#30-june-2026)
 * [1 July 2026](#1-july-2026)
-
-------
-
-# 27 April 2026
-
-## [Centre of government co-ordination of government communications in the Western Balkans, the Republic of Moldova and Ukraine - Institutional set-ups, regulatory frameworks and current practices](https://doi.org/10.1787/1423066e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 April 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -87,7 +60,7 @@ Tuesday 28 April 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 29 April 2026 at 9:00 | no launch event
+Wednesday 29 April 2026 at 13:00 | no launch event
 
 ### Status Information
 
@@ -100,7 +73,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -110,7 +83,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 29 April 2026 at 9:00 | no launch event
+Wednesday 29 April 2026 at 13:00 | no launch event
 
 ### Status Information
 
@@ -123,7 +96,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -133,7 +106,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 29 April 2026 at 9:00 | no launch event
+Wednesday 29 April 2026 at 13:00 | no launch event
 
 ### Status Information
 
@@ -146,7 +119,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -156,7 +129,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 29 April 2026 at 9:00 | no launch event
+Wednesday 29 April 2026 at 13:00 | no launch event
 
 ### Status Information
 
@@ -169,7 +142,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -179,7 +152,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 29 April 2026 at 9:00 | no launch event
+Wednesday 29 April 2026 at 13:00 | no launch event
 
 ### Status Information
 
@@ -192,7 +165,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -202,7 +175,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 29 April 2026 at 9:00 | no launch event
+Wednesday 29 April 2026 at 13:00 | no launch event
 
 ### Status Information
 
@@ -215,7 +188,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -225,7 +198,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 29 April 2026 at 9:00 | no launch event
+Wednesday 29 April 2026 at 13:00 | no launch event
 
 ### Status Information
 
@@ -238,7 +211,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -248,7 +221,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 29 April 2026 at 9:00 | no launch event
+Wednesday 29 April 2026 at 13:00 | no launch event
 
 ### Status Information
 
@@ -261,7 +234,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -271,7 +244,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 29 April 2026 at 9:00 | no launch event
+Wednesday 29 April 2026 at 13:00 | no launch event
 
 ### Status Information
 
@@ -284,7 +257,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -294,7 +267,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 29 April 2026 at 9:00 | no launch event
+Wednesday 29 April 2026 at 13:00 | no launch event
 
 ### Status Information
 
@@ -307,7 +280,7 @@ Wednesday 29 April 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -379,7 +352,7 @@ Tuesday 5 May 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -388,9 +361,9 @@ Tuesday 5 May 2026 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -425,7 +398,7 @@ Tuesday 5 May 2026 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -434,9 +407,9 @@ Tuesday 5 May 2026 at 14:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -452,7 +425,7 @@ Thursday 7 May 2026 at 1:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -461,7 +434,7 @@ Thursday 7 May 2026 at 1:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -723,33 +696,6 @@ Friday 22 May 2026 at 12:00 | no launch event
 
 ------
 
-# 26 May 2026
-
-## [Job Creation and Local Economic Development 2026 - Global Trade, Local Jobs](https://doi.org/10.1787/996a56eb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 May 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
 # 27 May 2026
 
 ## [Restoring Public Finances - Savings Measures for Fiscal Sustainability](https://doi.org/10.1787/fbcf9161-en)
@@ -772,6 +718,29 @@ Wednesday 27 May 2026 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD MAGIC Database of Industrial Subsidies](https://doi.org/10.1787/ce94f33b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -881,6 +850,33 @@ Monday 1 June 2026 at 8:00 | no launch event
 
 ------
 
+# 4 June 2026
+
+## [OECD Steel Outlook 2026](https://doi.org/10.1787/99ab9b0c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 June 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
 # 15 June 2026
 
 ## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
@@ -922,6 +918,33 @@ Monday 15 June 2026 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 30 June 2026
+
+## [Job Creation and Local Economic Development 2026 - Global Trade, Local Jobs](https://doi.org/10.1787/996a56eb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
