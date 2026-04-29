@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 28 April 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 29 April 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Inventory of Export Restrictions on Critical Raw Materials 2026 - Monitoring the Use of Export Restrictions Amidst Growing Market and Policy Tensions](https://doi.org/10.1787/d5ca8f62-en)
 
@@ -265,7 +265,7 @@ Thursday 30 April 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -274,7 +274,7 @@ Thursday 30 April 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -326,6 +326,604 @@ Tuesday 5 May 2026 at 8:00 | no launch event
 
 ------
 
+## [Guyana](https://doi.org/10.1787/d2f3f5b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Peru](https://doi.org/10.1787/4f47d80e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Bolivia](https://doi.org/10.1787/252ef654-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [El Salvador](https://doi.org/10.1787/fff1d036-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Costa Rica](https://doi.org/10.1787/666ccc81-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Panama](https://doi.org/10.1787/70e104f2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Honduras](https://doi.org/10.1787/899b131f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Ecuador](https://doi.org/10.1787/e6f54a59-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Trinidad and Tobago](https://doi.org/10.1787/f0ad119d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Uruguay](https://doi.org/10.1787/e1438b88-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Saint Lucia](https://doi.org/10.1787/ae40cf55-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Colombia](https://doi.org/10.1787/4ac46314-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Antigua and Barbuda](https://doi.org/10.1787/9462d6f4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Jamaica](https://doi.org/10.1787/498fab24-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Barbados](https://doi.org/10.1787/9d042d70-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Chile](https://doi.org/10.1787/680ea46f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Belize](https://doi.org/10.1787/cfa916dc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Paraguay](https://doi.org/10.1787/c1011fb7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Bahamas](https://doi.org/10.1787/cac49f7f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Mexico](https://doi.org/10.1787/c87d4ed8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Cuba](https://doi.org/10.1787/5cc3e004-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Brazil](https://doi.org/10.1787/cdb7e590-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Nicaragua](https://doi.org/10.1787/fd3121a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Argentina](https://doi.org/10.1787/b7329c0d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Guatemala](https://doi.org/10.1787/9d2bf7a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Dominican Republic](https://doi.org/10.1787/596c0037-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
 ## [Estadísticas tributarias en América Latina y el Caribe 2026](https://doi.org/10.1787/38649e87-es)
 
 Embargo date | Launch date
@@ -334,7 +932,7 @@ Tuesday 5 May 2026 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -343,9 +941,9 @@ Tuesday 5 May 2026 at 14:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -403,7 +1001,7 @@ Thursday 7 May 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -412,9 +1010,9 @@ Thursday 7 May 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -449,7 +1047,7 @@ Wednesday 13 May 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -460,7 +1058,7 @@ Wednesday 13 May 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -602,6 +1200,29 @@ Thursday 21 May 2026 at 9:00 | no launch event
 
 ------
 
+## [OECD-Umweltprüfberichte: Österreich 2026 (gekürzte Fassung)](https://doi.org/10.1787/7c1f5d7d-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 May 2026 at 11:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Austria 2026](https://doi.org/10.1787/520533a1-en)
 
 Embargo date | Launch date
@@ -619,13 +1240,13 @@ Friday 22 May 2026 at 12:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
 ------
 
-## [Restoring Public Finances - Savings Measures for Fiscal Sustainability](https://doi.org/10.1787/fbcf9161-en)
+## [Restoring Public Finances - Enabling Effective Government](https://doi.org/10.1787/fbcf9161-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -780,7 +1401,7 @@ Thursday 4 June 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
