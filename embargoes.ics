@@ -2,56 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/d5ca8f62-end3e63
-SUMMARY:[Stand-alone monograph] OECD Inventory o
- f Export Restrictions on Critical Raw Ma
- terials 2026 - Monitoring the Use of Exp
- ort Restrictions Amidst Growing Market a
- nd Policy Tensions
-DESCRIPTION:*[Stand-alone monograph] OECD Inventory 
- of Export Restrictions on Critical Raw M
- aterials 2026 - Monitoring the Use of Ex
- port Restrictions Amidst Growing Market 
- and Policy Tensions*\n\nDirectorate: Tra
- de and Agriculture Directorate\nLanguage
- : English\nDOI: https://doi.org/10.1787/
- d5ca8f62-en\nPublication type: Stand-alo
- ne monograph\nReleased as: HTML, PDF, ZJ
- CR, ZXML\n\nEmbargo date/time: Tuesday, 
- 28 April 2026, 9:00 (GMT)\n\n\niLibrary 
- export: never\nFreepreview export: never
- \nOECD.org export: never\nFTI loaded: ✓\
- n\nFor more information see: https://oec
- d.github.io/embargo-calendar/embargoes-b
- y-publication.html.\n\nPlease note: This
-  information was correct as of this afte
- rnoon at 23:18, it is updated each night
- ; therefore any subsequent updates may n
- ot yet be visible here. Also, please be 
- aware that the different released media 
- (PDF, HTML, etc.) are not necessarily re
- leased at the same time. For complete an
- d up-to-date information see here: http:
- //kappa.oecd.org/v3/search?term=d5ca8f62
- -en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260428T090000Z
-DTEND:20260428T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] OECD I
- nventory of Export Restrictions on Criti
- cal Raw Materials 2026 - Monitoring the 
- Use of Export Restrictions Amidst Growin
- g Market and Policy Tensions
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/75b3bc85-end3e280
+UID:10.1787/75b3bc85-end3e63
 SUMMARY:[Report] Global Forum on Transparency an
  d Exchange of Information for Tax Purpos
  es: Vanuatu 2026 (Second Round, Suppleme
@@ -75,7 +26,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 23:18, it is updated each nigh
+ ernoon at 23:15, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -84,7 +35,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=75b3bc8
  5-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260429T130000Z
 DTEND:20260429T131500Z
 TRANSP:TRANSPARENT
@@ -102,7 +53,7 @@ DESCRIPTION:Reminder: [Report] Global Forum on Trans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9b1fbdac-frd3e334
+UID:10.1787/9b1fbdac-frd3e118
 SUMMARY:[Report] Forum mondial sur la transparen
  ce et l’échange de renseignements à des 
  fins fiscales : Gabon 2026 (Deuxième cyc
@@ -126,7 +77,7 @@ DESCRIPTION:*[Report] Forum mondial sur la transpare
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:18, it is u
+ t as of this afternoon at 23:15, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -135,7 +86,7 @@ DESCRIPTION:*[Report] Forum mondial sur la transpare
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=9b1fbdac-fr.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260429T130000Z
 DTEND:20260429T131500Z
 TRANSP:TRANSPARENT
@@ -153,7 +104,7 @@ DESCRIPTION:Reminder: [Report] Forum mondial sur la
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/574618bd-end3e388
+UID:10.1787/574618bd-end3e173
 SUMMARY:[Report] Global Forum on Transparency an
  d Exchange of Information for Tax Purpos
  es: Guinea 2026 (Second Round, Phase 1) 
@@ -176,7 +127,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 23:1
- 8, it is updated each night; therefore a
+ 5, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -184,7 +135,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=574618bd-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260429T130000Z
 DTEND:20260429T131500Z
 TRANSP:TRANSPARENT
@@ -201,7 +152,7 @@ DESCRIPTION:Reminder: [Report] Global Forum on Trans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5af5f6f6-frd3e442
+UID:10.1787/5af5f6f6-frd3e228
 SUMMARY:[Report] Forum mondial sur la transparen
  ce et l’échange de renseignements à des 
  fins fiscales : Guinée 2026 (Deuxième cy
@@ -226,7 +177,7 @@ DESCRIPTION:*[Report] Forum mondial sur la transpare
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 23:1
- 8, it is updated each night; therefore a
+ 5, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -234,7 +185,7 @@ DESCRIPTION:*[Report] Forum mondial sur la transpare
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=5af5f6f6-fr.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260429T130000Z
 DTEND:20260429T131500Z
 TRANSP:TRANSPARENT
@@ -252,7 +203,7 @@ DESCRIPTION:Reminder: [Report] Forum mondial sur la
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/669b04da-end3e496
+UID:10.1787/669b04da-end3e284
 SUMMARY:[Report] Global Forum on Transparency an
  d Exchange of Information for Tax Purpos
  es: Montserrat 2026 (Second Round, Phase
@@ -275,7 +226,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 23:18, it is updated each night; therefo
+ 23:15, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -283,7 +234,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=669b04da-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260429T130000Z
 DTEND:20260429T131500Z
 TRANSP:TRANSPARENT
@@ -301,7 +252,7 @@ DESCRIPTION:Reminder: [Report] Global Forum on Trans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/78de2acb-end3e550
+UID:10.1787/78de2acb-end3e339
 SUMMARY:[Report] Global Forum on Transparency an
  d Exchange of Information for Tax Purpos
  es: Niue 2026 (Second Round, Phase 1) - 
@@ -323,7 +274,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:18,
+ s correct as of this afternoon at 23:15,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -332,7 +283,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=78de2acb-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260429T130000Z
 DTEND:20260429T131500Z
 TRANSP:TRANSPARENT
@@ -349,7 +300,7 @@ DESCRIPTION:Reminder: [Report] Global Forum on Trans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8d538d31-end3e605
+UID:10.1787/8d538d31-end3e394
 SUMMARY:[Report] Global Forum on Transparency an
  d Exchange of Information for Tax Purpos
  es: El Salvador 2026 (Second Round) - Pe
@@ -371,7 +322,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:18, i
+ correct as of this afternoon at 23:15, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -380,7 +331,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=8d538d31-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260429T130000Z
 DTEND:20260429T131500Z
 TRANSP:TRANSPARENT
@@ -397,7 +348,7 @@ DESCRIPTION:Reminder: [Report] Global Forum on Trans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1bce4ec5-end3e659
+UID:10.1787/1bce4ec5-end3e449
 SUMMARY:[Report] Global Forum on Transparency an
  d Exchange of Information for Tax Purpos
  es: Belize 2026 (Second Round, In-depth 
@@ -420,7 +371,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 23:18, it is updated each night; the
+  at 23:15, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -428,7 +379,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=1bce4ec5-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260429T130000Z
 DTEND:20260429T131500Z
 TRANSP:TRANSPARENT
@@ -446,7 +397,7 @@ DESCRIPTION:Reminder: [Report] Global Forum on Trans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/77f8805e-end3e713
+UID:10.1787/77f8805e-end3e504
 SUMMARY:[Report] Global Forum on Transparency an
  d Exchange of Information for Tax Purpos
  es: Gabon 2026 (Second Round) - Peer Rev
@@ -468,7 +419,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:18, it is u
+ t as of this afternoon at 23:15, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -477,7 +428,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=77f8805e-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260429T130000Z
 DTEND:20260429T131500Z
 TRANSP:TRANSPARENT
@@ -494,7 +445,7 @@ DESCRIPTION:Reminder: [Report] Global Forum on Trans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/549b27f0-end3e767
+UID:10.1787/549b27f0-end3e559
 SUMMARY:[Report] Global Forum on Transparency an
  d Exchange of Information for Tax Purpos
  es: Cambodia 2026 (Second Round) - Peer 
@@ -516,7 +467,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 23:18, it i
+ rect as of this afternoon at 23:15, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -525,7 +476,7 @@ DESCRIPTION:*[Report] Global Forum on Transparency a
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=549b27f0-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260429T130000Z
 DTEND:20260429T131500Z
 TRANSP:TRANSPARENT
@@ -542,7 +493,7 @@ DESCRIPTION:Reminder: [Report] Global Forum on Trans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0ee66d84-end3e1405
+UID:10.1787/0ee66d84-end3e1198
 SUMMARY:[Report] The Global Minimum Tax Implemen
  tation Toolkit
 DESCRIPTION:*[Report] The Global Minimum Tax Impleme
@@ -558,7 +509,7 @@ DESCRIPTION:*[Report] The Global Minimum Tax Impleme
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:18, it is updated
+ f this afternoon at 23:15, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -567,7 +518,7 @@ DESCRIPTION:*[Report] The Global Minimum Tax Impleme
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=0ee66d84-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260430T090000Z
 DTEND:20260430T091500Z
 TRANSP:TRANSPARENT
@@ -581,7 +532,7 @@ DESCRIPTION:Reminder: [Report] The Global Minimum Ta
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c6675315-end3e2202
+UID:10.1787/c6675315-end3e1995
 SUMMARY:[Book] OECD Reviews of Innovation Policy
  : Egypt 2026
 DESCRIPTION:*[Book] OECD Reviews of Innovation Polic
@@ -598,7 +549,7 @@ DESCRIPTION:*[Book] OECD Reviews of Innovation Polic
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:18, it is updated each night;
+ noon at 23:15, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -607,7 +558,7 @@ DESCRIPTION:*[Book] OECD Reviews of Innovation Polic
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=c6675315-
  en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260504T050000Z
 DTEND:20260504T051500Z
 TRANSP:TRANSPARENT
@@ -621,7 +572,7 @@ DESCRIPTION:Reminder: [Book] OECD Reviews of Innovat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/02bf8efe-end3e2522
+UID:10.1787/02bf8efe-end3e2315
 SUMMARY:[Stand-alone monograph] Building Strong 
  Foundations for Life - Results from the 
  2025 Early Learning and Child Well-being
@@ -642,7 +593,7 @@ DESCRIPTION:*[Stand-alone monograph] Building Strong
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:18, it is updated each night;
+ noon at 23:15, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -651,7 +602,7 @@ DESCRIPTION:*[Stand-alone monograph] Building Strong
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=02bf8efe-
  en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260505T080000Z
 DTEND:20260505T081500Z
 TRANSP:TRANSPARENT
@@ -667,32 +618,32 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Buildi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d2f3f5b2-end3e3163
+UID:10.1787/d2f3f5b2-end3e2956
 SUMMARY:[Short content] Guyana
 DESCRIPTION:*[Short content] Guyana*\n\nDirectorate:
   Centre for Tax Policy and Administratio
  n\nLanguage: English\nDOI: https://doi.o
  rg/10.1787/d2f3f5b2-en\nPublication type
  : Short content\nReleased as: PDF\n\nEmb
- argo date/time: Tuesday, 5 May 2026, 9:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:18, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=d2f3f5b2-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+ argo date/time: Tuesday, 5 May 2026, 14:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:15, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=d2f3f5b2-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
@@ -703,32 +654,68 @@ DESCRIPTION:Reminder: [Short content] Guyana
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4f47d80e-end3e3216
+UID:10.1787/fb3aa027-esd3e3009
+SUMMARY:[Short content] Panamá
+DESCRIPTION:*[Short content] Panamá*\n\nDirectorate:
+  Centre for Tax Policy and Administratio
+ n\nLanguage: Spanish\nDOI: https://doi.o
+ rg/10.1787/fb3aa027-es\nPublication type
+ : Short content\nReleased as: PDF\n\nEmb
+ argo date/time: Tuesday, 5 May 2026, 14:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:15, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=fb3aa027-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Panamá
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4f47d80e-end3e3169
 SUMMARY:[Short content] Peru
 DESCRIPTION:*[Short content] Peru*\n\nDirectorate: C
  entre for Tax Policy and Administration\
  nLanguage: English\nDOI: https://doi.org
  /10.1787/4f47d80e-en\nPublication type: 
  Short content\nReleased as: PDF\n\nEmbar
- go date/time: Tuesday, 5 May 2026, 9:00 
- (GMT)\n\n\niLibrary export: never\nFreep
- review export: never\nOECD.org export: n
- ever\nFTI loaded: ✓\n\nFor more informat
- ion see: https://oecd.github.io/embargo-
- calendar/embargoes-by-publication.html.\
- n\nPlease note: This information was cor
- rect as of this afternoon at 23:18, it i
- s updated each night; therefore any subs
- equent updates may not yet be visible he
- re. Also, please be aware that the diffe
- rent released media (PDF, HTML, etc.) ar
- e not necessarily released at the same t
- ime. For complete and up-to-date informa
- tion see here: http://kappa.oecd.org/v3/
- search?term=4f47d80e-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+ go date/time: Tuesday, 5 May 2026, 14:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 23:15, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=4f47d80e-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
@@ -739,32 +726,32 @@ DESCRIPTION:Reminder: [Short content] Peru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/252ef654-end3e3269
+UID:10.1787/252ef654-end3e3222
 SUMMARY:[Short content] Bolivia
 DESCRIPTION:*[Short content] Bolivia*\n\nDirectorate
  : Centre for Tax Policy and Administrati
  on\nLanguage: English\nDOI: https://doi.
  org/10.1787/252ef654-en\nPublication typ
  e: Short content\nReleased as: PDF\n\nEm
- bargo date/time: Tuesday, 5 May 2026, 9:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:18, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=252ef654-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+ bargo date/time: Tuesday, 5 May 2026, 14
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:15, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=252ef654-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
@@ -775,7 +762,7 @@ DESCRIPTION:Reminder: [Short content] Bolivia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fff1d036-end3e3322
+UID:10.1787/fff1d036-end3e3328
 SUMMARY:[Short content] El Salvador
 DESCRIPTION:*[Short content] El Salvador*\n\nDirecto
  rate: Centre for Tax Policy and Administ
@@ -783,24 +770,24 @@ DESCRIPTION:*[Short content] El Salvador*\n\nDirecto
  doi.org/10.1787/fff1d036-en\nPublication
   type: Short content\nReleased as: PDF\n
  \nEmbargo date/time: Tuesday, 5 May 2026
- , 9:00 (GMT)\n\n\niLibrary export: never
- \nFreepreview export: never\nOECD.org ex
- port: never\nFTI loaded: ✓\n\nFor more i
- nformation see: https://oecd.github.io/e
- mbargo-calendar/embargoes-by-publication
- .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:1
- 8, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=fff1d036-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+ , 14:00 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 15, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=fff1d036-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
@@ -811,7 +798,43 @@ DESCRIPTION:Reminder: [Short content] El Salvador
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/666ccc81-end3e3375
+UID:10.1787/0e5475c2-esd3e3381
+SUMMARY:[Short content] Paraguay
+DESCRIPTION:*[Short content] Paraguay*\n\nDirectorat
+ e: Centre for Tax Policy and Administrat
+ ion\nLanguage: Spanish\nDOI: https://doi
+ .org/10.1787/0e5475c2-es\nPublication ty
+ pe: Short content\nReleased as: PDF\n\nE
+ mbargo date/time: Tuesday, 5 May 2026, 1
+ 4:00 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:15,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=0e5475c2-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Paraguay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/666ccc81-end3e3434
 SUMMARY:[Short content] Costa Rica
 DESCRIPTION:*[Short content] Costa Rica*\n\nDirector
  ate: Centre for Tax Policy and Administr
@@ -819,24 +842,24 @@ DESCRIPTION:*[Short content] Costa Rica*\n\nDirector
  oi.org/10.1787/666ccc81-en\nPublication 
  type: Short content\nReleased as: PDF\n\
  nEmbargo date/time: Tuesday, 5 May 2026,
-  9:00 (GMT)\n\n\niLibrary export: never\
- nFreepreview export: never\nOECD.org exp
- ort: never\nFTI loaded: ✓\n\nFor more in
- formation see: https://oecd.github.io/em
- bargo-calendar/embargoes-by-publication.
- html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:18
- , it is updated each night; therefore an
- y subsequent updates may not yet be visi
- ble here. Also, please be aware that the
-  different released media (PDF, HTML, et
- c.) are not necessarily released at the 
- same time. For complete and up-to-date i
- nformation see here: http://kappa.oecd.o
- rg/v3/search?term=666ccc81-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+  14:00 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 23:1
+ 5, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=666ccc81-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
@@ -847,32 +870,68 @@ DESCRIPTION:Reminder: [Short content] Costa Rica
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/70e104f2-end3e3428
+UID:10.1787/d947faef-esd3e3488
+SUMMARY:[Short content] Colombia
+DESCRIPTION:*[Short content] Colombia*\n\nDirectorat
+ e: Centre for Tax Policy and Administrat
+ ion\nLanguage: Spanish\nDOI: https://doi
+ .org/10.1787/d947faef-es\nPublication ty
+ pe: Short content\nReleased as: PDF\n\nE
+ mbargo date/time: Tuesday, 5 May 2026, 1
+ 4:00 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:15,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=d947faef-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Colombia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/70e104f2-end3e3541
 SUMMARY:[Short content] Panama
 DESCRIPTION:*[Short content] Panama*\n\nDirectorate:
   Centre for Tax Policy and Administratio
  n\nLanguage: English\nDOI: https://doi.o
  rg/10.1787/70e104f2-en\nPublication type
  : Short content\nReleased as: PDF\n\nEmb
- argo date/time: Tuesday, 5 May 2026, 9:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:18, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=70e104f2-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+ argo date/time: Tuesday, 5 May 2026, 14:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:15, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=70e104f2-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
@@ -883,32 +942,68 @@ DESCRIPTION:Reminder: [Short content] Panama
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/899b131f-end3e3482
+UID:10.1787/b873fdb0-esd3e3594
+SUMMARY:[Short content] Barbados
+DESCRIPTION:*[Short content] Barbados*\n\nDirectorat
+ e: Centre for Tax Policy and Administrat
+ ion\nLanguage: Spanish\nDOI: https://doi
+ .org/10.1787/b873fdb0-es\nPublication ty
+ pe: Short content\nReleased as: PDF\n\nE
+ mbargo date/time: Tuesday, 5 May 2026, 1
+ 4:00 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:15,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=b873fdb0-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Barbados
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/899b131f-end3e3647
 SUMMARY:[Short content] Honduras
 DESCRIPTION:*[Short content] Honduras*\n\nDirectorat
  e: Centre for Tax Policy and Administrat
  ion\nLanguage: English\nDOI: https://doi
  .org/10.1787/899b131f-en\nPublication ty
  pe: Short content\nReleased as: PDF\n\nE
- mbargo date/time: Tuesday, 5 May 2026, 9
- :00 (GMT)\n\n\niLibrary export: never\nF
- reepreview export: never\nOECD.org expor
- t: never\nFTI loaded: ✓\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:18, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=899b131f-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+ mbargo date/time: Tuesday, 5 May 2026, 1
+ 4:00 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:15,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=899b131f-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
@@ -919,32 +1014,32 @@ DESCRIPTION:Reminder: [Short content] Honduras
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e6f54a59-end3e3535
+UID:10.1787/e6f54a59-end3e3753
 SUMMARY:[Short content] Ecuador
 DESCRIPTION:*[Short content] Ecuador*\n\nDirectorate
  : Centre for Tax Policy and Administrati
  on\nLanguage: English\nDOI: https://doi.
  org/10.1787/e6f54a59-en\nPublication typ
  e: Short content\nReleased as: PDF\n\nEm
- bargo date/time: Tuesday, 5 May 2026, 9:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:18, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=e6f54a59-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+ bargo date/time: Tuesday, 5 May 2026, 14
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:15, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=e6f54a59-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
@@ -955,7 +1050,116 @@ DESCRIPTION:Reminder: [Short content] Ecuador
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f0ad119d-end3e3588
+UID:10.1787/7375ebdb-esd3e3860
+SUMMARY:[Short content] Argentina
+DESCRIPTION:*[Short content] Argentina*\n\nDirectora
+ te: Centre for Tax Policy and Administra
+ tion\nLanguage: Spanish\nDOI: https://do
+ i.org/10.1787/7375ebdb-es\nPublication t
+ ype: Short content\nReleased as: PDF\n\n
+ Embargo date/time: Tuesday, 5 May 2026, 
+ 14:00 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:15
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=7375ebdb-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Argentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b03eccd7-esd3e3913
+SUMMARY:[Short content] Las Bahamas
+DESCRIPTION:*[Short content] Las Bahamas*\n\nDirecto
+ rate: Centre for Tax Policy and Administ
+ ration\nLanguage: Spanish\nDOI: https://
+ doi.org/10.1787/b03eccd7-es\nPublication
+  type: Short content\nReleased as: PDF\n
+ \nEmbargo date/time: Tuesday, 5 May 2026
+ , 14:00 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 15, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=b03eccd7-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Las Bahamas
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1949e4f9-esd3e3966
+SUMMARY:[Short content] Antigua y Barbuda
+DESCRIPTION:*[Short content] Antigua y Barbuda*\n\nD
+ irectorate: Centre for Tax Policy and Ad
+ ministration\nLanguage: Spanish\nDOI: ht
+ tps://doi.org/10.1787/1949e4f9-es\nPubli
+ cation type: Short content\nReleased as:
+  PDF\n\nEmbargo date/time: Tuesday, 5 Ma
+ y 2026, 14:00 (GMT)\n\n\niLibrary export
+ : never\nFreepreview export: never\nOECD
+ .org export: never\nFTI loaded: ✓\n\nFor
+  more information see: https://oecd.gith
+ ub.io/embargo-calendar/embargoes-by-publ
+ ication.html.\n\nPlease note: This infor
+ mation was correct as of this afternoon 
+ at 23:15, it is updated each night; ther
+ efore any subsequent updates may not yet
+  be visible here. Also, please be aware 
+ that the different released media (PDF, 
+ HTML, etc.) are not necessarily released
+  at the same time. For complete and up-t
+ o-date information see here: http://kapp
+ a.oecd.org/v3/search?term=1949e4f9-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Antigua y Barb
+ uda
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f0ad119d-end3e4019
 SUMMARY:[Short content] Trinidad and Tobago
 DESCRIPTION:*[Short content] Trinidad and Tobago*\n\
  nDirectorate: Centre for Tax Policy and 
@@ -963,24 +1167,24 @@ DESCRIPTION:*[Short content] Trinidad and Tobago*\n\
  https://doi.org/10.1787/f0ad119d-en\nPub
  lication type: Short content\nReleased a
  s: PDF\n\nEmbargo date/time: Tuesday, 5 
- May 2026, 9:00 (GMT)\n\n\niLibrary expor
- t: never\nFreepreview export: never\nOEC
- D.org export: never\nFTI loaded: ✓\n\nFo
- r more information see: https://oecd.git
- hub.io/embargo-calendar/embargoes-by-pub
- lication.html.\n\nPlease note: This info
- rmation was correct as of this afternoon
-  at 23:18, it is updated each night; the
- refore any subsequent updates may not ye
- t be visible here. Also, please be aware
-  that the different released media (PDF,
-  HTML, etc.) are not necessarily release
- d at the same time. For complete and up-
- to-date information see here: http://kap
- pa.oecd.org/v3/search?term=f0ad119d-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+ May 2026, 14:00 (GMT)\n\n\niLibrary expo
+ rt: never\nFreepreview export: never\nOE
+ CD.org export: never\nFTI loaded: ✓\n\nF
+ or more information see: https://oecd.gi
+ thub.io/embargo-calendar/embargoes-by-pu
+ blication.html.\n\nPlease note: This inf
+ ormation was correct as of this afternoo
+ n at 23:15, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=f0ad119d-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
@@ -992,93 +1196,21 @@ DESCRIPTION:Reminder: [Short content] Trinidad and T
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e1438b88-end3e3641
-SUMMARY:[Short content] Uruguay
-DESCRIPTION:*[Short content] Uruguay*\n\nDirectorate
+UID:10.1787/568f7a60-esd3e4072
+SUMMARY:[Short content] Ecuador
+DESCRIPTION:*[Short content] Ecuador*\n\nDirectorate
  : Centre for Tax Policy and Administrati
- on\nLanguage: English\nDOI: https://doi.
- org/10.1787/e1438b88-en\nPublication typ
+ on\nLanguage: Spanish\nDOI: https://doi.
+ org/10.1787/568f7a60-es\nPublication typ
  e: Short content\nReleased as: PDF\n\nEm
- bargo date/time: Tuesday, 5 May 2026, 9:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:18, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=e1438b88-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Uruguay
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/ae40cf55-end3e3694
-SUMMARY:[Short content] Saint Lucia
-DESCRIPTION:*[Short content] Saint Lucia*\n\nDirecto
- rate: Centre for Tax Policy and Administ
- ration\nLanguage: English\nDOI: https://
- doi.org/10.1787/ae40cf55-en\nPublication
-  type: Short content\nReleased as: PDF\n
- \nEmbargo date/time: Tuesday, 5 May 2026
- , 9:00 (GMT)\n\n\niLibrary export: never
- \nFreepreview export: never\nOECD.org ex
- port: never\nFTI loaded: ✓\n\nFor more i
- nformation see: https://oecd.github.io/e
- mbargo-calendar/embargoes-by-publication
- .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:1
- 8, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=ae40cf55-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Saint Lucia
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/4ac46314-end3e3747
-SUMMARY:[Short content] Colombia
-DESCRIPTION:*[Short content] Colombia*\n\nDirectorat
- e: Centre for Tax Policy and Administrat
- ion\nLanguage: English\nDOI: https://doi
- .org/10.1787/4ac46314-en\nPublication ty
- pe: Short content\nReleased as: PDF\n\nE
- mbargo date/time: Tuesday, 5 May 2026, 9
+ bargo date/time: Tuesday, 5 May 2026, 14
  :00 (GMT)\n\n\niLibrary export: never\nF
  reepreview export: never\nOECD.org expor
  t: never\nFTI loaded: ✓\n\nFor more info
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:18, 
+  correct as of this afternoon at 23:15, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -1086,72 +1218,35 @@ DESCRIPTION:*[Short content] Colombia*\n\nDirectorat
  ) are not necessarily released at the sa
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
- /v3/search?term=4ac46314-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+ /v3/search?term=568f7a60-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Colombia
+DESCRIPTION:Reminder: [Short content] Ecuador
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9462d6f4-end3e3801
-SUMMARY:[Short content] Antigua and Barbuda
-DESCRIPTION:*[Short content] Antigua and Barbuda*\n\
- nDirectorate: Centre for Tax Policy and 
- Administration\nLanguage: English\nDOI: 
- https://doi.org/10.1787/9462d6f4-en\nPub
- lication type: Short content\nReleased a
- s: PDF\n\nEmbargo date/time: Tuesday, 5 
- May 2026, 9:00 (GMT)\n\n\niLibrary expor
- t: never\nFreepreview export: never\nOEC
- D.org export: never\nFTI loaded: ✓\n\nFo
- r more information see: https://oecd.git
- hub.io/embargo-calendar/embargoes-by-pub
- lication.html.\n\nPlease note: This info
- rmation was correct as of this afternoon
-  at 23:18, it is updated each night; the
- refore any subsequent updates may not ye
- t be visible here. Also, please be aware
-  that the different released media (PDF,
-  HTML, etc.) are not necessarily release
- d at the same time. For complete and up-
- to-date information see here: http://kap
- pa.oecd.org/v3/search?term=9462d6f4-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Antigua and Ba
- rbuda
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/498fab24-end3e3854
-SUMMARY:[Short content] Jamaica
-DESCRIPTION:*[Short content] Jamaica*\n\nDirectorate
- : Centre for Tax Policy and Administrati
- on\nLanguage: English\nDOI: https://doi.
- org/10.1787/498fab24-en\nPublication typ
- e: Short content\nReleased as: PDF\n\nEm
- bargo date/time: Tuesday, 5 May 2026, 9:
+UID:10.1787/d98ff4fb-esd3e4126
+SUMMARY:[Short content] Belice
+DESCRIPTION:*[Short content] Belice*\n\nDirectorate:
+  Centre for Tax Policy and Administratio
+ n\nLanguage: Spanish\nDOI: https://doi.o
+ rg/10.1787/d98ff4fb-es\nPublication type
+ : Short content\nReleased as: PDF\n\nEmb
+ argo date/time: Tuesday, 5 May 2026, 14:
  00 (GMT)\n\n\niLibrary export: never\nFr
  eepreview export: never\nOECD.org export
  : never\nFTI loaded: ✓\n\nFor more infor
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:18, i
+ correct as of this afternoon at 23:15, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -1159,71 +1254,35 @@ DESCRIPTION:*[Short content] Jamaica*\n\nDirectorate
   are not necessarily released at the sam
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
- v3/search?term=498fab24-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+ v3/search?term=d98ff4fb-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Jamaica
+DESCRIPTION:Reminder: [Short content] Belice
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9d042d70-end3e3907
-SUMMARY:[Short content] Barbados
-DESCRIPTION:*[Short content] Barbados*\n\nDirectorat
- e: Centre for Tax Policy and Administrat
- ion\nLanguage: English\nDOI: https://doi
- .org/10.1787/9d042d70-en\nPublication ty
- pe: Short content\nReleased as: PDF\n\nE
- mbargo date/time: Tuesday, 5 May 2026, 9
- :00 (GMT)\n\n\niLibrary export: never\nF
- reepreview export: never\nOECD.org expor
- t: never\nFTI loaded: ✓\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:18, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=9d042d70-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Barbados
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/680ea46f-end3e3960
-SUMMARY:[Short content] Chile
-DESCRIPTION:*[Short content] Chile*\n\nDirectorate: 
- Centre for Tax Policy and Administration
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/680ea46f-en\nPublication type:
-  Short content\nReleased as: PDF\n\nEmba
- rgo date/time: Tuesday, 5 May 2026, 9:00
+UID:10.1787/6d3e8257-esd3e4179
+SUMMARY:[Short content] Perú
+DESCRIPTION:*[Short content] Perú*\n\nDirectorate: C
+ entre for Tax Policy and Administration\
+ nLanguage: Spanish\nDOI: https://doi.org
+ /10.1787/6d3e8257-es\nPublication type: 
+ Short content\nReleased as: PDF\n\nEmbar
+ go date/time: Tuesday, 5 May 2026, 14:00
   (GMT)\n\n\niLibrary export: never\nFree
  preview export: never\nOECD.org export: 
  never\nFTI loaded: ✓\n\nFor more informa
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:18, it 
+ rrect as of this afternoon at 23:15, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -1231,190 +1290,46 @@ DESCRIPTION:*[Short content] Chile*\n\nDirectorate:
  re not necessarily released at the same 
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
- /search?term=680ea46f-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+ /search?term=6d3e8257-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Chile
+DESCRIPTION:Reminder: [Short content] Perú
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cfa916dc-end3e4013
-SUMMARY:[Short content] Belize
-DESCRIPTION:*[Short content] Belize*\n\nDirectorate:
-  Centre for Tax Policy and Administratio
- n\nLanguage: English\nDOI: https://doi.o
- rg/10.1787/cfa916dc-en\nPublication type
- : Short content\nReleased as: PDF\n\nEmb
- argo date/time: Tuesday, 5 May 2026, 9:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:18, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=cfa916dc-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Belize
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c1011fb7-end3e4066
-SUMMARY:[Short content] Paraguay
-DESCRIPTION:*[Short content] Paraguay*\n\nDirectorat
- e: Centre for Tax Policy and Administrat
- ion\nLanguage: English\nDOI: https://doi
- .org/10.1787/c1011fb7-en\nPublication ty
- pe: Short content\nReleased as: PDF\n\nE
- mbargo date/time: Tuesday, 5 May 2026, 9
- :00 (GMT)\n\n\niLibrary export: never\nF
- reepreview export: never\nOECD.org expor
- t: never\nFTI loaded: ✓\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:18, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=c1011fb7-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Paraguay
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/cac49f7f-end3e4120
-SUMMARY:[Short content] Bahamas
-DESCRIPTION:*[Short content] Bahamas*\n\nDirectorate
- : Centre for Tax Policy and Administrati
- on\nLanguage: English\nDOI: https://doi.
- org/10.1787/cac49f7f-en\nPublication typ
- e: Short content\nReleased as: PDF\n\nEm
- bargo date/time: Tuesday, 5 May 2026, 9:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:18, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=cac49f7f-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Bahamas
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c87d4ed8-end3e4173
-SUMMARY:[Short content] Mexico
-DESCRIPTION:*[Short content] Mexico*\n\nDirectorate:
-  Centre for Tax Policy and Administratio
- n\nLanguage: English\nDOI: https://doi.o
- rg/10.1787/c87d4ed8-en\nPublication type
- : Short content\nReleased as: PDF\n\nEmb
- argo date/time: Tuesday, 5 May 2026, 9:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:18, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=c87d4ed8-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Mexico
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/5cc3e004-end3e4226
+UID:10.1787/21405a1e-esd3e4285
 SUMMARY:[Short content] Cuba
 DESCRIPTION:*[Short content] Cuba*\n\nDirectorate: C
  entre for Tax Policy and Administration\
- nLanguage: English\nDOI: https://doi.org
- /10.1787/5cc3e004-en\nPublication type: 
+ nLanguage: Spanish\nDOI: https://doi.org
+ /10.1787/21405a1e-es\nPublication type: 
  Short content\nReleased as: PDF\n\nEmbar
- go date/time: Tuesday, 5 May 2026, 9:00 
- (GMT)\n\n\niLibrary export: never\nFreep
- review export: never\nOECD.org export: n
- ever\nFTI loaded: ✓\n\nFor more informat
- ion see: https://oecd.github.io/embargo-
- calendar/embargoes-by-publication.html.\
- n\nPlease note: This information was cor
- rect as of this afternoon at 23:18, it i
- s updated each night; therefore any subs
- equent updates may not yet be visible he
- re. Also, please be aware that the diffe
- rent released media (PDF, HTML, etc.) ar
- e not necessarily released at the same t
- ime. For complete and up-to-date informa
- tion see here: http://kappa.oecd.org/v3/
- search?term=5cc3e004-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+ go date/time: Tuesday, 5 May 2026, 14:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 23:15, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=21405a1e-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
@@ -1425,57 +1340,165 @@ DESCRIPTION:Reminder: [Short content] Cuba
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cdb7e590-end3e4279
-SUMMARY:[Short content] Brazil
-DESCRIPTION:*[Short content] Brazil*\n\nDirectorate:
-  Centre for Tax Policy and Administratio
- n\nLanguage: English\nDOI: https://doi.o
- rg/10.1787/cdb7e590-en\nPublication type
- : Short content\nReleased as: PDF\n\nEmb
- argo date/time: Tuesday, 5 May 2026, 9:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:18, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=cdb7e590-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+UID:10.1787/ff3e9662-esd3e4338
+SUMMARY:[Short content] Santa Lucía
+DESCRIPTION:*[Short content] Santa Lucía*\n\nDirecto
+ rate: Centre for Tax Policy and Administ
+ ration\nLanguage: Spanish\nDOI: https://
+ doi.org/10.1787/ff3e9662-es\nPublication
+  type: Short content\nReleased as: PDF\n
+ \nEmbargo date/time: Tuesday, 5 May 2026
+ , 14:00 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 15, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=ff3e9662-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Brazil
+DESCRIPTION:Reminder: [Short content] Santa Lucía
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fd3121a4-end3e4332
-SUMMARY:[Short content] Nicaragua
-DESCRIPTION:*[Short content] Nicaragua*\n\nDirectora
- te: Centre for Tax Policy and Administra
- tion\nLanguage: English\nDOI: https://do
- i.org/10.1787/fd3121a4-en\nPublication t
- ype: Short content\nReleased as: PDF\n\n
- Embargo date/time: Tuesday, 5 May 2026, 
- 9:00 (GMT)\n\n\niLibrary export: never\n
+UID:10.1787/9d7857ae-esd3e4445
+SUMMARY:[Short content] Jamaica
+DESCRIPTION:*[Short content] Jamaica*\n\nDirectorate
+ : Centre for Tax Policy and Administrati
+ on\nLanguage: Spanish\nDOI: https://doi.
+ org/10.1787/9d7857ae-es\nPublication typ
+ e: Short content\nReleased as: PDF\n\nEm
+ bargo date/time: Tuesday, 5 May 2026, 14
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:15, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=9d7857ae-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Jamaica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e1438b88-end3e4551
+SUMMARY:[Short content] Uruguay
+DESCRIPTION:*[Short content] Uruguay*\n\nDirectorate
+ : Centre for Tax Policy and Administrati
+ on\nLanguage: English\nDOI: https://doi.
+ org/10.1787/e1438b88-en\nPublication typ
+ e: Short content\nReleased as: PDF\n\nEm
+ bargo date/time: Tuesday, 5 May 2026, 14
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:15, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=e1438b88-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Uruguay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ae40cf55-end3e4604
+SUMMARY:[Short content] Saint Lucia
+DESCRIPTION:*[Short content] Saint Lucia*\n\nDirecto
+ rate: Centre for Tax Policy and Administ
+ ration\nLanguage: English\nDOI: https://
+ doi.org/10.1787/ae40cf55-en\nPublication
+  type: Short content\nReleased as: PDF\n
+ \nEmbargo date/time: Tuesday, 5 May 2026
+ , 14:00 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 15, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=ae40cf55-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Saint Lucia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4ac46314-end3e4657
+SUMMARY:[Short content] Colombia
+DESCRIPTION:*[Short content] Colombia*\n\nDirectorat
+ e: Centre for Tax Policy and Administrat
+ ion\nLanguage: English\nDOI: https://doi
+ .org/10.1787/4ac46314-en\nPublication ty
+ pe: Short content\nReleased as: PDF\n\nE
+ mbargo date/time: Tuesday, 5 May 2026, 1
+ 4:00 (GMT)\n\n\niLibrary export: never\n
  Freepreview export: never\nOECD.org expo
  rt: never\nFTI loaded: ✓\n\nFor more inf
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:18,
+ s correct as of this afternoon at 23:15,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -1483,130 +1506,57 @@ DESCRIPTION:*[Short content] Nicaragua*\n\nDirectora
  .) are not necessarily released at the s
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
- g/v3/search?term=fd3121a4-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+ g/v3/search?term=4ac46314-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Nicaragua
+DESCRIPTION:Reminder: [Short content] Colombia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b7329c0d-end3e4385
-SUMMARY:[Short content] Argentina
-DESCRIPTION:*[Short content] Argentina*\n\nDirectora
- te: Centre for Tax Policy and Administra
- tion\nLanguage: English\nDOI: https://do
- i.org/10.1787/b7329c0d-en\nPublication t
- ype: Short content\nReleased as: PDF\n\n
- Embargo date/time: Tuesday, 5 May 2026, 
- 9:00 (GMT)\n\n\niLibrary export: never\n
- Freepreview export: never\nOECD.org expo
- rt: never\nFTI loaded: ✓\n\nFor more inf
- ormation see: https://oecd.github.io/emb
- argo-calendar/embargoes-by-publication.h
- tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:18,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=b7329c0d-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
+UID:10.1787/7eb6620f-esd3e4710
+SUMMARY:[Short content] Bolivia
+DESCRIPTION:*[Short content] Bolivia*\n\nDirectorate
+ : Centre for Tax Policy and Administrati
+ on\nLanguage: Spanish\nDOI: https://doi.
+ org/10.1787/7eb6620f-es\nPublication typ
+ e: Short content\nReleased as: PDF\n\nEm
+ bargo date/time: Tuesday, 5 May 2026, 14
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:15, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=7eb6620f-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Argentina
+DESCRIPTION:Reminder: [Short content] Bolivia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9d2bf7a4-end3e4439
-SUMMARY:[Short content] Guatemala
-DESCRIPTION:*[Short content] Guatemala*\n\nDirectora
- te: Centre for Tax Policy and Administra
- tion\nLanguage: English\nDOI: https://do
- i.org/10.1787/9d2bf7a4-en\nPublication t
- ype: Short content\nReleased as: PDF\n\n
- Embargo date/time: Tuesday, 5 May 2026, 
- 9:00 (GMT)\n\n\niLibrary export: never\n
- Freepreview export: never\nOECD.org expo
- rt: never\nFTI loaded: ✓\n\nFor more inf
- ormation see: https://oecd.github.io/emb
- argo-calendar/embargoes-by-publication.h
- tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:18,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=9d2bf7a4-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Guatemala
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/596c0037-end3e4492
-SUMMARY:[Short content] Dominican Republic
-DESCRIPTION:*[Short content] Dominican Republic*\n\n
- Directorate: Centre for Tax Policy and A
- dministration\nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/596c0037-en\nPubl
- ication type: Short content\nReleased as
- : PDF\n\nEmbargo date/time: Tuesday, 5 M
- ay 2026, 9:00 (GMT)\n\n\niLibrary export
- : never\nFreepreview export: never\nOECD
- .org export: never\nFTI loaded: ✓\n\nFor
-  more information see: https://oecd.gith
- ub.io/embargo-calendar/embargoes-by-publ
- ication.html.\n\nPlease note: This infor
- mation was correct as of this afternoon 
- at 23:18, it is updated each night; ther
- efore any subsequent updates may not yet
-  be visible here. Also, please be aware 
- that the different released media (PDF, 
- HTML, etc.) are not necessarily released
-  at the same time. For complete and up-t
- o-date information see here: http://kapp
- a.oecd.org/v3/search?term=596c0037-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260505T090000Z
-DTEND:20260505T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Short content] Dominican Repu
- blic
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/38649e87-esd3e4970
+UID:10.1787/38649e87-esd3e4764
 SUMMARY:[Book] Estadísticas tributarias en Améri
  ca Latina y el Caribe 2026
 DESCRIPTION:*[Book] Estadísticas tributarias en Amér
@@ -1623,7 +1573,7 @@ DESCRIPTION:*[Book] Estadísticas tributarias en Amér
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:18, it is updated eac
+ is afternoon at 23:15, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -1632,7 +1582,7 @@ DESCRIPTION:*[Book] Estadísticas tributarias en Amér
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=3
  8649e87-es.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260505T140000Z
 DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
@@ -1646,7 +1596,368 @@ DESCRIPTION:Reminder: [Book] Estadísticas tributaria
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2f21f131-end3e5077
+UID:10.1787/ebfe26b8-esd3e4817
+SUMMARY:[Short content] Chile
+DESCRIPTION:*[Short content] Chile*\n\nDirectorate: 
+ Centre for Tax Policy and Administration
+ \nLanguage: Spanish\nDOI: https://doi.or
+ g/10.1787/ebfe26b8-es\nPublication type:
+  Short content\nReleased as: PDF\n\nEmba
+ rgo date/time: Tuesday, 5 May 2026, 14:0
+ 0 (GMT)\n\n\niLibrary export: never\nFre
+ epreview export: never\nOECD.org export:
+  never\nFTI loaded: ✓\n\nFor more inform
+ ation see: https://oecd.github.io/embarg
+ o-calendar/embargoes-by-publication.html
+ .\n\nPlease note: This information was c
+ orrect as of this afternoon at 23:15, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=ebfe26b8-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Chile
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9462d6f4-end3e4870
+SUMMARY:[Short content] Antigua and Barbuda
+DESCRIPTION:*[Short content] Antigua and Barbuda*\n\
+ nDirectorate: Centre for Tax Policy and 
+ Administration\nLanguage: English\nDOI: 
+ https://doi.org/10.1787/9462d6f4-en\nPub
+ lication type: Short content\nReleased a
+ s: PDF\n\nEmbargo date/time: Tuesday, 5 
+ May 2026, 14:00 (GMT)\n\n\niLibrary expo
+ rt: never\nFreepreview export: never\nOE
+ CD.org export: never\nFTI loaded: ✓\n\nF
+ or more information see: https://oecd.gi
+ thub.io/embargo-calendar/embargoes-by-pu
+ blication.html.\n\nPlease note: This inf
+ ormation was correct as of this afternoo
+ n at 23:15, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=9462d6f4-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Antigua and Ba
+ rbuda
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/498fab24-end3e4923
+SUMMARY:[Short content] Jamaica
+DESCRIPTION:*[Short content] Jamaica*\n\nDirectorate
+ : Centre for Tax Policy and Administrati
+ on\nLanguage: English\nDOI: https://doi.
+ org/10.1787/498fab24-en\nPublication typ
+ e: Short content\nReleased as: PDF\n\nEm
+ bargo date/time: Tuesday, 5 May 2026, 14
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:15, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=498fab24-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Jamaica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9d042d70-end3e4976
+SUMMARY:[Short content] Barbados
+DESCRIPTION:*[Short content] Barbados*\n\nDirectorat
+ e: Centre for Tax Policy and Administrat
+ ion\nLanguage: English\nDOI: https://doi
+ .org/10.1787/9d042d70-en\nPublication ty
+ pe: Short content\nReleased as: PDF\n\nE
+ mbargo date/time: Tuesday, 5 May 2026, 1
+ 4:00 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:15,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=9d042d70-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Barbados
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/7a11fd03-esd3e5029
+SUMMARY:[Short content] Guatemala
+DESCRIPTION:*[Short content] Guatemala*\n\nDirectora
+ te: Centre for Tax Policy and Administra
+ tion\nLanguage: Spanish\nDOI: https://do
+ i.org/10.1787/7a11fd03-es\nPublication t
+ ype: Short content\nReleased as: PDF\n\n
+ Embargo date/time: Tuesday, 5 May 2026, 
+ 14:00 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:15
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=7a11fd03-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Guatemala
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/680ea46f-end3e5083
+SUMMARY:[Short content] Chile
+DESCRIPTION:*[Short content] Chile*\n\nDirectorate: 
+ Centre for Tax Policy and Administration
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/680ea46f-en\nPublication type:
+  Short content\nReleased as: PDF\n\nEmba
+ rgo date/time: Tuesday, 5 May 2026, 14:0
+ 0 (GMT)\n\n\niLibrary export: never\nFre
+ epreview export: never\nOECD.org export:
+  never\nFTI loaded: ✓\n\nFor more inform
+ ation see: https://oecd.github.io/embarg
+ o-calendar/embargoes-by-publication.html
+ .\n\nPlease note: This information was c
+ orrect as of this afternoon at 23:15, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=680ea46f-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Chile
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cfa916dc-end3e5136
+SUMMARY:[Short content] Belize
+DESCRIPTION:*[Short content] Belize*\n\nDirectorate:
+  Centre for Tax Policy and Administratio
+ n\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/cfa916dc-en\nPublication type
+ : Short content\nReleased as: PDF\n\nEmb
+ argo date/time: Tuesday, 5 May 2026, 14:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:15, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=cfa916dc-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Belize
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/810998ab-esd3e5189
+SUMMARY:[Short content] Costa Rica
+DESCRIPTION:*[Short content] Costa Rica*\n\nDirector
+ ate: Centre for Tax Policy and Administr
+ ation\nLanguage: Spanish\nDOI: https://d
+ oi.org/10.1787/810998ab-es\nPublication 
+ type: Short content\nReleased as: PDF\n\
+ nEmbargo date/time: Tuesday, 5 May 2026,
+  14:00 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 23:1
+ 5, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=810998ab-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Costa Rica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c1011fb7-end3e5295
+SUMMARY:[Short content] Paraguay
+DESCRIPTION:*[Short content] Paraguay*\n\nDirectorat
+ e: Centre for Tax Policy and Administrat
+ ion\nLanguage: English\nDOI: https://doi
+ .org/10.1787/c1011fb7-en\nPublication ty
+ pe: Short content\nReleased as: PDF\n\nE
+ mbargo date/time: Tuesday, 5 May 2026, 1
+ 4:00 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:15,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=c1011fb7-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Paraguay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ad7d8592-esd3e5348
+SUMMARY:[Short content] Nicaragua
+DESCRIPTION:*[Short content] Nicaragua*\n\nDirectora
+ te: Centre for Tax Policy and Administra
+ tion\nLanguage: Spanish\nDOI: https://do
+ i.org/10.1787/ad7d8592-es\nPublication t
+ ype: Short content\nReleased as: PDF\n\n
+ Embargo date/time: Tuesday, 5 May 2026, 
+ 14:00 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:15
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=ad7d8592-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Nicaragua
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2f21f131-end3e5402
 SUMMARY:[Book] Revenue Statistics in Latin Ameri
  ca and the Caribbean 2026
 DESCRIPTION:*[Book] Revenue Statistics in Latin Amer
@@ -1663,7 +1974,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Latin Amer
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 23:18, it is updated each
+ s afternoon at 23:15, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -1672,7 +1983,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Latin Amer
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=2f
  21f131-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260505T140000Z
 DTEND:20260505T141500Z
 TRANSP:TRANSPARENT
@@ -1686,7 +1997,632 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics in L
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3ec5de98-end3e5925
+UID:10.1787/4ec6fd3d-esd3e5667
+SUMMARY:[Short content] México
+DESCRIPTION:*[Short content] México*\n\nDirectorate:
+  Centre for Tax Policy and Administratio
+ n\nLanguage: Spanish\nDOI: https://doi.o
+ rg/10.1787/4ec6fd3d-es\nPublication type
+ : Short content\nReleased as: PDF\n\nEmb
+ argo date/time: Tuesday, 5 May 2026, 14:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:15, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=4ec6fd3d-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] México
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cac49f7f-end3e5721
+SUMMARY:[Short content] Bahamas
+DESCRIPTION:*[Short content] Bahamas*\n\nDirectorate
+ : Centre for Tax Policy and Administrati
+ on\nLanguage: English\nDOI: https://doi.
+ org/10.1787/cac49f7f-en\nPublication typ
+ e: Short content\nReleased as: PDF\n\nEm
+ bargo date/time: Tuesday, 5 May 2026, 14
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:15, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=cac49f7f-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Bahamas
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/83b50fef-esd3e5774
+SUMMARY:[Short content] Honduras
+DESCRIPTION:*[Short content] Honduras*\n\nDirectorat
+ e: Centre for Tax Policy and Administrat
+ ion\nLanguage: Spanish\nDOI: https://doi
+ .org/10.1787/83b50fef-es\nPublication ty
+ pe: Short content\nReleased as: PDF\n\nE
+ mbargo date/time: Tuesday, 5 May 2026, 1
+ 4:00 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:15,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=83b50fef-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Honduras
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c87d4ed8-end3e5827
+SUMMARY:[Short content] Mexico
+DESCRIPTION:*[Short content] Mexico*\n\nDirectorate:
+  Centre for Tax Policy and Administratio
+ n\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/c87d4ed8-en\nPublication type
+ : Short content\nReleased as: PDF\n\nEmb
+ argo date/time: Tuesday, 5 May 2026, 14:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:15, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=c87d4ed8-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Mexico
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/d515ac42-esd3e6039
+SUMMARY:[Short content] Trinidad y Tobago
+DESCRIPTION:*[Short content] Trinidad y Tobago*\n\nD
+ irectorate: Centre for Tax Policy and Ad
+ ministration\nLanguage: Spanish\nDOI: ht
+ tps://doi.org/10.1787/d515ac42-es\nPubli
+ cation type: Short content\nReleased as:
+  PDF\n\nEmbargo date/time: Tuesday, 5 Ma
+ y 2026, 14:00 (GMT)\n\n\niLibrary export
+ : never\nFreepreview export: never\nOECD
+ .org export: never\nFTI loaded: ✓\n\nFor
+  more information see: https://oecd.gith
+ ub.io/embargo-calendar/embargoes-by-publ
+ ication.html.\n\nPlease note: This infor
+ mation was correct as of this afternoon 
+ at 23:15, it is updated each night; ther
+ efore any subsequent updates may not yet
+  be visible here. Also, please be aware 
+ that the different released media (PDF, 
+ HTML, etc.) are not necessarily released
+  at the same time. For complete and up-t
+ o-date information see here: http://kapp
+ a.oecd.org/v3/search?term=d515ac42-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Trinidad y Tob
+ ago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/94bb7d4e-esd3e6198
+SUMMARY:[Short content] El Salvador
+DESCRIPTION:*[Short content] El Salvador*\n\nDirecto
+ rate: Centre for Tax Policy and Administ
+ ration\nLanguage: Spanish\nDOI: https://
+ doi.org/10.1787/94bb7d4e-es\nPublication
+  type: Short content\nReleased as: PDF\n
+ \nEmbargo date/time: Tuesday, 5 May 2026
+ , 14:00 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 15, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=94bb7d4e-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] El Salvador
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/02716d4c-esd3e6251
+SUMMARY:[Short content] Guyana
+DESCRIPTION:*[Short content] Guyana*\n\nDirectorate:
+  Centre for Tax Policy and Administratio
+ n\nLanguage: Spanish\nDOI: https://doi.o
+ rg/10.1787/02716d4c-es\nPublication type
+ : Short content\nReleased as: PDF\n\nEmb
+ argo date/time: Tuesday, 5 May 2026, 14:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:15, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=02716d4c-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Guyana
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e65c03ec-esd3e6304
+SUMMARY:[Short content] Brasil
+DESCRIPTION:*[Short content] Brasil*\n\nDirectorate:
+  Centre for Tax Policy and Administratio
+ n\nLanguage: Spanish\nDOI: https://doi.o
+ rg/10.1787/e65c03ec-es\nPublication type
+ : Short content\nReleased as: PDF\n\nEmb
+ argo date/time: Tuesday, 5 May 2026, 14:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:15, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=e65c03ec-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Brasil
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5cc3e004-end3e6410
+SUMMARY:[Short content] Cuba
+DESCRIPTION:*[Short content] Cuba*\n\nDirectorate: C
+ entre for Tax Policy and Administration\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/5cc3e004-en\nPublication type: 
+ Short content\nReleased as: PDF\n\nEmbar
+ go date/time: Tuesday, 5 May 2026, 14:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 23:15, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=5cc3e004-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Cuba
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c10d57a7-esd3e6569
+SUMMARY:[Short content] La República Dominicana
+DESCRIPTION:*[Short content] La República Dominicana
+ *\n\nDirectorate: Centre for Tax Policy 
+ and Administration\nLanguage: Spanish\nD
+ OI: https://doi.org/10.1787/c10d57a7-es\
+ nPublication type: Short content\nReleas
+ ed as: PDF\n\nEmbargo date/time: Tuesday
+ , 5 May 2026, 14:00 (GMT)\n\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nOECD.org export: never\nFTI loaded: ✓\
+ n\nFor more information see: https://oec
+ d.github.io/embargo-calendar/embargoes-b
+ y-publication.html.\n\nPlease note: This
+  information was correct as of this afte
+ rnoon at 23:15, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=c10d57a7
+ -es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] La República D
+ ominicana
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cdb7e590-end3e6622
+SUMMARY:[Short content] Brazil
+DESCRIPTION:*[Short content] Brazil*\n\nDirectorate:
+  Centre for Tax Policy and Administratio
+ n\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/cdb7e590-en\nPublication type
+ : Short content\nReleased as: PDF\n\nEmb
+ argo date/time: Tuesday, 5 May 2026, 14:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:15, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=cdb7e590-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Brazil
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/fd3121a4-end3e6676
+SUMMARY:[Short content] Nicaragua
+DESCRIPTION:*[Short content] Nicaragua*\n\nDirectora
+ te: Centre for Tax Policy and Administra
+ tion\nLanguage: English\nDOI: https://do
+ i.org/10.1787/fd3121a4-en\nPublication t
+ ype: Short content\nReleased as: PDF\n\n
+ Embargo date/time: Tuesday, 5 May 2026, 
+ 14:00 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:15
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=fd3121a4-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Nicaragua
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b7329c0d-end3e6729
+SUMMARY:[Short content] Argentina
+DESCRIPTION:*[Short content] Argentina*\n\nDirectora
+ te: Centre for Tax Policy and Administra
+ tion\nLanguage: English\nDOI: https://do
+ i.org/10.1787/b7329c0d-en\nPublication t
+ ype: Short content\nReleased as: PDF\n\n
+ Embargo date/time: Tuesday, 5 May 2026, 
+ 14:00 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:15
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=b7329c0d-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Argentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9d2bf7a4-end3e6782
+SUMMARY:[Short content] Guatemala
+DESCRIPTION:*[Short content] Guatemala*\n\nDirectora
+ te: Centre for Tax Policy and Administra
+ tion\nLanguage: English\nDOI: https://do
+ i.org/10.1787/9d2bf7a4-en\nPublication t
+ ype: Short content\nReleased as: PDF\n\n
+ Embargo date/time: Tuesday, 5 May 2026, 
+ 14:00 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:15
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=9d2bf7a4-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Guatemala
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1b0f85e0-esd3e6888
+SUMMARY:[Short content] Uruguay
+DESCRIPTION:*[Short content] Uruguay*\n\nDirectorate
+ : Centre for Tax Policy and Administrati
+ on\nLanguage: Spanish\nDOI: https://doi.
+ org/10.1787/1b0f85e0-es\nPublication typ
+ e: Short content\nReleased as: PDF\n\nEm
+ bargo date/time: Tuesday, 5 May 2026, 14
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:15, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=1b0f85e0-es.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Uruguay
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/596c0037-end3e6995
+SUMMARY:[Short content] Dominican Republic
+DESCRIPTION:*[Short content] Dominican Republic*\n\n
+ Directorate: Centre for Tax Policy and A
+ dministration\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/596c0037-en\nPubl
+ ication type: Short content\nReleased as
+ : PDF\n\nEmbargo date/time: Tuesday, 5 M
+ ay 2026, 14:00 (GMT)\n\n\niLibrary expor
+ t: never\nFreepreview export: never\nOEC
+ D.org export: never\nFTI loaded: ✓\n\nFo
+ r more information see: https://oecd.git
+ hub.io/embargo-calendar/embargoes-by-pub
+ lication.html.\n\nPlease note: This info
+ rmation was correct as of this afternoon
+  at 23:15, it is updated each night; the
+ refore any subsequent updates may not ye
+ t be visible here. Also, please be aware
+  that the different released media (PDF,
+  HTML, etc.) are not necessarily release
+ d at the same time. For complete and up-
+ to-date information see here: http://kap
+ pa.oecd.org/v3/search?term=596c0037-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260505T140000Z
+DTEND:20260505T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Dominican Repu
+ blic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f4a6c658-end3e7101
+SUMMARY:[Working paper] The state of artificial 
+ intelligence in public audit - Evidence 
+ from selected countries and the European
+  Union
+DESCRIPTION:*[Working paper] The state of artificial
+  intelligence in public audit - Evidence
+  from selected countries and the Europea
+ n Union*\n\nDirectorate: Directorate for
+  Public Governance\nLanguage: English\nD
+ OI: https://doi.org/10.1787/f4a6c658-en\
+ nPublication type: Working paper\nReleas
+ ed as: PDF\n\nEmbargo date/time: Wednesd
+ ay, 6 May 2026, 22:01 (GMT)\n\n\niLibrar
+ y export: never\nFreepreview export: nev
+ er\nOECD.org export: never\nFTI loaded: 
+ ✗\n\nFor more information see: https://o
+ ecd.github.io/embargo-calendar/embargoes
+ -by-publication.html.\n\nPlease note: Th
+ is information was correct as of this af
+ ternoon at 23:15, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=f4a6c6
+ 58-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260506T220100Z
+DTEND:20260506T221600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Working paper] The state of a
+ rtificial intelligence in public audit -
+  Evidence from selected countries and th
+ e European Union
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/3ec5de98-end3e7154
 SUMMARY:[Economic survey] OECD Economic Surveys:
   New Zealand 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -1702,7 +2638,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 23:18, it is updated each night
+ rnoon at 23:15, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -1711,7 +2647,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=3ec5de98
  -en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260507T010000Z
 DTEND:20260507T011500Z
 TRANSP:TRANSPARENT
@@ -1725,7 +2661,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/526eff6e-frd3e6032
+UID:10.1787/526eff6e-frd3e7260
 SUMMARY:[Stand-alone monograph] Financement de l
  a protection sociale au Cameroun - Le rô
  le de la fiscalité générale, des cotisat
@@ -1748,7 +2684,7 @@ DESCRIPTION:*[Stand-alone monograph] Financement de
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:18, it is update
+ of this afternoon at 23:15, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -1757,7 +2693,7 @@ DESCRIPTION:*[Stand-alone monograph] Financement de
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=526eff6e-fr.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260507T090000Z
 DTEND:20260507T091500Z
 TRANSP:TRANSPARENT
@@ -1774,7 +2710,49 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Financ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dc98f701-end3e6674
+UID:10.1787/14514522-end3e7956
+SUMMARY:[Working paper] Economic regulation of w
+ ater supply and sanitation services - Ke
+ y trends and approaches
+DESCRIPTION:*[Working paper] Economic regulation of 
+ water supply and sanitation services - K
+ ey trends and approaches*\n\nDirectorate
+ : Environment Directorate\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/14514
+ 522-en\nPublication type: Working paper\
+ nReleased as: PDF\n\nEmbargo date/time: 
+ Monday, 11 May 2026, 22:01 (GMT)\n\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nOECD.org export: never\nFTI loa
+ ded: ✗\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 23:15, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=1
+ 4514522-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260511T220100Z
+DTEND:20260511T221600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Working paper] Economic regul
+ ation of water supply and sanitation ser
+ vices - Key trends and approaches
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/dc98f701-end3e8009
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 - Regional Profile
 DESCRIPTION:*[Book] SME Policy Index for Western Bal
@@ -1791,7 +2769,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 23:18, it is updated each night; the
+  at 23:15, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -1799,7 +2777,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=dc98f701-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260512T093000Z
 DTEND:20260512T094500Z
 TRANSP:TRANSPARENT
@@ -1814,7 +2792,46 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5bbd8f58-end3e6888
+UID:10.1787/54cc833d-end3e8062
+SUMMARY:[Economic survey] OECD Economic Surveys:
+  Japan 2026
+DESCRIPTION:*[Economic survey] OECD Economic Surveys
+ : Japan 2026*\n\nDirectorate: Economics 
+ Department\nLanguage: English\nDOI: http
+ s://doi.org/10.1787/54cc833d-en\nPublica
+ tion type: Economic survey\nReleased as:
+  Paperback, PDF\n\nEmbargo date/time: We
+ dnesday, 13 May 2026, 2:00 (GMT)\n\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nOECD.org export: never\nFTI loa
+ ded: ✗\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 23:15, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=5
+ 4cc833d-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260513T020000Z
+DTEND:20260513T021500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Economic survey] OECD Economi
+ c Surveys: Japan 2026
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5bbd8f58-end3e8276
 SUMMARY:[Stand-alone monograph] Environmental Pe
  rformance of Agriculture in OECD Countri
  es 2026 - Key Trends and Insights
@@ -1833,7 +2850,7 @@ DESCRIPTION:*[Stand-alone monograph] Environmental P
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:18, it is upd
+ as of this afternoon at 23:15, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -1842,7 +2859,7 @@ DESCRIPTION:*[Stand-alone monograph] Environmental P
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=5bbd8f58-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260513T070000Z
 DTEND:20260513T071500Z
 TRANSP:TRANSPARENT
@@ -1858,46 +2875,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Enviro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/54cc833d-end3e6995
-SUMMARY:[Economic survey] OECD Economic Surveys:
-  Japan 2026
-DESCRIPTION:*[Economic survey] OECD Economic Surveys
- : Japan 2026*\n\nDirectorate: Economics 
- Department\nLanguage: English\nDOI: http
- s://doi.org/10.1787/54cc833d-en\nPublica
- tion type: Economic survey\nReleased as:
-  Paperback, PDF\n\nEmbargo date/time: We
- dnesday, 13 May 2026, 8:00 (GMT)\n\n\niL
- ibrary export: never\nFreepreview export
- : never\nOECD.org export: never\nFTI loa
- ded: ✗\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 23:18, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=5
- 4cc833d-en.
-DTSTAMP:20260429T231810Z
-DTSTART:20260513T080000Z
-DTEND:20260513T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Economic survey] OECD Economi
- c Surveys: Japan 2026
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/212d9959-ltd3e7047
+UID:10.1787/212d9959-ltd3e8382
 SUMMARY:[Stand-alone monograph] Elektroninių pre
  kyviečių konkurencijos Lenkijoje, Latvij
  oje ir Lietuvoje rinkos tyrimas
@@ -1916,7 +2894,7 @@ DESCRIPTION:*[Stand-alone monograph] Elektroninių pr
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:18, it is updated
+ f this afternoon at 23:15, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -1925,7 +2903,7 @@ DESCRIPTION:*[Stand-alone monograph] Elektroninių pr
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=212d9959-lt.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260518T123000Z
 DTEND:20260518T124500Z
 TRANSP:TRANSPARENT
@@ -1941,7 +2919,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Elektr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/28ae4dd8-frd3e7099
+UID:10.1787/28ae4dd8-frd3e8434
 SUMMARY:[Stand-alone monograph] Étude de marché 
  sur la concurrence dans le secteur des p
  laces de marché en ligne en Pologne, en 
@@ -1962,7 +2940,7 @@ DESCRIPTION:*[Stand-alone monograph] Étude de marché
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:18, it is updated each night;
+ noon at 23:15, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -1971,7 +2949,7 @@ DESCRIPTION:*[Stand-alone monograph] Étude de marché
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=28ae4dd8-
  fr.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260518T123000Z
 DTEND:20260518T124500Z
 TRANSP:TRANSPARENT
@@ -1987,7 +2965,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Étude
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3134e707-end3e7151
+UID:10.1787/3134e707-end3e8486
 SUMMARY:[Stand-alone monograph] Competition Mark
  et Study of Online Marketplaces in Polan
  d, Latvia and Lithuania
@@ -2006,7 +2984,7 @@ DESCRIPTION:*[Stand-alone monograph] Competition Mar
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 23:18, it is updated each night
+ rnoon at 23:15, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -2015,7 +2993,7 @@ DESCRIPTION:*[Stand-alone monograph] Competition Mar
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=3134e707
  -en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260518T123000Z
 DTEND:20260518T124500Z
 TRANSP:TRANSPARENT
@@ -2030,7 +3008,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Compet
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/abd6f44a-end3e7203
+UID:10.1787/abd6f44a-end3e8538
 SUMMARY:[Stand-alone monograph] Digital Trade Re
  view of the Association of Southeast Asi
  an Nations
@@ -2048,7 +3026,7 @@ DESCRIPTION:*[Stand-alone monograph] Digital Trade R
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:18, it is update
+ of this afternoon at 23:15, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -2057,7 +3035,7 @@ DESCRIPTION:*[Stand-alone monograph] Digital Trade R
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=abd6f44a-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260519T070000Z
 DTEND:20260519T071500Z
 TRANSP:TRANSPARENT
@@ -2072,7 +3050,51 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Digita
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab5eb9ad-end3e7255
+UID:10.1787/0345660e-end3e8591
+SUMMARY:[Working paper] Valuing a reduction in t
+ he risk of non-fatal cancer - A large-sc
+ ale multi-country stated preference appr
+ oach
+DESCRIPTION:*[Working paper] Valuing a reduction in 
+ the risk of non-fatal cancer - A large-s
+ cale multi-country stated preference app
+ roach*\n\nDirectorate: Environment Direc
+ torate\nLanguage: English\nDOI: https://
+ doi.org/10.1787/0345660e-en\nPublication
+  type: Working paper\nReleased as: PDF\n
+ \nEmbargo date/time: Tuesday, 19 May 202
+ 6, 22:01 (GMT)\n\n\niLibrary export: nev
+ er\nFreepreview export: never\nOECD.org 
+ export: never\nFTI loaded: ✗\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 23
+ :15, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=0345660e-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260519T220100Z
+DTEND:20260519T221600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Working paper] Valuing a redu
+ ction in the risk of non-fatal cancer - 
+ A large-scale multi-country stated prefe
+ rence approach
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ab5eb9ad-end3e8644
 SUMMARY:[Book] Climate Finance Provided and Mobi
  lised by Developed Countries in 2013-202
  4
@@ -2089,7 +3111,7 @@ DESCRIPTION:*[Book] Climate Finance Provided and Mob
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:18, it is u
+ t as of this afternoon at 23:15, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -2098,7 +3120,7 @@ DESCRIPTION:*[Book] Climate Finance Provided and Mob
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=ab5eb9ad-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260521T090000Z
 DTEND:20260521T091500Z
 TRANSP:TRANSPARENT
@@ -2113,7 +3135,7 @@ DESCRIPTION:Reminder: [Book] Climate Finance Provide
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7c1f5d7d-ded3e7308
+UID:10.1787/7c1f5d7d-ded3e8696
 SUMMARY:[Book] OECD-Umweltprüfberichte: Österrei
  ch 2026 (gekürzte Fassung)
 DESCRIPTION:*[Book] OECD-Umweltprüfberichte: Österre
@@ -2129,7 +3151,7 @@ DESCRIPTION:*[Book] OECD-Umweltprüfberichte: Österre
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 23:18, it is updated each night
+ rnoon at 23:15, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -2138,7 +3160,7 @@ DESCRIPTION:*[Book] OECD-Umweltprüfberichte: Österre
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=7c1f5d7d
  -de.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260522T113000Z
 DTEND:20260522T114500Z
 TRANSP:TRANSPARENT
@@ -2152,7 +3174,7 @@ DESCRIPTION:Reminder: [Book] OECD-Umweltprüfberichte
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/520533a1-end3e7360
+UID:10.1787/520533a1-end3e8748
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Austria 2026
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -2168,7 +3190,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 23:18, it is updated each night; ther
+ at 23:15, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -2176,7 +3198,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=520533a1-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260522T120000Z
 DTEND:20260522T121500Z
 TRANSP:TRANSPARENT
@@ -2190,7 +3212,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fbcf9161-end3e7412
+UID:10.1787/fbcf9161-end3e8800
 SUMMARY:[Stand-alone monograph] Restoring Public
   Finances - Enabling Effective Governmen
  t
@@ -2208,7 +3230,7 @@ DESCRIPTION:*[Stand-alone monograph] Restoring Publi
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:18, it is up
+  as of this afternoon at 23:15, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -2217,7 +3239,7 @@ DESCRIPTION:*[Stand-alone monograph] Restoring Publi
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=fbcf9161-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260527T070000Z
 DTEND:20260527T071500Z
 TRANSP:TRANSPARENT
@@ -2232,7 +3254,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Restor
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ce94f33b-end3e7518
+UID:10.1787/ce94f33b-end3e8907
 SUMMARY:[Stand-alone monograph] OECD MAGIC Datab
  ase of Industrial Subsidies
 DESCRIPTION:*[Stand-alone monograph] OECD MAGIC Data
@@ -2249,7 +3271,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD MAGIC Data
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 23:18, it is updated each night; therefo
+ 23:15, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -2257,7 +3279,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD MAGIC Data
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=ce94f33b-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260527T090000Z
 DTEND:20260527T091500Z
 TRANSP:TRANSPARENT
@@ -2271,7 +3293,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50f1e10d-end3e7570
+UID:10.1787/50f1e10d-end3e8959
 SUMMARY:[Stand-alone monograph] Promoting the De
  velopment of the Semiconductor Ecosystem
   in Panama
@@ -2290,7 +3312,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 23:
- 18, it is updated each night; therefore 
+ 15, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -2298,7 +3320,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=50f1e10d-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260528T060000Z
 DTEND:20260528T061500Z
 TRANSP:TRANSPARENT
@@ -2313,7 +3335,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b8fa0de-end3e7623
+UID:10.1787/0b8fa0de-end3e9011
 SUMMARY:[Policy paper] Strengthening capital mar
  kets in Bosnia and Herzegovina
 DESCRIPTION:*[Policy paper] Strengthening capital ma
@@ -2330,7 +3352,7 @@ DESCRIPTION:*[Policy paper] Strengthening capital ma
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 23:18, it is updated each night; ther
+ at 23:15, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -2338,7 +3360,7 @@ DESCRIPTION:*[Policy paper] Strengthening capital ma
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=0b8fa0de-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260531T220100Z
 DTEND:20260531T221600Z
 TRANSP:TRANSPARENT
@@ -2352,7 +3374,7 @@ DESCRIPTION:Reminder: [Policy paper] Strengthening c
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f8e57052-end3e7675
+UID:10.1787/f8e57052-end3e9063
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 — Economy Profile f
  or North Macedonia
@@ -2370,7 +3392,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 23:18, it is updat
+  of this afternoon at 23:15, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -2379,7 +3401,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=f8e57052-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260601T080000Z
 DTEND:20260601T081500Z
 TRANSP:TRANSPARENT
@@ -2394,7 +3416,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5737889a-end3e7727
+UID:10.1787/5737889a-end3e9115
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 — Economy Profile f
  or Kosovo
@@ -2412,7 +3434,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:18, it is updated each n
+ afternoon at 23:15, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -2421,7 +3443,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=5737
  889a-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260601T080000Z
 DTEND:20260601T081500Z
 TRANSP:TRANSPARENT
@@ -2436,7 +3458,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/99ab9b0c-end3e7779
+UID:10.1787/99ab9b0c-end3e9167
 SUMMARY:[Book] OECD Steel Outlook 2026
 DESCRIPTION:*[Book] OECD Steel Outlook 2026*\n\nDire
  ctorate: Directorate for Science, Techno
@@ -2451,7 +3473,7 @@ DESCRIPTION:*[Book] OECD Steel Outlook 2026*\n\nDire
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 23:18, it is updated each night; therefo
+ 23:15, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -2459,7 +3481,7 @@ DESCRIPTION:*[Book] OECD Steel Outlook 2026*\n\nDire
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=99ab9b0c-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260604T070000Z
 DTEND:20260604T071500Z
 TRANSP:TRANSPARENT
@@ -2472,7 +3494,7 @@ DESCRIPTION:Reminder: [Book] OECD Steel Outlook 2026
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/10379f9f-end3e7831
+UID:10.1787/10379f9f-end3e9220
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 — Economy Profile f
  or Türkiye
@@ -2490,7 +3512,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 23:18, it is updated each
+ s afternoon at 23:15, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -2499,7 +3521,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=10
  379f9f-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260615T080000Z
 DTEND:20260615T081500Z
 TRANSP:TRANSPARENT
@@ -2514,7 +3536,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8b6d7a9f-end3e7883
+UID:10.1787/8b6d7a9f-end3e9272
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 — Economy Profile f
  or Montenegro
@@ -2532,7 +3554,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:18, it is updated e
+ this afternoon at 23:15, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -2541,7 +3563,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =8b6d7a9f-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260615T080000Z
 DTEND:20260615T081500Z
 TRANSP:TRANSPARENT
@@ -2556,7 +3578,49 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/996a56eb-end3e7936
+UID:10.1787/a1b14188-end3e9324
+SUMMARY:[Policy paper] Western Balkans Enterpris
+ e Survey - Navigating the digital and gr
+ een transformation
+DESCRIPTION:*[Policy paper] Western Balkans Enterpri
+ se Survey - Navigating the digital and g
+ reen transformation*\n\nDirectorate: Glo
+ bal Relations and Cooperation Directorat
+ e\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/a1b14188-en\nPublication type
+ : Policy paper\nReleased as: PDF\n\nEmba
+ rgo date/time: Thursday, 25 June 2026, 2
+ 2:00 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✗\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:15,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=a1b14188-en.
+DTSTAMP:20260430T231543Z
+DTSTART:20260625T220000Z
+DTEND:20260625T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Policy paper] Western Balkans
+  Enterprise Survey - Navigating the digi
+ tal and green transformation
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/996a56eb-end3e9377
 SUMMARY:[Book] Job Creation and Local Economic D
  evelopment 2026 - Global Trade, Local Jo
  bs
@@ -2574,7 +3638,7 @@ DESCRIPTION:*[Book] Job Creation and Local Economic
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 23:18, it is updated ea
+ his afternoon at 23:15, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -2583,7 +3647,7 @@ DESCRIPTION:*[Book] Job Creation and Local Economic
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  996a56eb-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260630T070000Z
 DTEND:20260630T071500Z
 TRANSP:TRANSPARENT
@@ -2598,7 +3662,7 @@ DESCRIPTION:Reminder: [Book] Job Creation and Local
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab22c29c-end3e7989
+UID:10.1787/ab22c29c-end3e9430
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 — Economy Profile f
  or Albania
@@ -2616,7 +3680,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 23:18, it is updated ea
+ his afternoon at 23:15, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -2625,7 +3689,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  ab22c29c-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260701T080000Z
 DTEND:20260701T081500Z
 TRANSP:TRANSPARENT
@@ -2640,7 +3704,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/58c3689d-end3e8041
+UID:10.1787/58c3689d-end3e9482
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 — Economy Profile f
  or Serbia
@@ -2658,7 +3722,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:18, it is updated eac
+ is afternoon at 23:15, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -2667,7 +3731,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=5
  8c3689d-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260701T080000Z
 DTEND:20260701T081500Z
 TRANSP:TRANSPARENT
@@ -2682,7 +3746,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/846bbe2d-end3e8093
+UID:10.1787/846bbe2d-end3e9535
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 — Economy Profile f
  or Bosnia and Herzegovina
@@ -2700,7 +3764,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:18, i
+ correct as of this afternoon at 23:15, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -2709,7 +3773,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=846bbe2d-en.
-DTSTAMP:20260429T231810Z
+DTSTAMP:20260430T231543Z
 DTSTART:20260701T080000Z
 DTEND:20260701T081500Z
 TRANSP:TRANSPARENT
