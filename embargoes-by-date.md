@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 1 May 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 3 May 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 April 2026](#30-april-2026)
 * [4 May 2026](#4-may-2026)
 * [5 May 2026](#5-may-2026)
 * [6 May 2026](#6-may-2026)
@@ -25,33 +24,6 @@ Data generated on | |
 * [25 June 2026](#25-june-2026)
 * [30 June 2026](#30-june-2026)
 * [1 July 2026](#1-july-2026)
-
-------
-
-# 30 April 2026
-
-## [The Global Minimum Tax Implementation Toolkit](https://doi.org/10.1787/0ee66d84-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 April 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 

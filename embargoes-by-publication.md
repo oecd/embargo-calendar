@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 1 May 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The Global Minimum Tax Implementation Toolkit](https://doi.org/10.1787/0ee66d84-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 April 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Sunday 3 May 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Reviews of Innovation Policy: Egypt 2026](https://doi.org/10.1787/c6675315-en)
 
