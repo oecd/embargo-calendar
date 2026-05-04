@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 3 May 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 4 May 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 May 2026](#4-may-2026)
 * [5 May 2026](#5-may-2026)
@@ -1433,11 +1433,11 @@ Monday 11 May 2026 at 22:01 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 12 May 2026 at 9:30 | no launch event
+Tuesday 12 May 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1446,7 +1446,7 @@ Tuesday 12 May 2026 at 9:30 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1810,7 +1810,7 @@ Sunday 31 May 2026 at 22:01 | no launch event
 
 # 1 June 2026
 
-## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for North Macedonia](https://doi.org/10.1787/f8e57052-en)
+## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for North Macedonia](https://doi.org/10.1787/f8e57052-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1833,7 +1833,7 @@ Monday 1 June 2026 at 8:00 | no launch event
 
 ------
 
-## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for Kosovo](https://doi.org/10.1787/5737889a-en)
+## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Kosovo](https://doi.org/10.1787/5737889a-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1887,7 +1887,7 @@ Thursday 4 June 2026 at 7:00 | no launch event
 
 # 15 June 2026
 
-## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
+## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1910,7 +1910,7 @@ Monday 15 June 2026 at 8:00 | no launch event
 
 ------
 
-## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for Montenegro](https://doi.org/10.1787/8b6d7a9f-en)
+## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Montenegro](https://doi.org/10.1787/8b6d7a9f-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1991,7 +1991,7 @@ Tuesday 30 June 2026 at 7:00 | no launch event
 
 # 1 July 2026
 
-## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for Albania](https://doi.org/10.1787/ab22c29c-en)
+## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Albania](https://doi.org/10.1787/ab22c29c-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -2014,7 +2014,7 @@ Wednesday 1 July 2026 at 8:00 | no launch event
 
 ------
 
-## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for Serbia](https://doi.org/10.1787/58c3689d-en)
+## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia](https://doi.org/10.1787/58c3689d-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -2037,7 +2037,7 @@ Wednesday 1 July 2026 at 8:00 | no launch event
 
 ------
 
-## [SME Policy Index for Western Balkans and Türkiye 2026 — Economy Profile for Bosnia and Herzegovina](https://doi.org/10.1787/846bbe2d-en)
+## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Bosnia and Herzegovina](https://doi.org/10.1787/846bbe2d-en)
 
 Embargo date | Launch date
 -------------|:------------:
