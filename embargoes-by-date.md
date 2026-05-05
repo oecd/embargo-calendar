@@ -2,17 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 4 May 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 5 May 2026 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 May 2026](#4-may-2026)
 * [5 May 2026](#5-may-2026)
 * [6 May 2026](#6-may-2026)
 * [7 May 2026](#7-may-2026)
-* [11 May 2026](#11-may-2026)
 * [12 May 2026](#12-may-2026)
 * [13 May 2026](#13-may-2026)
 * [18 May 2026](#18-may-2026)
 * [19 May 2026](#19-may-2026)
+* [20 May 2026](#20-may-2026)
 * [21 May 2026](#21-may-2026)
 * [22 May 2026](#22-may-2026)
 * [27 May 2026](#27-may-2026)
@@ -21,6 +21,8 @@ Data generated on | |
 * [1 June 2026](#1-june-2026)
 * [4 June 2026](#4-june-2026)
 * [15 June 2026](#15-june-2026)
+* [16 June 2026](#16-june-2026)
+* [18 June 2026](#18-june-2026)
 * [25 June 2026](#25-june-2026)
 * [30 June 2026](#30-june-2026)
 * [1 July 2026](#1-july-2026)
@@ -1400,33 +1402,6 @@ Thursday 7 May 2026 at 9:00 | no launch event
 
 ------
 
-# 11 May 2026
-
-## [Economic regulation of water supply and sanitation services - Key trends and approaches](https://doi.org/10.1787/14514522-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 12 May 2026
 
 ## [SME Policy Index for Western Balkans and Türkiye 2026 - Regional Profile](https://doi.org/10.1787/dc98f701-en)
@@ -1579,6 +1554,29 @@ Monday 18 May 2026 at 12:30 | no launch event
 
 # 19 May 2026
 
+## [Facilitating Trade in the Association of Southeast Asian Nations - Insights from Recent OECD Trade Facilitation Indicators Trends](https://doi.org/10.1787/71254407-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 May 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ## [Digital Trade Review of the Association of Southeast Asian Nations](https://doi.org/10.1787/abd6f44a-en)
 
 Embargo date | Launch date
@@ -1607,6 +1605,33 @@ Tuesday 19 May 2026 at 7:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Tuesday 19 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 20 May 2026
+
+## [Economic regulation of water supply and sanitation services - Key trends and approaches](https://doi.org/10.1787/14514522-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 20 May 2026 at 22:01 | no launch event
 
 ### Status Information
 
@@ -1926,6 +1951,60 @@ Monday 15 June 2026 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 16 June 2026
+
+## [Protecting Consumers from Financial Scams and Frauds](https://doi.org/10.1787/d41817bb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 June 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 18 June 2026
+
+## [OECD Environmental Performance Reviews: Slovenia 2026](https://doi.org/10.1787/c6e1f2ed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 June 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*

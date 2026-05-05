@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 4 May 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 5 May 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Reviews of Innovation Policy: Egypt 2026](https://doi.org/10.1787/c6675315-en)
 
@@ -1361,29 +1361,6 @@ Thursday 7 May 2026 at 9:00 | no launch event
 
 ------
 
-## [Economic regulation of water supply and sanitation services - Key trends and approaches](https://doi.org/10.1787/14514522-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
 ## [SME Policy Index for Western Balkans and Türkiye 2026 - Regional Profile](https://doi.org/10.1787/dc98f701-en)
 
 Embargo date | Launch date
@@ -1522,6 +1499,29 @@ Monday 18 May 2026 at 12:30 | no launch event
 
 ------
 
+## [Facilitating Trade in the Association of Southeast Asian Nations - Insights from Recent OECD Trade Facilitation Indicators Trends](https://doi.org/10.1787/71254407-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 May 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ## [Digital Trade Review of the Association of Southeast Asian Nations](https://doi.org/10.1787/abd6f44a-en)
 
 Embargo date | Launch date
@@ -1550,6 +1550,29 @@ Tuesday 19 May 2026 at 7:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Tuesday 19 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Economic regulation of water supply and sanitation services - Key trends and approaches](https://doi.org/10.1787/14514522-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 20 May 2026 at 22:01 | no launch event
 
 ### Status Information
 
@@ -1837,6 +1860,52 @@ Monday 15 June 2026 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Protecting Consumers from Financial Scams and Frauds](https://doi.org/10.1787/d41817bb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 June 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Slovenia 2026](https://doi.org/10.1787/c6e1f2ed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 June 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
