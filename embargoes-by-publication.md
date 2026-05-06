@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 5 May 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Reviews of Innovation Policy: Egypt 2026](https://doi.org/10.1787/c6675315-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 May 2026 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 6 May 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Building Strong Foundations for Life - Results from the 2025 Early Learning and Child Well-being Study](https://doi.org/10.1787/02bf8efe-en)
 
@@ -1292,29 +1269,6 @@ Tuesday 5 May 2026 at 14:00 | no launch event
 
 ------
 
-## [The state of artificial intelligence in public audit - Evidence from selected countries and the European Union](https://doi.org/10.1787/f4a6c658-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 6 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
 ## [OECD Economic Surveys: New Zealand 2026](https://doi.org/10.1787/3ec5de98-en)
 
 Embargo date | Launch date
@@ -1392,7 +1346,7 @@ Wednesday 13 May 2026 at 2:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1401,7 +1355,7 @@ Wednesday 13 May 2026 at 2:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -1427,6 +1381,29 @@ Wednesday 13 May 2026 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [Konkurences tirgus pētījums par tiešsaistes tirdzniecības vietām Polijā, Latvijā un Lietuvā](https://doi.org/10.1787/151e8a50-lv)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 May 2026 at 12:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Latvian*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -1476,7 +1453,7 @@ Monday 18 May 2026 at 12:30 | no launch event
 
 ------
 
-## [Competition Market Study of Online Marketplaces in Poland, Latvia and Lithuania](https://doi.org/10.1787/3134e707-en)
+## [Badanie rynkowe dotyczące konkurencji między platformami handlu elektronicznego w Polsce, na Łotwie i Litwie](https://doi.org/10.1787/61846b1d-pl)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1485,6 +1462,29 @@ Monday 18 May 2026 at 12:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Polish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Competition Market Study of Online Marketplaces in Poland, Latvia and Lithuania](https://doi.org/10.1787/3134e707-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 May 2026 at 12:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1614,34 +1614,11 @@ Thursday 21 May 2026 at 9:00 | no launch event
 
 ------
 
-## [OECD-Umweltprüfberichte: Österreich 2026 (gekürzte Fassung)](https://doi.org/10.1787/7c1f5d7d-de)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 May 2026 at 11:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *German*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [OECD Environmental Performance Reviews: Austria 2026](https://doi.org/10.1787/520533a1-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 22 May 2026 at 12:00 | no launch event
+Friday 22 May 2026 at 9:00 | no launch event
 
 ### Status Information
 
@@ -1655,6 +1632,29 @@ Friday 22 May 2026 at 12:00 | no launch event
 * Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD-Umweltprüfberichte: Österreich 2026 (gekürzte Fassung)](https://doi.org/10.1787/7c1f5d7d-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 May 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *German*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
