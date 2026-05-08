@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 7 May 2026 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 8 May 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: New Zealand 2026](https://doi.org/10.1787/3ec5de98-en)
 
