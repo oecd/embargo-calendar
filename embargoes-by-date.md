@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 8 May 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 10 May 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 May 2026](#7-may-2026)
 * [12 May 2026](#12-may-2026)
 * [13 May 2026](#13-may-2026)
 * [18 May 2026](#18-may-2026)
@@ -24,56 +23,6 @@ Data generated on | |
 * [25 June 2026](#25-june-2026)
 * [30 June 2026](#30-june-2026)
 * [1 July 2026](#1-july-2026)
-
-------
-
-# 7 May 2026
-
-## [OECD Economic Surveys: New Zealand 2026](https://doi.org/10.1787/3ec5de98-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 May 2026 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Financement de la protection sociale au Cameroun - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/526eff6e-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 May 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
