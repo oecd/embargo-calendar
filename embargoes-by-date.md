@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 10 May 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 11 May 2026 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 May 2026](#12-may-2026)
 * [13 May 2026](#13-may-2026)
@@ -11,6 +11,7 @@ Data generated on | |
 * [20 May 2026](#20-may-2026)
 * [21 May 2026](#21-may-2026)
 * [22 May 2026](#22-may-2026)
+* [25 May 2026](#25-may-2026)
 * [27 May 2026](#27-may-2026)
 * [28 May 2026](#28-may-2026)
 * [31 May 2026](#31-may-2026)
@@ -214,8 +215,31 @@ Monday 18 May 2026 at 12:30 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Monitoring inclusive participation in early childhood education and care - Concepts, indicators, and practices across OECD countries](https://doi.org/10.1787/1e3f0f4f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -270,6 +294,29 @@ Tuesday 19 May 2026 at 7:00 | no launch event
 
 ------
 
+## [Quantifying industrial strategies across 20 OECD countries - Trends and priorities, 2019-2023](https://doi.org/10.1787/0e3ab6dd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Valuing a reduction in the risk of non-fatal cancer - A large-scale multi-country stated preference approach](https://doi.org/10.1787/0345660e-en)
 
 Embargo date | Launch date
@@ -289,6 +336,29 @@ Tuesday 19 May 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Nature-positive cities - A conceptual framework](https://doi.org/10.1787/c2ca2a9a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -316,6 +386,29 @@ Wednesday 20 May 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [What makes climate change mitigation policies work? - A meta-analysis of the empirical literature on policy effectiveness](https://doi.org/10.1787/642fbefe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 20 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -350,6 +443,29 @@ Thursday 21 May 2026 at 9:00 | no launch event
 ------
 
 # 22 May 2026
+
+## [Harnessing the global transformations to accelerate equality in Norway - OECD Scan](https://doi.org/10.1787/29d890e5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 May 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Environmental Performance Reviews: Austria 2026](https://doi.org/10.1787/520533a1-en)
 
@@ -394,6 +510,33 @@ Friday 22 May 2026 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 25 May 2026
+
+## [The OECD AI exposure measure - Mapping the OECD AI Capability Indicators to occupations](https://doi.org/10.1787/f3da0f0a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -522,7 +665,7 @@ Monday 1 June 2026 at 8:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -545,7 +688,7 @@ Monday 1 June 2026 at 8:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -624,6 +767,29 @@ Thursday 4 June 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Anticipating and monitoring water risks for agriculture](https://doi.org/10.1787/24939e6a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -740,7 +906,7 @@ Thursday 18 June 2026 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 25 June 2026 at 22:00 | no launch event
+Thursday 25 June 2026 at 22:01 | no launch event
 
 ### Status Information
 
@@ -780,7 +946,7 @@ Tuesday 30 June 2026 at 7:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
