@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 12 May 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 13 May 2026 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 May 2026](#12-may-2026)
 * [13 May 2026](#13-may-2026)
@@ -25,6 +25,7 @@ Data generated on | |
 * [16 June 2026](#16-june-2026)
 * [17 June 2026](#17-june-2026)
 * [18 June 2026](#18-june-2026)
+* [22 June 2026](#22-june-2026)
 * [25 June 2026](#25-june-2026)
 * [1 July 2026](#1-july-2026)
 * [15 July 2026](#15-july-2026)
@@ -145,7 +146,7 @@ Monday 18 May 2026 at 12:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -154,9 +155,9 @@ Monday 18 May 2026 at 12:30 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Latvian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -214,7 +215,7 @@ Monday 18 May 2026 at 12:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -223,9 +224,9 @@ Monday 18 May 2026 at 12:30 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Polish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -421,29 +422,6 @@ Wednesday 20 May 2026 at 22:01 | no launch event
 
 ------
 
-## [Economic regulation of water supply and sanitation services - Key trends and approaches](https://doi.org/10.1787/14514522-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 20 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
 ## [What makes climate change mitigation policies work? - A meta-analysis of the empirical literature on policy effectiveness](https://doi.org/10.1787/642fbefe-en)
 
 Embargo date | Launch date
@@ -617,6 +595,29 @@ Monday 25 May 2026 at 22:01 | no launch event
 
 ------
 
+## [Economic regulation of water supply and sanitation services - Key trends and approaches](https://doi.org/10.1787/14514522-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 27 May 2026
@@ -641,6 +642,29 @@ Wednesday 27 May 2026 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Restaurer les finances publiques - Renforcer l’efficacité de l’action publique](https://doi.org/10.1787/e9a64552-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 May 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -1075,6 +1099,33 @@ Thursday 18 June 2026 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 22 June 2026
+
+## [Infrastructure Policy Review of Ukraine](https://doi.org/10.1787/eeef2059-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 June 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
