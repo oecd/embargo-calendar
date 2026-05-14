@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 May 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 - Regional Profile](https://doi.org/10.1787/dc98f701-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 May 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Thursday 14 May 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Japan 2026](https://doi.org/10.1787/54cc833d-en)
 
