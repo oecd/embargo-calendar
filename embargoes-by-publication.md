@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 May 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Japan 2026](https://doi.org/10.1787/54cc833d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 May 2026 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Environmental Performance of Agriculture in OECD Countries 2026 - Key Trends and Insights](https://doi.org/10.1787/5bbd8f58-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 May 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Subsidies and market share in the global steel industry](https://doi.org/10.1787/a5cfb5dd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 17 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
+| *Friday 15 May 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Konkurences tirgus pētījums par tiešsaistes tirdzniecības vietām Polijā, Latvijā un Lietuvā](https://doi.org/10.1787/151e8a50-lv)
 
@@ -395,6 +326,29 @@ Thursday 21 May 2026 at 9:00 | no launch event
 
 ------
 
+## [Genre et confiance dans les institutions publiques en Suisse - Une analyse des determinants](https://doi.org/10.1787/12f84ae8-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Harnessing the global transformations to accelerate equality in Norway - OECD Scan](https://doi.org/10.1787/29d890e5-en)
 
 Embargo date | Launch date
@@ -412,7 +366,7 @@ Friday 22 May 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
@@ -487,6 +441,29 @@ Monday 25 May 2026 at 22:01 | no launch event
 
 ------
 
+## [Building a global dataset on state-owned enterprises](https://doi.org/10.1787/41a26c09-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Towards Chile’s Next Plan for Student Assessments](https://doi.org/10.1787/e703ddc4-en)
 
 Embargo date | Launch date
@@ -529,6 +506,29 @@ Monday 25 May 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Towards international coherence of cybersecurity regulations](https://doi.org/10.1787/bd1f199a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -579,6 +579,29 @@ Wednesday 27 May 2026 at 7:00 | no launch event
 
 ------
 
+## [Public policy objectives of state-owned enterprises](https://doi.org/10.1787/d85445e4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Promoting the Development of the Semiconductor Ecosystem in Panama](https://doi.org/10.1787/50f1e10d-en)
 
 Embargo date | Launch date
@@ -619,7 +642,7 @@ Thursday 28 May 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -642,7 +665,7 @@ Thursday 28 May 2026 at 22:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -849,8 +872,31 @@ Monday 8 June 2026 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Small credit, real impact - Lessons on Lazio’s Small Credit Fund](https://doi.org/10.1787/a37305fa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 14 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -872,7 +918,7 @@ Monday 15 June 2026 at 8:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -895,7 +941,7 @@ Monday 15 June 2026 at 8:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -918,7 +964,7 @@ Tuesday 16 June 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -941,7 +987,7 @@ Wednesday 17 June 2026 at 21:30 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -964,7 +1010,7 @@ Thursday 18 June 2026 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -989,6 +1035,29 @@ Monday 22 June 2026 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Gender and trust in public institutions in Switzerland - An analysis of the determinants](https://doi.org/10.1787/6ad10075-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
