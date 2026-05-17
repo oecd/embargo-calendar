@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 15 May 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 17 May 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Konkurences tirgus pētījums par tiešsaistes tirdzniecības vietām Polijā, Latvijā un Lietuvā](https://doi.org/10.1787/151e8a50-lv)
 
