@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 17 May 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 18 May 2026 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Konkurences tirgus pētījums par tiešsaistes tirdzniecības vietām Polijā, Latvijā un Lietuvā](https://doi.org/10.1787/151e8a50-lv)
 
@@ -119,29 +119,6 @@ Monday 18 May 2026 at 12:30 | no launch event
 
 ------
 
-## [Monitoring inclusive participation in early childhood education and care - Concepts, indicators, and practices across OECD countries](https://doi.org/10.1787/1e3f0f4f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
 ## [Facilitating Trade in the Association of Southeast Asian Nations - Insights from Recent OECD Trade Facilitation Indicators Trends](https://doi.org/10.1787/71254407-en)
 
 Embargo date | Launch date
@@ -211,52 +188,6 @@ Tuesday 19 May 2026 at 22:01 | no launch event
 
 ------
 
-## [Valuing a reduction in the risk of non-fatal cancer - A large-scale multi-country stated preference approach](https://doi.org/10.1787/0345660e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Nature-positive cities - A conceptual framework](https://doi.org/10.1787/c2ca2a9a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ## [Cluster analysis of non-communicable disease burden, prevention and management across EU27+2 countries](https://doi.org/10.1787/eba334a3-en)
 
 Embargo date | Launch date
@@ -311,7 +242,7 @@ Thursday 21 May 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -320,9 +251,9 @@ Thursday 21 May 2026 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -376,7 +307,7 @@ Friday 22 May 2026 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 22 May 2026 at 9:00 | no launch event
+Friday 22 May 2026 at 8:30 | no launch event
 
 ### Status Information
 
@@ -399,7 +330,7 @@ Friday 22 May 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 22 May 2026 at 9:00 | no launch event
+Friday 22 May 2026 at 8:30 | no launch event
 
 ### Status Information
 
@@ -579,6 +510,52 @@ Wednesday 27 May 2026 at 7:00 | no launch event
 
 ------
 
+## [OECD Development Co‑operation Peer Reviews: Italy 2026](https://doi.org/10.1787/6b00e143-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 May 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Peer Review dell'OCSE sulla Cooperazione allo Sviluppo: Italia 2026](https://doi.org/10.1787/d93afb3a-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 May 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *Italian*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Public policy objectives of state-owned enterprises](https://doi.org/10.1787/d85445e4-en)
 
 Embargo date | Launch date
@@ -602,29 +579,6 @@ Wednesday 27 May 2026 at 22:01 | no launch event
 
 ------
 
-## [Promoting the Development of the Semiconductor Ecosystem in Panama](https://doi.org/10.1787/50f1e10d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 May 2026 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2026) - Inclusive Framework on BEPS](https://doi.org/10.1787/4377e89f-en)
 
 Embargo date | Launch date
@@ -641,29 +595,6 @@ Thursday 28 May 2026 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Benefits of AI openness - OECD discussion paper for the G7](https://doi.org/10.1787/746e8c9a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 May 2026 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
@@ -763,6 +694,29 @@ Monday 1 June 2026 at 9:00 | no launch event
 
 ------
 
+## [The impact of the conflict in the Middle East on agricultural markets](https://doi.org/10.1787/3324cfee-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 June 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Outlook, Volume 2026 Issue 1 - Not yet available](https://doi.org/10.1787/2d1956f0-en)
 
 Embargo date | Launch date
@@ -809,29 +763,6 @@ Thursday 4 June 2026 at 7:00 | no launch event
 
 ------
 
-## [Anticipating and monitoring water risks for agriculture](https://doi.org/10.1787/24939e6a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ## [OECD Economic Surveys: Estonia 2026](https://doi.org/10.1787/2514521c-en)
 
 Embargo date | Launch date
@@ -874,6 +805,29 @@ Monday 8 June 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Anticipating and monitoring water risks for agriculture](https://doi.org/10.1787/24939e6a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -1085,6 +1039,52 @@ Thursday 25 June 2026 at 22:01 | no launch event
 
 ------
 
+## [OECD Responsible Business Outlook 2026 - Making Commitments Count](https://doi.org/10.1787/2b15370f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 10:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Navigating Life with Low Literacy and Numeracy - New Results from the 2023 Survey of Adult Skills](https://doi.org/10.1787/c198a20f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 July 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Albania](https://doi.org/10.1787/ab22c29c-en)
 
 Embargo date | Launch date
@@ -1147,6 +1147,52 @@ Wednesday 1 July 2026 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Promoting the Development of the Semiconductor Ecosystem in Panama](https://doi.org/10.1787/50f1e10d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [OECD Employment Outlook 2026 - Geographic Disparities in Jobs and Incomes](https://doi.org/10.1787/7e710f54-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 July 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
