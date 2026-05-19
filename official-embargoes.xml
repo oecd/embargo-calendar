@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-05-18T23:23:27.2917752+02:00">
+<report name="official-embargoes" generated="2026-05-19T23:15:41.1540056+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -314,7 +314,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2026-05-18T21:52:50Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1134,7 +1134,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2026-05-18T21:52:50Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1514,7 +1514,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2026-05-18T21:52:50Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1814,7 +1814,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2026-05-18T21:52:50Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1834,7 +1834,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2026-05-18T21:52:50Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -2401,26 +2401,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/debb7bcd</cell>
   </row>
   <row index="120">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/0e3ab6dd-en</cell>
-    <cell name="title">Quantifying industrial strategies across 20 OECD countries (en)</cell>
-    <cell name="subtitle">Trends and priorities, 2019-2023 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-05-20</cell>
-    <cell name="embargo date">2026-05-19T22:01:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Policy paper</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a2fa25b</cell>
-  </row>
-  <row index="121">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/eba334a3-en</cell>
     <cell name="title">Cluster analysis of non-communicable disease burden, prevention and management across EU27+2 countries (en)</cell>
@@ -2440,7 +2420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27cfa6d9</cell>
   </row>
-  <row index="122">
+  <row index="121">
     <cell name="directorate">General Secretariat</cell>
     <cell name="doi">10.1787/642fbefe-en</cell>
     <cell name="title">What makes climate change mitigation policies work? (en)</cell>
@@ -2460,7 +2440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9b09616</cell>
   </row>
-  <row index="123">
+  <row index="122">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ab5eb9ad-en</cell>
     <cell name="title">Climate Finance Provided and Mobilised by Developed Countries in 2013-2024 (en)</cell>
@@ -2480,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7739f0b0</cell>
   </row>
-  <row index="124">
+  <row index="123">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ab5eb9ad-en</cell>
     <cell name="title">Climate Finance Provided and Mobilised by Developed Countries in 2013-2024 (en)</cell>
@@ -2500,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b67795b</cell>
   </row>
-  <row index="125">
+  <row index="124">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ab5eb9ad-en</cell>
     <cell name="title">Climate Finance Provided and Mobilised by Developed Countries in 2013-2024 (en)</cell>
@@ -2520,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca276144</cell>
   </row>
-  <row index="126">
+  <row index="125">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ab5eb9ad-en</cell>
     <cell name="title">Climate Finance Provided and Mobilised by Developed Countries in 2013-2024 (en)</cell>
@@ -2540,27 +2520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d21768c</cell>
   </row>
-  <row index="127">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/12f84ae8-fr</cell>
-    <cell name="title">Genre et confiance dans les institutions publiques en Suisse (fr)</cell>
-    <cell name="subtitle">Une analyse des determinants (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-05-22</cell>
-    <cell name="embargo date">2026-05-21T22:01:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eba1c0ad</cell>
-  </row>
-  <row index="128">
+  <row index="126">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/29d890e5-en</cell>
     <cell name="title">Harnessing the global transformations to accelerate equality in Norway (en)</cell>
@@ -2580,7 +2540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdda7689</cell>
   </row>
-  <row index="129">
+  <row index="127">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/7c1f5d7d-de</cell>
     <cell name="title">OECD-Umweltprüfberichte: Österreich 2026 (gekürzte Fassung) (de)</cell>
@@ -2600,7 +2560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/570bb166</cell>
   </row>
-  <row index="130">
+  <row index="128">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/520533a1-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Austria 2026 (en)</cell>
@@ -2620,7 +2580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3bf4e7e</cell>
   </row>
-  <row index="131">
+  <row index="129">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/520533a1-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Austria 2026 (en)</cell>
@@ -2640,7 +2600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4c4ed4dc</cell>
   </row>
-  <row index="132">
+  <row index="130">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/4879aeb4-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2660,7 +2620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/663b4a6e</cell>
   </row>
-  <row index="133">
+  <row index="131">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/7c1f5d7d-de</cell>
     <cell name="title">OECD-Umweltprüfberichte: Österreich 2026 (gekürzte Fassung) (de)</cell>
@@ -2680,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63a494a6</cell>
   </row>
-  <row index="134">
+  <row index="132">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/cd13da18-en</cell>
     <cell name="title">Towards the green transition (en)</cell>
@@ -2700,7 +2660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d38bca24</cell>
   </row>
-  <row index="135">
+  <row index="133">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/85122f3a-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -2720,7 +2680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fec439c</cell>
   </row>
-  <row index="136">
+  <row index="134">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/520533a1-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Austria 2026 (en)</cell>
@@ -2740,7 +2700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2936dc49</cell>
   </row>
-  <row index="137">
+  <row index="135">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/052c340c-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2760,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/708a7dcc</cell>
   </row>
-  <row index="138">
+  <row index="136">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/7d8ef769-en</cell>
     <cell name="title">Basic statistics of Austria (en)</cell>
@@ -2780,7 +2740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a5901af3</cell>
   </row>
-  <row index="139">
+  <row index="137">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/7c1f5d7d-de</cell>
     <cell name="title">OECD-Umweltprüfberichte: Österreich 2026 (gekürzte Fassung) (de)</cell>
@@ -2800,7 +2760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/933dbf15</cell>
   </row>
-  <row index="140">
+  <row index="138">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/cb27cc9e-en</cell>
     <cell name="title">Promoting the circular economy (en)</cell>
@@ -2820,7 +2780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45a4564a</cell>
   </row>
-  <row index="141">
+  <row index="139">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/520533a1-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Austria 2026 (en)</cell>
@@ -2840,7 +2800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f4090beb</cell>
   </row>
-  <row index="142">
+  <row index="140">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/53d7979b-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -2860,7 +2820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0616520</cell>
   </row>
-  <row index="143">
+  <row index="141">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/520533a1-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Austria 2026 (en)</cell>
@@ -2880,7 +2840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64e07e5a</cell>
   </row>
-  <row index="144">
+  <row index="142">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/7c1f5d7d-de</cell>
     <cell name="title">OECD-Umweltprüfberichte: Österreich 2026 (gekürzte Fassung) (de)</cell>
@@ -2900,7 +2860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30c3d559</cell>
   </row>
-  <row index="145">
+  <row index="143">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f3da0f0a-en</cell>
     <cell name="title">The OECD AI exposure measure (en)</cell>
@@ -2920,7 +2880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e071d7b3</cell>
   </row>
-  <row index="146">
+  <row index="144">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/41a26c09-en</cell>
     <cell name="title">Building a global dataset on state-owned enterprises (en)</cell>
@@ -2940,7 +2900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/738244df</cell>
   </row>
-  <row index="147">
+  <row index="145">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e703ddc4-en</cell>
     <cell name="title">Towards Chile’s Next Plan for Student Assessments (en)</cell>
@@ -2960,7 +2920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7165b4b6</cell>
   </row>
-  <row index="148">
+  <row index="146">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/14514522-en</cell>
     <cell name="title">Economic regulation of water supply and sanitation services (en)</cell>
@@ -2980,7 +2940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c0cbfc0</cell>
   </row>
-  <row index="149">
+  <row index="147">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/59a40a50-en</cell>
     <cell name="title">Corporate income taxation and business dynamism (en)</cell>
@@ -3000,7 +2960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6df1a64</cell>
   </row>
-  <row index="150">
+  <row index="148">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/59a40a50-en</cell>
     <cell name="title">Corporate income taxation and business dynamism (en)</cell>
@@ -3020,7 +2980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/725e2912</cell>
   </row>
-  <row index="151">
+  <row index="149">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/bd1f199a-en</cell>
     <cell name="title">Towards international coherence of cybersecurity regulations (en)</cell>
@@ -3040,7 +3000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8a9ae4b</cell>
   </row>
-  <row index="152">
+  <row index="150">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/fbcf9161-en</cell>
     <cell name="title">Restoring Public Finances (en)</cell>
@@ -3060,7 +3020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05390a7d</cell>
   </row>
-  <row index="153">
+  <row index="151">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e9a64552-fr</cell>
     <cell name="title">Restaurer les finances publiques (fr)</cell>
@@ -3080,7 +3040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e8295c7</cell>
   </row>
-  <row index="154">
+  <row index="152">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/fbcf9161-en</cell>
     <cell name="title">Restoring Public Finances (en)</cell>
@@ -3100,7 +3060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e080648b</cell>
   </row>
-  <row index="155">
+  <row index="153">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/6b00e143-en</cell>
     <cell name="title">OECD Development Co‑operation Peer Reviews: Italy 2026 (en)</cell>
@@ -3120,7 +3080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe7e8b5b</cell>
   </row>
-  <row index="156">
+  <row index="154">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/a5c43023-en</cell>
     <cell name="title">Findings (en)</cell>
@@ -3140,7 +3100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/430f7515</cell>
   </row>
-  <row index="157">
+  <row index="155">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/6b00e143-en</cell>
     <cell name="title">OECD Development Co‑operation Peer Reviews: Italy 2026 (en)</cell>
@@ -3160,7 +3120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2cd0b31</cell>
   </row>
-  <row index="158">
+  <row index="156">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e0b1ea69-en</cell>
     <cell name="title">Highlights from the 2026 Development Co-operation Peer Review of Italy (infographic) (en)</cell>
@@ -3180,7 +3140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8797b784</cell>
   </row>
-  <row index="159">
+  <row index="157">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/6b00e143-en</cell>
     <cell name="title">OECD Development Co‑operation Peer Reviews: Italy 2026 (en)</cell>
@@ -3200,7 +3160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be26d674</cell>
   </row>
-  <row index="160">
+  <row index="158">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/fb19d2bd-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3220,7 +3180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ce7e36b</cell>
   </row>
-  <row index="161">
+  <row index="159">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/58625280-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -3240,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c21b2db8</cell>
   </row>
-  <row index="162">
+  <row index="160">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/d93afb3a-it</cell>
     <cell name="title">Peer Review dell'OCSE sulla Cooperazione allo Sviluppo: Italia 2026 (it)</cell>
@@ -3260,7 +3220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/432e1cbc</cell>
   </row>
-  <row index="163">
+  <row index="161">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/3c40fe9c-en</cell>
     <cell name="title">Italy’s development co-operation at a glance (infographic) (en)</cell>
@@ -3280,7 +3240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbdccdbf</cell>
   </row>
-  <row index="164">
+  <row index="162">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/d93afb3a-it</cell>
     <cell name="title">Peer Review dell'OCSE sulla Cooperazione allo Sviluppo: Italia 2026 (it)</cell>
@@ -3300,7 +3260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/599e8016</cell>
   </row>
-  <row index="165">
+  <row index="163">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/6b00e143-en</cell>
     <cell name="title">OECD Development Co‑operation Peer Reviews: Italy 2026 (en)</cell>
@@ -3320,7 +3280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0516e9c</cell>
   </row>
-  <row index="166">
+  <row index="164">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/58663280-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3340,7 +3300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a1e70ffc</cell>
   </row>
-  <row index="167">
+  <row index="165">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/25e0b588-en</cell>
     <cell name="title">Progress against OECD legal instruments under the responsibility of the DAC (en)</cell>
@@ -3360,7 +3320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7e6960c</cell>
   </row>
-  <row index="168">
+  <row index="166">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/83a6e12b-en</cell>
     <cell name="title">Organisations consulted during the peer review (en)</cell>
@@ -3380,7 +3340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a9bc5fe</cell>
   </row>
-  <row index="169">
+  <row index="167">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/0381538b-en</cell>
     <cell name="title">The DAC’s recommendations to Italy (en)</cell>
@@ -3400,7 +3360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fef5a7be</cell>
   </row>
-  <row index="170">
+  <row index="168">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/6b00e143-en</cell>
     <cell name="title">OECD Development Co‑operation Peer Reviews: Italy 2026 (en)</cell>
@@ -3420,7 +3380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/17681494</cell>
   </row>
-  <row index="171">
+  <row index="169">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/f69c3f54-en</cell>
     <cell name="title">Progress since the 2019 DAC peer review recommendations (en)</cell>
@@ -3440,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60b233e1</cell>
   </row>
-  <row index="172">
+  <row index="170">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/d85445e4-en</cell>
     <cell name="title">Public policy objectives of state-owned enterprises (en)</cell>
@@ -3460,7 +3420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9cd48016</cell>
   </row>
-  <row index="173">
+  <row index="171">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4377e89f-en</cell>
     <cell name="title">Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2026) (en)</cell>
@@ -3480,7 +3440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/513eab5c</cell>
   </row>
-  <row index="174">
+  <row index="172">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/0b8fa0de-en</cell>
     <cell name="title">Strengthening capital markets in Bosnia and Herzegovina (en)</cell>
@@ -3500,7 +3460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2392e12f</cell>
   </row>
-  <row index="175">
+  <row index="173">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/f8e57052-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for North Macedonia (en)</cell>
@@ -3520,7 +3480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1bfcf502</cell>
   </row>
-  <row index="176">
+  <row index="174">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/5737889a-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Kosovo (en)</cell>
@@ -3540,14 +3500,54 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/faed62b8</cell>
   </row>
-  <row index="177">
+  <row index="175">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ce94f33b-en</cell>
     <cell name="title">OECD MAGIC Database of Industrial Subsidies (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-06-01</cell>
+    <cell name="embargo date">2026-06-01T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da96bcff</cell>
+  </row>
+  <row index="176">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/ce94f33b-en</cell>
+    <cell name="title">OECD MAGIC Database of Industrial Subsidies (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-06-01</cell>
+    <cell name="embargo date">2026-06-01T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/343f107b</cell>
+  </row>
+  <row index="177">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/ce94f33b-en</cell>
+    <cell name="title">OECD MAGIC Database of Industrial Subsidies (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-06-01</cell>
     <cell name="embargo date">2026-06-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -3558,9 +3558,29 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da96bcff</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72c2055d</cell>
   </row>
   <row index="178">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/ce94f33b-en</cell>
+    <cell name="title">OECD MAGIC Database of Industrial Subsidies (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-06-01</cell>
+    <cell name="embargo date">2026-06-01T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e642d893</cell>
+  </row>
+  <row index="179">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3324cfee-en</cell>
     <cell name="title">The impact of the conflict in the Middle East on agricultural markets (en)</cell>
@@ -3580,7 +3600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6cb4fab0</cell>
   </row>
-  <row index="179">
+  <row index="180">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2d1956f0-en</cell>
     <cell name="title">OECD Economic Outlook, Volume 2026 Issue 1 (en)</cell>
@@ -3600,7 +3620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a856d03f</cell>
   </row>
-  <row index="180">
+  <row index="181">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/99ab9b0c-en</cell>
     <cell name="title">OECD Steel Outlook 2026 (en)</cell>
@@ -3620,7 +3640,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2ff6c06</cell>
   </row>
-  <row index="181">
+  <row index="182">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/f99a902d-fr</cell>
+    <cell name="title">Perspectives de l’acier de l’OCDE 2026 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-06-04</cell>
+    <cell name="embargo date">2026-06-04T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91321be0</cell>
+  </row>
+  <row index="183">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2514521c-en</cell>
     <cell name="title">OECD Economic Surveys: Estonia 2026 (en)</cell>
@@ -3640,7 +3680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6c60a1dd</cell>
   </row>
-  <row index="182">
+  <row index="184">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/79415c38-en</cell>
     <cell name="title">OECD Review on Aligning Finance with Climate Goals 2026 (en)</cell>
@@ -3660,7 +3700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5bb994f8</cell>
   </row>
-  <row index="183">
+  <row index="185">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/24939e6a-en</cell>
     <cell name="title">Anticipating and monitoring water risks for agriculture (en)</cell>
@@ -3680,7 +3720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8aeafbab</cell>
   </row>
-  <row index="184">
+  <row index="186">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a37305fa-en</cell>
     <cell name="title">Small credit, real impact (en)</cell>
@@ -3700,7 +3740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8418f8e</cell>
   </row>
-  <row index="185">
+  <row index="187">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/10379f9f-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye (en)</cell>
@@ -3720,7 +3760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c01a3080</cell>
   </row>
-  <row index="186">
+  <row index="188">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/8b6d7a9f-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Montenegro (en)</cell>
@@ -3740,7 +3780,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a7b63b1</cell>
   </row>
-  <row index="187">
+  <row index="189">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/9189105b-en</cell>
+    <cell name="title">OECD Economic Surveys: Slovenia 2026 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-06-16</cell>
+    <cell name="embargo date">2026-06-15T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5bb0d5d</cell>
+  </row>
+  <row index="190">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/d41817bb-en</cell>
     <cell name="title">Protecting Consumers from Financial Scams and Frauds (en)</cell>
@@ -3760,7 +3820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6003c45e</cell>
   </row>
-  <row index="188">
+  <row index="191">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/08f87bed-en</cell>
     <cell name="title">Asia Capital Markets Report 2026 (en)</cell>
@@ -3780,7 +3840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/348970ca</cell>
   </row>
-  <row index="189">
+  <row index="192">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/08f87bed-en</cell>
     <cell name="title">Asia Capital Markets Report 2026 (en)</cell>
@@ -3800,7 +3860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33fae299</cell>
   </row>
-  <row index="190">
+  <row index="193">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/c6e1f2ed-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Slovenia 2026 (en)</cell>
@@ -3820,7 +3880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15de860b</cell>
   </row>
-  <row index="191">
+  <row index="194">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/eeef2059-en</cell>
     <cell name="title">Infrastructure Policy Review of Ukraine (en)</cell>
@@ -3840,7 +3900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a106497</cell>
   </row>
-  <row index="192">
+  <row index="195">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6ad10075-en</cell>
     <cell name="title">Gender and trust in public institutions in Switzerland (en)</cell>
@@ -3860,7 +3920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b77e6d8b</cell>
   </row>
-  <row index="193">
+  <row index="196">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/a1b14188-en</cell>
     <cell name="title">Western Balkans Enterprise Survey (en)</cell>
@@ -3880,7 +3940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/505df8a4</cell>
   </row>
-  <row index="194">
+  <row index="197">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/2b15370f-en</cell>
     <cell name="title">OECD Responsible Business Outlook 2026 (en)</cell>
@@ -3900,7 +3960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f7fb30b</cell>
   </row>
-  <row index="195">
+  <row index="198">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c198a20f-en</cell>
     <cell name="title">Navigating Life with Low Literacy and Numeracy (en)</cell>
@@ -3920,7 +3980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d52bc4d3</cell>
   </row>
-  <row index="196">
+  <row index="199">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ab22c29c-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Albania (en)</cell>
@@ -3940,7 +4000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab62fafd</cell>
   </row>
-  <row index="197">
+  <row index="200">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/58c3689d-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia (en)</cell>
@@ -3960,7 +4020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/521a4c7b</cell>
   </row>
-  <row index="198">
+  <row index="201">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/846bbe2d-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Bosnia and Herzegovina (en)</cell>
@@ -3980,7 +4040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a4ace9f</cell>
   </row>
-  <row index="199">
+  <row index="202">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50f1e10d-en</cell>
     <cell name="title">Promoting the Development of the Semiconductor Ecosystem in Panama (en)</cell>
@@ -4000,7 +4060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d8d8bb7</cell>
   </row>
-  <row index="200">
+  <row index="203">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/7e710f54-en</cell>
     <cell name="title">OECD Employment Outlook 2026 (en)</cell>
@@ -4020,7 +4080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df9392ee</cell>
   </row>
-  <row index="201">
+  <row index="204">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/996a56eb-en</cell>
     <cell name="title">Job Creation and Local Economic Development 2026 (en)</cell>

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 18 May 2026 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 19 May 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Konkurences tirgus pētījums par tiešsaistes tirdzniecības vietām Polijā, Latvijā un Lietuvā](https://doi.org/10.1787/151e8a50-lv)
 
@@ -165,29 +165,6 @@ Tuesday 19 May 2026 at 7:00 | no launch event
 
 ------
 
-## [Quantifying industrial strategies across 20 OECD countries - Trends and priorities, 2019-2023](https://doi.org/10.1787/0e3ab6dd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ## [Cluster analysis of non-communicable disease burden, prevention and management across EU27+2 countries](https://doi.org/10.1787/eba334a3-en)
 
 Embargo date | Launch date
@@ -254,29 +231,6 @@ Thursday 21 May 2026 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Genre et confiance dans les institutions publiques en Suisse - Une analyse des determinants](https://doi.org/10.1787/12f84ae8-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
 
 ------
 
@@ -679,7 +633,7 @@ Monday 1 June 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -688,9 +642,9 @@ Monday 1 June 2026 at 9:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -758,6 +712,29 @@ Thursday 4 June 2026 at 7:00 | no launch event
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Perspectives de l’acier de l’OCDE 2026](https://doi.org/10.1787/f99a902d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 June 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -897,6 +874,29 @@ Monday 15 June 2026 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Slovenia 2026](https://doi.org/10.1787/9189105b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 June 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
