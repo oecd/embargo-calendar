@@ -2,11 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 19 May 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 20 May 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 May 2026](#18-may-2026)
 * [19 May 2026](#19-may-2026)
-* [20 May 2026](#20-may-2026)
 * [21 May 2026](#21-may-2026)
 * [22 May 2026](#22-may-2026)
 * [25 May 2026](#25-may-2026)
@@ -33,125 +31,6 @@ Data generated on | |
 * [6 July 2026](#6-july-2026)
 * [7 July 2026](#7-july-2026)
 * [15 July 2026](#15-july-2026)
-
-------
-
-# 18 May 2026
-
-## [Konkurences tirgus pētījums par tiešsaistes tirdzniecības vietām Polijā, Latvijā un Lietuvā](https://doi.org/10.1787/151e8a50-lv)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 May 2026 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Latvian*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Elektroninių prekyviečių konkurencijos Lenkijoje, Latvijoje ir Lietuvoje rinkos tyrimas](https://doi.org/10.1787/212d9959-lt)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 May 2026 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Lithuanian*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Étude de marché sur la concurrence dans le secteur des places de marché en ligne en Pologne, en Lettonie et en Lituanie](https://doi.org/10.1787/28ae4dd8-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 May 2026 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Badanie rynkowe dotyczące konkurencji między platformami handlu elektronicznego w Polsce, na Łotwie i Litwie](https://doi.org/10.1787/61846b1d-pl)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 May 2026 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Polish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Competition Market Study of Online Marketplaces in Poland, Latvia and Lithuania](https://doi.org/10.1787/3134e707-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 May 2026 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -205,56 +84,6 @@ Tuesday 19 May 2026 at 7:00 | no launch event
 
 ------
 
-# 20 May 2026
-
-## [Cluster analysis of non-communicable disease burden, prevention and management across EU27+2 countries](https://doi.org/10.1787/eba334a3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 20 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [What makes climate change mitigation policies work? - A meta-analysis of the empirical literature on policy effectiveness](https://doi.org/10.1787/642fbefe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 20 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *General Secretariat*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 21 May 2026
 
 ## [Climate Finance Provided and Mobilised by Developed Countries in 2013-2024](https://doi.org/10.1787/ab5eb9ad-en)
@@ -292,7 +121,7 @@ Friday 22 May 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -301,7 +130,7 @@ Friday 22 May 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
@@ -356,29 +185,6 @@ Friday 22 May 2026 at 8:30 | no launch event
 ------
 
 # 25 May 2026
-
-## [The OECD AI exposure measure - Mapping the OECD AI Capability Indicators to occupations](https://doi.org/10.1787/f3da0f0a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ## [Building a global dataset on state-owned enterprises](https://doi.org/10.1787/41a26c09-en)
 
