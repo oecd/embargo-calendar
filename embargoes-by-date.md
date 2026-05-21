@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 20 May 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 21 May 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 May 2026](#19-may-2026)
 * [21 May 2026](#21-may-2026)
 * [22 May 2026](#22-may-2026)
 * [25 May 2026](#25-may-2026)
@@ -13,6 +12,7 @@ Data generated on | |
 * [28 May 2026](#28-may-2026)
 * [31 May 2026](#31-may-2026)
 * [1 June 2026](#1-june-2026)
+* [2 June 2026](#2-june-2026)
 * [3 June 2026](#3-june-2026)
 * [4 June 2026](#4-june-2026)
 * [7 June 2026](#7-june-2026)
@@ -31,56 +31,6 @@ Data generated on | |
 * [6 July 2026](#6-july-2026)
 * [7 July 2026](#7-july-2026)
 * [15 July 2026](#15-july-2026)
-
-------
-
-# 19 May 2026
-
-## [Facilitating Trade in the Association of Southeast Asian Nations - Insights from Recent OECD Trade Facilitation Indicators Trends](https://doi.org/10.1787/71254407-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 May 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Digital Trade Review of the Association of Southeast Asian Nations](https://doi.org/10.1787/abd6f44a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 May 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -185,29 +135,6 @@ Friday 22 May 2026 at 8:30 | no launch event
 ------
 
 # 25 May 2026
-
-## [Building a global dataset on state-owned enterprises](https://doi.org/10.1787/41a26c09-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ## [Towards Chile’s Next Plan for Student Assessments](https://doi.org/10.1787/e703ddc4-en)
 
@@ -428,6 +355,29 @@ Thursday 28 May 2026 at 9:00 | no launch event
 
 ------
 
+## [Building a global dataset on state-owned enterprises](https://doi.org/10.1787/41a26c09-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 May 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 31 May 2026
@@ -530,7 +480,57 @@ Monday 1 June 2026 at 9:00 | no launch event
 
 ------
 
+# 2 June 2026
+
+## [The impact of population ageing on tax revenues in OECD countries](https://doi.org/10.1787/94cbc7e5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 June 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 3 June 2026
+
+## [OECD Economic Outlook, Volume 2026 Issue 1 - Not yet available](https://doi.org/10.1787/2d1956f0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 June 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
 
 ## [The impact of the conflict in the Middle East on agricultural markets](https://doi.org/10.1787/3324cfee-en)
 
@@ -551,29 +551,6 @@ Wednesday 3 June 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Outlook, Volume 2026 Issue 1 - Not yet available](https://doi.org/10.1787/2d1956f0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Issue*
 * Format: *PDF*
 
 ------
@@ -739,6 +716,29 @@ Sunday 14 June 2026 at 22:01 | no launch event
 ------
 
 # 15 June 2026
+
+## [Key chemical safety considerations for energy transition technology](https://doi.org/10.1787/d89aab7f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 June 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
 
 ## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
 
