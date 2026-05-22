@@ -2,12 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 May 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 22 May 2026 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [21 May 2026](#21-may-2026)
 * [22 May 2026](#22-may-2026)
 * [25 May 2026](#25-may-2026)
-* [26 May 2026](#26-may-2026)
 * [27 May 2026](#27-may-2026)
 * [28 May 2026](#28-may-2026)
 * [31 May 2026](#31-may-2026)
@@ -18,6 +17,7 @@ Data generated on | |
 * [7 June 2026](#7-june-2026)
 * [8 June 2026](#8-june-2026)
 * [9 June 2026](#9-june-2026)
+* [11 June 2026](#11-june-2026)
 * [14 June 2026](#14-june-2026)
 * [15 June 2026](#15-june-2026)
 * [16 June 2026](#16-june-2026)
@@ -28,6 +28,7 @@ Data generated on | |
 * [25 June 2026](#25-june-2026)
 * [30 June 2026](#30-june-2026)
 * [1 July 2026](#1-july-2026)
+* [2 July 2026](#2-july-2026)
 * [6 July 2026](#6-july-2026)
 * [7 July 2026](#7-july-2026)
 * [15 July 2026](#15-july-2026)
@@ -152,56 +153,6 @@ Monday 25 May 2026 at 22:01 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Economic regulation of water supply and sanitation services - Key trends and approaches](https://doi.org/10.1787/14514522-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 26 May 2026
-
-## [Towards international coherence of cybersecurity regulations](https://doi.org/10.1787/bd1f199a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
@@ -340,7 +291,7 @@ Thursday 28 May 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -349,7 +300,7 @@ Thursday 28 May 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -526,7 +477,7 @@ Wednesday 3 June 2026 at 7:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Issue*
 * Format: *PDF*
 
@@ -626,7 +577,7 @@ Sunday 7 June 2026 at 22:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -682,6 +633,33 @@ Tuesday 9 June 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 11 June 2026
+
+## [OECD Economic Surveys: Latvia 2026](https://doi.org/10.1787/34d15460-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 June 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
@@ -803,7 +781,7 @@ Monday 15 June 2026 at 22:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -920,6 +898,29 @@ Monday 22 June 2026 at 22:00 | no launch event
 ------
 
 # 24 June 2026
+
+## [OECD Economic Surveys: Slovak Republic 2026](https://doi.org/10.1787/ada964c8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
 
 ## [Gender and trust in public institutions in Switzerland - An analysis of the determinants](https://doi.org/10.1787/6ad10075-en)
 
@@ -1090,6 +1091,33 @@ Wednesday 1 July 2026 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 2 July 2026
+
+## [Promoting Social Connectedness Through Food](https://doi.org/10.1787/1fdd5254-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
