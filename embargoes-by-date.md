@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 22 May 2026 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 24 May 2026 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 May 2026](#21-may-2026)
-* [22 May 2026](#22-may-2026)
 * [25 May 2026](#25-may-2026)
 * [27 May 2026](#27-may-2026)
 * [28 May 2026](#28-may-2026)
@@ -32,106 +30,6 @@ Data generated on | |
 * [6 July 2026](#6-july-2026)
 * [7 July 2026](#7-july-2026)
 * [15 July 2026](#15-july-2026)
-
-------
-
-# 21 May 2026
-
-## [Climate Finance Provided and Mobilised by Developed Countries in 2013-2024](https://doi.org/10.1787/ab5eb9ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 May 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 22 May 2026
-
-## [Harnessing the global transformations to accelerate equality in Norway - OECD Scan](https://doi.org/10.1787/29d890e5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 May 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Austria 2026](https://doi.org/10.1787/520533a1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 May 2026 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD-Umweltprüfberichte: Österreich 2026 (gekürzte Fassung)](https://doi.org/10.1787/7c1f5d7d-de)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 May 2026 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
