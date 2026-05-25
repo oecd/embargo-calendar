@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 24 May 2026 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 25 May 2026 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Towards Chile’s Next Plan for Student Assessments](https://doi.org/10.1787/e703ddc4-en)
 
