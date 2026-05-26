@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 25 May 2026 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 26 May 2026 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Towards Chile’s Next Plan for Student Assessments](https://doi.org/10.1787/e703ddc4-en)
 
@@ -35,7 +35,7 @@ Wednesday 27 May 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -44,7 +44,7 @@ Wednesday 27 May 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -58,7 +58,7 @@ Wednesday 27 May 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -67,7 +67,7 @@ Wednesday 27 May 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -104,7 +104,7 @@ Wednesday 27 May 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -113,9 +113,9 @@ Wednesday 27 May 2026 at 8:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -219,7 +219,7 @@ Monday 1 June 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -228,7 +228,7 @@ Monday 1 June 2026 at 8:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -242,7 +242,7 @@ Monday 1 June 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -251,7 +251,7 @@ Monday 1 June 2026 at 8:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -399,7 +399,7 @@ Thursday 4 June 2026 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 7 June 2026 at 22:00 | no launch event
+Monday 8 June 2026 at 9:00 | no launch event
 
 ### Status Information
 
@@ -422,7 +422,7 @@ Sunday 7 June 2026 at 22:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 8 June 2026 at 7:00 | no launch event
+Tuesday 9 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
@@ -675,7 +675,7 @@ Thursday 18 June 2026 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 22 June 2026 at 22:00 | no launch event
+Sunday 21 June 2026 at 22:00 | no launch event
 
 ### Status Information
 

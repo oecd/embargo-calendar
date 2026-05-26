@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 25 May 2026 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 26 May 2026 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [25 May 2026](#25-may-2026)
 * [27 May 2026](#27-may-2026)
@@ -12,7 +12,6 @@ Data generated on | |
 * [2 June 2026](#2-june-2026)
 * [3 June 2026](#3-june-2026)
 * [4 June 2026](#4-june-2026)
-* [7 June 2026](#7-june-2026)
 * [8 June 2026](#8-june-2026)
 * [9 June 2026](#9-june-2026)
 * [11 June 2026](#11-june-2026)
@@ -21,7 +20,7 @@ Data generated on | |
 * [16 June 2026](#16-june-2026)
 * [17 June 2026](#17-june-2026)
 * [18 June 2026](#18-june-2026)
-* [22 June 2026](#22-june-2026)
+* [21 June 2026](#21-june-2026)
 * [24 June 2026](#24-june-2026)
 * [25 June 2026](#25-june-2026)
 * [30 June 2026](#30-june-2026)
@@ -70,7 +69,7 @@ Wednesday 27 May 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -79,7 +78,7 @@ Wednesday 27 May 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -93,7 +92,7 @@ Wednesday 27 May 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -102,7 +101,7 @@ Wednesday 27 May 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -139,7 +138,7 @@ Wednesday 27 May 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -148,9 +147,9 @@ Wednesday 27 May 2026 at 8:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -266,7 +265,7 @@ Monday 1 June 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -275,7 +274,7 @@ Monday 1 June 2026 at 8:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -289,7 +288,7 @@ Monday 1 June 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -298,7 +297,7 @@ Monday 1 June 2026 at 8:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -456,13 +455,13 @@ Thursday 4 June 2026 at 7:00 | no launch event
 
 ------
 
-# 7 June 2026
+# 8 June 2026
 
 ## [OECD Economic Surveys: Estonia 2026](https://doi.org/10.1787/2514521c-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 7 June 2026 at 22:00 | no launch event
+Monday 8 June 2026 at 9:00 | no launch event
 
 ### Status Information
 
@@ -483,13 +482,13 @@ Sunday 7 June 2026 at 22:00 | no launch event
 
 ------
 
-# 8 June 2026
+# 9 June 2026
 
 ## [OECD Review on Aligning Finance with Climate Goals 2026 - Different Policy Playbooks, Untapped Investment Opportunities](https://doi.org/10.1787/79415c38-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 8 June 2026 at 7:00 | no launch event
+Tuesday 9 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
@@ -507,10 +506,6 @@ Monday 8 June 2026 at 7:00 | no launch event
 * Format: *PDF*
 
 ------
-
-------
-
-# 9 June 2026
 
 ## [Anticipating and monitoring water risks for agriculture](https://doi.org/10.1787/24939e6a-en)
 
@@ -768,13 +763,13 @@ Thursday 18 June 2026 at 8:00 | no launch event
 
 ------
 
-# 22 June 2026
+# 21 June 2026
 
 ## [Infrastructure Policy Review of Ukraine](https://doi.org/10.1787/eeef2059-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 22 June 2026 at 22:00 | no launch event
+Sunday 21 June 2026 at 22:00 | no launch event
 
 ### Status Information
 
