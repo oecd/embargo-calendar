@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 26 May 2026 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Towards Chile’s Next Plan for Student Assessments](https://doi.org/10.1787/e703ddc4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
+| *Wednesday 27 May 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Restoring Public Finances - Enabling Effective Government](https://doi.org/10.1787/fbcf9161-en)
 
@@ -119,26 +96,49 @@ Wednesday 27 May 2026 at 8:00 | no launch event
 
 ------
 
-## [Public policy objectives of state-owned enterprises](https://doi.org/10.1787/d85445e4-en)
+## [Impôt sur les sociétés et dynamisme des entreprises](https://doi.org/10.1787/5869c06d-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 27 May 2026 at 22:01 | no launch event
+Wednesday 27 May 2026 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Corporate income taxation and business dynamism](https://doi.org/10.1787/59a40a50-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 May 2026 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -437,6 +437,29 @@ Tuesday 9 June 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Every Day Counts - Understanding, Preventing and Responding to School Attendance Problems](https://doi.org/10.1787/7c6f6c3e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 June 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
