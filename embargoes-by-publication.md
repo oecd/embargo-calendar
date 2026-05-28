@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 May 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 28 May 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Restoring Public Finances - Enabling Effective Government](https://doi.org/10.1787/fbcf9161-en)
 
@@ -165,29 +165,6 @@ Thursday 28 May 2026 at 9:00 | no launch event
 
 ------
 
-## [Building a global dataset on state-owned enterprises](https://doi.org/10.1787/41a26c09-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
 ## [Strengthening capital markets in Bosnia and Herzegovina](https://doi.org/10.1787/0b8fa0de-en)
 
 Embargo date | Launch date
@@ -288,7 +265,7 @@ Tuesday 2 June 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -297,13 +274,13 @@ Tuesday 2 June 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
 
-## [OECD Economic Outlook, Volume 2026 Issue 1 - Not yet available](https://doi.org/10.1787/2d1956f0-en)
+## [OECD Economic Outlook, Volume 2026 Issue 1 - Under Pressure](https://doi.org/10.1787/2d1956f0-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -334,7 +311,7 @@ Wednesday 3 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -343,7 +320,7 @@ Wednesday 3 June 2026 at 7:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
@@ -357,7 +334,7 @@ Thursday 4 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -366,9 +343,9 @@ Thursday 4 June 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -380,7 +357,7 @@ Thursday 4 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -389,9 +366,9 @@ Thursday 4 June 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -671,29 +648,6 @@ Wednesday 17 June 2026 at 21:30 | no launch event
 
 ------
 
-## [OECD Environmental Performance Reviews: Slovenia 2026](https://doi.org/10.1787/c6e1f2ed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 June 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Infrastructure Policy Review of Ukraine](https://doi.org/10.1787/eeef2059-en)
 
 Embargo date | Launch date
@@ -711,7 +665,7 @@ Sunday 21 June 2026 at 22:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -782,6 +736,29 @@ Thursday 25 June 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Slovenia 2026](https://doi.org/10.1787/c6e1f2ed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
