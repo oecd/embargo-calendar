@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-05-29T23:17:30.0195618+02:00">
+<report name="official-embargoes" generated="2026-05-31T23:14:39.2405154+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,26 +21,6 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/4377e89f-en</cell>
-    <cell name="title">Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2026) (en)</cell>
-    <cell name="subtitle">Inclusive Framework on BEPS (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2026-05-28</cell>
-    <cell name="embargo date">2026-05-28T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date">2026-05-28T21:41:24Z</cell>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/513eab5c</cell>
-  </row>
-  <row index="2">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/0b8fa0de-en</cell>
     <cell name="title">Strengthening capital markets in Bosnia and Herzegovina (en)</cell>
@@ -60,7 +40,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2392e12f</cell>
   </row>
-  <row index="3">
+  <row index="2">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ce94f33b-en</cell>
     <cell name="title">OECD MAGIC Database of Industrial Subsidies (en)</cell>
@@ -80,7 +60,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da96bcff</cell>
   </row>
-  <row index="4">
+  <row index="3">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ce94f33b-en</cell>
     <cell name="title">OECD MAGIC Database of Industrial Subsidies (en)</cell>
@@ -100,7 +80,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/343f107b</cell>
   </row>
-  <row index="5">
+  <row index="4">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ce94f33b-en</cell>
     <cell name="title">OECD MAGIC Database of Industrial Subsidies (en)</cell>
@@ -120,7 +100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72c2055d</cell>
   </row>
-  <row index="6">
+  <row index="5">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ce94f33b-en</cell>
     <cell name="title">OECD MAGIC Database of Industrial Subsidies (en)</cell>
@@ -140,7 +120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e642d893</cell>
   </row>
-  <row index="7">
+  <row index="6">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/94cbc7e5-en</cell>
     <cell name="title">The impact of population ageing on tax revenues in OECD countries (en)</cell>
@@ -160,7 +140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0821b2c1</cell>
   </row>
-  <row index="8">
+  <row index="7">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2d1956f0-en</cell>
     <cell name="title">OECD Economic Outlook, Volume 2026 Issue 1 (en)</cell>
@@ -180,7 +160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a856d03f</cell>
   </row>
-  <row index="9">
+  <row index="8">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3324cfee-en</cell>
     <cell name="title">The impact of the conflict in the Middle East on agricultural markets (en)</cell>
@@ -199,6 +179,26 @@
     <cell name="catalogue type">Working paper</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6cb4fab0</cell>
+  </row>
+  <row index="9">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/0688e261-fr</cell>
+    <cell name="title">Perspectives économiques de l'OCDE, Volume 2026 Numéro 1 (fr)</cell>
+    <cell name="subtitle">Sous pression (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-06-03</cell>
+    <cell name="embargo date">2026-06-03T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Issue</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccb3c71c</cell>
   </row>
   <row index="10">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>

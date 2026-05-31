@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 29 May 2026 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 31 May 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 May 2026](#28-may-2026)
 * [31 May 2026](#31-may-2026)
 * [1 June 2026](#1-june-2026)
 * [2 June 2026](#2-june-2026)
@@ -27,33 +26,6 @@ Data generated on | |
 * [6 July 2026](#6-july-2026)
 * [7 July 2026](#7-july-2026)
 * [15 July 2026](#15-july-2026)
-
-------
-
-# 28 May 2026
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2026) - Inclusive Framework on BEPS](https://doi.org/10.1787/4377e89f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 May 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -182,6 +154,29 @@ Wednesday 3 June 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Perspectives économiques de l'OCDE, Volume 2026 Numéro 1 - Sous pression](https://doi.org/10.1787/0688e261-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 June 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
 * Format: *PDF*
 
 ------
