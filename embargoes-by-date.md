@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 31 May 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 1 June 2026 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [31 May 2026](#31-may-2026)
 * [1 June 2026](#1-june-2026)
 * [2 June 2026](#2-june-2026)
 * [3 June 2026](#3-june-2026)
@@ -26,33 +25,6 @@ Data generated on | |
 * [6 July 2026](#6-july-2026)
 * [7 July 2026](#7-july-2026)
 * [15 July 2026](#15-july-2026)
-
-------
-
-# 31 May 2026
-
-## [Strengthening capital markets in Bosnia and Herzegovina](https://doi.org/10.1787/0b8fa0de-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 31 May 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -120,7 +92,7 @@ Wednesday 3 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -129,9 +101,9 @@ Wednesday 3 June 2026 at 7:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -175,7 +147,7 @@ Wednesday 3 June 2026 at 7:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Issue*
 * Format: *PDF*
 
@@ -270,7 +242,7 @@ Tuesday 9 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -279,9 +251,9 @@ Tuesday 9 June 2026 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -339,7 +311,7 @@ Tuesday 9 June 2026 at 22:01 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -348,7 +320,7 @@ Tuesday 9 June 2026 at 22:01 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
@@ -452,7 +424,7 @@ Monday 15 June 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Published*
+* Availability: *Not yet available*
 * Type of publication: *Policy brief*
 * Format: *PDF*
 
@@ -729,7 +701,7 @@ Tuesday 30 June 2026 at 10:30 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -756,7 +728,7 @@ Wednesday 1 July 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -852,7 +824,7 @@ Thursday 2 July 2026 at 13:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -879,7 +851,7 @@ Friday 3 July 2026 at 7:30 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
