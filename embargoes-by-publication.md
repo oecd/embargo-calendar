@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 1 June 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 2 June 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD MAGIC Database of Industrial Subsidies](https://doi.org/10.1787/ce94f33b-en)
 
@@ -104,7 +104,7 @@ Wednesday 3 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -113,9 +113,9 @@ Wednesday 3 June 2026 at 7:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -162,6 +162,29 @@ Thursday 4 June 2026 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Safe Pathways for Refugees – 2026 Update - OECD-UNHCR study on pathways used by refugees linked to family reunification, study programmes and labour mobility between 2019 and 2024](https://doi.org/10.1787/9f1cf74a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 June 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy brief*
+* Format: *PDF*
 
 ------
 
@@ -575,6 +598,29 @@ Thursday 25 June 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [OECD-FAO Agricultural Outlook 2026-2035](https://doi.org/10.1787/47874669-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2026 at 9:15 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------

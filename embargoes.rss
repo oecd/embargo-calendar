@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Mon, 01 Jun 2026 23:16:48 GMT</pubDate>
+      <pubDate>Tue, 02 Jun 2026 23:15:21 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -30,7 +30,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/94cbc7e5-en-d3e275</guid>
+         <guid isPermaLink="false">10.1787/94cbc7e5-en-d3e276</guid>
          <pubDate>Tue, 02 Jun 2026 11:00:00 GMT</pubDate>
          <title>The impact of population ageing on tax revenues in OECD countries</title>
          <link>https://doi.org/10.1787/94cbc7e5-en</link>
@@ -46,7 +46,7 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/2d1956f0-en-d3e806</guid>
+         <guid isPermaLink="false">10.1787/2d1956f0-en-d3e1386</guid>
          <pubDate>Wed, 03 Jun 2026 09:00:00 GMT</pubDate>
          <title>OECD Economic Outlook, Volume 2026 Issue 1 - Under Pressure</title>
          <link>https://doi.org/10.1787/2d1956f0-en</link>
@@ -62,7 +62,7 @@
          <oe:catalogueType>Issue</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/3324cfee-en-d3e1233</guid>
+         <guid isPermaLink="false">10.1787/3324cfee-en-d3e2286</guid>
          <pubDate>Wed, 03 Jun 2026 09:00:00 GMT</pubDate>
          <title>The impact of the conflict in the Middle East on agricultural markets</title>
          <link>https://doi.org/10.1787/3324cfee-en</link>
@@ -78,7 +78,7 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0688e261-fr-d3e2297</guid>
+         <guid isPermaLink="false">10.1787/0688e261-fr-d3e4137</guid>
          <pubDate>Wed, 03 Jun 2026 09:00:00 GMT</pubDate>
          <title>Perspectives économiques de l'OCDE, Volume 2026 Numéro 1 - Sous pression</title>
          <link>https://doi.org/10.1787/0688e261-fr</link>
@@ -87,14 +87,14 @@
          <oe:launchTime/>
          <oe:languages>French</oe:languages>
          <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
          <oe:oecdOrgExport/>
          <oe:catalogueType>Issue</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/99ab9b0c-en-d3e4211</guid>
+         <guid isPermaLink="false">10.1787/99ab9b0c-en-d3e7577</guid>
          <pubDate>Thu, 04 Jun 2026 09:00:00 GMT</pubDate>
          <title>OECD Steel Outlook 2026</title>
          <link>https://doi.org/10.1787/99ab9b0c-en</link>
@@ -110,7 +110,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/f99a902d-fr-d3e4317</guid>
+         <guid isPermaLink="false">10.1787/f99a902d-fr-d3e7683</guid>
          <pubDate>Thu, 04 Jun 2026 09:00:00 GMT</pubDate>
          <title>Perspectives de l’acier de l’OCDE 2026</title>
          <link>https://doi.org/10.1787/f99a902d-fr</link>
@@ -126,7 +126,23 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/2514521c-en-d3e5220</guid>
+         <guid isPermaLink="false">10.1787/9f1cf74a-en-d3e8586</guid>
+         <pubDate>Mon, 08 Jun 2026 10:00:00 GMT</pubDate>
+         <title>Safe Pathways for Refugees – 2026 Update - OECD-UNHCR study on pathways used by refugees linked to family reunification, study programmes and labour mobility between 2019 and 2024</title>
+         <link>https://doi.org/10.1787/9f1cf74a-en</link>
+         <description>Safe Pathways for Refugees – 2026 Update - OECD-UNHCR study on pathways used by refugees linked to family reunification, study programmes and labour mobility between 2019 and 2024 by Directorate for Employment, Labour and Social Affairs has an embargo on Monday 8 June 2026 at 10:00.</description>
+         <oe:embargoTime>Mon, 08 Jun 2026 10:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Policy brief</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/2514521c-en-d3e8640</guid>
          <pubDate>Mon, 08 Jun 2026 11:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Estonia 2026</title>
          <link>https://doi.org/10.1787/2514521c-en</link>
@@ -142,7 +158,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/79415c38-en-d3e5645</guid>
+         <guid isPermaLink="false">10.1787/79415c38-en-d3e9065</guid>
          <pubDate>Tue, 09 Jun 2026 09:00:00 GMT</pubDate>
          <title>OECD Review on Aligning Finance with Climate Goals 2026 - Different Policy Playbooks, Untapped Investment Opportunities</title>
          <link>https://doi.org/10.1787/79415c38-en</link>
@@ -158,7 +174,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/5737889a-en-d3e5914</guid>
+         <guid isPermaLink="false">10.1787/5737889a-en-d3e9334</guid>
          <pubDate>Tue, 09 Jun 2026 09:30:00 GMT</pubDate>
          <title>SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Kosovo</title>
          <link>https://doi.org/10.1787/5737889a-en</link>
@@ -174,7 +190,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/7c6f6c3e-en-d3e5967</guid>
+         <guid isPermaLink="false">10.1787/7c6f6c3e-en-d3e9387</guid>
          <pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
          <title>Every Day Counts - Understanding, Preventing and Responding to School Attendance Problems</title>
          <link>https://doi.org/10.1787/7c6f6c3e-en</link>
@@ -190,7 +206,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/24939e6a-en-d3e6021</guid>
+         <guid isPermaLink="false">10.1787/24939e6a-en-d3e9440</guid>
          <pubDate>Wed, 10 Jun 2026 00:01:00 GMT</pubDate>
          <title>Anticipating and monitoring water risks for agriculture</title>
          <link>https://doi.org/10.1787/24939e6a-en</link>
@@ -206,7 +222,7 @@
          <oe:catalogueType>Policy paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/f8e57052-en-d3e6074</guid>
+         <guid isPermaLink="false">10.1787/f8e57052-en-d3e9494</guid>
          <pubDate>Thu, 11 Jun 2026 09:30:00 GMT</pubDate>
          <title>SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for North Macedonia</title>
          <link>https://doi.org/10.1787/f8e57052-en</link>
@@ -222,7 +238,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/34d15460-en-d3e6127</guid>
+         <guid isPermaLink="false">10.1787/34d15460-en-d3e9547</guid>
          <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Latvia 2026</title>
          <link>https://doi.org/10.1787/34d15460-en</link>
@@ -238,7 +254,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a37305fa-en-d3e6179</guid>
+         <guid isPermaLink="false">10.1787/a37305fa-en-d3e9599</guid>
          <pubDate>Mon, 15 Jun 2026 00:01:00 GMT</pubDate>
          <title>Small credit, real impact - Lessons on Lazio’s Small Credit Fund</title>
          <link>https://doi.org/10.1787/a37305fa-en</link>
@@ -254,7 +270,7 @@
          <oe:catalogueType>Policy paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d89aab7f-en-d3e6232</guid>
+         <guid isPermaLink="false">10.1787/d89aab7f-en-d3e9652</guid>
          <pubDate>Mon, 15 Jun 2026 08:00:00 GMT</pubDate>
          <title>Key chemical safety considerations for energy transition technology</title>
          <link>https://doi.org/10.1787/d89aab7f-en</link>
@@ -270,7 +286,7 @@
          <oe:catalogueType>Policy brief</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9189105b-en-d3e6285</guid>
+         <guid isPermaLink="false">10.1787/9189105b-en-d3e9705</guid>
          <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Slovenia 2026</title>
          <link>https://doi.org/10.1787/9189105b-en</link>
@@ -286,7 +302,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d41817bb-en-d3e6338</guid>
+         <guid isPermaLink="false">10.1787/d41817bb-en-d3e9757</guid>
          <pubDate>Tue, 16 Jun 2026 09:00:00 GMT</pubDate>
          <title>Protecting Consumers from Financial Scams and Frauds</title>
          <link>https://doi.org/10.1787/d41817bb-en</link>
@@ -302,7 +318,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0fcdf3f5-fr-d3e6390</guid>
+         <guid isPermaLink="false">10.1787/0fcdf3f5-fr-d3e9810</guid>
          <pubDate>Thu, 18 Jun 2026 02:00:00 GMT</pubDate>
          <title>Rapport sur les marchés de capitaux en Asie 2026 (version abrégée)</title>
          <link>https://doi.org/10.1787/0fcdf3f5-fr</link>
@@ -318,7 +334,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/08f87bed-en-d3e6442</guid>
+         <guid isPermaLink="false">10.1787/08f87bed-en-d3e9862</guid>
          <pubDate>Thu, 18 Jun 2026 02:00:00 GMT</pubDate>
          <title>Asia Capital Markets Report 2026</title>
          <link>https://doi.org/10.1787/08f87bed-en</link>
@@ -334,7 +350,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/eeef2059-en-d3e6546</guid>
+         <guid isPermaLink="false">10.1787/eeef2059-en-d3e9966</guid>
          <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
          <title>Infrastructure Policy Review of Ukraine</title>
          <link>https://doi.org/10.1787/eeef2059-en</link>
@@ -350,7 +366,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/8b6d7a9f-en-d3e6598</guid>
+         <guid isPermaLink="false">10.1787/8b6d7a9f-en-d3e10018</guid>
          <pubDate>Wed, 24 Jun 2026 09:30:00 GMT</pubDate>
          <title>SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Montenegro</title>
          <link>https://doi.org/10.1787/8b6d7a9f-en</link>
@@ -366,7 +382,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/ada964c8-en-d3e6651</guid>
+         <guid isPermaLink="false">10.1787/ada964c8-en-d3e10070</guid>
          <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Slovak Republic 2026</title>
          <link>https://doi.org/10.1787/ada964c8-en</link>
@@ -382,7 +398,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/6ad10075-en-d3e6703</guid>
+         <guid isPermaLink="false">10.1787/6ad10075-en-d3e10123</guid>
          <pubDate>Thu, 25 Jun 2026 00:01:00 GMT</pubDate>
          <title>Gender and trust in public institutions in Switzerland - An analysis of the determinants</title>
          <link>https://doi.org/10.1787/6ad10075-en</link>
@@ -398,7 +414,7 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a1b14188-en-d3e6756</guid>
+         <guid isPermaLink="false">10.1787/a1b14188-en-d3e10176</guid>
          <pubDate>Fri, 26 Jun 2026 00:01:00 GMT</pubDate>
          <title>Western Balkans Enterprise Survey - Navigating the digital and green transformation</title>
          <link>https://doi.org/10.1787/a1b14188-en</link>
@@ -414,7 +430,23 @@
          <oe:catalogueType>Policy paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/c6e1f2ed-en-d3e6809</guid>
+         <guid isPermaLink="false">10.1787/47874669-en-d3e10229</guid>
+         <pubDate>Mon, 29 Jun 2026 11:15:00 GMT</pubDate>
+         <title>OECD-FAO Agricultural Outlook 2026-2035</title>
+         <link>https://doi.org/10.1787/47874669-en</link>
+         <description>OECD-FAO Agricultural Outlook 2026-2035 by Trade and Agriculture Directorate has an embargo on Monday 29 June 2026 at 11:15.</description>
+         <oe:embargoTime>Mon, 29 Jun 2026 11:15:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/c6e1f2ed-en-d3e10281</guid>
          <pubDate>Tue, 30 Jun 2026 10:00:00 GMT</pubDate>
          <title>OECD Environmental Performance Reviews: Slovenia 2026</title>
          <link>https://doi.org/10.1787/c6e1f2ed-en</link>
@@ -430,7 +462,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/2b15370f-en-d3e6861</guid>
+         <guid isPermaLink="false">10.1787/2b15370f-en-d3e10333</guid>
          <pubDate>Tue, 30 Jun 2026 12:30:00 GMT</pubDate>
          <title>OECD Responsible Business Outlook 2026 - Making Commitments Count</title>
          <link>https://doi.org/10.1787/2b15370f-en</link>
@@ -446,7 +478,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/c198a20f-en-d3e6914</guid>
+         <guid isPermaLink="false">10.1787/c198a20f-en-d3e10386</guid>
          <pubDate>Wed, 01 Jul 2026 09:00:00 GMT</pubDate>
          <title>Navigating Life with Low Literacy and Numeracy - New Results from the 2023 Survey of Adult Skills</title>
          <link>https://doi.org/10.1787/c198a20f-en</link>
@@ -462,7 +494,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/10379f9f-en-d3e6968</guid>
+         <guid isPermaLink="false">10.1787/10379f9f-en-d3e10440</guid>
          <pubDate>Wed, 01 Jul 2026 10:00:00 GMT</pubDate>
          <title>SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye</title>
          <link>https://doi.org/10.1787/10379f9f-en</link>
@@ -478,7 +510,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/58c3689d-en-d3e7020</guid>
+         <guid isPermaLink="false">10.1787/58c3689d-en-d3e10492</guid>
          <pubDate>Wed, 01 Jul 2026 10:00:00 GMT</pubDate>
          <title>SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia</title>
          <link>https://doi.org/10.1787/58c3689d-en</link>
@@ -494,7 +526,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/846bbe2d-en-d3e7072</guid>
+         <guid isPermaLink="false">10.1787/846bbe2d-en-d3e10544</guid>
          <pubDate>Wed, 01 Jul 2026 10:00:00 GMT</pubDate>
          <title>SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Bosnia and Herzegovina</title>
          <link>https://doi.org/10.1787/846bbe2d-en</link>
@@ -510,7 +542,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/1fdd5254-en-d3e7124</guid>
+         <guid isPermaLink="false">10.1787/1fdd5254-en-d3e10596</guid>
          <pubDate>Thu, 02 Jul 2026 15:00:00 GMT</pubDate>
          <title>Promoting Social Connectedness Through Food</title>
          <link>https://doi.org/10.1787/1fdd5254-en</link>
@@ -526,7 +558,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/ab22c29c-en-d3e7176</guid>
+         <guid isPermaLink="false">10.1787/ab22c29c-en-d3e10648</guid>
          <pubDate>Fri, 03 Jul 2026 09:30:00 GMT</pubDate>
          <title>SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Albania</title>
          <link>https://doi.org/10.1787/ab22c29c-en</link>
@@ -542,7 +574,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/50f1e10d-en-d3e7228</guid>
+         <guid isPermaLink="false">10.1787/50f1e10d-en-d3e10700</guid>
          <pubDate>Mon, 06 Jul 2026 08:00:00 GMT</pubDate>
          <title>Promoting the Development of the Semiconductor Ecosystem in Panama</title>
          <link>https://doi.org/10.1787/50f1e10d-en</link>
@@ -558,7 +590,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/7e710f54-en-d3e7281</guid>
+         <guid isPermaLink="false">10.1787/7e710f54-en-d3e10753</guid>
          <pubDate>Tue, 07 Jul 2026 14:00:00 GMT</pubDate>
          <title>OECD Employment Outlook 2026 - Geographic Disparities in Jobs and Incomes</title>
          <link>https://doi.org/10.1787/7e710f54-en</link>
@@ -574,7 +606,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/996a56eb-en-d3e7334</guid>
+         <guid isPermaLink="false">10.1787/996a56eb-en-d3e10806</guid>
          <pubDate>Wed, 15 Jul 2026 09:00:00 GMT</pubDate>
          <title>Job Creation and Local Economic Development 2026 - Global Trade, Local Jobs</title>
          <link>https://doi.org/10.1787/996a56eb-en</link>
