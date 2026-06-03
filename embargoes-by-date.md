@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 2 June 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 3 June 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [1 June 2026](#1-june-2026)
 * [2 June 2026](#2-june-2026)
 * [3 June 2026](#3-june-2026)
 * [4 June 2026](#4-june-2026)
 * [8 June 2026](#8-june-2026)
 * [9 June 2026](#9-june-2026)
+* [10 June 2026](#10-june-2026)
 * [11 June 2026](#11-june-2026)
 * [14 June 2026](#14-june-2026)
 * [15 June 2026](#15-june-2026)
@@ -26,33 +26,6 @@ Data generated on | |
 * [6 July 2026](#6-july-2026)
 * [7 July 2026](#7-july-2026)
 * [15 July 2026](#15-july-2026)
-
-------
-
-# 1 June 2026
-
-## [OECD MAGIC Database of Industrial Subsidies](https://doi.org/10.1787/ce94f33b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 1 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -312,7 +285,7 @@ Tuesday 9 June 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -346,6 +319,33 @@ Tuesday 9 June 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 10 June 2026
+
+## [National defence spending and regional spillovers](https://doi.org/10.1787/ee995d88-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 June 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------

@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 2 June 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD MAGIC Database of Industrial Subsidies](https://doi.org/10.1787/ce94f33b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 1 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 3 June 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The impact of population ageing on tax revenues in OECD countries](https://doi.org/10.1787/94cbc7e5-en)
 
@@ -265,7 +242,7 @@ Tuesday 9 June 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -299,6 +276,29 @@ Tuesday 9 June 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [National defence spending and regional spillovers](https://doi.org/10.1787/ee995d88-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 June 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
