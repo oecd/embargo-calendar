@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 3 June 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The impact of population ageing on tax revenues in OECD countries](https://doi.org/10.1787/94cbc7e5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Thursday 4 June 2026 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Volume 2026 Issue 1 - Under Pressure](https://doi.org/10.1787/2d1956f0-en)
 
@@ -146,7 +123,7 @@ Thursday 4 June 2026 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 8 June 2026 at 8:00 | no launch event
+Friday 5 June 2026 at 13:00 | no launch event
 
 ### Status Information
 
@@ -159,7 +136,7 @@ Monday 8 June 2026 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy brief*
 * Format: *PDF*
 
@@ -173,7 +150,7 @@ Monday 8 June 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -182,7 +159,7 @@ Monday 8 June 2026 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -510,6 +487,29 @@ Sunday 21 June 2026 at 22:00 | no launch event
 
 ------
 
+## [Огляд інфраструктурної політики України](https://doi.org/10.1787/63ccff08-uk)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 June 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Ukrainian*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Montenegro](https://doi.org/10.1787/8b6d7a9f-en)
 
 Embargo date | Launch date
@@ -528,6 +528,29 @@ Wednesday 24 June 2026 at 7:30 | no launch event
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Building Quality Education and Care for Children under Three - Further Results from TALIS Starting Strong 2024](https://doi.org/10.1787/5d960dfd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2026 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -618,6 +641,29 @@ Monday 29 June 2026 at 9:15 | no launch event
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Revenue Statistics in Asia and the Pacific 2026 - Taxing Informal and Hard-to-Tax Sectors](https://doi.org/10.1787/065aa566-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
