@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 June 2026 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 5 June 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 June 2026](#3-june-2026)
 * [4 June 2026](#4-june-2026)
 * [5 June 2026](#5-june-2026)
 * [8 June 2026](#8-june-2026)
@@ -27,79 +26,6 @@ Data generated on | |
 * [6 July 2026](#6-july-2026)
 * [7 July 2026](#7-july-2026)
 * [15 July 2026](#15-july-2026)
-
-------
-
-# 3 June 2026
-
-## [OECD Economic Outlook, Volume 2026 Issue 1 - Under Pressure](https://doi.org/10.1787/2d1956f0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 June 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [The impact of the conflict in the Middle East on agricultural markets](https://doi.org/10.1787/3324cfee-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 June 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Volume 2026 Numéro 1 - Sous pression](https://doi.org/10.1787/0688e261-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 June 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -732,6 +658,29 @@ Monday 29 June 2026 at 9:15 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Results of the 2025 OECD Survey on Drivers of Trust in Public Institutions - Navigating Rising Expectations and New Horizons](https://doi.org/10.1787/9eb63fec-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
