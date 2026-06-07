@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 June 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 7 June 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 June 2026](#4-june-2026)
-* [5 June 2026](#5-june-2026)
 * [8 June 2026](#8-june-2026)
 * [9 June 2026](#9-june-2026)
 * [10 June 2026](#10-june-2026)
@@ -26,83 +24,6 @@ Data generated on | |
 * [6 July 2026](#6-july-2026)
 * [7 July 2026](#7-july-2026)
 * [15 July 2026](#15-july-2026)
-
-------
-
-# 4 June 2026
-
-## [OECD Steel Outlook 2026](https://doi.org/10.1787/99ab9b0c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 June 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives de l’acier de l’OCDE 2026](https://doi.org/10.1787/f99a902d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 June 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 5 June 2026
-
-## [Safe Pathways for Refugees – 2026 Update - OECD-UNHCR study on pathways used by refugees linked to family reunification, study programmes and labour mobility between 2019 and 2024](https://doi.org/10.1787/9f1cf74a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 June 2026 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
 
 ------
 

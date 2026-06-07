@@ -2,133 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/99ab9b0c-end3e434
-SUMMARY:[Book] OECD Steel Outlook 2026
-DESCRIPTION:*[Book] OECD Steel Outlook 2026*\n\nDire
- ctorate: Directorate for Science, Techno
- logy and Industry\nLanguage: English\nDO
- I: https://doi.org/10.1787/99ab9b0c-en\n
- Publication type: Book\nReleased as: HTM
- L, Paperback, PDF, ZJCR, ZXML\n\nEmbargo
-  date/time: Thursday, 4 June 2026, 7:00 
- (GMT)\n\n\niLibrary export: never\nFreep
- review export: never\nOECD.org export: n
- ever\nFTI loaded: ✓\n\nFor more informat
- ion see: https://oecd.github.io/embargo-
- calendar/embargoes-by-publication.html.\
- n\nPlease note: This information was cor
- rect as of this afternoon at 23:14, it i
- s updated each night; therefore any subs
- equent updates may not yet be visible he
- re. Also, please be aware that the diffe
- rent released media (PDF, HTML, etc.) ar
- e not necessarily released at the same t
- ime. For complete and up-to-date informa
- tion see here: http://kappa.oecd.org/v3/
- search?term=99ab9b0c-en.
-DTSTAMP:20260605T231454Z
-DTSTART:20260604T070000Z
-DTEND:20260604T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] OECD Steel Outlook 2026
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/f99a902d-frd3e541
-SUMMARY:[Book] Perspectives de l’acier de l’OCDE
-  2026
-DESCRIPTION:*[Book] Perspectives de l’acier de l’OCD
- E 2026*\n\nDirectorate: Directorate for 
- Science, Technology and Industry\nLangua
- ge: French\nDOI: https://doi.org/10.1787
- /f99a902d-fr\nPublication type: Book\nRe
- leased as: HTML, Paperback, PDF, ZJCR, Z
- XML\n\nEmbargo date/time: Thursday, 4 Ju
- ne 2026, 7:00 (GMT)\n\n\niLibrary export
- : never\nFreepreview export: never\nOECD
- .org export: never\nFTI loaded: ✓\n\nFor
-  more information see: https://oecd.gith
- ub.io/embargo-calendar/embargoes-by-publ
- ication.html.\n\nPlease note: This infor
- mation was correct as of this afternoon 
- at 23:14, it is updated each night; ther
- efore any subsequent updates may not yet
-  be visible here. Also, please be aware 
- that the different released media (PDF, 
- HTML, etc.) are not necessarily released
-  at the same time. For complete and up-t
- o-date information see here: http://kapp
- a.oecd.org/v3/search?term=f99a902d-fr.
-DTSTAMP:20260605T231454Z
-DTSTART:20260604T070000Z
-DTEND:20260604T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Perspectives de l’acier
-  de l’OCDE 2026
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9f1cf74a-end3e1445
-SUMMARY:[Policy brief] Safe Pathways for Refugee
- s – 2026 Update - OECD-UNHCR study on pa
- thways used by refugees linked to family
-  reunification, study programmes and lab
- our mobility between 2019 and 2024
-DESCRIPTION:*[Policy brief] Safe Pathways for Refuge
- es – 2026 Update - OECD-UNHCR study on p
- athways used by refugees linked to famil
- y reunification, study programmes and la
- bour mobility between 2019 and 2024*\n\n
- Directorate: Directorate for Employment,
-  Labour and Social Affairs\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/9f1c
- f74a-en\nPublication type: Policy brief\
- nReleased as: PDF\n\nEmbargo date/time: 
- Friday, 5 June 2026, 13:00 (GMT)\n\n\niL
- ibrary export: never\nFreepreview export
- : never\nOECD.org export: never\nFTI loa
- ded: ✓\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 23:14, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=9
- f1cf74a-en.
-DTSTAMP:20260605T231454Z
-DTSTART:20260605T130000Z
-DTEND:20260605T131500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Policy brief] Safe Pathways f
- or Refugees – 2026 Update - OECD-UNHCR s
- tudy on pathways used by refugees linked
-  to family reunification, study programm
- es and labour mobility between 2019 and 
- 2024
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/2514521c-end3e1499
+UID:10.1787/2514521c-end3e63
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Estonia 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -152,7 +26,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=2514521c-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260608T090000Z
 DTEND:20260608T091500Z
 TRANSP:TRANSPARENT
@@ -166,7 +40,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/79415c38-end3e1926
+UID:10.1787/79415c38-end3e489
 SUMMARY:[Book] OECD Review on Aligning Finance w
  ith Climate Goals 2026 - Different Polic
  y Playbooks, Untapped Investment Opportu
@@ -195,7 +69,7 @@ DESCRIPTION:*[Book] OECD Review on Aligning Finance
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=79415c38-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260609T070000Z
 DTEND:20260609T071500Z
 TRANSP:TRANSPARENT
@@ -211,7 +85,7 @@ DESCRIPTION:Reminder: [Book] OECD Review on Aligning
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5737889a-end3e2195
+UID:10.1787/5737889a-end3e758
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Kosovo
@@ -238,7 +112,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=573
  7889a-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260609T073000Z
 DTEND:20260609T074500Z
 TRANSP:TRANSPARENT
@@ -253,7 +127,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7c6f6c3e-end3e2514
+UID:10.1787/7c6f6c3e-end3e1077
 SUMMARY:[Stand-alone monograph] Every Day Counts
   - Understanding, Preventing and Respond
  ing to School Attendance Problems
@@ -281,7 +155,7 @@ DESCRIPTION:*[Stand-alone monograph] Every Day Count
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=7c6f6c3e-e
  n.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260609T080000Z
 DTEND:20260609T081500Z
 TRANSP:TRANSPARENT
@@ -297,7 +171,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Every
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/24939e6a-end3e2780
+UID:10.1787/24939e6a-end3e1344
 SUMMARY:[Policy paper] Anticipating and monitori
  ng water risks for agriculture
 DESCRIPTION:*[Policy paper] Anticipating and monitor
@@ -322,7 +196,7 @@ DESCRIPTION:*[Policy paper] Anticipating and monitor
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=24939e6a-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260609T220100Z
 DTEND:20260609T221600Z
 TRANSP:TRANSPARENT
@@ -336,7 +210,7 @@ DESCRIPTION:Reminder: [Policy paper] Anticipating an
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ee995d88-end3e2834
+UID:10.1787/ee995d88-end3e1397
 SUMMARY:[Working paper] National defence spendin
  g and regional spillovers
 DESCRIPTION:*[Working paper] National defence spendi
@@ -361,7 +235,7 @@ DESCRIPTION:*[Working paper] National defence spendi
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=ee995d88-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260610T090000Z
 DTEND:20260610T091500Z
 TRANSP:TRANSPARENT
@@ -375,7 +249,7 @@ DESCRIPTION:Reminder: [Working paper] National defen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f8e57052-end3e2886
+UID:10.1787/f8e57052-end3e1449
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or North Macedonia
@@ -402,7 +276,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=f8e57052-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260611T073000Z
 DTEND:20260611T074500Z
 TRANSP:TRANSPARENT
@@ -417,7 +291,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/34d15460-end3e2939
+UID:10.1787/34d15460-end3e1502
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Latvia 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -442,7 +316,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=34d15460-e
  n.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260611T220000Z
 DTEND:20260611T221500Z
 TRANSP:TRANSPARENT
@@ -456,7 +330,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a37305fa-end3e2991
+UID:10.1787/a37305fa-end3e1555
 SUMMARY:[Policy paper] Small credit, real impact
   - Lessons on Lazio’s Small Credit Fund
 DESCRIPTION:*[Policy paper] Small credit, real impac
@@ -482,7 +356,7 @@ DESCRIPTION:*[Policy paper] Small credit, real impac
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=a37305fa-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260614T220100Z
 DTEND:20260614T221600Z
 TRANSP:TRANSPARENT
@@ -497,7 +371,7 @@ DESCRIPTION:Reminder: [Policy paper] Small credit, r
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d89aab7f-end3e3044
+UID:10.1787/d89aab7f-end3e1608
 SUMMARY:[Policy brief] Key chemical safety consi
  derations for energy transition technolo
  gy
@@ -523,7 +397,7 @@ DESCRIPTION:*[Policy brief] Key chemical safety cons
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=d89aab7f-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260615T060000Z
 DTEND:20260615T061500Z
 TRANSP:TRANSPARENT
@@ -538,7 +412,7 @@ DESCRIPTION:Reminder: [Policy brief] Key chemical sa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9189105b-end3e3097
+UID:10.1787/9189105b-end3e1661
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Slovenia 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -563,7 +437,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=9189105b-e
  n.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260615T220000Z
 DTEND:20260615T221500Z
 TRANSP:TRANSPARENT
@@ -577,7 +451,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d41817bb-end3e3150
+UID:10.1787/d41817bb-end3e1713
 SUMMARY:[Stand-alone monograph] Protecting Consu
  mers from Financial Scams and Frauds
 DESCRIPTION:*[Stand-alone monograph] Protecting Cons
@@ -603,7 +477,7 @@ DESCRIPTION:*[Stand-alone monograph] Protecting Cons
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=d41817bb-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260616T070000Z
 DTEND:20260616T071500Z
 TRANSP:TRANSPARENT
@@ -618,7 +492,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Protec
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0fcdf3f5-frd3e3202
+UID:10.1787/0fcdf3f5-frd3e1765
 SUMMARY:[Book] Rapport sur les marchés de capita
  ux en Asie 2026 (version abrégée)
 DESCRIPTION:*[Book] Rapport sur les marchés de capit
@@ -643,7 +517,7 @@ DESCRIPTION:*[Book] Rapport sur les marchés de capit
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=0fcdf3f5-fr.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260618T000000Z
 DTEND:20260618T001500Z
 TRANSP:TRANSPARENT
@@ -658,7 +532,7 @@ DESCRIPTION:Reminder: [Book] Rapport sur les marchés
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/08f87bed-end3e3254
+UID:10.1787/08f87bed-end3e1817
 SUMMARY:[Book] Asia Capital Markets Report 2026
 DESCRIPTION:*[Book] Asia Capital Markets Report 2026
  *\n\nDirectorate: Directorate for Financ
@@ -682,7 +556,7 @@ DESCRIPTION:*[Book] Asia Capital Markets Report 2026
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=08f87bed-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260618T000000Z
 DTEND:20260618T001500Z
 TRANSP:TRANSPARENT
@@ -696,7 +570,7 @@ DESCRIPTION:Reminder: [Book] Asia Capital Markets Re
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eeef2059-end3e3358
+UID:10.1787/eeef2059-end3e1922
 SUMMARY:[Stand-alone monograph] Infrastructure P
  olicy Review of Ukraine
 DESCRIPTION:*[Stand-alone monograph] Infrastructure 
@@ -721,7 +595,7 @@ DESCRIPTION:*[Stand-alone monograph] Infrastructure
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=eeef2059-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260621T220000Z
 DTEND:20260621T221500Z
 TRANSP:TRANSPARENT
@@ -735,7 +609,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Infras
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/63ccff08-ukd3e3410
+UID:10.1787/63ccff08-ukd3e1974
 SUMMARY:[Stand-alone monograph] Огляд інфраструк
  турної політики України
 DESCRIPTION:*[Stand-alone monograph] Огляд інфрастру
@@ -760,7 +634,7 @@ DESCRIPTION:*[Stand-alone monograph] Огляд інфрастру
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=63ccff08-uk.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260622T220000Z
 DTEND:20260622T221500Z
 TRANSP:TRANSPARENT
@@ -774,7 +648,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Огляд
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8b6d7a9f-end3e3463
+UID:10.1787/8b6d7a9f-end3e2026
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Montenegro
@@ -801,7 +675,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=8b6d7a9f-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260624T073000Z
 DTEND:20260624T074500Z
 TRANSP:TRANSPARENT
@@ -816,7 +690,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5d960dfd-end3e3515
+UID:10.1787/5d960dfd-end3e2078
 SUMMARY:[Book] Building Quality Education and Ca
  re for Children under Three - Further Re
  sults from TALIS Starting Strong 2024
@@ -843,7 +717,7 @@ DESCRIPTION:*[Book] Building Quality Education and C
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=5d960dfd-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260624T110000Z
 DTEND:20260624T111500Z
 TRANSP:TRANSPARENT
@@ -859,7 +733,7 @@ DESCRIPTION:Reminder: [Book] Building Quality Educat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ada964c8-end3e3568
+UID:10.1787/ada964c8-end3e2131
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Slovak Republic 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -884,7 +758,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  ada964c8-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260624T220000Z
 DTEND:20260624T221500Z
 TRANSP:TRANSPARENT
@@ -898,7 +772,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6ad10075-end3e3620
+UID:10.1787/6ad10075-end3e2184
 SUMMARY:[Working paper] Gender and trust in publ
  ic institutions in Switzerland - An anal
  ysis of the determinants
@@ -925,7 +799,7 @@ DESCRIPTION:*[Working paper] Gender and trust in pub
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=6ad10075-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260624T220100Z
 DTEND:20260624T221600Z
 TRANSP:TRANSPARENT
@@ -940,7 +814,7 @@ DESCRIPTION:Reminder: [Working paper] Gender and tru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a1b14188-end3e3673
+UID:10.1787/a1b14188-end3e2237
 SUMMARY:[Policy paper] Western Balkans Enterpris
  e Survey - Navigating the digital and gr
  een transformation
@@ -967,7 +841,7 @@ DESCRIPTION:*[Policy paper] Western Balkans Enterpri
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=a1b14188-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260625T220100Z
 DTEND:20260625T221600Z
 TRANSP:TRANSPARENT
@@ -982,7 +856,7 @@ DESCRIPTION:Reminder: [Policy paper] Western Balkans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/47874669-end3e3726
+UID:10.1787/47874669-end3e2290
 SUMMARY:[Book] OECD-FAO Agricultural Outlook 202
  6-2035
 DESCRIPTION:*[Book] OECD-FAO Agricultural Outlook 20
@@ -1006,7 +880,7 @@ DESCRIPTION:*[Book] OECD-FAO Agricultural Outlook 20
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=47874669-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260629T091500Z
 DTEND:20260629T093000Z
 TRANSP:TRANSPARENT
@@ -1020,7 +894,7 @@ DESCRIPTION:Reminder: [Book] OECD-FAO Agricultural O
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9eb63fec-end3e3779
+UID:10.1787/9eb63fec-end3e2342
 SUMMARY:[Stand-alone monograph] Results of the 2
  025 OECD Survey on Drivers of Trust in P
  ublic Institutions - Navigating Rising E
@@ -1049,7 +923,7 @@ DESCRIPTION:*[Stand-alone monograph] Results of the
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=9eb63fec-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1065,7 +939,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Result
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/065aa566-end3e3832
+UID:10.1787/065aa566-end3e2395
 SUMMARY:[Book] Revenue Statistics in Asia and th
  e Pacific 2026 - Taxing Informal and Har
  d-to-Tax Sectors
@@ -1092,7 +966,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Asia and t
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =065aa566-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260630T013000Z
 DTEND:20260630T014500Z
 TRANSP:TRANSPARENT
@@ -1107,7 +981,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics in A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c6e1f2ed-end3e3885
+UID:10.1787/c6e1f2ed-end3e2448
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Slovenia 2026
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -1131,7 +1005,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=c6e1f2ed-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260630T080000Z
 DTEND:20260630T081500Z
 TRANSP:TRANSPARENT
@@ -1145,7 +1019,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2b15370f-end3e3937
+UID:10.1787/2b15370f-end3e2501
 SUMMARY:[Stand-alone monograph] OECD Responsible
   Business Outlook 2026 - Making Commitme
  nts Count
@@ -1172,7 +1046,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Responsibl
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=2b15370f-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260630T103000Z
 DTEND:20260630T104500Z
 TRANSP:TRANSPARENT
@@ -1187,7 +1061,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD R
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c198a20f-end3e3990
+UID:10.1787/c198a20f-end3e2554
 SUMMARY:[Book] Navigating Life with Low Literacy
   and Numeracy - New Results from the 202
  3 Survey of Adult Skills
@@ -1214,7 +1088,7 @@ DESCRIPTION:*[Book] Navigating Life with Low Literac
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=c198a20f-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260701T070000Z
 DTEND:20260701T071500Z
 TRANSP:TRANSPARENT
@@ -1229,7 +1103,7 @@ DESCRIPTION:Reminder: [Book] Navigating Life with Lo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/10379f9f-end3e4043
+UID:10.1787/10379f9f-end3e2607
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Türkiye
@@ -1256,7 +1130,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  10379f9f-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260701T080000Z
 DTEND:20260701T081500Z
 TRANSP:TRANSPARENT
@@ -1271,7 +1145,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/58c3689d-end3e4096
+UID:10.1787/58c3689d-end3e2659
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Serbia
@@ -1298,7 +1172,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=5
  8c3689d-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260701T080000Z
 DTEND:20260701T081500Z
 TRANSP:TRANSPARENT
@@ -1313,7 +1187,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/846bbe2d-end3e4148
+UID:10.1787/846bbe2d-end3e2711
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Bosnia and Herzegovina
@@ -1340,7 +1214,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=846bbe2d-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260701T080000Z
 DTEND:20260701T081500Z
 TRANSP:TRANSPARENT
@@ -1355,7 +1229,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1fdd5254-end3e4200
+UID:10.1787/1fdd5254-end3e2763
 SUMMARY:[Stand-alone monograph] Promoting Social
   Connectedness Through Food
 DESCRIPTION:*[Stand-alone monograph] Promoting Socia
@@ -1381,7 +1255,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting Socia
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=1fdd5254-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260702T130000Z
 DTEND:20260702T131500Z
 TRANSP:TRANSPARENT
@@ -1395,7 +1269,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab22c29c-end3e4252
+UID:10.1787/ab22c29c-end3e2816
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Albania
@@ -1422,7 +1296,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=ab2
  2c29c-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260703T073000Z
 DTEND:20260703T074500Z
 TRANSP:TRANSPARENT
@@ -1437,7 +1311,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50f1e10d-end3e4304
+UID:10.1787/50f1e10d-end3e2868
 SUMMARY:[Stand-alone monograph] Promoting the De
  velopment of the Semiconductor Ecosystem
   in Panama
@@ -1464,7 +1338,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=50f1e10d-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260706T060000Z
 DTEND:20260706T061500Z
 TRANSP:TRANSPARENT
@@ -1479,7 +1353,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7e710f54-end3e4356
+UID:10.1787/7e710f54-end3e2920
 SUMMARY:[Book] OECD Employment Outlook 2026 - Ge
  ographic Disparities in Jobs and Incomes
 DESCRIPTION:*[Book] OECD Employment Outlook 2026 - G
@@ -1505,7 +1379,7 @@ DESCRIPTION:*[Book] OECD Employment Outlook 2026 - G
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=7e
  710f54-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260707T120000Z
 DTEND:20260707T121500Z
 TRANSP:TRANSPARENT
@@ -1520,7 +1394,7 @@ DESCRIPTION:Reminder: [Book] OECD Employment Outlook
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/996a56eb-end3e4410
+UID:10.1787/996a56eb-end3e2973
 SUMMARY:[Book] Job Creation and Local Economic D
  evelopment 2026 - Global Trade, Local Jo
  bs
@@ -1547,7 +1421,7 @@ DESCRIPTION:*[Book] Job Creation and Local Economic
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=996a56eb-en.
-DTSTAMP:20260605T231454Z
+DTSTAMP:20260607T231449Z
 DTSTART:20260715T070000Z
 DTEND:20260715T071500Z
 TRANSP:TRANSPARENT

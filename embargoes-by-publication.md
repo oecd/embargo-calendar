@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 June 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Steel Outlook 2026](https://doi.org/10.1787/99ab9b0c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 June 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives de l’acier de l’OCDE 2026](https://doi.org/10.1787/f99a902d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 June 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Safe Pathways for Refugees – 2026 Update - OECD-UNHCR study on pathways used by refugees linked to family reunification, study programmes and labour mobility between 2019 and 2024](https://doi.org/10.1787/9f1cf74a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 June 2026 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
+| *Sunday 7 June 2026 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Estonia 2026](https://doi.org/10.1787/2514521c-en)
 
