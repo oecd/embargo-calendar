@@ -2,15 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 7 June 2026 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 8 June 2026 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [8 June 2026](#8-june-2026)
 * [9 June 2026](#9-june-2026)
 * [10 June 2026](#10-june-2026)
 * [11 June 2026](#11-june-2026)
+* [12 June 2026](#12-june-2026)
 * [14 June 2026](#14-june-2026)
 * [15 June 2026](#15-june-2026)
 * [16 June 2026](#16-june-2026)
+* [17 June 2026](#17-june-2026)
 * [18 June 2026](#18-june-2026)
 * [21 June 2026](#21-june-2026)
 * [22 June 2026](#22-june-2026)
@@ -24,6 +26,9 @@ Data generated on | |
 * [6 July 2026](#6-july-2026)
 * [7 July 2026](#7-july-2026)
 * [15 July 2026](#15-july-2026)
+* [22 September 2026](#22-september-2026)
+* [8 October 2026](#8-october-2026)
+* [20 October 2026](#20-october-2026)
 
 ------
 
@@ -79,6 +84,29 @@ Tuesday 9 June 2026 at 7:00 | no launch event
 
 ------
 
+## [Rapport d’examen de l’OCDE sur l’alignement de la finance avec les objectifs climatiques 2026 (version abrégée) - Différentes combinaisons de politiques publiques et des opportunités d'investissements inexploitées](https://doi.org/10.1787/63e3ef38-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 June 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Kosovo](https://doi.org/10.1787/5737889a-en)
 
 Embargo date | Launch date
@@ -119,9 +147,9 @@ Tuesday 9 June 2026 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -152,7 +180,7 @@ Tuesday 9 June 2026 at 22:01 | no launch event
 
 # 10 June 2026
 
-## [National defence spending and regional spillovers](https://doi.org/10.1787/ee995d88-en)
+## [Implications of increased defence spending for subnational governments](https://doi.org/10.1787/ee995d88-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -202,11 +230,15 @@ Thursday 11 June 2026 at 7:30 | no launch event
 
 ------
 
+------
+
+# 12 June 2026
+
 ## [OECD Economic Surveys: Latvia 2026](https://doi.org/10.1787/34d15460-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 11 June 2026 at 22:00 | no launch event
+Friday 12 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
@@ -219,7 +251,7 @@ Thursday 11 June 2026 at 22:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -331,6 +363,125 @@ Tuesday 16 June 2026 at 7:00 | no launch event
 
 ------
 
+# 17 June 2026
+
+## [Advancing inclusive growth in cities for people at risk of poverty or social exclusion](https://doi.org/10.1787/6f975539-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Unlocking the potential of intermediary cities for regional development in Most, Czechia](https://doi.org/10.1787/fe024be7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Unlocking the potential of intermediary cities for regional development in Brindisi, Italy](https://doi.org/10.1787/b3a6ab2c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Advancing inclusive growth in cities for youth](https://doi.org/10.1787/6d11961d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Advancing inclusive growth in cities for people with a migrant background](https://doi.org/10.1787/e5054af1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 18 June 2026
 
 ## [Rapport sur les marchés de capitaux en Asie 2026 (version abrégée)](https://doi.org/10.1787/0fcdf3f5-fr)
@@ -376,6 +527,75 @@ Thursday 18 June 2026 at 0:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Tax Inspectors Without Borders Annual Report 2026](https://doi.org/10.1787/22fc5338-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 June 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Quantifying the impact of a personal income tax reform on tax revenues, growth and inequality in Hungary](https://doi.org/10.1787/f5c8c874-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Cybersecurity and geopolitical risks in financial markets](https://doi.org/10.1787/1002b1fd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
@@ -433,6 +653,29 @@ Monday 22 June 2026 at 22:00 | no launch event
 
 ------
 
+## [Rebooting Veneto’s competitiveness through productivity growth](https://doi.org/10.1787/a4320f5c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 24 June 2026
@@ -477,7 +720,7 @@ Wednesday 24 June 2026 at 11:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -577,7 +820,7 @@ Monday 29 June 2026 at 9:15 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -606,6 +849,29 @@ Monday 29 June 2026 at 12:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: France 2026](https://doi.org/10.1787/e88a1716-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ------
 
 # 30 June 2026
@@ -627,7 +893,7 @@ Tuesday 30 June 2026 at 1:30 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -701,75 +967,6 @@ Wednesday 1 July 2026 at 7:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 1 July 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia](https://doi.org/10.1787/58c3689d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 1 July 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Bosnia and Herzegovina](https://doi.org/10.1787/846bbe2d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 1 July 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -877,7 +1074,7 @@ Tuesday 7 July 2026 at 12:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -905,6 +1102,87 @@ Wednesday 15 July 2026 at 7:00 | no launch event
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 22 September 2026
+
+## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 September 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 8 October 2026
+
+## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia](https://doi.org/10.1787/58c3689d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 October 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 20 October 2026
+
+## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Bosnia and Herzegovina](https://doi.org/10.1787/846bbe2d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 20 October 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
