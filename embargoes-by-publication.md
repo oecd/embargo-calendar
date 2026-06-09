@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 8 June 2026 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 9 June 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Estonia 2026](https://doi.org/10.1787/2514521c-en)
 
@@ -58,7 +58,7 @@ Tuesday 9 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -67,9 +67,9 @@ Tuesday 9 June 2026 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -150,7 +150,7 @@ Wednesday 10 June 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -159,7 +159,7 @@ Wednesday 10 June 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
@@ -196,7 +196,7 @@ Friday 12 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -205,7 +205,7 @@ Friday 12 June 2026 at 7:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -288,7 +288,7 @@ Tuesday 16 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -297,9 +297,9 @@ Tuesday 16 June 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -556,6 +556,75 @@ Sunday 21 June 2026 at 22:00 | no launch event
 
 ------
 
+## [Exploring financing mechanisms for Ukraine’s infrastructure reconstruction](https://doi.org/10.1787/380300a9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 June 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
+## [Model Tax Convention on Income and on Capital 2025 (Full Version) - Volumes I and II](https://doi.org/10.1787/db32e18b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 June 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Model Tax Convention on Income and on Capital 2025 (Condensed Version)](https://doi.org/10.1787/fc44d951-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 June 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Огляд інфраструктурної політики України](https://doi.org/10.1787/63ccff08-uk)
 
 Embargo date | Launch date
@@ -573,7 +642,7 @@ Monday 22 June 2026 at 22:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Ukrainian*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -610,7 +679,7 @@ Wednesday 24 June 2026 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -619,7 +688,7 @@ Wednesday 24 June 2026 at 7:30 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -740,6 +809,29 @@ Monday 29 June 2026 at 9:15 | no launch event
 
 ------
 
+## [Perspective agricoles de l’OCDE et de la FAO 2026-2035](https://doi.org/10.1787/414a618b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2026 at 9:15 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Results of the 2025 OECD Survey on Drivers of Trust in Public Institutions - Navigating Rising Expectations and New Horizons](https://doi.org/10.1787/9eb63fec-en)
 
 Embargo date | Launch date
@@ -759,6 +851,29 @@ Monday 29 June 2026 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Études économiques de l'OCDE : France 2026](https://doi.org/10.1787/65cc698e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
@@ -878,6 +993,29 @@ Wednesday 1 July 2026 at 7:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Korea 2026](https://doi.org/10.1787/6b87f585-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [Promoting Social Connectedness Through Food](https://doi.org/10.1787/1fdd5254-en)
 
 Embargo date | Launch date
@@ -947,6 +1085,52 @@ Monday 6 July 2026 at 6:00 | no launch event
 
 ------
 
+## [OECD Anti-Bribery Convention Phase 4 Report on the Slovak Republic - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/2d21fffd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 July 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Anti-Bribery Convention Phase 4 Report on Latvia - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/f8066478-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 July 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [OECD Employment Outlook 2026 - Geographic Disparities in Jobs and Incomes](https://doi.org/10.1787/7e710f54-en)
 
 Embargo date | Launch date
@@ -970,11 +1154,11 @@ Tuesday 7 July 2026 at 12:00 | no launch event
 
 ------
 
-## [Job Creation and Local Economic Development 2026 - Global Trade, Local Jobs](https://doi.org/10.1787/996a56eb-en)
+## [Bridging the Gaps for Sustainable Development - Coherent Policies for Water, Energy, Industry and Cities](https://doi.org/10.1787/d6b60ea7-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 15 July 2026 at 7:00 | no launch event
+Wednesday 15 July 2026 at 15:00 | no launch event
 
 ### Status Information
 
@@ -985,10 +1169,10 @@ Wednesday 15 July 2026 at 7:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
