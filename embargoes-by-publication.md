@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 9 June 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Estonia 2026](https://doi.org/10.1787/2514521c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Wednesday 10 June 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Review on Aligning Finance with Climate Goals 2026 - Different Policy Playbooks, Untapped Investment Opportunities](https://doi.org/10.1787/79415c38-en)
 
@@ -257,11 +234,11 @@ Monday 15 June 2026 at 6:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Slovenia 2026](https://doi.org/10.1787/9189105b-en)
+## [Perspectives de l’administration numérique 2026 - Des fondations à un impact transformateur](https://doi.org/10.1787/a2f7a6b4-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 15 June 2026 at 22:00 | no launch event
+Monday 15 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
@@ -272,10 +249,33 @@ Monday 15 June 2026 at 22:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Digital Government Outlook 2026 - From Foundations to Transformational Impact](https://doi.org/10.1787/0496b2bc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 June 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Economic survey*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -300,6 +300,29 @@ Tuesday 16 June 2026 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Economic Surveys: Slovenia 2026](https://doi.org/10.1787/9189105b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 June 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -435,7 +458,7 @@ Thursday 18 June 2026 at 0:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -468,7 +491,7 @@ Thursday 18 June 2026 at 0:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 18 June 2026 at 9:00 | no launch event
+Thursday 18 June 2026 at 14:00 | no launch event
 
 ### Status Information
 
@@ -483,29 +506,6 @@ Thursday 18 June 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Quantifying the impact of a personal income tax reform on tax revenues, growth and inequality in Hungary](https://doi.org/10.1787/f5c8c874-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -648,29 +648,6 @@ Monday 22 June 2026 at 22:00 | no launch event
 
 ------
 
-## [Rebooting Veneto’s competitiveness through productivity growth](https://doi.org/10.1787/a4320f5c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Montenegro](https://doi.org/10.1787/8b6d7a9f-en)
 
 Embargo date | Launch date
@@ -759,6 +736,29 @@ Wednesday 24 June 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Rebooting Veneto’s competitiveness through productivity growth](https://doi.org/10.1787/a4320f5c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -1104,6 +1104,29 @@ Tuesday 7 July 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Corporate Tax Statistics 2026](https://doi.org/10.1787/73af6222-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 July 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
