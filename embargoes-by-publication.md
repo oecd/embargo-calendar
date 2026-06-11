@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 June 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Review on Aligning Finance with Climate Goals 2026 - Different Policy Playbooks, Untapped Investment Opportunities](https://doi.org/10.1787/79415c38-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 June 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Rapport d’examen de l’OCDE sur l’alignement de la finance avec les objectifs climatiques 2026 (version abrégée) - Différentes combinaisons de politiques publiques et des opportunités d'investissements inexploitées](https://doi.org/10.1787/63e3ef38-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 June 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Kosovo](https://doi.org/10.1787/5737889a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 June 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Every Day Counts - Understanding, Preventing and Responding to School Attendance Problems](https://doi.org/10.1787/7c6f6c3e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 June 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Thursday 11 June 2026 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Anticipating and monitoring water risks for agriculture](https://doi.org/10.1787/24939e6a-en)
 
@@ -159,7 +67,7 @@ Thursday 11 June 2026 at 7:30 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Published*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -242,7 +150,7 @@ Monday 15 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -251,9 +159,9 @@ Monday 15 June 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -265,7 +173,7 @@ Monday 15 June 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -274,9 +182,9 @@ Monday 15 June 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -472,7 +380,7 @@ Thursday 18 June 2026 at 0:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -481,9 +389,9 @@ Thursday 18 June 2026 at 0:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -541,7 +449,7 @@ Sunday 21 June 2026 at 22:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -550,7 +458,30 @@ Sunday 21 June 2026 at 22:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Огляд інфраструктурної політики України](https://doi.org/10.1787/63ccff08-uk)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 21 June 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Ukrainian*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -621,29 +552,6 @@ Monday 22 June 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Огляд інфраструктурної політики України](https://doi.org/10.1787/63ccff08-uk)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 June 2026 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Ukrainian*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -1012,6 +920,29 @@ Thursday 2 July 2026 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Policies for the Future of Farming and Food in Switzerland](https://doi.org/10.1787/55cf64da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
