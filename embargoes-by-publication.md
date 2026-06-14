@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 12 June 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for North Macedonia](https://doi.org/10.1787/f8e57052-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 June 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Latvia 2026](https://doi.org/10.1787/34d15460-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 12 June 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Sunday 14 June 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Key chemical safety considerations for energy transition technology](https://doi.org/10.1787/d89aab7f-en)
 

@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 12 June 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 14 June 2026 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 June 2026](#11-june-2026)
-* [12 June 2026](#12-june-2026)
 * [15 June 2026](#15-june-2026)
 * [16 June 2026](#16-june-2026)
 * [17 June 2026](#17-june-2026)
@@ -25,60 +23,6 @@ Data generated on | |
 * [22 September 2026](#22-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
-
-------
-
-# 11 June 2026
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for North Macedonia](https://doi.org/10.1787/f8e57052-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 June 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 12 June 2026
-
-## [OECD Economic Surveys: Latvia 2026](https://doi.org/10.1787/34d15460-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 12 June 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
