@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 15 June 2026 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 16 June 2026 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 June 2026](#15-june-2026)
 * [16 June 2026](#16-june-2026)
@@ -3419,53 +3419,7 @@ Wednesday 17 June 2026 at 9:00 | no launch event
 
 ------
 
-## [Advancing inclusive growth in cities for people at risk of poverty or social exclusion](https://doi.org/10.1787/6f975539-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 17 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ## [Unlocking the potential of intermediary cities for regional development in Most, Czechia](https://doi.org/10.1787/fe024be7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 17 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Unlocking the potential of intermediary cities for regional development in Brindisi, Italy](https://doi.org/10.1787/b3a6ab2c-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -3592,7 +3546,7 @@ Thursday 18 June 2026 at 0:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -3601,9 +3555,9 @@ Thursday 18 June 2026 at 0:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -3627,75 +3581,6 @@ Thursday 18 June 2026 at 0:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Tax Inspectors Without Borders Annual Report 2026](https://doi.org/10.1787/22fc5338-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 June 2026 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Inspecteurs des impôts sans frontières rapport annuel 2026](https://doi.org/10.1787/ab495d07-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 June 2026 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Inspectores fiscales sin fronteras informe anual 2026](https://doi.org/10.1787/496bfa97-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 June 2026 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
 
 ------
 
@@ -3941,6 +3826,75 @@ Wednesday 24 June 2026 at 11:00 | no launch event
 
 ------
 
+## [Tax Inspectors Without Borders Annual Report 2026](https://doi.org/10.1787/22fc5338-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2026 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Inspecteurs des impôts sans frontières rapport annuel 2026](https://doi.org/10.1787/ab495d07-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2026 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Inspectores fiscales sin fronteras informe anual 2026](https://doi.org/10.1787/496bfa97-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 June 2026 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Slovak Republic 2026](https://doi.org/10.1787/ada964c8-en)
 
 Embargo date | Launch date
@@ -4040,6 +3994,29 @@ Thursday 25 June 2026 at 22:01 | no launch event
 ------
 
 # 29 June 2026
+
+## [Revisiting local tax attribution under central control - A synthesis](https://doi.org/10.1787/36878835-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [OECD-FAO Agricultural Outlook 2026-2035](https://doi.org/10.1787/47874669-en)
 
@@ -4252,6 +4229,29 @@ Tuesday 30 June 2026 at 8:00 | no launch event
 
 ------
 
+## [Investment tax incentives in Latin America and the Caribbean - An analysis using effective tax rates](https://doi.org/10.1787/45b5f9a1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Responsible Business Outlook 2026 - Making Commitments Count](https://doi.org/10.1787/2b15370f-en)
 
 Embargo date | Launch date
@@ -4270,6 +4270,29 @@ Tuesday 30 June 2026 at 10:00 | no launch event
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Perspectives de l’OCDE sur la conduite responsable des entreprises 2026 (version abrégée)](https://doi.org/10.1787/94cbdf3a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -4455,6 +4478,29 @@ Monday 6 July 2026 at 9:00 | no launch event
 ------
 
 # 7 July 2026
+
+## [Skills in the AI age](https://doi.org/10.1787/972bd15e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 July 2026 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Anti-Bribery Convention Phase 4 Report on the Slovak Republic - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/2d21fffd-en)
 
