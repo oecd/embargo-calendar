@@ -2,15 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 18 June 2026 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 19 June 2026 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [17 June 2026](#17-june-2026)
 * [18 June 2026](#18-june-2026)
-* [21 June 2026](#21-june-2026)
 * [22 June 2026](#22-june-2026)
 * [24 June 2026](#24-june-2026)
 * [25 June 2026](#25-june-2026)
-* [26 June 2026](#26-june-2026)
 * [29 June 2026](#29-june-2026)
 * [30 June 2026](#30-june-2026)
 * [1 July 2026](#1-july-2026)
@@ -18,62 +15,13 @@ Data generated on | |
 * [3 July 2026](#3-july-2026)
 * [6 July 2026](#6-july-2026)
 * [7 July 2026](#7-july-2026)
+* [13 July 2026](#13-july-2026)
 * [15 July 2026](#15-july-2026)
 * [16 July 2026](#16-july-2026)
 * [21 July 2026](#21-july-2026)
 * [22 September 2026](#22-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
-
-------
-
-# 17 June 2026
-
-## [OECD Economic Surveys: Norway 2026](https://doi.org/10.1787/5cc02644-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 17 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [ODA projections for 2026 and the near-term - Implications for vulnerable countries and sectors](https://doi.org/10.1787/d7c74fa2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 17 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -125,59 +73,32 @@ Thursday 18 June 2026 at 0:00 | no launch event
 
 ------
 
-## [Towards a measurement framework for people-centred justice systems](https://doi.org/10.1787/f4c9dccb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 21 June 2026
-
-## [Adapting infrastructure to changing climatic conditions: The case of transport infrastructure in Mongolia](https://doi.org/10.1787/b1d7abb4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 21 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ------
 
 # 22 June 2026
+
+## [Дослідження механізмів фінансування відновлення інфраструктури України](https://doi.org/10.1787/349197a6-uk)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 June 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Ukrainian*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
 
 ## [Exploring financing mechanisms for Ukraine’s infrastructure reconstruction](https://doi.org/10.1787/380300a9-en)
 
@@ -196,9 +117,9 @@ Monday 22 June 2026 at 22:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy brief*
-* Format: *PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -321,98 +242,6 @@ Wednesday 24 June 2026 at 7:30 | no launch event
 
 ------
 
-## [Building Quality Education and Care for Children under Three - Further Results from TALIS Starting Strong 2024](https://doi.org/10.1787/5d960dfd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 June 2026 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Tax Inspectors Without Borders Annual Report 2026](https://doi.org/10.1787/22fc5338-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 June 2026 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Inspecteurs des impôts sans frontières rapport annuel 2026](https://doi.org/10.1787/ab495d07-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 June 2026 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Inspectores fiscales sin fronteras informe anual 2026](https://doi.org/10.1787/496bfa97-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 June 2026 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ## [Gender and trust in public institutions in Switzerland - An analysis of the determinants](https://doi.org/10.1787/6ad10075-en)
 
 Embargo date | Launch date
@@ -463,29 +292,6 @@ Thursday 25 June 2026 at 12:00 | no launch event
 
 ------
 
-## [Rebooting Veneto’s competitiveness through productivity growth](https://doi.org/10.1787/a4320f5c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ## [Western Balkans Enterprise Survey - Navigating the digital and green transition](https://doi.org/10.1787/a1b14188-en)
 
 Embargo date | Launch date
@@ -505,56 +311,6 @@ Thursday 25 June 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 26 June 2026
-
-## [Model Tax Convention on Income and on Capital 2025 (Full Version) - Volumes I and II](https://doi.org/10.1787/db32e18b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Model Tax Convention on Income and on Capital 2025 (Condensed Version)](https://doi.org/10.1787/fc44d951-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -649,6 +405,29 @@ Monday 29 June 2026 at 12:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Résultats de l’enquête 2025 de l’OCDE sur les déterminants de la confiance dans les institutions publiques - Des attentes croissantes, de nouveaux horizons](https://doi.org/10.1787/f1cdd038-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
@@ -828,7 +607,7 @@ Tuesday 30 June 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -837,9 +616,9 @@ Tuesday 30 June 2026 at 10:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -851,7 +630,7 @@ Tuesday 30 June 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -860,9 +639,9 @@ Tuesday 30 June 2026 at 10:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -943,6 +722,52 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 ------
 
+## [Tax Inspectors Without Borders Annual Report 2026](https://doi.org/10.1787/22fc5338-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Inspecteurs des impôts sans frontières rapport annuel 2026](https://doi.org/10.1787/ab495d07-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Promoting Social Connectedness Through Food](https://doi.org/10.1787/1fdd5254-en)
 
 Embargo date | Launch date
@@ -962,6 +787,29 @@ Thursday 2 July 2026 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Inspectores fiscales sin fronteras informe anual 2026](https://doi.org/10.1787/496bfa97-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -1132,6 +980,56 @@ Tuesday 7 July 2026 at 12:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 13 July 2026
+
+## [Model Tax Convention on Income and on Capital 2025 (Full Version) - Volumes I and II](https://doi.org/10.1787/db32e18b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 July 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Model Tax Convention on Income and on Capital 2025 (Condensed Version)](https://doi.org/10.1787/fc44d951-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 July 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
