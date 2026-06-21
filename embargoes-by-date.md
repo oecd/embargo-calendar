@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 19 June 2026 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 21 June 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 June 2026](#18-june-2026)
 * [22 June 2026](#22-june-2026)
 * [24 June 2026](#24-june-2026)
 * [25 June 2026](#25-june-2026)
@@ -22,56 +21,6 @@ Data generated on | |
 * [22 September 2026](#22-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
-
-------
-
-# 18 June 2026
-
-## [Rapport sur les marchés de capitaux en Asie 2026 (version abrégée)](https://doi.org/10.1787/0fcdf3f5-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 June 2026 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Asia Capital Markets Report 2026](https://doi.org/10.1787/08f87bed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 June 2026 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 

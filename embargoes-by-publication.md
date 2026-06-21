@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 19 June 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Rapport sur les marchés de capitaux en Asie 2026 (version abrégée)](https://doi.org/10.1787/0fcdf3f5-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 June 2026 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Asia Capital Markets Report 2026](https://doi.org/10.1787/08f87bed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 June 2026 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 21 June 2026 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Дослідження механізмів фінансування відновлення інфраструктури України](https://doi.org/10.1787/349197a6-uk)
 
