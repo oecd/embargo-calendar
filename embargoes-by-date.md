@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 21 June 2026 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 23 June 2026 at 0:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 June 2026](#22-june-2026)
 * [24 June 2026](#24-june-2026)
 * [25 June 2026](#25-june-2026)
+* [28 June 2026](#28-june-2026)
 * [29 June 2026](#29-june-2026)
 * [30 June 2026](#30-june-2026)
 * [1 July 2026](#1-july-2026)
@@ -226,7 +227,7 @@ Thursday 25 June 2026 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -235,9 +236,32 @@ Thursday 25 June 2026 at 12:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *HTML, Paperback, PDF*
+
+------
+
+## [Leveraging AI and digital tools for SME sustainable finance](https://doi.org/10.1787/e8fb0d10-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
@@ -260,6 +284,33 @@ Thursday 25 June 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 28 June 2026
+
+## [The regulation of non-compete clauses across OECD countries](https://doi.org/10.1787/88e3eb6e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 28 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -337,7 +388,7 @@ Monday 29 June 2026 at 9:15 | no launch event
 
 ------
 
-## [Results of the 2025 OECD Survey on Drivers of Trust in Public Institutions - Navigating Rising Expectations and New Horizons](https://doi.org/10.1787/9eb63fec-en)
+## [OECD Survey on Drivers of Trust in Public Institutions 2026 Results - Navigating Rising Expectations and New Horizons](https://doi.org/10.1787/9eb63fec-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -360,7 +411,7 @@ Monday 29 June 2026 at 12:00 | no launch event
 
 ------
 
-## [Résultats de l’enquête 2025 de l’OCDE sur les déterminants de la confiance dans les institutions publiques - Des attentes croissantes, de nouveaux horizons](https://doi.org/10.1787/f1cdd038-fr)
+## [Résultats 2026 de l’enquête de l’OCDE sur les déterminants de la confiance dans les institutions publiques - Des attentes croissantes, de nouveaux horizons](https://doi.org/10.1787/f1cdd038-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -425,6 +476,29 @@ Monday 29 June 2026 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Geographic disparities in service accessibility in Estonia and the Netherlands - How transport modes, proximity and capacity shape accessibility across cities, towns and rural areas](https://doi.org/10.1787/63b9abef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -633,7 +707,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -642,7 +716,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -725,7 +799,7 @@ Thursday 2 July 2026 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -734,9 +808,9 @@ Thursday 2 July 2026 at 13:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -775,7 +849,7 @@ Friday 3 July 2026 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -784,7 +858,7 @@ Friday 3 July 2026 at 7:30 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -936,6 +1010,29 @@ Tuesday 7 July 2026 at 12:00 | no launch event
 
 ------
 
+## [Enhancing adolescent social and emotional well-being through a gender-sensitive approach](https://doi.org/10.1787/00ebd3dd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 July 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 13 July 2026
@@ -1036,6 +1133,29 @@ Wednesday 15 July 2026 at 15:00 | no launch event
 
 ------
 
+## [Enforcement data of the OECD Anti Bribery Convention 1999-2025](https://doi.org/10.1787/dad01040-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 July 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
 ------
 
 # 16 July 2026
@@ -1057,7 +1177,7 @@ Thursday 16 July 2026 at 6:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
