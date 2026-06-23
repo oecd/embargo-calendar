@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 23 June 2026 at 0:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 23 June 2026 at 23:57* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 June 2026](#22-june-2026)
 * [24 June 2026](#24-june-2026)
@@ -19,6 +19,7 @@ Data generated on | |
 * [15 July 2026](#15-july-2026)
 * [16 July 2026](#16-july-2026)
 * [21 July 2026](#21-july-2026)
+* [31 August 2026](#31-august-2026)
 * [22 September 2026](#22-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
@@ -192,29 +193,6 @@ Wednesday 24 June 2026 at 7:30 | no launch event
 
 ------
 
-## [Gender and trust in public institutions in Switzerland - An analysis of the determinants](https://doi.org/10.1787/6ad10075-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
 ------
 
 # 25 June 2026
@@ -239,52 +217,6 @@ Thursday 25 June 2026 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *HTML, Paperback, PDF*
-
-------
-
-## [Leveraging AI and digital tools for SME sustainable finance](https://doi.org/10.1787/e8fb0d10-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Western Balkans Enterprise Survey - Navigating the digital and green transition](https://doi.org/10.1787/a1b14188-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
 
 ------
 
@@ -396,7 +328,7 @@ Monday 29 June 2026 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -405,9 +337,9 @@ Monday 29 June 2026 at 12:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -428,9 +360,9 @@ Monday 29 June 2026 at 12:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -561,7 +493,7 @@ Tuesday 30 June 2026 at 1:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -570,32 +502,9 @@ Tuesday 30 June 2026 at 1:30 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Slovenia 2026](https://doi.org/10.1787/c6e1f2ed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -680,7 +589,7 @@ Wednesday 1 July 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -689,15 +598,38 @@ Wednesday 1 July 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
 ------
 
 # 2 July 2026
+
+## [Essai n° 446A : Essai par gènes rapporteurs ToxTracker de caractérisation du danger de génotoxicité et des mécanismes d’action génotoxiques et non génotoxiques](https://doi.org/10.1787/2c40644b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Surveys: Korea 2026](https://doi.org/10.1787/6b87f585-en)
 
@@ -742,6 +674,167 @@ Thursday 2 July 2026 at 6:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Essai n° 322 : Mesure de la solubilité et de la vitesse de dissolution des nanomatériaux à des fins d’évaluation de leur devenir dans l’environnement](https://doi.org/10.1787/ee35ce99-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Essai n° 255 : Bourdon (Bombus spp.), essai de toxicité chronique par voie orale (10 jours)](https://doi.org/10.1787/b57280b0-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Essai n° 127 : Détermination de l’empoussièrement des matériaux contenant des nano-objets ainsi que leurs agrégats et agglomérats](https://doi.org/10.1787/7486ad6c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Essai n° 256 : Détermination des effets des produits chimiques sur les vers de terre (Oligochaeta, Annelida) dans le cadre d’études en plein champ](https://doi.org/10.1787/942262f6-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Essai n° 445A : Détermination de l’induction de l’activité des enzymes cytochromes P450 (CYP) au moyen de cellules hépatiques humaines différenciées](https://doi.org/10.1787/d7951126-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Essai n° 454A : Essai de transactivation du récepteur des glucocorticoïdes humain - Essai pour la détection de l’activité agoniste et antagoniste des produits chimiques sur récepteur des glucocorticoïdes](https://doi.org/10.1787/a3172aef-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Promoting Social Connectedness Through Food](https://doi.org/10.1787/1fdd5254-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -791,29 +884,6 @@ Thursday 2 July 2026 at 13:00 | no launch event
 
 ------
 
-## [Promoting Social Connectedness Through Food](https://doi.org/10.1787/1fdd5254-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 July 2026 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
 ## [Inspectores fiscales sin fronteras informe anual 2026](https://doi.org/10.1787/496bfa97-es)
 
 Embargo date | Launch date
@@ -840,6 +910,29 @@ Thursday 2 July 2026 at 13:00 | no launch event
 ------
 
 # 3 July 2026
+
+## [A Review of Greek Emigrants](https://doi.org/10.1787/729f06a5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 July 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
 
 ## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Albania](https://doi.org/10.1787/ab22c29c-en)
 
@@ -1183,6 +1276,29 @@ Thursday 16 July 2026 at 6:00 | no launch event
 
 ------
 
+## [Gender and trust in public institutions in Switzerland - An analysis of the determinants](https://doi.org/10.1787/6ad10075-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 July 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 21 July 2026
@@ -1206,6 +1322,33 @@ Tuesday 21 July 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 31 August 2026
+
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, August 2026)](https://doi.org/10.1787/8af2444d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 August 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
