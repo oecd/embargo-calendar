@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 24 June 2026 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 25 June 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 June 2026](#22-june-2026)
 * [24 June 2026](#24-june-2026)
 * [25 June 2026](#25-june-2026)
 * [28 June 2026](#28-june-2026)
@@ -23,148 +22,6 @@ Data generated on | |
 * [22 September 2026](#22-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
-
-------
-
-# 22 June 2026
-
-## [Дослідження механізмів фінансування відновлення інфраструктури України](https://doi.org/10.1787/349197a6-uk)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 June 2026 at 22:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Ukrainian*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Exploring financing mechanisms for Ukraine’s infrastructure reconstruction](https://doi.org/10.1787/380300a9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 June 2026 at 22:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [OECD Justice Review of Ukraine - Delivering Better Justice Outcomes for People](https://doi.org/10.1787/7fb886a3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Infrastructure Policy Review of Ukraine](https://doi.org/10.1787/eeef2059-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Огляд інфраструктурної політики України](https://doi.org/10.1787/63ccff08-uk)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Ukrainian*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Public Governance Review of Ukraine](https://doi.org/10.1787/7810f059-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -291,9 +148,9 @@ Monday 29 June 2026 at 9:15 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -305,7 +162,7 @@ Monday 29 June 2026 at 9:15 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -314,9 +171,9 @@ Monday 29 June 2026 at 9:15 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1194,6 +1051,29 @@ Monday 29 June 2026 at 12:00 | no launch event
 
 ------
 
+## [Luxembourg](https://doi.org/10.1787/c7835179-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Korea](https://doi.org/10.1787/16f14cae-en)
 
 Embargo date | Launch date
@@ -1237,52 +1117,6 @@ Monday 29 June 2026 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Études économiques de l'OCDE : France 2026](https://doi.org/10.1787/65cc698e-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: France 2026](https://doi.org/10.1787/e88a1716-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
 
 ------
 
@@ -2296,9 +2130,55 @@ Tuesday 30 June 2026 at 10:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [Études économiques de l'OCDE : France 2026](https://doi.org/10.1787/65cc698e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 15:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: France 2026](https://doi.org/10.1787/e88a1716-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -2571,7 +2451,7 @@ Thursday 2 July 2026 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2580,7 +2460,7 @@ Thursday 2 July 2026 at 13:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -2594,7 +2474,7 @@ Thursday 2 July 2026 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2603,7 +2483,7 @@ Thursday 2 July 2026 at 13:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -2617,7 +2497,7 @@ Thursday 2 July 2026 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2626,7 +2506,7 @@ Thursday 2 July 2026 at 13:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
