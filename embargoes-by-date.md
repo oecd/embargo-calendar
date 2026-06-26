@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 25 June 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 26 June 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 June 2026](#24-june-2026)
 * [25 June 2026](#25-june-2026)
 * [28 June 2026](#28-june-2026)
 * [29 June 2026](#29-june-2026)
@@ -22,33 +21,6 @@ Data generated on | |
 * [22 September 2026](#22-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
-
-------
-
-# 24 June 2026
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Montenegro](https://doi.org/10.1787/8b6d7a9f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 June 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -116,7 +88,7 @@ Monday 29 June 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -125,7 +97,7 @@ Monday 29 June 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
@@ -545,6 +517,29 @@ Monday 29 June 2026 at 12:00 | no launch event
 
 ------
 
+## [Suisse](https://doi.org/10.1787/16d0eed2-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Japan](https://doi.org/10.1787/6a76d497-en)
 
 Embargo date | Launch date
@@ -752,6 +747,52 @@ Monday 29 June 2026 at 12:00 | no launch event
 
 ------
 
+## [Belgique](https://doi.org/10.1787/4359f096-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [France](https://doi.org/10.1787/e88edecc-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Croatia](https://doi.org/10.1787/30f1fa2e-en)
 
 Embargo date | Launch date
@@ -815,6 +856,29 @@ Monday 29 June 2026 at 12:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Canada](https://doi.org/10.1787/bf5b9365-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 June 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -2052,7 +2116,7 @@ Tuesday 30 June 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2061,7 +2125,7 @@ Tuesday 30 June 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
@@ -2153,9 +2217,9 @@ Tuesday 30 June 2026 at 15:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -2167,7 +2231,7 @@ Tuesday 30 June 2026 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2176,9 +2240,9 @@ Tuesday 30 June 2026 at 15:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 

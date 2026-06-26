@@ -2,49 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/8b6d7a9f-end3e63
-SUMMARY:[Book] SME Policy Index for Western Balk
- ans and Türkiye 2026 – Economy Profile f
- or Montenegro
-DESCRIPTION:*[Book] SME Policy Index for Western Bal
- kans and Türkiye 2026 – Economy Profile 
- for Montenegro*\n\nDirectorate: Global R
- elations and Cooperation Directorate\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/8b6d7a9f-en\nPublication type: Boo
- k\nReleased as: PDF\n\nEmbargo date/time
- : Wednesday, 24 June 2026, 7:30 (GMT)\n\
- n\niLibrary export: never\nFreepreview e
- xport: never\nOECD.org export: never\nFT
- I loaded: ✓\n\nFor more information see:
-  https://oecd.github.io/embargo-calendar
- /embargoes-by-publication.html.\n\nPleas
- e note: This information was correct as 
- of this afternoon at 23:15, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=8b6d7a9f-en.
-DTSTAMP:20260625T231600Z
-DTSTART:20260624T073000Z
-DTEND:20260624T074500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] SME Policy Index for We
- stern Balkans and Türkiye 2026 – Economy
-  Profile for Montenegro
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/ada964c8-end3e117
+UID:10.1787/ada964c8-end3e63
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Slovak Republic 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -69,7 +27,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=ada964c8-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260625T120000Z
 DTEND:20260625T121500Z
 TRANSP:TRANSPARENT
@@ -83,7 +41,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/88e3eb6e-end3e275
+UID:10.1787/88e3eb6e-end3e221
 SUMMARY:[Working paper] The regulation of non-co
  mpete clauses across OECD countries
 DESCRIPTION:*[Working paper] The regulation of non-c
@@ -109,7 +67,7 @@ DESCRIPTION:*[Working paper] The regulation of non-c
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=88e3eb6e-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260628T220100Z
 DTEND:20260628T221600Z
 TRANSP:TRANSPARENT
@@ -124,7 +82,7 @@ DESCRIPTION:Reminder: [Working paper] The regulation
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/36878835-end3e328
+UID:10.1787/36878835-end3e275
 SUMMARY:[Working paper] Revisiting local tax att
  ribution under central control - A synth
  esis
@@ -138,7 +96,7 @@ DESCRIPTION:*[Working paper] Revisiting local tax at
  nday, 29 June 2026, 9:00 (GMT)\n\n\niLib
  rary export: never\nFreepreview export: 
  never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
+ d: ✓\n\nFor more information see: https:
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
@@ -151,7 +109,7 @@ DESCRIPTION:*[Working paper] Revisiting local tax at
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=368
  78835-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T090000Z
 DTEND:20260629T091500Z
 TRANSP:TRANSPARENT
@@ -166,7 +124,7 @@ DESCRIPTION:Reminder: [Working paper] Revisiting loc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/47874669-end3e1921
+UID:10.1787/47874669-end3e1869
 SUMMARY:[Book] OECD-FAO Agricultural Outlook 202
  6-2035
 DESCRIPTION:*[Book] OECD-FAO Agricultural Outlook 20
@@ -191,7 +149,7 @@ DESCRIPTION:*[Book] OECD-FAO Agricultural Outlook 20
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=47874669-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T091500Z
 DTEND:20260629T093000Z
 TRANSP:TRANSPARENT
@@ -205,7 +163,7 @@ DESCRIPTION:Reminder: [Book] OECD-FAO Agricultural O
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/414a618b-frd3e2506
+UID:10.1787/414a618b-frd3e2453
 SUMMARY:[Book] Perspectives agricoles de l’OCDE 
  et de la FAO 2026-2035
 DESCRIPTION:*[Book] Perspectives agricoles de l’OCDE
@@ -230,7 +188,7 @@ DESCRIPTION:*[Book] Perspectives agricoles de l’OCDE
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=414a618b-fr.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T091500Z
 DTEND:20260629T093000Z
 TRANSP:TRANSPARENT
@@ -244,7 +202,7 @@ DESCRIPTION:Reminder: [Book] Perspectives agricoles
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/aa775f41-end3e2612
+UID:10.1787/aa775f41-end3e2613
 SUMMARY:[Short content] Iceland
 DESCRIPTION:*[Short content] Iceland*\n\nDirectorate
  : Directorate for Public Governance\nLan
@@ -267,7 +225,7 @@ DESCRIPTION:*[Short content] Iceland*\n\nDirectorate
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=aa775f41-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -280,7 +238,7 @@ DESCRIPTION:Reminder: [Short content] Iceland
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b64a529e-end3e2824
+UID:10.1787/b64a529e-end3e2826
 SUMMARY:[Short content] Norway
 DESCRIPTION:*[Short content] Norway*\n\nDirectorate:
   Directorate for Public Governance\nLang
@@ -303,7 +261,7 @@ DESCRIPTION:*[Short content] Norway*\n\nDirectorate:
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=b64a529e-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -316,7 +274,7 @@ DESCRIPTION:Reminder: [Short content] Norway
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7d34c1f4-end3e2930
+UID:10.1787/7d34c1f4-end3e2932
 SUMMARY:[Short content] Sweden
 DESCRIPTION:*[Short content] Sweden*\n\nDirectorate:
   Directorate for Public Governance\nLang
@@ -339,7 +297,7 @@ DESCRIPTION:*[Short content] Sweden*\n\nDirectorate:
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=7d34c1f4-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -352,7 +310,7 @@ DESCRIPTION:Reminder: [Short content] Sweden
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/61dcc0e6-end3e3088
+UID:10.1787/61dcc0e6-end3e3091
 SUMMARY:[Short content] Switzerland
 DESCRIPTION:*[Short content] Switzerland*\n\nDirecto
  rate: Directorate for Public Governance\
@@ -375,7 +333,7 @@ DESCRIPTION:*[Short content] Switzerland*\n\nDirecto
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=61dcc0e6-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -388,7 +346,7 @@ DESCRIPTION:Reminder: [Short content] Switzerland
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9b16335e-end3e3142
+UID:10.1787/9b16335e-end3e3145
 SUMMARY:[Short content] Finland
 DESCRIPTION:*[Short content] Finland*\n\nDirectorate
  : Directorate for Public Governance\nLan
@@ -411,7 +369,7 @@ DESCRIPTION:*[Short content] Finland*\n\nDirectorate
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=9b16335e-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -424,7 +382,7 @@ DESCRIPTION:Reminder: [Short content] Finland
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2996fc72-end3e3195
+UID:10.1787/2996fc72-end3e3198
 SUMMARY:[Short content] Australia
 DESCRIPTION:*[Short content] Australia*\n\nDirectora
  te: Directorate for Public Governance\nL
@@ -447,7 +405,7 @@ DESCRIPTION:*[Short content] Australia*\n\nDirectora
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=2996fc72-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -460,7 +418,7 @@ DESCRIPTION:Reminder: [Short content] Australia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9eb63fec-end3e3248
+UID:10.1787/9eb63fec-end3e3251
 SUMMARY:[Stand-alone monograph] OECD Survey on D
  rivers of Trust in Public Institutions 2
  026 Results - Navigating Rising Expectat
@@ -490,7 +448,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Survey on
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=9eb63fec-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -506,7 +464,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4985632d-end3e3302
+UID:10.1787/4985632d-end3e3305
 SUMMARY:[Short content] Slovak Republic
 DESCRIPTION:*[Short content] Slovak Republic*\n\nDir
  ectorate: Directorate for Public Governa
@@ -530,7 +488,7 @@ DESCRIPTION:*[Short content] Slovak Republic*\n\nDir
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=4985632d-e
  n.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -544,7 +502,7 @@ DESCRIPTION:Reminder: [Short content] Slovak Republi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/11db004c-end3e3673
+UID:10.1787/11db004c-end3e3677
 SUMMARY:[Short content] Peru
 DESCRIPTION:*[Short content] Peru*\n\nDirectorate: D
  irectorate for Public Governance\nLangua
@@ -567,7 +525,7 @@ DESCRIPTION:*[Short content] Peru*\n\nDirectorate: D
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=11db004c-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -580,7 +538,7 @@ DESCRIPTION:Reminder: [Short content] Peru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/05dea001-end3e3780
+UID:10.1787/05dea001-end3e3784
 SUMMARY:[Short content] Poland
 DESCRIPTION:*[Short content] Poland*\n\nDirectorate:
   Directorate for Public Governance\nLang
@@ -603,7 +561,7 @@ DESCRIPTION:*[Short content] Poland*\n\nDirectorate:
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=05dea001-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -616,7 +574,7 @@ DESCRIPTION:Reminder: [Short content] Poland
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/efcf3503-end3e4578
+UID:10.1787/efcf3503-end3e4582
 SUMMARY:[Short content] Mexico
 DESCRIPTION:*[Short content] Mexico*\n\nDirectorate:
   Directorate for Public Governance\nLang
@@ -639,7 +597,7 @@ DESCRIPTION:*[Short content] Mexico*\n\nDirectorate:
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=efcf3503-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -652,7 +610,7 @@ DESCRIPTION:Reminder: [Short content] Mexico
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/73c69d31-end3e4631
+UID:10.1787/73c69d31-end3e4635
 SUMMARY:[Short content] Costa Rica
 DESCRIPTION:*[Short content] Costa Rica*\n\nDirector
  ate: Directorate for Public Governance\n
@@ -675,7 +633,7 @@ DESCRIPTION:*[Short content] Costa Rica*\n\nDirector
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=73c69d31-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -688,7 +646,7 @@ DESCRIPTION:Reminder: [Short content] Costa Rica
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/645caa11-end3e4684
+UID:10.1787/645caa11-end3e4688
 SUMMARY:[Short content] Luxembourg
 DESCRIPTION:*[Short content] Luxembourg*\n\nDirector
  ate: Directorate for Public Governance\n
@@ -711,7 +669,7 @@ DESCRIPTION:*[Short content] Luxembourg*\n\nDirector
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=645caa11-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -724,7 +682,7 @@ DESCRIPTION:Reminder: [Short content] Luxembourg
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0a6d05a3-end3e5110
+UID:10.1787/0a6d05a3-end3e5167
 SUMMARY:[Short content] Colombia
 DESCRIPTION:*[Short content] Colombia*\n\nDirectorat
  e: Directorate for Public Governance\nLa
@@ -747,7 +705,7 @@ DESCRIPTION:*[Short content] Colombia*\n\nDirectorat
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=0a6d05a3-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -760,7 +718,7 @@ DESCRIPTION:Reminder: [Short content] Colombia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a8908944-end3e5216
+UID:10.1787/a8908944-end3e5273
 SUMMARY:[Short content] Germany
 DESCRIPTION:*[Short content] Germany*\n\nDirectorate
  : Directorate for Public Governance\nLan
@@ -783,7 +741,7 @@ DESCRIPTION:*[Short content] Germany*\n\nDirectorate
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=a8908944-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -796,7 +754,7 @@ DESCRIPTION:Reminder: [Short content] Germany
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8443a0c4-end3e5535
+UID:10.1787/8443a0c4-end3e5592
 SUMMARY:[Short content] Spain
 DESCRIPTION:*[Short content] Spain*\n\nDirectorate: 
  Directorate for Public Governance\nLangu
@@ -819,7 +777,7 @@ DESCRIPTION:*[Short content] Spain*\n\nDirectorate:
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=8443a0c4-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -832,7 +790,43 @@ DESCRIPTION:Reminder: [Short content] Spain
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6a76d497-end3e5748
+UID:10.1787/16d0eed2-frd3e5752
+SUMMARY:[Short content] Suisse
+DESCRIPTION:*[Short content] Suisse*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: French\nDOI: https://doi.org/10.17
+ 87/16d0eed2-fr\nPublication type: Short 
+ content\nReleased as: DOCX, PDF, ZJCR\n\
+ nEmbargo date/time: Monday, 29 June 2026
+ , 12:00 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 15, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=16d0eed2-fr.
+DTSTAMP:20260626T231512Z
+DTSTART:20260629T120000Z
+DTEND:20260629T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Suisse
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/6a76d497-end3e5858
 SUMMARY:[Short content] Japan
 DESCRIPTION:*[Short content] Japan*\n\nDirectorate: 
  Directorate for Public Governance\nLangu
@@ -855,7 +849,7 @@ DESCRIPTION:*[Short content] Japan*\n\nDirectorate:
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=6a76d497-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -868,7 +862,7 @@ DESCRIPTION:Reminder: [Short content] Japan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cc038706-end3e5801
+UID:10.1787/cc038706-end3e5911
 SUMMARY:[Short content] New Zealand
 DESCRIPTION:*[Short content] New Zealand*\n\nDirecto
  rate: Directorate for Public Governance\
@@ -891,7 +885,7 @@ DESCRIPTION:*[Short content] New Zealand*\n\nDirecto
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=cc038706-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -904,7 +898,7 @@ DESCRIPTION:Reminder: [Short content] New Zealand
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a1a82765-end3e6174
+UID:10.1787/a1a82765-end3e6284
 SUMMARY:[Short content] Romania
 DESCRIPTION:*[Short content] Romania*\n\nDirectorate
  : Directorate for Public Governance\nLan
@@ -927,7 +921,7 @@ DESCRIPTION:*[Short content] Romania*\n\nDirectorate
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=a1a82765-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -940,7 +934,7 @@ DESCRIPTION:Reminder: [Short content] Romania
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f1cdd038-frd3e6599
+UID:10.1787/f1cdd038-frd3e6710
 SUMMARY:[Stand-alone monograph] Résultats 2026 d
  e l’enquête de l’OCDE sur les déterminan
  ts de la confiance dans les institutions
@@ -972,7 +966,7 @@ DESCRIPTION:*[Stand-alone monograph] Résultats 2026
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=f1cdd038-fr.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -989,7 +983,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Résult
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e751f958-end3e6812
+UID:10.1787/e751f958-end3e6977
 SUMMARY:[Short content] Latvia
 DESCRIPTION:*[Short content] Latvia*\n\nDirectorate:
   Directorate for Public Governance\nLang
@@ -1012,7 +1006,7 @@ DESCRIPTION:*[Short content] Latvia*\n\nDirectorate:
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=e751f958-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1025,7 +1019,7 @@ DESCRIPTION:Reminder: [Short content] Latvia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/44908581-end3e6865
+UID:10.1787/44908581-end3e7030
 SUMMARY:[Short content] Canada
 DESCRIPTION:*[Short content] Canada*\n\nDirectorate:
   Directorate for Public Governance\nLang
@@ -1048,7 +1042,7 @@ DESCRIPTION:*[Short content] Canada*\n\nDirectorate:
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=44908581-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1061,7 +1055,7 @@ DESCRIPTION:Reminder: [Short content] Canada
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5e38c043-end3e6918
+UID:10.1787/5e38c043-end3e7083
 SUMMARY:[Short content] Estonia
 DESCRIPTION:*[Short content] Estonia*\n\nDirectorate
  : Directorate for Public Governance\nLan
@@ -1084,7 +1078,7 @@ DESCRIPTION:*[Short content] Estonia*\n\nDirectorate
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=5e38c043-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1097,7 +1091,7 @@ DESCRIPTION:Reminder: [Short content] Estonia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/84fa0be8-end3e7131
+UID:10.1787/84fa0be8-end3e7296
 SUMMARY:[Short content] Austria
 DESCRIPTION:*[Short content] Austria*\n\nDirectorate
  : Directorate for Public Governance\nLan
@@ -1120,7 +1114,7 @@ DESCRIPTION:*[Short content] Austria*\n\nDirectorate
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=84fa0be8-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1133,7 +1127,7 @@ DESCRIPTION:Reminder: [Short content] Austria
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/946ba2c0-end3e7184
+UID:10.1787/946ba2c0-end3e7349
 SUMMARY:[Short content] Ireland
 DESCRIPTION:*[Short content] Ireland*\n\nDirectorate
  : Directorate for Public Governance\nLan
@@ -1156,7 +1150,7 @@ DESCRIPTION:*[Short content] Ireland*\n\nDirectorate
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=946ba2c0-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1169,7 +1163,79 @@ DESCRIPTION:Reminder: [Short content] Ireland
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/30f1fa2e-end3e7713
+UID:10.1787/4359f096-frd3e7402
+SUMMARY:[Short content] Belgique
+DESCRIPTION:*[Short content] Belgique*\n\nDirectorat
+ e: Directorate for Public Governance\nLa
+ nguage: French\nDOI: https://doi.org/10.
+ 1787/4359f096-fr\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF, ZJCR\
+ n\nEmbargo date/time: Monday, 29 June 20
+ 26, 12:00 (GMT)\n\n\niLibrary export: ne
+ ver\nFreepreview export: never\nOECD.org
+  export: never\nFTI loaded: ✓\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 3:15, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=4359f096-fr.
+DTSTAMP:20260626T231512Z
+DTSTART:20260629T120000Z
+DTEND:20260629T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Belgique
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e88edecc-frd3e7508
+SUMMARY:[Short content] France
+DESCRIPTION:*[Short content] France*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: French\nDOI: https://doi.org/10.17
+ 87/e88edecc-fr\nPublication type: Short 
+ content\nReleased as: DOCX, PDF, ZJCR\n\
+ nEmbargo date/time: Monday, 29 June 2026
+ , 12:00 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 15, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=e88edecc-fr.
+DTSTAMP:20260626T231512Z
+DTSTART:20260629T120000Z
+DTEND:20260629T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] France
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/30f1fa2e-end3e8040
 SUMMARY:[Short content] Croatia
 DESCRIPTION:*[Short content] Croatia*\n\nDirectorate
  : Directorate for Public Governance\nLan
@@ -1192,7 +1258,7 @@ DESCRIPTION:*[Short content] Croatia*\n\nDirectorate
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=30f1fa2e-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1205,7 +1271,7 @@ DESCRIPTION:Reminder: [Short content] Croatia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/72d074fc-end3e8033
+UID:10.1787/72d074fc-end3e8360
 SUMMARY:[Short content] Denmark
 DESCRIPTION:*[Short content] Denmark*\n\nDirectorate
  : Directorate for Public Governance\nLan
@@ -1228,7 +1294,7 @@ DESCRIPTION:*[Short content] Denmark*\n\nDirectorate
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=72d074fc-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1241,7 +1307,7 @@ DESCRIPTION:Reminder: [Short content] Denmark
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/42ab0d8b-end3e8458
+UID:10.1787/42ab0d8b-end3e8786
 SUMMARY:[Short content] Belgium
 DESCRIPTION:*[Short content] Belgium*\n\nDirectorate
  : Directorate for Public Governance\nLan
@@ -1264,7 +1330,7 @@ DESCRIPTION:*[Short content] Belgium*\n\nDirectorate
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=42ab0d8b-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1277,7 +1343,43 @@ DESCRIPTION:Reminder: [Short content] Belgium
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1d0c63db-end3e8670
+UID:10.1787/bf5b9365-frd3e8999
+SUMMARY:[Short content] Canada
+DESCRIPTION:*[Short content] Canada*\n\nDirectorate:
+  Directorate for Public Governance\nLang
+ uage: French\nDOI: https://doi.org/10.17
+ 87/bf5b9365-fr\nPublication type: Short 
+ content\nReleased as: DOCX, PDF, ZJCR\n\
+ nEmbargo date/time: Monday, 29 June 2026
+ , 12:00 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 15, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=bf5b9365-fr.
+DTSTAMP:20260626T231512Z
+DTSTART:20260629T120000Z
+DTEND:20260629T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Canada
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1d0c63db-end3e9052
 SUMMARY:[Short content] United Kingdom
 DESCRIPTION:*[Short content] United Kingdom*\n\nDire
  ctorate: Directorate for Public Governan
@@ -1301,7 +1403,7 @@ DESCRIPTION:*[Short content] United Kingdom*\n\nDire
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=1d0c63db-en
  .
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1314,7 +1416,7 @@ DESCRIPTION:Reminder: [Short content] United Kingdom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1c42e51b-end3e8882
+UID:10.1787/1c42e51b-end3e9265
 SUMMARY:[Short content] Italy
 DESCRIPTION:*[Short content] Italy*\n\nDirectorate: 
  Directorate for Public Governance\nLangu
@@ -1337,7 +1439,7 @@ DESCRIPTION:*[Short content] Italy*\n\nDirectorate:
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=1c42e51b-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1350,7 +1452,7 @@ DESCRIPTION:Reminder: [Short content] Italy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/03204000-end3e8935
+UID:10.1787/03204000-end3e9318
 SUMMARY:[Short content] Slovenia
 DESCRIPTION:*[Short content] Slovenia*\n\nDirectorat
  e: Directorate for Public Governance\nLa
@@ -1373,7 +1475,7 @@ DESCRIPTION:*[Short content] Slovenia*\n\nDirectorat
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=03204000-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1386,7 +1488,7 @@ DESCRIPTION:Reminder: [Short content] Slovenia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c2fbb84d-end3e9094
+UID:10.1787/c2fbb84d-end3e9531
 SUMMARY:[Short content] France
 DESCRIPTION:*[Short content] France*\n\nDirectorate:
   Directorate for Public Governance\nLang
@@ -1409,7 +1511,7 @@ DESCRIPTION:*[Short content] France*\n\nDirectorate:
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=c2fbb84d-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1422,7 +1524,7 @@ DESCRIPTION:Reminder: [Short content] France
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/422733e9-end3e9201
+UID:10.1787/422733e9-end3e9637
 SUMMARY:[Short content] Chile
 DESCRIPTION:*[Short content] Chile*\n\nDirectorate: 
  Directorate for Public Governance\nLangu
@@ -1445,7 +1547,7 @@ DESCRIPTION:*[Short content] Chile*\n\nDirectorate:
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=422733e9-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1458,7 +1560,7 @@ DESCRIPTION:Reminder: [Short content] Chile
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8696899f-end3e9254
+UID:10.1787/8696899f-end3e9743
 SUMMARY:[Short content] Portugal
 DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
  e: Directorate for Public Governance\nLa
@@ -1481,7 +1583,7 @@ DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=8696899f-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1494,7 +1596,7 @@ DESCRIPTION:Reminder: [Short content] Portugal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/31bcfcc8-end3e9360
+UID:10.1787/31bcfcc8-end3e9956
 SUMMARY:[Short content] Bulgaria
 DESCRIPTION:*[Short content] Bulgaria*\n\nDirectorat
  e: Directorate for Public Governance\nLa
@@ -1517,7 +1619,7 @@ DESCRIPTION:*[Short content] Bulgaria*\n\nDirectorat
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=31bcfcc8-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1530,7 +1632,7 @@ DESCRIPTION:Reminder: [Short content] Bulgaria
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cc9301b0-end3e9466
+UID:10.1787/cc9301b0-end3e10062
 SUMMARY:[Short content] Lithuania
 DESCRIPTION:*[Short content] Lithuania*\n\nDirectora
  te: Directorate for Public Governance\nL
@@ -1553,7 +1655,7 @@ DESCRIPTION:*[Short content] Lithuania*\n\nDirectora
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=cc9301b0-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1566,7 +1668,7 @@ DESCRIPTION:Reminder: [Short content] Lithuania
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1982a052-end3e9839
+UID:10.1787/1982a052-end3e10434
 SUMMARY:[Short content] Netherlands
 DESCRIPTION:*[Short content] Netherlands*\n\nDirecto
  rate: Directorate for Public Governance\
@@ -1589,7 +1691,7 @@ DESCRIPTION:*[Short content] Netherlands*\n\nDirecto
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=1982a052-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1602,7 +1704,7 @@ DESCRIPTION:Reminder: [Short content] Netherlands
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0bb40204-end3e9892
+UID:10.1787/0bb40204-end3e10488
 SUMMARY:[Short content] Brazil
 DESCRIPTION:*[Short content] Brazil*\n\nDirectorate:
   Directorate for Public Governance\nLang
@@ -1625,7 +1727,7 @@ DESCRIPTION:*[Short content] Brazil*\n\nDirectorate:
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=0bb40204-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1638,7 +1740,7 @@ DESCRIPTION:Reminder: [Short content] Brazil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c7835179-frd3e10104
+UID:10.1787/c7835179-frd3e10700
 SUMMARY:[Short content] Luxembourg
 DESCRIPTION:*[Short content] Luxembourg*\n\nDirector
  ate: Directorate for Public Governance\n
@@ -1661,7 +1763,7 @@ DESCRIPTION:*[Short content] Luxembourg*\n\nDirector
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=c7835179-fr.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1674,7 +1776,7 @@ DESCRIPTION:Reminder: [Short content] Luxembourg
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/16f14cae-end3e10158
+UID:10.1787/16f14cae-end3e10753
 SUMMARY:[Short content] Korea
 DESCRIPTION:*[Short content] Korea*\n\nDirectorate: 
  Directorate for Public Governance\nLangu
@@ -1697,7 +1799,7 @@ DESCRIPTION:*[Short content] Korea*\n\nDirectorate:
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=16f14cae-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1710,7 +1812,7 @@ DESCRIPTION:Reminder: [Short content] Korea
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/320ebbf3-end3e10372
+UID:10.1787/320ebbf3-end3e10968
 SUMMARY:[Short content] Greece
 DESCRIPTION:*[Short content] Greece*\n\nDirectorate:
   Directorate for Public Governance\nLang
@@ -1733,7 +1835,7 @@ DESCRIPTION:*[Short content] Greece*\n\nDirectorate:
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=320ebbf3-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T120000Z
 DTEND:20260629T121500Z
 TRANSP:TRANSPARENT
@@ -1746,7 +1848,7 @@ DESCRIPTION:Reminder: [Short content] Greece
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5600c944-end3e10425
+UID:10.1787/5600c944-end3e11021
 SUMMARY:[Working paper] Measuring global value c
  hain participation in UK regions
 DESCRIPTION:*[Working paper] Measuring global value 
@@ -1772,7 +1874,7 @@ DESCRIPTION:*[Working paper] Measuring global value
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=5
  600c944-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T220100Z
 DTEND:20260629T221600Z
 TRANSP:TRANSPARENT
@@ -1787,7 +1889,7 @@ DESCRIPTION:Reminder: [Working paper] Measuring glob
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f36125c4-end3e10478
+UID:10.1787/f36125c4-end3e11073
 SUMMARY:[Working paper] UK regions in the global
   economy
 DESCRIPTION:*[Working paper] UK regions in the globa
@@ -1812,7 +1914,7 @@ DESCRIPTION:*[Working paper] UK regions in the globa
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=f36125c4-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260629T220100Z
 DTEND:20260629T221600Z
 TRANSP:TRANSPARENT
@@ -1826,7 +1928,7 @@ DESCRIPTION:Reminder: [Working paper] UK regions in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/065aa566-end3e11171
+UID:10.1787/065aa566-end3e11820
 SUMMARY:[Book] Revenue Statistics in Asia and th
  e Pacific 2026 - Taxing Informal and Har
  d-to-Tax Sectors
@@ -1854,7 +1956,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Asia and t
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=065aa566-e
  n.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T013000Z
 DTEND:20260630T014500Z
 TRANSP:TRANSPARENT
@@ -1869,7 +1971,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics in A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b39094e7-end3e11278
+UID:10.1787/b39094e7-end3e11927
 SUMMARY:[Short content] Samoa
 DESCRIPTION:*[Short content] Samoa*\n\nDirectorate: 
  Centre for Tax Policy and Administration
@@ -1892,7 +1994,7 @@ DESCRIPTION:*[Short content] Samoa*\n\nDirectorate:
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=b39094e7-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -1905,7 +2007,7 @@ DESCRIPTION:Reminder: [Short content] Samoa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1311a2b2-end3e11331
+UID:10.1787/1311a2b2-end3e11980
 SUMMARY:[Short content] Marshall Islands
 DESCRIPTION:*[Short content] Marshall Islands*\n\nDi
  rectorate: Centre for Tax Policy and Adm
@@ -1928,7 +2030,7 @@ DESCRIPTION:*[Short content] Marshall Islands*\n\nDi
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=1311a2b2-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -1942,7 +2044,7 @@ DESCRIPTION:Reminder: [Short content] Marshall Islan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b956cc15-end3e11384
+UID:10.1787/b956cc15-end3e12033
 SUMMARY:[Short content] Mongolia
 DESCRIPTION:*[Short content] Mongolia*\n\nDirectorat
  e: Centre for Tax Policy and Administrat
@@ -1965,7 +2067,7 @@ DESCRIPTION:*[Short content] Mongolia*\n\nDirectorat
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=b956cc15-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -1978,7 +2080,7 @@ DESCRIPTION:Reminder: [Short content] Mongolia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/02c65934-end3e11438
+UID:10.1787/02c65934-end3e12087
 SUMMARY:[Short content] Thailand
 DESCRIPTION:*[Short content] Thailand*\n\nDirectorat
  e: Centre for Tax Policy and Administrat
@@ -2001,7 +2103,7 @@ DESCRIPTION:*[Short content] Thailand*\n\nDirectorat
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=02c65934-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2014,7 +2116,7 @@ DESCRIPTION:Reminder: [Short content] Thailand
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/09c3fa85-end3e11491
+UID:10.1787/09c3fa85-end3e12140
 SUMMARY:[Short content] Fiji
 DESCRIPTION:*[Short content] Fiji*\n\nDirectorate: C
  entre for Tax Policy and Administration\
@@ -2037,7 +2139,7 @@ DESCRIPTION:*[Short content] Fiji*\n\nDirectorate: C
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=09c3fa85-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2050,7 +2152,7 @@ DESCRIPTION:Reminder: [Short content] Fiji
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9ce53abb-end3e11544
+UID:10.1787/9ce53abb-end3e12193
 SUMMARY:[Short content] Niue
 DESCRIPTION:*[Short content] Niue*\n\nDirectorate: C
  entre for Tax Policy and Administration\
@@ -2073,7 +2175,7 @@ DESCRIPTION:*[Short content] Niue*\n\nDirectorate: C
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=9ce53abb-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2086,7 +2188,7 @@ DESCRIPTION:Reminder: [Short content] Niue
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/57645f28-end3e11597
+UID:10.1787/57645f28-end3e12246
 SUMMARY:[Short content] Armenia
 DESCRIPTION:*[Short content] Armenia*\n\nDirectorate
  : Centre for Tax Policy and Administrati
@@ -2109,7 +2211,7 @@ DESCRIPTION:*[Short content] Armenia*\n\nDirectorate
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=57645f28-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2122,7 +2224,7 @@ DESCRIPTION:Reminder: [Short content] Armenia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/867999ff-end3e11650
+UID:10.1787/867999ff-end3e12299
 SUMMARY:[Short content] Vanuatu
 DESCRIPTION:*[Short content] Vanuatu*\n\nDirectorate
  : Centre for Tax Policy and Administrati
@@ -2145,7 +2247,7 @@ DESCRIPTION:*[Short content] Vanuatu*\n\nDirectorate
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=867999ff-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2158,7 +2260,7 @@ DESCRIPTION:Reminder: [Short content] Vanuatu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d1d7730b-end3e11703
+UID:10.1787/d1d7730b-end3e12352
 SUMMARY:[Short content] Solomon Islands
 DESCRIPTION:*[Short content] Solomon Islands*\n\nDir
  ectorate: Centre for Tax Policy and Admi
@@ -2181,7 +2283,7 @@ DESCRIPTION:*[Short content] Solomon Islands*\n\nDir
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=d1d7730b-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2195,7 +2297,7 @@ DESCRIPTION:Reminder: [Short content] Solomon Island
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/df81cba6-end3e11757
+UID:10.1787/df81cba6-end3e12406
 SUMMARY:[Short content] Georgia
 DESCRIPTION:*[Short content] Georgia*\n\nDirectorate
  : Centre for Tax Policy and Administrati
@@ -2218,7 +2320,7 @@ DESCRIPTION:*[Short content] Georgia*\n\nDirectorate
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=df81cba6-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2231,7 +2333,7 @@ DESCRIPTION:Reminder: [Short content] Georgia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4d4f1178-end3e11810
+UID:10.1787/4d4f1178-end3e12459
 SUMMARY:[Short content] Timor-Leste
 DESCRIPTION:*[Short content] Timor-Leste*\n\nDirecto
  rate: Centre for Tax Policy and Administ
@@ -2254,7 +2356,7 @@ DESCRIPTION:*[Short content] Timor-Leste*\n\nDirecto
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=4d4f1178-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2267,7 +2369,7 @@ DESCRIPTION:Reminder: [Short content] Timor-Leste
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dde04a5e-end3e11863
+UID:10.1787/dde04a5e-end3e12512
 SUMMARY:[Short content] Tokelau
 DESCRIPTION:*[Short content] Tokelau*\n\nDirectorate
  : Centre for Tax Policy and Administrati
@@ -2290,7 +2392,7 @@ DESCRIPTION:*[Short content] Tokelau*\n\nDirectorate
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=dde04a5e-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2303,7 +2405,7 @@ DESCRIPTION:Reminder: [Short content] Tokelau
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2a44f6e2-end3e11916
+UID:10.1787/2a44f6e2-end3e12565
 SUMMARY:[Short content] New Zealand
 DESCRIPTION:*[Short content] New Zealand*\n\nDirecto
  rate: Centre for Tax Policy and Administ
@@ -2326,7 +2428,7 @@ DESCRIPTION:*[Short content] New Zealand*\n\nDirecto
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=2a44f6e2-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2339,7 +2441,7 @@ DESCRIPTION:Reminder: [Short content] New Zealand
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/25fa05e2-end3e11969
+UID:10.1787/25fa05e2-end3e12618
 SUMMARY:[Short content] Tonga
 DESCRIPTION:*[Short content] Tonga*\n\nDirectorate: 
  Centre for Tax Policy and Administration
@@ -2362,7 +2464,7 @@ DESCRIPTION:*[Short content] Tonga*\n\nDirectorate:
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=25fa05e2-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2375,7 +2477,7 @@ DESCRIPTION:Reminder: [Short content] Tonga
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6db5b88d-end3e12022
+UID:10.1787/6db5b88d-end3e12671
 SUMMARY:[Short content] Philippines
 DESCRIPTION:*[Short content] Philippines*\n\nDirecto
  rate: Centre for Tax Policy and Administ
@@ -2398,7 +2500,7 @@ DESCRIPTION:*[Short content] Philippines*\n\nDirecto
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=6db5b88d-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2411,7 +2513,7 @@ DESCRIPTION:Reminder: [Short content] Philippines
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6a372b73-end3e12076
+UID:10.1787/6a372b73-end3e12725
 SUMMARY:[Short content] Japan
 DESCRIPTION:*[Short content] Japan*\n\nDirectorate: 
  Centre for Tax Policy and Administration
@@ -2434,7 +2536,7 @@ DESCRIPTION:*[Short content] Japan*\n\nDirectorate:
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=6a372b73-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2447,7 +2549,7 @@ DESCRIPTION:Reminder: [Short content] Japan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6dd1d539-end3e12129
+UID:10.1787/6dd1d539-end3e12778
 SUMMARY:[Short content] Kyrgyzstan
 DESCRIPTION:*[Short content] Kyrgyzstan*\n\nDirector
  ate: Centre for Tax Policy and Administr
@@ -2470,7 +2572,7 @@ DESCRIPTION:*[Short content] Kyrgyzstan*\n\nDirector
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=6dd1d539-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2483,7 +2585,7 @@ DESCRIPTION:Reminder: [Short content] Kyrgyzstan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3973d7bc-end3e12182
+UID:10.1787/3973d7bc-end3e12831
 SUMMARY:[Short content] Azerbaijan
 DESCRIPTION:*[Short content] Azerbaijan*\n\nDirector
  ate: Centre for Tax Policy and Administr
@@ -2506,7 +2608,7 @@ DESCRIPTION:*[Short content] Azerbaijan*\n\nDirector
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=3973d7bc-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2519,7 +2621,7 @@ DESCRIPTION:Reminder: [Short content] Azerbaijan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/461091e2-end3e12235
+UID:10.1787/461091e2-end3e12884
 SUMMARY:[Short content] Korea
 DESCRIPTION:*[Short content] Korea*\n\nDirectorate: 
  Centre for Tax Policy and Administration
@@ -2542,7 +2644,7 @@ DESCRIPTION:*[Short content] Korea*\n\nDirectorate:
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=461091e2-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2555,7 +2657,7 @@ DESCRIPTION:Reminder: [Short content] Korea
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a8574bab-end3e12288
+UID:10.1787/a8574bab-end3e12937
 SUMMARY:[Short content] Papua New Guinea
 DESCRIPTION:*[Short content] Papua New Guinea*\n\nDi
  rectorate: Centre for Tax Policy and Adm
@@ -2578,7 +2680,7 @@ DESCRIPTION:*[Short content] Papua New Guinea*\n\nDi
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=a8574bab-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2592,7 +2694,7 @@ DESCRIPTION:Reminder: [Short content] Papua New Guin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a944fe1f-end3e12341
+UID:10.1787/a944fe1f-end3e12990
 SUMMARY:[Short content] Australia
 DESCRIPTION:*[Short content] Australia*\n\nDirectora
  te: Centre for Tax Policy and Administra
@@ -2615,7 +2717,7 @@ DESCRIPTION:*[Short content] Australia*\n\nDirectora
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=a944fe1f-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2628,7 +2730,7 @@ DESCRIPTION:Reminder: [Short content] Australia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dd01072e-end3e12395
+UID:10.1787/dd01072e-end3e13044
 SUMMARY:[Short content] Kazakhstan
 DESCRIPTION:*[Short content] Kazakhstan*\n\nDirector
  ate: Centre for Tax Policy and Administr
@@ -2651,7 +2753,7 @@ DESCRIPTION:*[Short content] Kazakhstan*\n\nDirector
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=dd01072e-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2664,7 +2766,7 @@ DESCRIPTION:Reminder: [Short content] Kazakhstan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/825b2e5e-end3e12448
+UID:10.1787/825b2e5e-end3e13097
 SUMMARY:[Short content] Pakistan
 DESCRIPTION:*[Short content] Pakistan*\n\nDirectorat
  e: Centre for Tax Policy and Administrat
@@ -2687,7 +2789,7 @@ DESCRIPTION:*[Short content] Pakistan*\n\nDirectorat
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=825b2e5e-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2700,7 +2802,7 @@ DESCRIPTION:Reminder: [Short content] Pakistan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/20a4852d-end3e12501
+UID:10.1787/20a4852d-end3e13150
 SUMMARY:[Short content] Malaysia
 DESCRIPTION:*[Short content] Malaysia*\n\nDirectorat
  e: Centre for Tax Policy and Administrat
@@ -2723,7 +2825,7 @@ DESCRIPTION:*[Short content] Malaysia*\n\nDirectorat
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=20a4852d-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2736,7 +2838,7 @@ DESCRIPTION:Reminder: [Short content] Malaysia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4f26e67f-end3e12554
+UID:10.1787/4f26e67f-end3e13203
 SUMMARY:[Short content] Cambodia
 DESCRIPTION:*[Short content] Cambodia*\n\nDirectorat
  e: Centre for Tax Policy and Administrat
@@ -2759,7 +2861,7 @@ DESCRIPTION:*[Short content] Cambodia*\n\nDirectorat
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=4f26e67f-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2772,7 +2874,7 @@ DESCRIPTION:Reminder: [Short content] Cambodia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/79a4587f-end3e12607
+UID:10.1787/79a4587f-end3e13256
 SUMMARY:[Short content] Singapore
 DESCRIPTION:*[Short content] Singapore*\n\nDirectora
  te: Centre for Tax Policy and Administra
@@ -2795,7 +2897,7 @@ DESCRIPTION:*[Short content] Singapore*\n\nDirectora
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=79a4587f-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2808,7 +2910,7 @@ DESCRIPTION:Reminder: [Short content] Singapore
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ce952029-end3e12660
+UID:10.1787/ce952029-end3e13309
 SUMMARY:[Short content] Lao People's Democratic 
  Republic
 DESCRIPTION:*[Short content] Lao People's Democratic
@@ -2833,7 +2935,7 @@ DESCRIPTION:*[Short content] Lao People's Democratic
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=ce952029-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2847,7 +2949,7 @@ DESCRIPTION:Reminder: [Short content] Lao People's D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c45bbdf5-end3e12714
+UID:10.1787/c45bbdf5-end3e13363
 SUMMARY:[Short content] Cook Islands
 DESCRIPTION:*[Short content] Cook Islands*\n\nDirect
  orate: Centre for Tax Policy and Adminis
@@ -2870,7 +2972,7 @@ DESCRIPTION:*[Short content] Cook Islands*\n\nDirect
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=c45bbdf5-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2883,7 +2985,7 @@ DESCRIPTION:Reminder: [Short content] Cook Islands
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6780f39a-end3e12767
+UID:10.1787/6780f39a-end3e13416
 SUMMARY:[Short content] Nauru
 DESCRIPTION:*[Short content] Nauru*\n\nDirectorate: 
  Centre for Tax Policy and Administration
@@ -2906,7 +3008,7 @@ DESCRIPTION:*[Short content] Nauru*\n\nDirectorate:
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=6780f39a-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2919,7 +3021,7 @@ DESCRIPTION:Reminder: [Short content] Nauru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/915ffa9d-end3e12820
+UID:10.1787/915ffa9d-end3e13469
 SUMMARY:[Short content] Indonesia
 DESCRIPTION:*[Short content] Indonesia*\n\nDirectora
  te: Centre for Tax Policy and Administra
@@ -2942,7 +3044,7 @@ DESCRIPTION:*[Short content] Indonesia*\n\nDirectora
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=915ffa9d-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2955,7 +3057,7 @@ DESCRIPTION:Reminder: [Short content] Indonesia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2e03666f-end3e12873
+UID:10.1787/2e03666f-end3e13522
 SUMMARY:[Short content] Kiribati
 DESCRIPTION:*[Short content] Kiribati*\n\nDirectorat
  e: Centre for Tax Policy and Administrat
@@ -2978,7 +3080,7 @@ DESCRIPTION:*[Short content] Kiribati*\n\nDirectorat
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=2e03666f-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -2991,7 +3093,7 @@ DESCRIPTION:Reminder: [Short content] Kiribati
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d78ca566-end3e12926
+UID:10.1787/d78ca566-end3e13575
 SUMMARY:[Short content] Viet Nam
 DESCRIPTION:*[Short content] Viet Nam*\n\nDirectorat
  e: Centre for Tax Policy and Administrat
@@ -3014,7 +3116,7 @@ DESCRIPTION:*[Short content] Viet Nam*\n\nDirectorat
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=d78ca566-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -3027,7 +3129,7 @@ DESCRIPTION:Reminder: [Short content] Viet Nam
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4f118ad9-end3e12979
+UID:10.1787/4f118ad9-end3e13628
 SUMMARY:[Short content] Bangladesh
 DESCRIPTION:*[Short content] Bangladesh*\n\nDirector
  ate: Centre for Tax Policy and Administr
@@ -3050,7 +3152,7 @@ DESCRIPTION:*[Short content] Bangladesh*\n\nDirector
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=4f118ad9-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -3063,7 +3165,7 @@ DESCRIPTION:Reminder: [Short content] Bangladesh
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7141ef61-end3e13033
+UID:10.1787/7141ef61-end3e13682
 SUMMARY:[Short content] Sri Lanka
 DESCRIPTION:*[Short content] Sri Lanka*\n\nDirectora
  te: Centre for Tax Policy and Administra
@@ -3086,7 +3188,7 @@ DESCRIPTION:*[Short content] Sri Lanka*\n\nDirectora
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=7141ef61-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -3099,7 +3201,7 @@ DESCRIPTION:Reminder: [Short content] Sri Lanka
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b5ae69c7-end3e13086
+UID:10.1787/b5ae69c7-end3e13735
 SUMMARY:[Short content] China
 DESCRIPTION:*[Short content] China*\n\nDirectorate: 
  Centre for Tax Policy and Administration
@@ -3122,7 +3224,7 @@ DESCRIPTION:*[Short content] China*\n\nDirectorate:
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=b5ae69c7-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -3135,7 +3237,7 @@ DESCRIPTION:Reminder: [Short content] China
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4b55a005-end3e13139
+UID:10.1787/4b55a005-end3e13788
 SUMMARY:[Short content] Hong Kong, China
 DESCRIPTION:*[Short content] Hong Kong, China*\n\nDi
  rectorate: Centre for Tax Policy and Adm
@@ -3158,7 +3260,7 @@ DESCRIPTION:*[Short content] Hong Kong, China*\n\nDi
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=4b55a005-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -3172,7 +3274,7 @@ DESCRIPTION:Reminder: [Short content] Hong Kong, Chi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4983f5c6-end3e13192
+UID:10.1787/4983f5c6-end3e13841
 SUMMARY:[Short content] Maldives
 DESCRIPTION:*[Short content] Maldives*\n\nDirectorat
  e: Centre for Tax Policy and Administrat
@@ -3195,7 +3297,7 @@ DESCRIPTION:*[Short content] Maldives*\n\nDirectorat
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=4983f5c6-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -3208,7 +3310,7 @@ DESCRIPTION:Reminder: [Short content] Maldives
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/45b5f9a1-end3e13245
+UID:10.1787/45b5f9a1-end3e13894
 SUMMARY:[Working paper] Investment tax incentive
  s in Latin America and the Caribbean - A
  n analysis using effective tax rates
@@ -3222,7 +3324,7 @@ DESCRIPTION:*[Working paper] Investment tax incentiv
  as: PDF\n\nEmbargo date/time: Tuesday, 3
  0 June 2026, 9:00 (GMT)\n\n\niLibrary ex
  port: never\nFreepreview export: never\n
- OECD.org export: never\nFTI loaded: ✗\n\
+ OECD.org export: never\nFTI loaded: ✓\n\
  nFor more information see: https://oecd.
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
@@ -3236,7 +3338,7 @@ DESCRIPTION:*[Working paper] Investment tax incentiv
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=45b5f9a1-e
  n.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -3252,7 +3354,7 @@ DESCRIPTION:Reminder: [Working paper] Investment tax
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/40261e00-end3e13298
+UID:10.1787/40261e00-end3e13948
 SUMMARY:[Short content] Bhutan
 DESCRIPTION:*[Short content] Bhutan*\n\nDirectorate:
   Centre for Tax Policy and Administratio
@@ -3275,7 +3377,7 @@ DESCRIPTION:*[Short content] Bhutan*\n\nDirectorate:
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=40261e00-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T090000Z
 DTEND:20260630T091500Z
 TRANSP:TRANSPARENT
@@ -3288,7 +3390,7 @@ DESCRIPTION:Reminder: [Short content] Bhutan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2b15370f-end3e13779
+UID:10.1787/2b15370f-end3e14429
 SUMMARY:[Stand-alone monograph] OECD Responsible
   Business Outlook 2026 - Making Commitme
  nts Count
@@ -3316,7 +3418,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Responsibl
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=2b15370f-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T100000Z
 DTEND:20260630T101500Z
 TRANSP:TRANSPARENT
@@ -3331,7 +3433,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD R
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/94cbdf3a-frd3e14049
+UID:10.1787/94cbdf3a-frd3e14699
 SUMMARY:[Stand-alone monograph] Perspectives de 
  l’OCDE sur la conduite responsable des e
  ntreprises 2026 (version abrégée) - Conc
@@ -3361,7 +3463,7 @@ DESCRIPTION:*[Stand-alone monograph] Perspectives de
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=94cbdf3a-fr.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T100000Z
 DTEND:20260630T101500Z
 TRANSP:TRANSPARENT
@@ -3377,7 +3479,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Perspe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/65cc698e-frd3e14262
+UID:10.1787/65cc698e-frd3e15121
 SUMMARY:[Economic survey] Études économiques de 
  l'OCDE : France 2026
 DESCRIPTION:*[Economic survey] Études économiques de
@@ -3385,24 +3487,24 @@ DESCRIPTION:*[Economic survey] Études économiques de
  conomics Department\nLanguage: French\nD
  OI: https://doi.org/10.1787/65cc698e-fr\
  nPublication type: Economic survey\nRele
- ased as: PDF\n\nEmbargo date/time: Tuesd
- ay, 30 June 2026, 15:00 (GMT)\n\n\niLibr
- ary export: never\nFreepreview export: n
- ever\nOECD.org export: never\nFTI loaded
- : ✓\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 23:15, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=65cc
- 698e-fr.
-DTSTAMP:20260625T231600Z
+ ased as: HTML, Paperback, PDF\n\nEmbargo
+  date/time: Tuesday, 30 June 2026, 15:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 23:15, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=65cc698e-fr.
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T150000Z
 DTEND:20260630T151500Z
 TRANSP:TRANSPARENT
@@ -3416,7 +3518,7 @@ DESCRIPTION:Reminder: [Economic survey] Études écono
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e88a1716-end3e14316
+UID:10.1787/e88a1716-end3e15174
 SUMMARY:[Economic survey] OECD Economic Surveys:
   France 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -3424,24 +3526,24 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
   Department\nLanguage: English\nDOI: htt
  ps://doi.org/10.1787/e88a1716-en\nPublic
  ation type: Economic survey\nReleased as
- : PDF\n\nEmbargo date/time: Tuesday, 30 
- June 2026, 15:00 (GMT)\n\n\niLibrary exp
- ort: never\nFreepreview export: never\nO
- ECD.org export: never\nFTI loaded: ✗\n\n
- For more information see: https://oecd.g
- ithub.io/embargo-calendar/embargoes-by-p
- ublication.html.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 23:15, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=e88a1716-en
- .
-DTSTAMP:20260625T231600Z
+ : HTML, Paperback, PDF\n\nEmbargo date/t
+ ime: Tuesday, 30 June 2026, 15:00 (GMT)\
+ n\n\niLibrary export: never\nFreepreview
+  export: never\nOECD.org export: never\n
+ FTI loaded: ✓\n\nFor more information se
+ e: https://oecd.github.io/embargo-calend
+ ar/embargoes-by-publication.html.\n\nPle
+ ase note: This information was correct a
+ s of this afternoon at 23:15, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=e88a1716-en.
+DTSTAMP:20260626T231512Z
 DTSTART:20260630T150000Z
 DTEND:20260630T151500Z
 TRANSP:TRANSPARENT
@@ -3455,7 +3557,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c198a20f-end3e14636
+UID:10.1787/c198a20f-end3e15495
 SUMMARY:[Book] Navigating Life with Low Literacy
   and Numeracy - New Results from the 202
  3 Survey of Adult Skills
@@ -3483,7 +3585,7 @@ DESCRIPTION:*[Book] Navigating Life with Low Literac
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=c198a
  20f-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260701T070000Z
 DTEND:20260701T071500Z
 TRANSP:TRANSPARENT
@@ -3498,7 +3600,7 @@ DESCRIPTION:Reminder: [Book] Navigating Life with Lo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2c40644b-frd3e15063
+UID:10.1787/2c40644b-frd3e15923
 SUMMARY:[Report] Essai n° 446A : Essai par gènes
   rapporteurs ToxTracker de caractérisati
  on du danger de génotoxicité et des méca
@@ -3528,7 +3630,7 @@ DESCRIPTION:*[Report] Essai n° 446A : Essai par gène
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=2c40644b-fr.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -3545,7 +3647,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 446A : Essai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6b87f585-end3e15115
+UID:10.1787/6b87f585-end3e15975
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Korea 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -3569,7 +3671,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=6b87f585-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -3583,7 +3685,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/55cf64da-end3e15275
+UID:10.1787/55cf64da-end3e16134
 SUMMARY:[Book] Policies for the Future of Farmin
  g and Food in Switzerland
 DESCRIPTION:*[Book] Policies for the Future of Farmi
@@ -3609,7 +3711,7 @@ DESCRIPTION:*[Book] Policies for the Future of Farmi
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=55cf64da
  -en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -3623,7 +3725,7 @@ DESCRIPTION:Reminder: [Book] Policies for the Future
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ee35ce99-frd3e15381
+UID:10.1787/ee35ce99-frd3e16241
 SUMMARY:[Report] Essai n° 322 : Mesure de la sol
  ubilité et de la vitesse de dissolution 
  des nanomatériaux à des fins d’évaluatio
@@ -3652,7 +3754,7 @@ DESCRIPTION:*[Report] Essai n° 322 : Mesure de la so
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=ee35ce99-fr.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -3669,7 +3771,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 322 : Mesure
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b57280b0-frd3e15486
+UID:10.1787/b57280b0-frd3e16346
 SUMMARY:[Report] Essai n° 255 : Bourdon (Bombus 
  spp.), essai de toxicité chronique par v
  oie orale (10 jours)
@@ -3696,7 +3798,7 @@ DESCRIPTION:*[Report] Essai n° 255 : Bourdon (Bombus
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=b57280b0-fr
  .
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -3711,7 +3813,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 255 : Bourdo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7486ad6c-frd3e15538
+UID:10.1787/7486ad6c-frd3e16398
 SUMMARY:[Report] Essai n° 127 : Détermination de
   l’empoussièrement des matériaux contena
  nt des nano-objets ainsi que leurs agrég
@@ -3739,7 +3841,7 @@ DESCRIPTION:*[Report] Essai n° 127 : Détermination d
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=7486ad6c-fr.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -3755,7 +3857,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 127 : Déterm
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/942262f6-frd3e15644
+UID:10.1787/942262f6-frd3e16503
 SUMMARY:[Report] Essai n° 256 : Détermination de
  s effets des produits chimiques sur les 
  vers de terre (Oligochaeta, Annelida) da
@@ -3784,7 +3886,7 @@ DESCRIPTION:*[Report] Essai n° 256 : Détermination d
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=942262f6-fr.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -3801,7 +3903,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 256 : Déterm
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d7951126-frd3e15749
+UID:10.1787/d7951126-frd3e16609
 SUMMARY:[Report] Essai n° 445A : Détermination d
  e l’induction de l’activité des enzymes 
  cytochromes P450 (CYP) au moyen de cellu
@@ -3830,7 +3932,7 @@ DESCRIPTION:*[Report] Essai n° 445A : Détermination
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=d7951126-fr.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -3847,7 +3949,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 445A : Déter
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a3172aef-frd3e16013
+UID:10.1787/a3172aef-frd3e16873
 SUMMARY:[Report] Essai n° 454A : Essai de transa
  ctivation du récepteur des glucocorticoï
  des humain - Essai pour la détection de 
@@ -3879,7 +3981,7 @@ DESCRIPTION:*[Report] Essai n° 454A : Essai de trans
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=a3172aef-fr.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -3897,7 +3999,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 454A : Essai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1fdd5254-end3e16332
+UID:10.1787/1fdd5254-end3e17192
 SUMMARY:[Stand-alone monograph] Promoting Social
   Connectedness Through Food
 DESCRIPTION:*[Stand-alone monograph] Promoting Socia
@@ -3924,7 +4026,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting Socia
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=1fdd5254-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260702T090000Z
 DTEND:20260702T091500Z
 TRANSP:TRANSPARENT
@@ -3938,7 +4040,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/22fc5338-end3e16703
+UID:10.1787/22fc5338-end3e17563
 SUMMARY:[Report] Tax Inspectors Without Borders 
  Annual Report 2026
 DESCRIPTION:*[Report] Tax Inspectors Without Borders
@@ -3963,7 +4065,7 @@ DESCRIPTION:*[Report] Tax Inspectors Without Borders
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=22fc5338-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260702T130000Z
 DTEND:20260702T131500Z
 TRANSP:TRANSPARENT
@@ -3977,7 +4079,7 @@ DESCRIPTION:Reminder: [Report] Tax Inspectors Withou
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab495d07-frd3e16756
+UID:10.1787/ab495d07-frd3e17616
 SUMMARY:[Report] Inspecteurs des impôts sans fro
  ntières rapport annuel 2026
 DESCRIPTION:*[Report] Inspecteurs des impôts sans fr
@@ -4002,7 +4104,7 @@ DESCRIPTION:*[Report] Inspecteurs des impôts sans fr
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=ab495d07-fr.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260702T130000Z
 DTEND:20260702T131500Z
 TRANSP:TRANSPARENT
@@ -4016,7 +4118,7 @@ DESCRIPTION:Reminder: [Report] Inspecteurs des impôt
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/496bfa97-esd3e16809
+UID:10.1787/496bfa97-esd3e17669
 SUMMARY:[Report] Inspectores fiscales sin fronte
  ras informe anual 2026
 DESCRIPTION:*[Report] Inspectores fiscales sin front
@@ -4041,7 +4143,7 @@ DESCRIPTION:*[Report] Inspectores fiscales sin front
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=496bfa97-es.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260702T130000Z
 DTEND:20260702T131500Z
 TRANSP:TRANSPARENT
@@ -4055,7 +4157,7 @@ DESCRIPTION:Reminder: [Report] Inspectores fiscales
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/729f06a5-end3e17182
+UID:10.1787/729f06a5-end3e18041
 SUMMARY:[Book] A Review of Greek Emigrants
 DESCRIPTION:*[Book] A Review of Greek Emigrants*\n\n
  Directorate: Directorate for Employment,
@@ -4079,7 +4181,7 @@ DESCRIPTION:*[Book] A Review of Greek Emigrants*\n\n
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=729f06a5-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260703T070000Z
 DTEND:20260703T071500Z
 TRANSP:TRANSPARENT
@@ -4093,7 +4195,7 @@ DESCRIPTION:Reminder: [Book] A Review of Greek Emigr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab22c29c-end3e17606
+UID:10.1787/ab22c29c-end3e18466
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Albania
@@ -4120,7 +4222,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=ab2
  2c29c-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260703T073000Z
 DTEND:20260703T074500Z
 TRANSP:TRANSPARENT
@@ -4135,7 +4237,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50f1e10d-end3e17659
+UID:10.1787/50f1e10d-end3e18519
 SUMMARY:[Stand-alone monograph] Promoting the De
  velopment of the Semiconductor Ecosystem
   in Panama
@@ -4162,7 +4264,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=50f1e10d-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260706T060000Z
 DTEND:20260706T061500Z
 TRANSP:TRANSPARENT
@@ -4177,7 +4279,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d652a08b-end3e17711
+UID:10.1787/d652a08b-end3e18571
 SUMMARY:[Report] Tax and Development Progress Re
  port on 2025
 DESCRIPTION:*[Report] Tax and Development Progress R
@@ -4202,7 +4304,7 @@ DESCRIPTION:*[Report] Tax and Development Progress R
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=d65
  2a08b-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260706T090000Z
 DTEND:20260706T091500Z
 TRANSP:TRANSPARENT
@@ -4216,7 +4318,7 @@ DESCRIPTION:Reminder: [Report] Tax and Development P
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/972bd15e-end3e17763
+UID:10.1787/972bd15e-end3e18623
 SUMMARY:[Policy paper] Skills in the AI age
 DESCRIPTION:*[Policy paper] Skills in the AI age*\n\
  nDirectorate: Directorate for Science, T
@@ -4240,7 +4342,7 @@ DESCRIPTION:*[Policy paper] Skills in the AI age*\n\
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=972bd
  15e-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260707T050000Z
 DTEND:20260707T051500Z
 TRANSP:TRANSPARENT
@@ -4254,7 +4356,7 @@ DESCRIPTION:Reminder: [Policy paper] Skills in the A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2d21fffd-end3e17816
+UID:10.1787/2d21fffd-end3e18675
 SUMMARY:[Report] OECD Anti-Bribery Convention Ph
  ase 4 Report on the Slovak Republic - Im
  plementing the Convention and Related Le
@@ -4283,7 +4385,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=2d21fffd-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260707T090000Z
 DTEND:20260707T091500Z
 TRANSP:TRANSPARENT
@@ -4299,7 +4401,7 @@ DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f8066478-end3e17869
+UID:10.1787/f8066478-end3e18728
 SUMMARY:[Report] OECD Anti-Bribery Convention Ph
  ase 4 Report on Latvia - Implementing th
  e Convention and Related Legal Instrumen
@@ -4328,7 +4430,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=f806
  6478-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260707T090000Z
 DTEND:20260707T091500Z
 TRANSP:TRANSPARENT
@@ -4344,7 +4446,7 @@ DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7e710f54-end3e17922
+UID:10.1787/7e710f54-end3e18782
 SUMMARY:[Book] OECD Employment Outlook 2026 - Ge
  ographic Disparities in Jobs and Incomes
 DESCRIPTION:*[Book] OECD Employment Outlook 2026 - G
@@ -4370,7 +4472,7 @@ DESCRIPTION:*[Book] OECD Employment Outlook 2026 - G
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=7e
  710f54-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260707T120000Z
 DTEND:20260707T121500Z
 TRANSP:TRANSPARENT
@@ -4385,7 +4487,7 @@ DESCRIPTION:Reminder: [Book] OECD Employment Outlook
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/00ebd3dd-end3e17975
+UID:10.1787/00ebd3dd-end3e18835
 SUMMARY:[Policy paper] Enhancing adolescent soci
  al and emotional well-being through a ge
  nder-sensitive approach
@@ -4413,7 +4515,7 @@ DESCRIPTION:*[Policy paper] Enhancing adolescent soc
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=00ebd3dd-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260707T220100Z
 DTEND:20260707T221600Z
 TRANSP:TRANSPARENT
@@ -4428,7 +4530,7 @@ DESCRIPTION:Reminder: [Policy paper] Enhancing adole
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/db32e18b-end3e18027
+UID:10.1787/db32e18b-end3e18887
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Full Version) - Volum
  es I and II
@@ -4455,7 +4557,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=db32e
  18b-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260713T090000Z
 DTEND:20260713T091500Z
 TRANSP:TRANSPARENT
@@ -4470,7 +4572,7 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fc44d951-end3e18080
+UID:10.1787/fc44d951-end3e18940
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Condensed Version)
 DESCRIPTION:*[Book] Model Tax Convention on Income a
@@ -4495,7 +4597,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=fc44d951-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260713T090000Z
 DTEND:20260713T091500Z
 TRANSP:TRANSPARENT
@@ -4510,7 +4612,7 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/aa997c6e-end3e18133
+UID:10.1787/aa997c6e-end3e18992
 SUMMARY:[Economic survey] OECD Economic Survey: 
  United Kingdom 2026
 DESCRIPTION:*[Economic survey] OECD Economic Survey:
@@ -4535,7 +4637,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Survey:
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=aa9
  97c6e-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260715T070000Z
 DTEND:20260715T071500Z
 TRANSP:TRANSPARENT
@@ -4549,7 +4651,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d6b60ea7-end3e18185
+UID:10.1787/d6b60ea7-end3e19044
 SUMMARY:[Stand-alone monograph] Bridging the Gap
  s for Sustainable Development - Coherent
   Policies for Water, Energy, Industry an
@@ -4578,7 +4680,7 @@ DESCRIPTION:*[Stand-alone monograph] Bridging the Ga
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=d6b60ea7-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260715T150000Z
 DTEND:20260715T151500Z
 TRANSP:TRANSPARENT
@@ -4594,7 +4696,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Bridgi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dad01040-end3e18238
+UID:10.1787/dad01040-end3e19098
 SUMMARY:[Policy brief] Enforcement data of the O
  ECD Anti Bribery Convention 1999-2025
 DESCRIPTION:*[Policy brief] Enforcement data of the 
@@ -4620,7 +4722,7 @@ DESCRIPTION:*[Policy brief] Enforcement data of the
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =dad01040-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260715T220100Z
 DTEND:20260715T221600Z
 TRANSP:TRANSPARENT
@@ -4635,7 +4737,7 @@ DESCRIPTION:Reminder: [Policy brief] Enforcement dat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/42ed5f84-end3e18291
+UID:10.1787/42ed5f84-end3e19151
 SUMMARY:[Stand-alone monograph] Environmental Ta
  x Policy Review of Romania - Policy Opti
  ons for Buildings and Transport
@@ -4663,7 +4765,7 @@ DESCRIPTION:*[Stand-alone monograph] Environmental T
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=42ed5f
  84-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260716T060000Z
 DTEND:20260716T061500Z
 TRANSP:TRANSPARENT
@@ -4679,7 +4781,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Enviro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6ad10075-end3e18344
+UID:10.1787/6ad10075-end3e19204
 SUMMARY:[Working paper] Gender and trust in publ
  ic institutions in Switzerland - An anal
  ysis of the determinants
@@ -4706,7 +4808,7 @@ DESCRIPTION:*[Working paper] Gender and trust in pub
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=6ad10075-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260716T220100Z
 DTEND:20260716T221600Z
 TRANSP:TRANSPARENT
@@ -4721,7 +4823,7 @@ DESCRIPTION:Reminder: [Working paper] Gender and tru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/73af6222-end3e18397
+UID:10.1787/73af6222-end3e19257
 SUMMARY:[Book] Corporate Tax Statistics 2026
 DESCRIPTION:*[Book] Corporate Tax Statistics 2026*\n
  \nDirectorate: Centre for Tax Policy and
@@ -4744,7 +4846,7 @@ DESCRIPTION:*[Book] Corporate Tax Statistics 2026*\n
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=73af6222-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260721T090000Z
 DTEND:20260721T091500Z
 TRANSP:TRANSPARENT
@@ -4758,7 +4860,7 @@ DESCRIPTION:Reminder: [Book] Corporate Tax Statistic
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8af2444d-end3e18450
+UID:10.1787/8af2444d-end3e19309
 SUMMARY:[Report] OECD Secretary-General Tax Repo
  rt to G20 Finance Ministers and Central 
  Bank Governors (G20 United States, Augus
@@ -4787,7 +4889,7 @@ DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=8af2
  444d-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260831T120000Z
 DTEND:20260831T121500Z
 TRANSP:TRANSPARENT
@@ -4803,7 +4905,7 @@ DESCRIPTION:Reminder: [Report] OECD Secretary-Genera
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/10379f9f-end3e18502
+UID:10.1787/10379f9f-end3e19361
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Türkiye
@@ -4830,7 +4932,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=10379f9f-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20260922T070000Z
 DTEND:20260922T071500Z
 TRANSP:TRANSPARENT
@@ -4845,7 +4947,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/58c3689d-end3e18554
+UID:10.1787/58c3689d-end3e19414
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Serbia
@@ -4872,7 +4974,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =58c3689d-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20261008T070000Z
 DTEND:20261008T071500Z
 TRANSP:TRANSPARENT
@@ -4887,7 +4989,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/846bbe2d-end3e18606
+UID:10.1787/846bbe2d-end3e19466
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Bosnia and Herzegovina
@@ -4914,7 +5016,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=846bbe2d-en.
-DTSTAMP:20260625T231600Z
+DTSTAMP:20260626T231512Z
 DTSTART:20261020T070000Z
 DTEND:20261020T071500Z
 TRANSP:TRANSPARENT
