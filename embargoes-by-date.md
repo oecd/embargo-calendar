@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 June 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 28 June 2026 at 22:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 June 2026](#25-june-2026)
 * [28 June 2026](#28-june-2026)
 * [29 June 2026](#29-june-2026)
 * [30 June 2026](#30-june-2026)
@@ -21,33 +20,6 @@ Data generated on | |
 * [22 September 2026](#22-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
-
-------
-
-# 25 June 2026
-
-## [OECD Economic Surveys: Slovak Republic 2026](https://doi.org/10.1787/ada964c8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *HTML, Paperback, PDF*
-
-------
 
 ------
 

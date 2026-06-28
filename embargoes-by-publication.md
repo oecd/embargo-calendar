@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 June 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Slovak Republic 2026](https://doi.org/10.1787/ada964c8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *HTML, Paperback, PDF*
-
-------
+| *Sunday 28 June 2026 at 22:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The regulation of non-compete clauses across OECD countries](https://doi.org/10.1787/88e3eb6e-en)
 
