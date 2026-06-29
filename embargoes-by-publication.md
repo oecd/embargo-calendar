@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 28 June 2026 at 22:18* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The regulation of non-compete clauses across OECD countries](https://doi.org/10.1787/88e3eb6e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 28 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Monday 29 June 2026 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revisiting local tax attribution under central control - A synthesis](https://doi.org/10.1787/36878835-en)
 
@@ -1131,52 +1108,6 @@ Monday 29 June 2026 at 12:00 | no launch event
 
 ------
 
-## [Measuring global value chain participation in UK regions](https://doi.org/10.1787/5600c944-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [UK regions in the global economy](https://doi.org/10.1787/f36125c4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
 ## [Revenue Statistics in Asia and the Pacific 2026 - Taxing Informal and Hard-to-Tax Sectors](https://doi.org/10.1787/065aa566-en)
 
 Embargo date | Launch date
@@ -2097,6 +2028,52 @@ Tuesday 30 June 2026 at 9:00 | no launch event
 
 ------
 
+## [Études économiques de l'OCDE : France 2026](https://doi.org/10.1787/65cc698e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Formats: *HTML, Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: France 2026](https://doi.org/10.1787/e88a1716-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Formats: *HTML, Paperback, PDF*
+
+------
+
 ## [OECD Responsible Business Outlook 2026 - Making Commitments Count](https://doi.org/10.1787/2b15370f-en)
 
 Embargo date | Launch date
@@ -2140,52 +2117,6 @@ Tuesday 30 June 2026 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Études économiques de l'OCDE : France 2026](https://doi.org/10.1787/65cc698e-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *HTML, Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: France 2026](https://doi.org/10.1787/e88a1716-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -2557,29 +2488,6 @@ Friday 3 July 2026 at 7:30 | no launch event
 
 ------
 
-## [Promoting the Development of the Semiconductor Ecosystem in Panama](https://doi.org/10.1787/50f1e10d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 July 2026 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [Tax and Development Progress Report on 2025](https://doi.org/10.1787/d652a08b-en)
 
 Embargo date | Launch date
@@ -2695,7 +2603,7 @@ Tuesday 7 July 2026 at 12:00 | no launch event
 
 ------
 
-## [Enhancing adolescent social and emotional well-being through a gender-sensitive approach](https://doi.org/10.1787/00ebd3dd-en)
+## [Enhancing adolescent social and emotional well-being](https://doi.org/10.1787/00ebd3dd-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -2879,6 +2787,52 @@ Thursday 16 July 2026 at 22:01 | no launch event
 
 ------
 
+## [Measuring global value chain participation in UK regions](https://doi.org/10.1787/5600c944-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 19 July 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [UK regions in the global economy](https://doi.org/10.1787/f36125c4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 19 July 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Corporate Tax Statistics 2026](https://doi.org/10.1787/73af6222-en)
 
 Embargo date | Launch date
@@ -2898,6 +2852,29 @@ Tuesday 21 July 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Promoting the Development of the Semiconductor Ecosystem in Panama](https://doi.org/10.1787/50f1e10d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
