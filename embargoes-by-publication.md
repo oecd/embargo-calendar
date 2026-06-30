@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 29 June 2026 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 30 June 2026 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revisiting local tax attribution under central control - A synthesis](https://doi.org/10.1787/36878835-en)
 
@@ -1108,6 +1108,673 @@ Monday 29 June 2026 at 12:00 | no launch event
 
 ------
 
+## [Samoa](https://doi.org/10.1787/b39094e7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Marshall Islands](https://doi.org/10.1787/1311a2b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Mongolia](https://doi.org/10.1787/b956cc15-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Thailand](https://doi.org/10.1787/02c65934-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Fiji](https://doi.org/10.1787/09c3fa85-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Niue](https://doi.org/10.1787/9ce53abb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Armenia](https://doi.org/10.1787/57645f28-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Vanuatu](https://doi.org/10.1787/867999ff-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Solomon Islands](https://doi.org/10.1787/d1d7730b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Georgia](https://doi.org/10.1787/df81cba6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Timor-Leste](https://doi.org/10.1787/4d4f1178-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Tokelau](https://doi.org/10.1787/dde04a5e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [New Zealand](https://doi.org/10.1787/2a44f6e2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Tonga](https://doi.org/10.1787/25fa05e2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Philippines](https://doi.org/10.1787/6db5b88d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Japan](https://doi.org/10.1787/6a372b73-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Kyrgyzstan](https://doi.org/10.1787/6dd1d539-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Azerbaijan](https://doi.org/10.1787/3973d7bc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Korea](https://doi.org/10.1787/461091e2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Papua New Guinea](https://doi.org/10.1787/a8574bab-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Australia](https://doi.org/10.1787/a944fe1f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Kazakhstan](https://doi.org/10.1787/dd01072e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Pakistan](https://doi.org/10.1787/825b2e5e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Malaysia](https://doi.org/10.1787/20a4852d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Cambodia](https://doi.org/10.1787/4f26e67f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Singapore](https://doi.org/10.1787/79a4587f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Lao People's Democratic Republic](https://doi.org/10.1787/ce952029-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Cook Islands](https://doi.org/10.1787/c45bbdf5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Nauru](https://doi.org/10.1787/6780f39a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
 ## [Revenue Statistics in Asia and the Pacific 2026 - Taxing Informal and Hard-to-Tax Sectors](https://doi.org/10.1787/065aa566-en)
 
 Embargo date | Launch date
@@ -1131,678 +1798,11 @@ Tuesday 30 June 2026 at 1:30 | no launch event
 
 ------
 
-## [Samoa](https://doi.org/10.1787/b39094e7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Marshall Islands](https://doi.org/10.1787/1311a2b2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Mongolia](https://doi.org/10.1787/b956cc15-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Thailand](https://doi.org/10.1787/02c65934-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Fiji](https://doi.org/10.1787/09c3fa85-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Niue](https://doi.org/10.1787/9ce53abb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Armenia](https://doi.org/10.1787/57645f28-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Vanuatu](https://doi.org/10.1787/867999ff-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Solomon Islands](https://doi.org/10.1787/d1d7730b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Georgia](https://doi.org/10.1787/df81cba6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Timor-Leste](https://doi.org/10.1787/4d4f1178-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Tokelau](https://doi.org/10.1787/dde04a5e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [New Zealand](https://doi.org/10.1787/2a44f6e2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Tonga](https://doi.org/10.1787/25fa05e2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Philippines](https://doi.org/10.1787/6db5b88d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Japan](https://doi.org/10.1787/6a372b73-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Kyrgyzstan](https://doi.org/10.1787/6dd1d539-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Azerbaijan](https://doi.org/10.1787/3973d7bc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Korea](https://doi.org/10.1787/461091e2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Papua New Guinea](https://doi.org/10.1787/a8574bab-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Australia](https://doi.org/10.1787/a944fe1f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Kazakhstan](https://doi.org/10.1787/dd01072e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Pakistan](https://doi.org/10.1787/825b2e5e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Malaysia](https://doi.org/10.1787/20a4852d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Cambodia](https://doi.org/10.1787/4f26e67f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Singapore](https://doi.org/10.1787/79a4587f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Lao People's Democratic Republic](https://doi.org/10.1787/ce952029-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Cook Islands](https://doi.org/10.1787/c45bbdf5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Nauru](https://doi.org/10.1787/6780f39a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
 ## [Indonesia](https://doi.org/10.1787/915ffa9d-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
+Tuesday 30 June 2026 at 1:30 | no launch event
 
 ### Status Information
 
@@ -1825,7 +1825,7 @@ Tuesday 30 June 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
+Tuesday 30 June 2026 at 1:30 | no launch event
 
 ### Status Information
 
@@ -1848,7 +1848,7 @@ Tuesday 30 June 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
+Tuesday 30 June 2026 at 1:30 | no launch event
 
 ### Status Information
 
@@ -1871,7 +1871,7 @@ Tuesday 30 June 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
+Tuesday 30 June 2026 at 1:30 | no launch event
 
 ### Status Information
 
@@ -1894,7 +1894,7 @@ Tuesday 30 June 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
+Tuesday 30 June 2026 at 1:30 | no launch event
 
 ### Status Information
 
@@ -1917,7 +1917,7 @@ Tuesday 30 June 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
+Tuesday 30 June 2026 at 1:30 | no launch event
 
 ### Status Information
 
@@ -1940,7 +1940,7 @@ Tuesday 30 June 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
+Tuesday 30 June 2026 at 1:30 | no launch event
 
 ### Status Information
 
@@ -1963,7 +1963,30 @@ Tuesday 30 June 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
+Tuesday 30 June 2026 at 1:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Bhutan](https://doi.org/10.1787/40261e00-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 June 2026 at 1:30 | no launch event
 
 ### Status Information
 
@@ -2001,29 +2024,6 @@ Tuesday 30 June 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Bhutan](https://doi.org/10.1787/40261e00-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
 * Format: *PDF*
 
 ------
@@ -2603,29 +2603,6 @@ Tuesday 7 July 2026 at 12:00 | no launch event
 
 ------
 
-## [Enhancing adolescent social and emotional well-being](https://doi.org/10.1787/00ebd3dd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 7 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ## [Model Tax Convention on Income and on Capital 2025 (Full Version) - Volumes I and II](https://doi.org/10.1787/db32e18b-en)
 
 Embargo date | Launch date
@@ -2672,7 +2649,7 @@ Monday 13 July 2026 at 9:00 | no launch event
 
 ------
 
-## [OECD Economic Survey: United Kingdom 2026](https://doi.org/10.1787/aa997c6e-en)
+## [OECD Economic Surveys: United Kingdom 2026](https://doi.org/10.1787/aa997c6e-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -2689,8 +2666,31 @@ Wednesday 15 July 2026 at 7:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [MNE Responses to the Global Minimum Tax](https://doi.org/10.1787/0bc9aac9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 July 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
