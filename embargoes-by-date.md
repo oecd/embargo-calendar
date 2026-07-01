@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 30 June 2026 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 1 July 2026 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 June 2026](#29-june-2026)
 * [30 June 2026](#30-june-2026)
 * [1 July 2026](#1-july-2026)
 * [2 July 2026](#2-july-2026)
@@ -21,1114 +20,6 @@ Data generated on | |
 * [22 September 2026](#22-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
-
-------
-
-# 29 June 2026
-
-## [Revisiting local tax attribution under central control - A synthesis](https://doi.org/10.1787/36878835-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [OECD-FAO Agricultural Outlook 2026-2035](https://doi.org/10.1787/47874669-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 9:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives agricoles de l’OCDE et de la FAO 2026-2035](https://doi.org/10.1787/414a618b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 9:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Iceland](https://doi.org/10.1787/aa775f41-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Norway](https://doi.org/10.1787/b64a529e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Sweden](https://doi.org/10.1787/7d34c1f4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Switzerland](https://doi.org/10.1787/61dcc0e6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Finland](https://doi.org/10.1787/9b16335e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Australia](https://doi.org/10.1787/2996fc72-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [OECD Survey on Drivers of Trust in Public Institutions 2026 Results - Navigating Rising Expectations and New Horizons](https://doi.org/10.1787/9eb63fec-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Slovak Republic](https://doi.org/10.1787/4985632d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Peru](https://doi.org/10.1787/11db004c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Poland](https://doi.org/10.1787/05dea001-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Mexico](https://doi.org/10.1787/efcf3503-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Costa Rica](https://doi.org/10.1787/73c69d31-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Luxembourg](https://doi.org/10.1787/645caa11-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Colombia](https://doi.org/10.1787/0a6d05a3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Germany](https://doi.org/10.1787/a8908944-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Spain](https://doi.org/10.1787/8443a0c4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Suisse](https://doi.org/10.1787/16d0eed2-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Japan](https://doi.org/10.1787/6a76d497-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [New Zealand](https://doi.org/10.1787/cc038706-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Romania](https://doi.org/10.1787/a1a82765-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Résultats 2026 de l’enquête de l’OCDE sur les déterminants de la confiance dans les institutions publiques - Des attentes croissantes, de nouveaux horizons](https://doi.org/10.1787/f1cdd038-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Latvia](https://doi.org/10.1787/e751f958-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Canada](https://doi.org/10.1787/44908581-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Estonia](https://doi.org/10.1787/5e38c043-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Austria](https://doi.org/10.1787/84fa0be8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Ireland](https://doi.org/10.1787/946ba2c0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Belgique](https://doi.org/10.1787/4359f096-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [France](https://doi.org/10.1787/e88edecc-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Croatia](https://doi.org/10.1787/30f1fa2e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Denmark](https://doi.org/10.1787/72d074fc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Belgium](https://doi.org/10.1787/42ab0d8b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Canada](https://doi.org/10.1787/bf5b9365-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [United Kingdom](https://doi.org/10.1787/1d0c63db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Italy](https://doi.org/10.1787/1c42e51b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Slovenia](https://doi.org/10.1787/03204000-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [France](https://doi.org/10.1787/c2fbb84d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Chile](https://doi.org/10.1787/422733e9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Portugal](https://doi.org/10.1787/8696899f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Bulgaria](https://doi.org/10.1787/31bcfcc8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Lithuania](https://doi.org/10.1787/cc9301b0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Netherlands](https://doi.org/10.1787/1982a052-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Brazil](https://doi.org/10.1787/0bb40204-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Luxembourg](https://doi.org/10.1787/c7835179-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Korea](https://doi.org/10.1787/16f14cae-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Greece](https://doi.org/10.1787/320ebbf3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 June 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
 
 ------
 
@@ -2177,6 +1068,75 @@ Wednesday 1 July 2026 at 7:00 | no launch event
 
 # 2 July 2026
 
+## [Test No. 322: Determination of the Solubility and Dissolution Rate of Nanomaterials for Environmental Fate Assessment](https://doi.org/10.1787/693e2680-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Test No.  494: Vitrigel-Eye Irritancy Test Method for Identifying Chemicals Not Requiring Classification and Labelling for Eye Irritation or Serious Eye Damage](https://doi.org/10.1787/9f20068a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Test No. 127: Dustiness determination of materials containing nano-objects and their aggregates and agglomerates](https://doi.org/10.1787/d862c720-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Essai n° 446A : Essai par gènes rapporteurs ToxTracker de caractérisation du danger de génotoxicité et des mécanismes d’action génotoxiques et non génotoxiques](https://doi.org/10.1787/2c40644b-fr)
 
 Embargo date | Launch date
@@ -2185,7 +1145,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2194,8 +1154,31 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Test No. 442D: In Vitro Skin Sensitisation - Assays addressing the Adverse Outcome Pathway Key Event on Keratinocyte activation](https://doi.org/10.1787/9789264229822-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -2223,6 +1206,144 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 ------
 
+## [Test No. 498: In vitro Phototoxicity - Reconstructed Human Epidermis Phototoxicity test method](https://doi.org/10.1787/7b2f9ea0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Test No. 446A: ToxTracker gene reporter assay for the identification of genotoxic hazard and genotoxic/non-genotoxic mechanism of action](https://doi.org/10.1787/f2d51b5b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Essai n° 429: Sensibilisation cutanée - Essai de stimulation locale des ganglions lymphatiques](https://doi.org/10.1787/9789264071117-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Test No. 442C: In Chemico Skin Sensitisation - Assays addressing the Adverse Outcome Pathway key event on covalent binding to proteins](https://doi.org/10.1787/9789264229709-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 8 April 2019 at 14:31
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Essai no. 494 : Méthode d’essai Vitrigel pour l’identification de produits chimiques ne nécessitant aucune classification ni étiquetage pour irritation oculaire ou lésions oculaires graves](https://doi.org/10.1787/7d3eb4ae-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 24 August 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Essai n°498 : Phototoxicité in vitro - Essai sur épiderme humain reconstitué](https://doi.org/10.1787/e3cca901-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Policies for the Future of Farming and Food in Switzerland](https://doi.org/10.1787/55cf64da-en)
 
 Embargo date | Launch date
@@ -2246,6 +1367,121 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 ------
 
+## [Essai n° 201: Algues d'eau douce et cyanobactéries, essai d'inhibition de la croissance](https://doi.org/10.1787/9789264069930-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 November 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Test No. 496: In vitro Macromolecular Test Method for Identifying Chemicals Inducing Serious Eye Damage and Chemicals Not Requiring Classification for Eye Irritation or Serious Eye Damage](https://doi.org/10.1787/970e5cd9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Essai n° 442C: Sensibilisation cutanée in chemico - Essai portant sur l’événement clé relatif à l’établissement d’une liaison covalente avec les protéines, dans la voie toxicologique impliquée dans les effets indésirables](https://doi.org/10.1787/9789264229723-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 8 April 2019 at 14:31
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Test No. 256: Determination of effects on earthworms (Oligochaeta, Annelida) in Field Studies](https://doi.org/10.1787/1f16503f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Essai n° 496 : Méthode d’essai macro-moléculaire in vitro pour l’identification de produits chimiques provoquant des lésions oculaires graves et les produits chimiques ne relevant d’aucune classification pour irritation oculaire ou lésions oculaires graves](https://doi.org/10.1787/e6373855-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Essai n° 322 : Mesure de la solubilité et de la vitesse de dissolution des nanomatériaux à des fins d’évaluation de leur devenir dans l’environnement](https://doi.org/10.1787/ee35ce99-fr)
 
 Embargo date | Launch date
@@ -2254,7 +1490,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2263,7 +1499,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -2277,7 +1513,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2286,7 +1522,30 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Test No. 454A: Human Glucocorticoid Receptor Transactivation Assay - Assay for the Detection of Glucocorticoid Receptor Agonist and Antagonist Activity of Chemicals](https://doi.org/10.1787/cefe7fd3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -2300,7 +1559,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2309,6 +1568,52 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Essai n° 442E: Sensibilisation cutanée in vitro - Essai de sensibilisation cutanée in vitro portant sur l'événement clé relatif à l'activation des cellules dendritiques dans la voie toxicologique impliquée dans les effets indésirables pour la sensibilisation cutanée](https://doi.org/10.1787/9789264276505-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Test No. 445A: Determination of Cytochrome P450 (CYP) Induction using Differentiated Human Hepatic Cells](https://doi.org/10.1787/765aaada-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
@@ -2323,7 +1628,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2332,8 +1637,77 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Test No. 255: Bumblebee (Bombus spp.), Chronic Oral Toxicity Test (10-Day Feeding)](https://doi.org/10.1787/f85a2323-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Essai n° 442D: Sensibilisation cutanée in vitro - Essais de sensibilisation cutanée in vitro portant sur l’événement clé ’relatif à l’activation des kératinocytes dans la voie toxicologique impliquée dans les effets indésirables](https://doi.org/10.1787/9789264229778-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Test No. 429: Skin Sensitisation - Local Lymph Node Assay](https://doi.org/10.1787/9789264071100-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -2346,7 +1720,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2361,6 +1735,75 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 ------
 
+## [Ligne directrice n° 497 : Approches définies pour la sensibilisation cutanée](https://doi.org/10.1787/383d0478-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Test No. 201: Freshwater Alga and Cyanobacteria, Growth Inhibition Test](https://doi.org/10.1787/9789264069923-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 November 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 9 April 2020 at 9:34
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Guideline No. 497: Defined Approaches on Skin Sensitisation](https://doi.org/10.1787/b92879a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Essai n° 454A : Essai de transactivation du récepteur des glucocorticoïdes humain - Essai pour la détection de l’activité agoniste et antagoniste des produits chimiques sur récepteur des glucocorticoïdes](https://doi.org/10.1787/a3172aef-fr)
 
 Embargo date | Launch date
@@ -2369,7 +1812,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -2378,8 +1821,77 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Test No. 442E: In Vitro Skin Sensitisation - In Vitro Skin Sensitisation assays addressing the Key Event on activation of dendritic cells on the Adverse Outcome Pathway for Skin Sensitisation](https://doi.org/10.1787/9789264264359-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Test No. 444A: In Vitro Immunotoxicity - IL-2 Luc and Il-2 Luc LTT Assays](https://doi.org/10.1787/27b10ba3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Essai No. 444A : immunotoxicité in vitro - Essais Il-2 Luc et Il-2 Luc LTT](https://doi.org/10.1787/5bcb53e5-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
