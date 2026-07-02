@@ -2,1019 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 1 July 2026 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Samoa](https://doi.org/10.1787/b39094e7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Marshall Islands](https://doi.org/10.1787/1311a2b2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Mongolia](https://doi.org/10.1787/b956cc15-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Thailand](https://doi.org/10.1787/02c65934-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Fiji](https://doi.org/10.1787/09c3fa85-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Niue](https://doi.org/10.1787/9ce53abb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Armenia](https://doi.org/10.1787/57645f28-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Vanuatu](https://doi.org/10.1787/867999ff-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Solomon Islands](https://doi.org/10.1787/d1d7730b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Georgia](https://doi.org/10.1787/df81cba6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Timor-Leste](https://doi.org/10.1787/4d4f1178-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Tokelau](https://doi.org/10.1787/dde04a5e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [New Zealand](https://doi.org/10.1787/2a44f6e2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Tonga](https://doi.org/10.1787/25fa05e2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Philippines](https://doi.org/10.1787/6db5b88d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Japan](https://doi.org/10.1787/6a372b73-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Kyrgyzstan](https://doi.org/10.1787/6dd1d539-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Azerbaijan](https://doi.org/10.1787/3973d7bc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Korea](https://doi.org/10.1787/461091e2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Papua New Guinea](https://doi.org/10.1787/a8574bab-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Australia](https://doi.org/10.1787/a944fe1f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Kazakhstan](https://doi.org/10.1787/dd01072e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Pakistan](https://doi.org/10.1787/825b2e5e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Malaysia](https://doi.org/10.1787/20a4852d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Cambodia](https://doi.org/10.1787/4f26e67f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Singapore](https://doi.org/10.1787/79a4587f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Lao People's Democratic Republic](https://doi.org/10.1787/ce952029-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Cook Islands](https://doi.org/10.1787/c45bbdf5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Nauru](https://doi.org/10.1787/6780f39a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Revenue Statistics in Asia and the Pacific 2026 - Taxing Informal and Hard-to-Tax Sectors](https://doi.org/10.1787/065aa566-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Indonesia](https://doi.org/10.1787/915ffa9d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Kiribati](https://doi.org/10.1787/2e03666f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Viet Nam](https://doi.org/10.1787/d78ca566-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Bangladesh](https://doi.org/10.1787/4f118ad9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Sri Lanka](https://doi.org/10.1787/7141ef61-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [China](https://doi.org/10.1787/b5ae69c7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Hong Kong, China](https://doi.org/10.1787/4b55a005-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Maldives](https://doi.org/10.1787/4983f5c6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Bhutan](https://doi.org/10.1787/40261e00-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 1:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Investment tax incentives in Latin America and the Caribbean - An analysis using effective tax rates](https://doi.org/10.1787/45b5f9a1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l'OCDE : France 2026](https://doi.org/10.1787/65cc698e-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *HTML, Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: France 2026](https://doi.org/10.1787/e88a1716-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *HTML, Paperback, PDF*
-
-------
-
-## [OECD Responsible Business Outlook 2026 - Making Commitments Count](https://doi.org/10.1787/2b15370f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives de l’OCDE sur la conduite responsable des entreprises 2026 (version abrégée) - Concrétiser les engagements](https://doi.org/10.1787/94cbdf3a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 June 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
+| *Thursday 2 July 2026 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Navigating Life with Low Literacy and Numeracy - New Results from the 2023 Survey of Adult Skills](https://doi.org/10.1787/c198a20f-en)
 
@@ -1079,7 +67,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1194,7 +182,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1240,7 +228,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1286,7 +274,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1309,7 +297,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1378,7 +366,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1447,7 +435,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1585,7 +573,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1677,7 +665,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1700,7 +688,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1723,7 +711,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1769,7 +757,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1838,7 +826,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1861,7 +849,7 @@ Thursday 2 July 2026 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -2005,7 +993,7 @@ Friday 3 July 2026 at 7:30 | no launch event
 
 ------
 
-## [Tax and Development Progress Report on 2025](https://doi.org/10.1787/d652a08b-en)
+## [Tax Co-operation for Development 2025 - Progress report](https://doi.org/10.1787/d652a08b-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -2024,29 +1012,6 @@ Monday 6 July 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Skills in the AI age](https://doi.org/10.1787/972bd15e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 7 July 2026 at 5:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -2120,6 +1085,29 @@ Tuesday 7 July 2026 at 12:00 | no launch event
 
 ------
 
+## [Skills in the AI age](https://doi.org/10.1787/972bd15e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 July 2026 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Model Tax Convention on Income and on Capital 2025 (Full Version) - Volumes I and II](https://doi.org/10.1787/db32e18b-en)
 
 Embargo date | Launch date
@@ -2170,7 +1158,7 @@ Monday 13 July 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 15 July 2026 at 7:00 | no launch event
+Wednesday 15 July 2026 at 9:00 | no launch event
 
 ### Status Information
 
@@ -2396,6 +1384,52 @@ Thursday 30 July 2026 at 6:00 | no launch event
 
 ------
 
+## [Progress Review of Peru's Water and Sanitation Services Regulator - Driving Performance](https://doi.org/10.1787/a9012c4c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 2 August 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Tax Policy Reviews: Peru 2026](https://doi.org/10.1787/47e6c63e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 August 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, August 2026)](https://doi.org/10.1787/8af2444d-en)
 
 Embargo date | Launch date
@@ -2415,6 +1449,29 @@ Monday 31 August 2026 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Tax Policy Reforms 2026 - OECD and Selected Partner Economies](https://doi.org/10.1787/43d18a55-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
