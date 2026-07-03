@@ -2,50 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/c198a20f-end3e331
-SUMMARY:[Book] Navigating Life with Low Literacy
-  and Numeracy - New Results from the 202
- 3 Survey of Adult Skills
-DESCRIPTION:*[Book] Navigating Life with Low Literac
- y and Numeracy - New Results from the 20
- 23 Survey of Adult Skills*\n\nDirectorat
- e: Directorate for Education and Skills\
- nLanguage: English\nDOI: https://doi.org
- /10.1787/c198a20f-en\nPublication type: 
- Book\nReleased as: HTML, Paperback, PDF,
-  ZJCR, ZXML\n\nEmbargo date/time: Wednes
- day, 1 July 2026, 7:00 (GMT)\n\n\niLibra
- ry export: never\nFreepreview export: ne
- ver\nOECD.org export: never\nFTI loaded:
-  ✓\n\nFor more information see: https://
- oecd.github.io/embargo-calendar/embargoe
- s-by-publication.html.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 23:19, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=c198a
- 20f-en.
-DTSTAMP:20260702T231907Z
-DTSTART:20260701T070000Z
-DTEND:20260701T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Navigating Life with Lo
- w Literacy and Numeracy - New Results fr
- om the 2023 Survey of Adult Skills
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/693e2680-end3e653
+UID:10.1787/693e2680-end3e63
 SUMMARY:[Report] Test No. 322: Determination of 
  the Solubility and Dissolution Rate of N
  anomaterials for Environmental Fate Asse
@@ -64,7 +21,7 @@ DESCRIPTION:*[Report] Test No. 322: Determination of
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:19, 
+  correct as of this afternoon at 23:18, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -73,7 +30,7 @@ DESCRIPTION:*[Report] Test No. 322: Determination of
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=693e2680-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -89,7 +46,7 @@ DESCRIPTION:Reminder: [Report] Test No. 322: Determi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9f20068a-end3e812
+UID:10.1787/9f20068a-end3e223
 SUMMARY:[Book] Test No.  494: Vitrigel-Eye Irrit
  ancy Test Method for Identifying Chemica
  ls Not Requiring Classification and Labe
@@ -111,7 +68,7 @@ DESCRIPTION:*[Book] Test No. 494: Vitrigel-Eye Irrit
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:19, it is updated e
+ this afternoon at 23:18, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -120,7 +77,7 @@ DESCRIPTION:*[Book] Test No. 494: Vitrigel-Eye Irrit
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =9f20068a-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -137,7 +94,7 @@ DESCRIPTION:Reminder: [Book] Test No.  494: Vitrigel
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d862c720-end3e868
+UID:10.1787/d862c720-end3e280
 SUMMARY:[Report] Test No. 127: Dustiness determi
  nation of materials containing nano-obje
  cts and their aggregates and agglomerate
@@ -156,7 +113,7 @@ DESCRIPTION:*[Report] Test No. 127: Dustiness determ
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:19, it is
+ ect as of this afternoon at 23:18, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -165,7 +122,7 @@ DESCRIPTION:*[Report] Test No. 127: Dustiness determ
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=d862c720-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -181,7 +138,7 @@ DESCRIPTION:Reminder: [Report] Test No. 127: Dustine
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2c40644b-frd3e922
+UID:10.1787/2c40644b-frd3e334
 SUMMARY:[Report] Essai n° 446A : Essai par gènes
   rapporteurs ToxTracker de caractérisati
  on du danger de génotoxicité et des méca
@@ -202,7 +159,7 @@ DESCRIPTION:*[Report] Essai n° 446A : Essai par gène
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:19,
+ s correct as of this afternoon at 23:18,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -211,7 +168,7 @@ DESCRIPTION:*[Report] Essai n° 446A : Essai par gène
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=2c40644b-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -228,7 +185,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 446A : Essai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264229822-end3e975
+UID:10.1787/9789264229822-end3e388
 SUMMARY:[Book] Test No. 442D: In Vitro Skin Sens
  itisation - Assays addressing the Advers
  e Outcome Pathway Key Event on Keratinoc
@@ -249,7 +206,7 @@ DESCRIPTION:*[Book] Test No. 442D: In Vitro Skin Sen
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:19, it is update
+ of this afternoon at 23:18, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -258,7 +215,7 @@ DESCRIPTION:*[Book] Test No. 442D: In Vitro Skin Sen
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=9789264229822-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -274,7 +231,7 @@ DESCRIPTION:Reminder: [Book] Test No. 442D: In Vitro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6b87f585-end3e1033
+UID:10.1787/6b87f585-end3e446
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Korea 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -290,7 +247,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 23:19, it is updated each night; the
+  at 23:18, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -298,7 +255,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=6b87f585-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -312,7 +269,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7b2f9ea0-end3e1086
+UID:10.1787/7b2f9ea0-end3e500
 SUMMARY:[Book] Test No. 498: In vitro Phototoxic
  ity - Reconstructed Human Epidermis Phot
  otoxicity test method
@@ -331,7 +288,7 @@ DESCRIPTION:*[Book] Test No. 498: In vitro Phototoxi
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:19, it is 
+ ct as of this afternoon at 23:18, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -340,7 +297,7 @@ DESCRIPTION:*[Book] Test No. 498: In vitro Phototoxi
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=7b2f9ea0-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -355,7 +312,7 @@ DESCRIPTION:Reminder: [Book] Test No. 498: In vitro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f2d51b5b-end3e1250
+UID:10.1787/f2d51b5b-end3e664
 SUMMARY:[Report] Test No. 446A: ToxTracker gene 
  reporter assay for the identification of
   genotoxic hazard and genotoxic/non-geno
@@ -375,7 +332,7 @@ DESCRIPTION:*[Report] Test No. 446A: ToxTracker gene
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 23:19, it is updated each ni
+ fternoon at 23:18, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -384,7 +341,7 @@ DESCRIPTION:*[Report] Test No. 446A: ToxTracker gene
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=f2d51
  b5b-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -400,7 +357,7 @@ DESCRIPTION:Reminder: [Report] Test No. 446A: ToxTra
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264071117-frd3e1303
+UID:10.1787/9789264071117-frd3e718
 SUMMARY:[Book] Essai n° 429: Sensibilisation cut
  anée - Essai de stimulation locale des g
  anglions lymphatiques
@@ -419,7 +376,7 @@ DESCRIPTION:*[Book] Essai n° 429: Sensibilisation cu
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:19, it is 
+ ct as of this afternoon at 23:18, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -428,7 +385,7 @@ DESCRIPTION:*[Book] Essai n° 429: Sensibilisation cu
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=9789264071117-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -443,7 +400,7 @@ DESCRIPTION:Reminder: [Book] Essai n° 429: Sensibili
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264229709-end3e1361
+UID:10.1787/9789264229709-end3e776
 SUMMARY:[Book] Test No. 442C: In Chemico Skin Se
  nsitisation - Assays addressing the Adve
  rse Outcome Pathway key event on covalen
@@ -464,7 +421,7 @@ DESCRIPTION:*[Book] Test No. 442C: In Chemico Skin S
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:19, it is 
+ ct as of this afternoon at 23:18, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -473,7 +430,7 @@ DESCRIPTION:*[Book] Test No. 442C: In Chemico Skin S
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=9789264229709-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -489,7 +446,7 @@ DESCRIPTION:Reminder: [Book] Test No. 442C: In Chemi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7d3eb4ae-frd3e1419
+UID:10.1787/7d3eb4ae-frd3e834
 SUMMARY:[Book] Essai no. 494 : Méthode d’essai V
  itrigel pour l’identification de produit
  s chimiques ne nécessitant aucune classi
@@ -513,7 +470,7 @@ DESCRIPTION:*[Book] Essai no. 494 : Méthode d’essai
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 3:19, it is updated each night; therefor
+ 3:18, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -521,7 +478,7 @@ DESCRIPTION:*[Book] Essai no. 494 : Méthode d’essai
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=7d3eb4ae-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -539,7 +496,7 @@ DESCRIPTION:Reminder: [Book] Essai no. 494 : Méthode
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e3cca901-frd3e1476
+UID:10.1787/e3cca901-frd3e891
 SUMMARY:[Book] Essai n°498 : Phototoxicité in vi
  tro - Essai sur épiderme humain reconsti
  tué
@@ -558,7 +515,7 @@ DESCRIPTION:*[Book] Essai n°498 : Phototoxicité in v
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:19, it is updated each night;
+ noon at 23:18, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -567,7 +524,7 @@ DESCRIPTION:*[Book] Essai n°498 : Phototoxicité in v
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=e3cca901-
  fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -582,7 +539,7 @@ DESCRIPTION:Reminder: [Book] Essai n°498 : Phototoxi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/55cf64da-end3e1533
+UID:10.1787/55cf64da-end3e949
 SUMMARY:[Book] Policies for the Future of Farmin
  g and Food in Switzerland
 DESCRIPTION:*[Book] Policies for the Future of Farmi
@@ -599,7 +556,7 @@ DESCRIPTION:*[Book] Policies for the Future of Farmi
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 23:19, it is updated each night
+ rnoon at 23:18, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -608,7 +565,7 @@ DESCRIPTION:*[Book] Policies for the Future of Farmi
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=55cf64da
  -en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -622,7 +579,7 @@ DESCRIPTION:Reminder: [Book] Policies for the Future
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264069930-frd3e1587
+UID:10.1787/9789264069930-frd3e1003
 SUMMARY:[Book] Essai n° 201: Algues d'eau douce 
  et cyanobactéries, essai d'inhibition de
   la croissance
@@ -641,7 +598,7 @@ DESCRIPTION:*[Book] Essai n° 201: Algues d'eau douce
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:19, it is 
+ ct as of this afternoon at 23:18, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -650,7 +607,7 @@ DESCRIPTION:*[Book] Essai n° 201: Algues d'eau douce
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=9789264069930-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -665,7 +622,7 @@ DESCRIPTION:Reminder: [Book] Essai n° 201: Algues d'
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/970e5cd9-end3e1644
+UID:10.1787/970e5cd9-end3e1060
 SUMMARY:[Book] Test No. 496: In vitro Macromolec
  ular Test Method for Identifying Chemica
  ls Inducing Serious Eye Damage and Chemi
@@ -689,7 +646,7 @@ DESCRIPTION:*[Book] Test No. 496: In vitro Macromole
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 23:1
- 9, it is updated each night; therefore a
+ 8, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -697,7 +654,7 @@ DESCRIPTION:*[Book] Test No. 496: In vitro Macromole
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=970e5cd9-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -715,7 +672,7 @@ DESCRIPTION:Reminder: [Book] Test No. 496: In vitro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264229723-frd3e1701
+UID:10.1787/9789264229723-frd3e1117
 SUMMARY:[Book] Essai n° 442C: Sensibilisation cu
  tanée in chemico - Essai portant sur l’é
  vénement clé relatif à l’établissement d
@@ -740,7 +697,7 @@ DESCRIPTION:*[Book] Essai n° 442C: Sensibilisation c
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:19, 
+  correct as of this afternoon at 23:18, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -749,7 +706,7 @@ DESCRIPTION:*[Book] Essai n° 442C: Sensibilisation c
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=9789264229723-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -767,7 +724,7 @@ DESCRIPTION:Reminder: [Book] Essai n° 442C: Sensibil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1f16503f-end3e1812
+UID:10.1787/1f16503f-end3e1228
 SUMMARY:[Report] Test No. 256: Determination of 
  effects on earthworms (Oligochaeta, Anne
  lida) in Field Studies
@@ -785,7 +742,7 @@ DESCRIPTION:*[Report] Test No. 256: Determination of
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 23:19, it is updated each night
+ rnoon at 23:18, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -794,7 +751,7 @@ DESCRIPTION:*[Report] Test No. 256: Determination of
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=1f16503f
  -en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -809,7 +766,7 @@ DESCRIPTION:Reminder: [Report] Test No. 256: Determi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e6373855-frd3e1865
+UID:10.1787/e6373855-frd3e1283
 SUMMARY:[Book] Essai n° 496 : Méthode d’essai ma
  cro-moléculaire in vitro pour l’identifi
  cation de produits chimiques provoquant 
@@ -836,7 +793,7 @@ DESCRIPTION:*[Book] Essai n° 496 : Méthode d’essai m
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:19, it is upd
+ as of this afternoon at 23:18, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -845,7 +802,7 @@ DESCRIPTION:*[Book] Essai n° 496 : Méthode d’essai m
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=e6373855-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -864,7 +821,7 @@ DESCRIPTION:Reminder: [Book] Essai n° 496 : Méthode
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ee35ce99-frd3e1923
+UID:10.1787/ee35ce99-frd3e1340
 SUMMARY:[Report] Essai n° 322 : Mesure de la sol
  ubilité et de la vitesse de dissolution 
  des nanomatériaux à des fins d’évaluatio
@@ -884,7 +841,7 @@ DESCRIPTION:*[Report] Essai n° 322 : Mesure de la so
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:19, it is upd
+ as of this afternoon at 23:18, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -893,7 +850,7 @@ DESCRIPTION:*[Report] Essai n° 322 : Mesure de la so
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=ee35ce99-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -910,7 +867,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 322 : Mesure
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b57280b0-frd3e2029
+UID:10.1787/b57280b0-frd3e1447
 SUMMARY:[Report] Essai n° 255 : Bourdon (Bombus 
  spp.), essai de toxicité chronique par v
  oie orale (10 jours)
@@ -928,7 +885,7 @@ DESCRIPTION:*[Report] Essai n° 255 : Bourdon (Bombus
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 23:19, it is updated each night; t
+ on at 23:18, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -937,7 +894,7 @@ DESCRIPTION:*[Report] Essai n° 255 : Bourdon (Bombus
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=b57280b0-fr
  .
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -952,7 +909,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 255 : Bourdo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cefe7fd3-end3e2082
+UID:10.1787/cefe7fd3-end3e1501
 SUMMARY:[Report] Test No. 454A: Human Glucocorti
  coid Receptor Transactivation Assay - As
  say for the Detection of Glucocorticoid 
@@ -974,7 +931,7 @@ DESCRIPTION:*[Report] Test No. 454A: Human Glucocort
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 23:19, it is updated each night; therefo
+ 23:18, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -982,7 +939,7 @@ DESCRIPTION:*[Report] Test No. 454A: Human Glucocort
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=cefe7fd3-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -999,7 +956,7 @@ DESCRIPTION:Reminder: [Report] Test No. 454A: Human
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7486ad6c-frd3e2136
+UID:10.1787/7486ad6c-frd3e1556
 SUMMARY:[Report] Essai n° 127 : Détermination de
   l’empoussièrement des matériaux contena
  nt des nano-objets ainsi que leurs agrég
@@ -1019,7 +976,7 @@ DESCRIPTION:*[Report] Essai n° 127 : Détermination d
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 23:19, it is updated each night; the
+  at 23:18, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -1027,7 +984,7 @@ DESCRIPTION:*[Report] Essai n° 127 : Détermination d
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=7486ad6c-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1043,7 +1000,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 127 : Déterm
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264276505-frd3e2243
+UID:10.1787/9789264276505-frd3e1664
 SUMMARY:[Book] Essai n° 442E: Sensibilisation cu
  tanée in vitro - Essai de sensibilisatio
  n cutanée in vitro portant sur l'événeme
@@ -1071,7 +1028,7 @@ DESCRIPTION:*[Book] Essai n° 442E: Sensibilisation c
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 3:19, it is updated each night; therefor
+ 3:18, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -1079,7 +1036,7 @@ DESCRIPTION:*[Book] Essai n° 442E: Sensibilisation c
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=9789264276505-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1099,7 +1056,7 @@ DESCRIPTION:Reminder: [Book] Essai n° 442E: Sensibil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/765aaada-end3e2301
+UID:10.1787/765aaada-end3e1722
 SUMMARY:[Report] Test No. 445A: Determination of
   Cytochrome P450 (CYP) Induction using D
  ifferentiated Human Hepatic Cells
@@ -1117,7 +1074,7 @@ DESCRIPTION:*[Report] Test No. 445A: Determination o
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:19, it is updated
+ f this afternoon at 23:18, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -1126,7 +1083,7 @@ DESCRIPTION:*[Report] Test No. 445A: Determination o
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=765aaada-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1142,7 +1099,7 @@ DESCRIPTION:Reminder: [Report] Test No. 445A: Determ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/942262f6-frd3e2354
+UID:10.1787/942262f6-frd3e1776
 SUMMARY:[Report] Essai n° 256 : Détermination de
  s effets des produits chimiques sur les 
  vers de terre (Oligochaeta, Annelida) da
@@ -1162,7 +1119,7 @@ DESCRIPTION:*[Report] Essai n° 256 : Détermination d
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:19, it is update
+ of this afternoon at 23:18, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -1171,7 +1128,7 @@ DESCRIPTION:*[Report] Essai n° 256 : Détermination d
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=942262f6-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1188,7 +1145,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 256 : Déterm
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f85a2323-end3e2460
+UID:10.1787/f85a2323-end3e1883
 SUMMARY:[Report] Test No. 255: Bumblebee (Bombus
   spp.), Chronic Oral Toxicity Test (10-D
  ay Feeding)
@@ -1206,7 +1163,7 @@ DESCRIPTION:*[Report] Test No. 255: Bumblebee (Bombu
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 23
- :19, it is updated each night; therefore
+ :18, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -1214,7 +1171,7 @@ DESCRIPTION:*[Report] Test No. 255: Bumblebee (Bombu
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=f85a2323-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1229,7 +1186,7 @@ DESCRIPTION:Reminder: [Report] Test No. 255: Bumbleb
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264229778-frd3e2513
+UID:10.1787/9789264229778-frd3e1938
 SUMMARY:[Book] Essai n° 442D: Sensibilisation cu
  tanée in vitro - Essais de sensibilisati
  on cutanée in vitro portant sur l’événem
@@ -1255,7 +1212,7 @@ DESCRIPTION:*[Book] Essai n° 442D: Sensibilisation c
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  23:19, it is updated each night; theref
+  23:18, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -1264,7 +1221,7 @@ DESCRIPTION:*[Book] Essai n° 442D: Sensibilisation c
  date information see here: http://kappa.
  oecd.org/v3/search?term=9789264229778-fr
  .
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1283,7 +1240,7 @@ DESCRIPTION:Reminder: [Book] Essai n° 442D: Sensibil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264071100-end3e2572
+UID:10.1787/9789264071100-end3e1996
 SUMMARY:[Book] Test No. 429: Skin Sensitisation 
  - Local Lymph Node Assay
 DESCRIPTION:*[Book] Test No. 429: Skin Sensitisation
@@ -1300,7 +1257,7 @@ DESCRIPTION:*[Book] Test No. 429: Skin Sensitisation
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:19, it
+ orrect as of this afternoon at 23:18, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -1309,7 +1266,7 @@ DESCRIPTION:*[Book] Test No. 429: Skin Sensitisation
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=9789264071100-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1323,7 +1280,7 @@ DESCRIPTION:Reminder: [Book] Test No. 429: Skin Sens
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d7951126-frd3e2630
+UID:10.1787/d7951126-frd3e2054
 SUMMARY:[Report] Essai n° 445A : Détermination d
  e l’induction de l’activité des enzymes 
  cytochromes P450 (CYP) au moyen de cellu
@@ -1343,7 +1300,7 @@ DESCRIPTION:*[Report] Essai n° 445A : Détermination
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:19, it is upda
+ s of this afternoon at 23:18, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -1352,7 +1309,7 @@ DESCRIPTION:*[Report] Essai n° 445A : Détermination
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=d7951126-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1369,7 +1326,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 445A : Déter
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/383d0478-frd3e2736
+UID:10.1787/383d0478-frd3e2161
 SUMMARY:[Book] Ligne directrice n° 497 : Approch
  es définies pour la sensibilisation cuta
  née
@@ -1388,7 +1345,7 @@ DESCRIPTION:*[Book] Ligne directrice n° 497 : Approc
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:19, it is updated each night;
+ noon at 23:18, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -1397,7 +1354,7 @@ DESCRIPTION:*[Book] Ligne directrice n° 497 : Approc
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=383d0478-
  fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1412,7 +1369,7 @@ DESCRIPTION:Reminder: [Book] Ligne directrice n° 497
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264069923-end3e2845
+UID:10.1787/9789264069923-end3e2271
 SUMMARY:[Book] Test No. 201: Freshwater Alga and
   Cyanobacteria, Growth Inhibition Test
 DESCRIPTION:*[Book] Test No. 201: Freshwater Alga an
@@ -1430,7 +1387,7 @@ DESCRIPTION:*[Book] Test No. 201: Freshwater Alga an
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 23:19, it is updated each ni
+ fternoon at 23:18, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -1439,7 +1396,7 @@ DESCRIPTION:*[Book] Test No. 201: Freshwater Alga an
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=97892
  64069923-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1454,7 +1411,7 @@ DESCRIPTION:Reminder: [Book] Test No. 201: Freshwate
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b92879a4-end3e3009
+UID:10.1787/b92879a4-end3e2434
 SUMMARY:[Book] Guideline No. 497: Defined Approa
  ches on Skin Sensitisation
 DESCRIPTION:*[Book] Guideline No. 497: Defined Appro
@@ -1471,7 +1428,7 @@ DESCRIPTION:*[Book] Guideline No. 497: Defined Appro
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:19, i
+ correct as of this afternoon at 23:18, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -1480,7 +1437,7 @@ DESCRIPTION:*[Book] Guideline No. 497: Defined Appro
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=b92879a4-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1494,7 +1451,7 @@ DESCRIPTION:Reminder: [Book] Guideline No. 497: Defi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a3172aef-frd3e3066
+UID:10.1787/a3172aef-frd3e2491
 SUMMARY:[Report] Essai n° 454A : Essai de transa
  ctivation du récepteur des glucocorticoï
  des humain - Essai pour la détection de 
@@ -1518,7 +1475,7 @@ DESCRIPTION:*[Report] Essai n° 454A : Essai de trans
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 23
- :19, it is updated each night; therefore
+ :18, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -1526,7 +1483,7 @@ DESCRIPTION:*[Report] Essai n° 454A : Essai de trans
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=a3172aef-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1544,7 +1501,7 @@ DESCRIPTION:Reminder: [Report] Essai n° 454A : Essai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9789264264359-end3e3120
+UID:10.1787/9789264264359-end3e2546
 SUMMARY:[Book] Test No. 442E: In Vitro Skin Sens
  itisation - In Vitro Skin Sensitisation 
  assays addressing the Key Event on activ
@@ -1568,7 +1525,7 @@ DESCRIPTION:*[Book] Test No. 442E: In Vitro Skin Sen
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 23:19, it is updated each night; th
+ n at 23:18, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -1577,7 +1534,7 @@ DESCRIPTION:*[Book] Test No. 442E: In Vitro Skin Sen
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=978926426435
  9-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1595,7 +1552,7 @@ DESCRIPTION:Reminder: [Book] Test No. 442E: In Vitro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/27b10ba3-end3e3178
+UID:10.1787/27b10ba3-end3e2605
 SUMMARY:[Book] Test No. 444A: In Vitro Immunotox
  icity - IL-2 Luc and Il-2 Luc LTT Assays
 DESCRIPTION:*[Book] Test No. 444A: In Vitro Immunoto
@@ -1613,7 +1570,7 @@ DESCRIPTION:*[Book] Test No. 444A: In Vitro Immunoto
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  23:19, it is updated each night; theref
+  23:18, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -1621,7 +1578,7 @@ DESCRIPTION:*[Book] Test No. 444A: In Vitro Immunoto
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=27b10ba3-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1636,7 +1593,7 @@ DESCRIPTION:Reminder: [Book] Test No. 444A: In Vitro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5bcb53e5-frd3e3290
+UID:10.1787/5bcb53e5-frd3e2716
 SUMMARY:[Book] Essai No. 444A : immunotoxicité i
  n vitro - Essais Il-2 Luc et Il-2 Luc LT
  T
@@ -1655,7 +1612,7 @@ DESCRIPTION:*[Book] Essai No. 444A : immunotoxicité
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  23:19, it is updated each night; theref
+  23:18, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -1663,7 +1620,7 @@ DESCRIPTION:*[Book] Essai No. 444A : immunotoxicité
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=5bcb53e5-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T060000Z
 DTEND:20260702T061500Z
 TRANSP:TRANSPARENT
@@ -1678,7 +1635,7 @@ DESCRIPTION:Reminder: [Book] Essai No. 444A : immuno
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1fdd5254-end3e3561
+UID:10.1787/1fdd5254-end3e2987
 SUMMARY:[Stand-alone monograph] Promoting Social
   Connectedness Through Food
 DESCRIPTION:*[Stand-alone monograph] Promoting Socia
@@ -1696,7 +1653,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting Socia
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:19, it is up
+  as of this afternoon at 23:18, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -1705,7 +1662,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting Socia
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=1fdd5254-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T090000Z
 DTEND:20260702T091500Z
 TRANSP:TRANSPARENT
@@ -1719,7 +1676,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/22fc5338-end3e3932
+UID:10.1787/22fc5338-end3e3359
 SUMMARY:[Report] Tax Inspectors Without Borders 
  Annual Report 2026
 DESCRIPTION:*[Report] Tax Inspectors Without Borders
@@ -1735,7 +1692,7 @@ DESCRIPTION:*[Report] Tax Inspectors Without Borders
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:19, it is upda
+ s of this afternoon at 23:18, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -1744,7 +1701,7 @@ DESCRIPTION:*[Report] Tax Inspectors Without Borders
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=22fc5338-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T130000Z
 DTEND:20260702T131500Z
 TRANSP:TRANSPARENT
@@ -1758,7 +1715,7 @@ DESCRIPTION:Reminder: [Report] Tax Inspectors Withou
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab495d07-frd3e3985
+UID:10.1787/ab495d07-frd3e3413
 SUMMARY:[Report] Inspecteurs des impôts sans fro
  ntières rapport annuel 2026
 DESCRIPTION:*[Report] Inspecteurs des impôts sans fr
@@ -1774,7 +1731,7 @@ DESCRIPTION:*[Report] Inspecteurs des impôts sans fr
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:19, it
+ orrect as of this afternoon at 23:18, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -1783,7 +1740,7 @@ DESCRIPTION:*[Report] Inspecteurs des impôts sans fr
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=ab495d07-fr.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T130000Z
 DTEND:20260702T131500Z
 TRANSP:TRANSPARENT
@@ -1797,7 +1754,7 @@ DESCRIPTION:Reminder: [Report] Inspecteurs des impôt
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/496bfa97-esd3e4038
+UID:10.1787/496bfa97-esd3e3467
 SUMMARY:[Report] Inspectores fiscales sin fronte
  ras informe anual 2026
 DESCRIPTION:*[Report] Inspectores fiscales sin front
@@ -1813,7 +1770,7 @@ DESCRIPTION:*[Report] Inspectores fiscales sin front
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:19, it is 
+ ct as of this afternoon at 23:18, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1822,7 +1779,7 @@ DESCRIPTION:*[Report] Inspectores fiscales sin front
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=496bfa97-es.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260702T130000Z
 DTEND:20260702T131500Z
 TRANSP:TRANSPARENT
@@ -1836,7 +1793,7 @@ DESCRIPTION:Reminder: [Report] Inspectores fiscales
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/729f06a5-end3e4410
+UID:10.1787/729f06a5-end3e3840
 SUMMARY:[Book] A Review of Greek Emigrants
 DESCRIPTION:*[Book] A Review of Greek Emigrants*\n\n
  Directorate: Directorate for Employment,
@@ -1852,7 +1809,7 @@ DESCRIPTION:*[Book] A Review of Greek Emigrants*\n\n
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 23:1
- 9, it is updated each night; therefore a
+ 8, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -1860,7 +1817,7 @@ DESCRIPTION:*[Book] A Review of Greek Emigrants*\n\n
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=729f06a5-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260703T070000Z
 DTEND:20260703T071500Z
 TRANSP:TRANSPARENT
@@ -1874,7 +1831,7 @@ DESCRIPTION:Reminder: [Book] A Review of Greek Emigr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab22c29c-end3e4835
+UID:10.1787/ab22c29c-end3e4265
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Albania
@@ -1892,7 +1849,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:19, it is updated each 
+  afternoon at 23:18, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -1901,7 +1858,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=ab2
  2c29c-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260703T073000Z
 DTEND:20260703T074500Z
 TRANSP:TRANSPARENT
@@ -1916,7 +1873,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d652a08b-end3e4888
+UID:10.1787/d652a08b-end3e4318
 SUMMARY:[Report] Tax Co-operation for Developmen
  t 2025 - Progress report
 DESCRIPTION:*[Report] Tax Co-operation for Developme
@@ -1928,11 +1885,11 @@ DESCRIPTION:*[Report] Tax Co-operation for Developme
  date/time: Monday, 6 July 2026, 9:00 (GM
  T)\n\n\niLibrary export: never\nFreeprev
  iew export: never\nOECD.org export: neve
- r\nFTI loaded: ✗\n\nFor more information
+ r\nFTI loaded: ✓\n\nFor more information
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:19, it is u
+ t as of this afternoon at 23:18, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1941,7 +1898,7 @@ DESCRIPTION:*[Report] Tax Co-operation for Developme
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=d652a08b-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260706T090000Z
 DTEND:20260706T091500Z
 TRANSP:TRANSPARENT
@@ -1955,7 +1912,7 @@ DESCRIPTION:Reminder: [Report] Tax Co-operation for
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2d21fffd-end3e4941
+UID:10.1787/2d21fffd-end3e4372
 SUMMARY:[Report] OECD Anti-Bribery Convention Ph
  ase 4 Report on the Slovak Republic - Im
  plementing the Convention and Related Le
@@ -1971,11 +1928,11 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  ate/time: Tuesday, 7 July 2026, 9:00 (GM
  T)\n\n\niLibrary export: never\nFreeprev
  iew export: never\nOECD.org export: neve
- r\nFTI loaded: ✗\n\nFor more information
+ r\nFTI loaded: ✓\n\nFor more information
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:19, it is u
+ t as of this afternoon at 23:18, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1984,7 +1941,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=2d21fffd-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260707T090000Z
 DTEND:20260707T091500Z
 TRANSP:TRANSPARENT
@@ -2000,7 +1957,97 @@ DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f8066478-end3e4994
+UID:10.1787/11a45124-end3e4426
+SUMMARY:[Report] OECD Anti-Bribery Convention Ph
+ ase 4 Follow-Up Report on Luxembourg - I
+ mplementing the Convention and Related L
+ egal Instruments
+DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
+ hase 4 Follow-Up Report on Luxembourg - 
+ Implementing the Convention and Related 
+ Legal Instruments*\n\nDirectorate: Direc
+ torate for Financial and Enterprise Affa
+ irs\nLanguage: English\nDOI: https://doi
+ .org/10.1787/11a45124-en\nPublication ty
+ pe: Report\nReleased as: PDF\n\nEmbargo 
+ date/time: Tuesday, 7 July 2026, 9:00 (G
+ MT)\n\n\niLibrary export: never\nFreepre
+ view export: never\nOECD.org export: nev
+ er\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 23:18, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=11a45124-en.
+DTSTAMP:20260703T231820Z
+DTSTART:20260707T090000Z
+DTEND:20260707T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
+ vention Phase 4 Follow-Up Report on Luxe
+ mbourg - Implementing the Convention and
+  Related Legal Instruments
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c5c7d9c5-frd3e4480
+SUMMARY:[Report] Convention anti-corruption de l
+ ’OCDE - Rapport de suivi de Phase 4 du L
+ uxembourg - Mise en œuvre de la Conventi
+ on et des instruments connexes
+DESCRIPTION:*[Report] Convention anti-corruption de 
+ l’OCDE - Rapport de suivi de Phase 4 du 
+ Luxembourg - Mise en œuvre de la Convent
+ ion et des instruments connexes*\n\nDire
+ ctorate: Directorate for Financial and E
+ nterprise Affairs\nLanguage: French\nDOI
+ : https://doi.org/10.1787/c5c7d9c5-fr\nP
+ ublication type: Report\nReleased as: PD
+ F\n\nEmbargo date/time: Tuesday, 7 July 
+ 2026, 9:00 (GMT)\n\n\niLibrary export: n
+ ever\nFreepreview export: never\nOECD.or
+ g export: never\nFTI loaded: ✓\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 23:18, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=c5c7d9c5-fr.
+DTSTAMP:20260703T231820Z
+DTSTART:20260707T090000Z
+DTEND:20260707T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] Convention anti-corru
+ ption de l’OCDE - Rapport de suivi de Ph
+ ase 4 du Luxembourg - Mise en œuvre de l
+ a Convention et des instruments connexes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f8066478-end3e4535
 SUMMARY:[Report] OECD Anti-Bribery Convention Ph
  ase 4 Report on Latvia - Implementing th
  e Convention and Related Legal Instrumen
@@ -2016,11 +2063,11 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  sday, 7 July 2026, 9:00 (GMT)\n\n\niLibr
  ary export: never\nFreepreview export: n
  ever\nOECD.org export: never\nFTI loaded
- : ✗\n\nFor more information see: https:/
+ : ✓\n\nFor more information see: https:/
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:19, it is updated each n
+ afternoon at 23:18, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -2029,7 +2076,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=f806
  6478-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260707T090000Z
 DTEND:20260707T091500Z
 TRANSP:TRANSPARENT
@@ -2045,7 +2092,50 @@ DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7e710f54-end3e5047
+UID:10.1787/f8a23d95-frd3e4802
+SUMMARY:[Book] Perspectives de l'emploi de l'OCD
+ E 2026 - Disparités géographiques en mat
+ ière d’emploi et de revenus
+DESCRIPTION:*[Book] Perspectives de l'emploi de l'OC
+ DE 2026 - Disparités géographiques en ma
+ tière d’emploi et de revenus*\n\nDirecto
+ rate: Directorate for Employment, Labour
+  and Social Affairs\nLanguage: French\nD
+ OI: https://doi.org/10.1787/f8a23d95-fr\
+ nPublication type: Book\nReleased as: HT
+ ML, Paperback, PDF, ZJCR, ZXML\n\nEmbarg
+ o date/time: Tuesday, 7 July 2026, 12:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 23:18, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=f8a23d95-fr.
+DTSTAMP:20260703T231820Z
+DTSTART:20260707T120000Z
+DTEND:20260707T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Perspectives de l'emplo
+ i de l'OCDE 2026 - Disparités géographiq
+ ues en matière d’emploi et de revenus
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/7e710f54-end3e5072
 SUMMARY:[Book] OECD Employment Outlook 2026 - Ge
  ographic Disparities in Jobs and Incomes
 DESCRIPTION:*[Book] OECD Employment Outlook 2026 - G
@@ -2054,24 +2144,24 @@ DESCRIPTION:*[Book] OECD Employment Outlook 2026 - G
  yment, Labour and Social Affairs\nLangua
  ge: English\nDOI: https://doi.org/10.178
  7/7e710f54-en\nPublication type: Book\nR
- eleased as: PDF\n\nEmbargo date/time: Tu
- esday, 7 July 2026, 12:00 (GMT)\n\n\niLi
- brary export: never\nFreepreview export:
-  never\nOECD.org export: never\nFTI load
- ed: ✗\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 23:19, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=7e
- 710f54-en.
-DTSTAMP:20260702T231907Z
+ eleased as: HTML, Paperback, PDF, ZJCR, 
+ ZXML\n\nEmbargo date/time: Tuesday, 7 Ju
+ ly 2026, 12:00 (GMT)\n\n\niLibrary expor
+ t: never\nFreepreview export: never\nOEC
+ D.org export: never\nFTI loaded: ✓\n\nFo
+ r more information see: https://oecd.git
+ hub.io/embargo-calendar/embargoes-by-pub
+ lication.html.\n\nPlease note: This info
+ rmation was correct as of this afternoon
+  at 23:18, it is updated each night; the
+ refore any subsequent updates may not ye
+ t be visible here. Also, please be aware
+  that the different released media (PDF,
+  HTML, etc.) are not necessarily release
+ d at the same time. For complete and up-
+ to-date information see here: http://kap
+ pa.oecd.org/v3/search?term=7e710f54-en.
+DTSTAMP:20260703T231820Z
 DTSTART:20260707T120000Z
 DTEND:20260707T121500Z
 TRANSP:TRANSPARENT
@@ -2086,33 +2176,33 @@ DESCRIPTION:Reminder: [Book] OECD Employment Outlook
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/972bd15e-end3e5100
+UID:10.1787/972bd15e-end3e5126
 SUMMARY:[Policy paper] Skills in the AI age
 DESCRIPTION:*[Policy paper] Skills in the AI age*\n\
  nDirectorate: Directorate for Science, T
  echnology and Industry\nLanguage: Englis
  h\nDOI: https://doi.org/10.1787/972bd15e
  -en\nPublication type: Policy paper\nRel
- eased as: PDF\n\nEmbargo date/time: Wedn
- esday, 8 July 2026, 13:00 (GMT)\n\n\niLi
- brary export: never\nFreepreview export:
-  never\nOECD.org export: never\nFTI load
- ed: ✗\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 23:19, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=97
- 2bd15e-en.
-DTSTAMP:20260702T231907Z
-DTSTART:20260708T130000Z
-DTEND:20260708T131500Z
+ eased as: PDF, ZJCR, ZXML\n\nEmbargo dat
+ e/time: Wednesday, 8 July 2026, 5:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✓\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 23:18, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=972bd15e-en.
+DTSTAMP:20260703T231820Z
+DTSTART:20260708T050000Z
+DTEND:20260708T051500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
@@ -2124,7 +2214,52 @@ DESCRIPTION:Reminder: [Policy paper] Skills in the A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/db32e18b-end3e5153
+UID:10.1787/9ee04030-end3e5286
+SUMMARY:[Report] OECD Anti-Bribery Convention Ph
+ ase 4 Follow-Up Report on Türkiye - Impl
+ ementing the Convention and Related Lega
+ l Instruments
+DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
+ hase 4 Follow-Up Report on Türkiye - Imp
+ lementing the Convention and Related Leg
+ al Instruments*\n\nDirectorate: Director
+ ate for Financial and Enterprise Affairs
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/9ee04030-en\nPublication type:
+  Report\nReleased as: PDF\n\nEmbargo dat
+ e/time: Thursday, 9 July 2026, 9:00 (GMT
+ )\n\n\niLibrary export: never\nFreeprevi
+ ew export: never\nOECD.org export: never
+ \nFTI loaded: ✓\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 23:18, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=9ee04030-en.
+DTSTAMP:20260703T231820Z
+DTSTART:20260709T090000Z
+DTEND:20260709T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
+ vention Phase 4 Follow-Up Report on Türk
+ iye - Implementing the Convention and Re
+ lated Legal Instruments
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/db32e18b-end3e5340
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Full Version) - Volum
  es I and II
@@ -2142,7 +2277,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 23:19, it is updated each ni
+ fternoon at 23:18, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -2151,7 +2286,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=db32e
  18b-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260713T090000Z
 DTEND:20260713T091500Z
 TRANSP:TRANSPARENT
@@ -2166,7 +2301,7 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fc44d951-end3e5206
+UID:10.1787/fc44d951-end3e5393
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Condensed Version)
 DESCRIPTION:*[Book] Model Tax Convention on Income a
@@ -2183,7 +2318,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 23
- :19, it is updated each night; therefore
+ :18, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -2191,7 +2326,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=fc44d951-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260713T090000Z
 DTEND:20260713T091500Z
 TRANSP:TRANSPARENT
@@ -2206,7 +2341,7 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/aa997c6e-end3e5258
+UID:10.1787/aa997c6e-end3e5445
 SUMMARY:[Economic survey] OECD Economic Surveys:
   United Kingdom 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -2222,7 +2357,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 23:19, it is updated each
+ s afternoon at 23:18, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -2231,7 +2366,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=aa
  997c6e-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260715T090000Z
 DTEND:20260715T091500Z
 TRANSP:TRANSPARENT
@@ -2245,7 +2380,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0bc9aac9-end3e5310
+UID:10.1787/0bc9aac9-end3e5498
 SUMMARY:[Working paper] MNE Responses to the Glo
  bal Minimum Tax
 DESCRIPTION:*[Working paper] MNE Responses to the Gl
@@ -2261,7 +2396,7 @@ DESCRIPTION:*[Working paper] MNE Responses to the Gl
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:19, it is
+ ect as of this afternoon at 23:18, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -2270,7 +2405,7 @@ DESCRIPTION:*[Working paper] MNE Responses to the Gl
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=0bc9aac9-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260715T090000Z
 DTEND:20260715T091500Z
 TRANSP:TRANSPARENT
@@ -2284,7 +2419,7 @@ DESCRIPTION:Reminder: [Working paper] MNE Responses
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d6b60ea7-end3e5362
+UID:10.1787/d6b60ea7-end3e5550
 SUMMARY:[Stand-alone monograph] Bridging the Gap
  s for Sustainable Development - Coherent
   Policies for Water, Energy, Industry an
@@ -2304,7 +2439,7 @@ DESCRIPTION:*[Stand-alone monograph] Bridging the Ga
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:19, it is upda
+ s of this afternoon at 23:18, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -2313,7 +2448,7 @@ DESCRIPTION:*[Stand-alone monograph] Bridging the Ga
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=d6b60ea7-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260715T150000Z
 DTEND:20260715T151500Z
 TRANSP:TRANSPARENT
@@ -2329,7 +2464,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Bridgi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dad01040-end3e5415
+UID:10.1787/dad01040-end3e5603
 SUMMARY:[Policy brief] Enforcement data of the O
  ECD Anti Bribery Convention 1999-2025
 DESCRIPTION:*[Policy brief] Enforcement data of the 
@@ -2346,7 +2481,7 @@ DESCRIPTION:*[Policy brief] Enforcement data of the
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:19, it is updated e
+ this afternoon at 23:18, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -2355,7 +2490,7 @@ DESCRIPTION:*[Policy brief] Enforcement data of the
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =dad01040-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260715T220100Z
 DTEND:20260715T221600Z
 TRANSP:TRANSPARENT
@@ -2370,7 +2505,7 @@ DESCRIPTION:Reminder: [Policy brief] Enforcement dat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/42ed5f84-end3e5469
+UID:10.1787/42ed5f84-end3e5656
 SUMMARY:[Stand-alone monograph] Environmental Ta
  x Policy Review of Romania - Policy Opti
  ons for Buildings and Transport
@@ -2389,7 +2524,7 @@ DESCRIPTION:*[Stand-alone monograph] Environmental T
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:19, it is updated each nig
+ ternoon at 23:18, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -2398,7 +2533,7 @@ DESCRIPTION:*[Stand-alone monograph] Environmental T
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=42ed5f
  84-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260716T060000Z
 DTEND:20260716T061500Z
 TRANSP:TRANSPARENT
@@ -2414,7 +2549,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Enviro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6ad10075-end3e5522
+UID:10.1787/6ad10075-end3e5709
 SUMMARY:[Working paper] Gender and trust in publ
  ic institutions in Switzerland - An anal
  ysis of the determinants
@@ -2432,7 +2567,7 @@ DESCRIPTION:*[Working paper] Gender and trust in pub
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:19, it 
+ rrect as of this afternoon at 23:18, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -2441,7 +2576,7 @@ DESCRIPTION:*[Working paper] Gender and trust in pub
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=6ad10075-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260716T220100Z
 DTEND:20260716T221600Z
 TRANSP:TRANSPARENT
@@ -2456,7 +2591,7 @@ DESCRIPTION:Reminder: [Working paper] Gender and tru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5600c944-end3e5575
+UID:10.1787/5600c944-end3e5762
 SUMMARY:[Working paper] Measuring global value c
  hain participation in UK regions
 DESCRIPTION:*[Working paper] Measuring global value 
@@ -2473,7 +2608,7 @@ DESCRIPTION:*[Working paper] Measuring global value
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:19, it is updated eac
+ is afternoon at 23:18, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -2482,7 +2617,7 @@ DESCRIPTION:*[Working paper] Measuring global value
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=5
  600c944-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260719T220100Z
 DTEND:20260719T221600Z
 TRANSP:TRANSPARENT
@@ -2497,7 +2632,7 @@ DESCRIPTION:Reminder: [Working paper] Measuring glob
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f36125c4-end3e5627
+UID:10.1787/f36125c4-end3e5815
 SUMMARY:[Working paper] UK regions in the global
   economy
 DESCRIPTION:*[Working paper] UK regions in the globa
@@ -2513,7 +2648,7 @@ DESCRIPTION:*[Working paper] UK regions in the globa
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:19, i
+ correct as of this afternoon at 23:18, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -2522,7 +2657,7 @@ DESCRIPTION:*[Working paper] UK regions in the globa
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=f36125c4-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260719T220100Z
 DTEND:20260719T221600Z
 TRANSP:TRANSPARENT
@@ -2536,7 +2671,7 @@ DESCRIPTION:Reminder: [Working paper] UK regions in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/73af6222-end3e5679
+UID:10.1787/73af6222-end3e5867
 SUMMARY:[Book] Corporate Tax Statistics 2026
 DESCRIPTION:*[Book] Corporate Tax Statistics 2026*\n
  \nDirectorate: Centre for Tax Policy and
@@ -2551,7 +2686,7 @@ DESCRIPTION:*[Book] Corporate Tax Statistics 2026*\n
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 23
- :19, it is updated each night; therefore
+ :18, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -2559,7 +2694,7 @@ DESCRIPTION:*[Book] Corporate Tax Statistics 2026*\n
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=73af6222-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260721T090000Z
 DTEND:20260721T091500Z
 TRANSP:TRANSPARENT
@@ -2573,7 +2708,7 @@ DESCRIPTION:Reminder: [Book] Corporate Tax Statistic
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50f1e10d-end3e5731
+UID:10.1787/50f1e10d-end3e5919
 SUMMARY:[Stand-alone monograph] Promoting the De
  velopment of the Semiconductor Ecosystem
   in Panama
@@ -2592,7 +2727,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 23
- :19, it is updated each night; therefore
+ :18, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -2600,7 +2735,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=50f1e10d-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260730T060000Z
 DTEND:20260730T061500Z
 TRANSP:TRANSPARENT
@@ -2615,7 +2750,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a9012c4c-end3e5784
+UID:10.1787/a9012c4c-end3e5971
 SUMMARY:[Book] Progress Review of Peru's Water a
  nd Sanitation Services Regulator - Drivi
  ng Performance
@@ -2633,7 +2768,7 @@ DESCRIPTION:*[Book] Progress Review of Peru's Water
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:19, it is update
+ of this afternoon at 23:18, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -2642,7 +2777,7 @@ DESCRIPTION:*[Book] Progress Review of Peru's Water
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=a9012c4c-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260802T220000Z
 DTEND:20260802T221500Z
 TRANSP:TRANSPARENT
@@ -2657,7 +2792,7 @@ DESCRIPTION:Reminder: [Book] Progress Review of Peru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/47e6c63e-end3e5890
+UID:10.1787/47e6c63e-end3e6077
 SUMMARY:[Book] OECD Tax Policy Reviews: Peru 202
  6
 DESCRIPTION:*[Book] OECD Tax Policy Reviews: Peru 20
@@ -2673,7 +2808,7 @@ DESCRIPTION:*[Book] OECD Tax Policy Reviews: Peru 20
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 23:19, it is updated each night; th
+ n at 23:18, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -2681,7 +2816,7 @@ DESCRIPTION:*[Book] OECD Tax Policy Reviews: Peru 20
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=47e6c63e-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260825T070000Z
 DTEND:20260825T071500Z
 TRANSP:TRANSPARENT
@@ -2695,7 +2830,7 @@ DESCRIPTION:Reminder: [Book] OECD Tax Policy Reviews
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8af2444d-end3e5942
+UID:10.1787/8af2444d-end3e6130
 SUMMARY:[Report] OECD Secretary-General Tax Repo
  rt to G20 Finance Ministers and Central 
  Bank Governors (G20 United States, Augus
@@ -2715,7 +2850,7 @@ DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:19, it is updated each n
+ afternoon at 23:18, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -2724,7 +2859,7 @@ DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=8af2
  444d-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260831T120000Z
 DTEND:20260831T121500Z
 TRANSP:TRANSPARENT
@@ -2740,7 +2875,7 @@ DESCRIPTION:Reminder: [Report] OECD Secretary-Genera
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/43d18a55-end3e5994
+UID:10.1787/43d18a55-end3e6182
 SUMMARY:[Book] Tax Policy Reforms 2026 - OECD an
  d Selected Partner Economies
 DESCRIPTION:*[Book] Tax Policy Reforms 2026 - OECD a
@@ -2756,7 +2891,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2026 - OECD a
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:19,
+ s correct as of this afternoon at 23:18,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -2765,7 +2900,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2026 - OECD a
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=43d18a55-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260908T090000Z
 DTEND:20260908T091500Z
 TRANSP:TRANSPARENT
@@ -2779,7 +2914,7 @@ DESCRIPTION:Reminder: [Book] Tax Policy Reforms 2026
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/10379f9f-end3e6047
+UID:10.1787/10379f9f-end3e6235
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Türkiye
@@ -2797,7 +2932,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:19, it is update
+ of this afternoon at 23:18, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -2806,7 +2941,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=10379f9f-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20260922T070000Z
 DTEND:20260922T071500Z
 TRANSP:TRANSPARENT
@@ -2821,7 +2956,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/58c3689d-end3e6100
+UID:10.1787/58c3689d-end3e6287
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Serbia
@@ -2839,7 +2974,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:19, it is updated e
+ this afternoon at 23:18, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -2848,7 +2983,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =58c3689d-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20261008T070000Z
 DTEND:20261008T071500Z
 TRANSP:TRANSPARENT
@@ -2863,7 +2998,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/846bbe2d-end3e6152
+UID:10.1787/846bbe2d-end3e6339
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Bosnia and Herzegovina
@@ -2881,7 +3016,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:19,
+ s correct as of this afternoon at 23:18,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -2890,7 +3025,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=846bbe2d-en.
-DTSTAMP:20260702T231907Z
+DTSTAMP:20260703T231820Z
 DTSTART:20261020T070000Z
 DTEND:20261020T071500Z
 TRANSP:TRANSPARENT
