@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 July 2026 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 8 July 2026 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [7 July 2026](#7-july-2026)
 * [8 July 2026](#8-july-2026)
@@ -998,7 +998,7 @@ Thursday 9 July 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1233,7 +1233,7 @@ Thursday 16 July 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1242,7 +1242,7 @@ Thursday 16 July 2026 at 6:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 July 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 8 July 2026 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Anti-Bribery Convention Phase 4 Report on the Slovak Republic - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/2d21fffd-en)
 
@@ -966,7 +966,7 @@ Thursday 9 July 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1185,7 +1185,7 @@ Thursday 16 July 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1194,7 +1194,7 @@ Thursday 16 July 2026 at 6:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
