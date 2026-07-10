@@ -2,20 +2,19 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 July 2026 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 10 July 2026 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 July 2026](#7-july-2026)
-* [8 July 2026](#8-july-2026)
 * [9 July 2026](#9-july-2026)
-* [12 July 2026](#12-july-2026)
 * [14 July 2026](#14-july-2026)
 * [15 July 2026](#15-july-2026)
 * [16 July 2026](#16-july-2026)
 * [17 July 2026](#17-july-2026)
 * [19 July 2026](#19-july-2026)
 * [21 July 2026](#21-july-2026)
+* [23 July 2026](#23-july-2026)
 * [30 July 2026](#30-july-2026)
 * [2 August 2026](#2-august-2026)
+* [5 August 2026](#5-august-2026)
 * [25 August 2026](#25-august-2026)
 * [31 August 2026](#31-august-2026)
 * [8 September 2026](#8-september-2026)
@@ -23,60 +22,6 @@ Data generated on | |
 * [30 September 2026](#30-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
-
-------
-
-# 7 July 2026
-
-## [Enhancing adolescent social and emotional well-being](https://doi.org/10.1787/00ebd3dd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 7 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 8 July 2026
-
-## [Skills in the AI age](https://doi.org/10.1787/972bd15e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 July 2026 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -153,57 +98,7 @@ Thursday 9 July 2026 at 9:00 | no launch event
 
 ------
 
-# 12 July 2026
-
-## [Cost-effective Active Labour Market Policies - Considering employment and social outcomes](https://doi.org/10.1787/a0d522a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 12 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 14 July 2026
-
-## [The spectrum of regulatory models and its application to the digital economy](https://doi.org/10.1787/b7456763-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ## [Flexibility and investor protection in share class structures](https://doi.org/10.1787/49a978ad-en)
 
@@ -480,6 +375,33 @@ Tuesday 21 July 2026 at 9:00 | no launch event
 
 ------
 
+# 23 July 2026
+
+## [OECD Economic Surveys: Hungary 2026](https://doi.org/10.1787/1d93d51d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 July 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
 # 30 July 2026
 
 ## [Promoting the Development of the Semiconductor Ecosystem in Panama](https://doi.org/10.1787/50f1e10d-en)
@@ -529,6 +451,33 @@ Sunday 2 August 2026 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 5 August 2026
+
+## [Coopération fiscale au service du développement 2025 - Rapport d'étape](https://doi.org/10.1787/b3c895b4-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 August 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 

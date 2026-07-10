@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 July 2026 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Enhancing adolescent social and emotional well-being](https://doi.org/10.1787/00ebd3dd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 7 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Skills in the AI age](https://doi.org/10.1787/972bd15e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 July 2026 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
+| *Friday 10 July 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Trends in Global Value Chains](https://doi.org/10.1787/8217c2ff-en)
 
@@ -115,52 +69,6 @@ Thursday 9 July 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Cost-effective Active Labour Market Policies - Considering employment and social outcomes](https://doi.org/10.1787/a0d522a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 12 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [The spectrum of regulatory models and its application to the digital economy](https://doi.org/10.1787/b7456763-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -418,6 +326,29 @@ Tuesday 21 July 2026 at 9:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Hungary 2026](https://doi.org/10.1787/1d93d51d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 July 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [Promoting the Development of the Semiconductor Ecosystem in Panama](https://doi.org/10.1787/50f1e10d-en)
 
 Embargo date | Launch date
@@ -461,6 +392,29 @@ Sunday 2 August 2026 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Coopération fiscale au service du développement 2025 - Rapport d'étape](https://doi.org/10.1787/b3c895b4-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 August 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
