@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 10 July 2026 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 12 July 2026 at 23:22* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 July 2026](#9-july-2026)
 * [14 July 2026](#14-july-2026)
 * [15 July 2026](#15-july-2026)
 * [16 July 2026](#16-july-2026)
@@ -22,79 +21,6 @@ Data generated on | |
 * [30 September 2026](#30-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
-
-------
-
-# 9 July 2026
-
-## [Trends in Global Value Chains](https://doi.org/10.1787/8217c2ff-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 July 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Tax Co-operation for Development 2025 - Progress report](https://doi.org/10.1787/d652a08b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 July 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Anti-Bribery Convention Phase 4 Follow-Up Report on Türkiye - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/9ee04030-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 July 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 

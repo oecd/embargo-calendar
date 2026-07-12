@@ -2,130 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/8217c2ff-end3e63
-SUMMARY:[Stand-alone monograph] Trends in Global
-  Value Chains
-DESCRIPTION:*[Stand-alone monograph] Trends in Globa
- l Value Chains*\n\nDirectorate: Trade an
- d Agriculture Directorate\nLanguage: Eng
- lish\nDOI: https://doi.org/10.1787/8217c
- 2ff-en\nPublication type: Stand-alone mo
- nograph\nReleased as: HTML, PDF, ZJCR, Z
- XML\n\nEmbargo date/time: Thursday, 9 Ju
- ly 2026, 9:00 (GMT)\n\n\niLibrary export
- : never\nFreepreview export: never\nOECD
- .org export: never\nFTI loaded: ✓\n\nFor
-  more information see: https://oecd.gith
- ub.io/embargo-calendar/embargoes-by-publ
- ication.html.\n\nPlease note: This infor
- mation was correct as of this afternoon 
- at 23:18, it is updated each night; ther
- efore any subsequent updates may not yet
-  be visible here. Also, please be aware 
- that the different released media (PDF, 
- HTML, etc.) are not necessarily released
-  at the same time. For complete and up-t
- o-date information see here: http://kapp
- a.oecd.org/v3/search?term=8217c2ff-en.
-DTSTAMP:20260710T231844Z
-DTSTART:20260709T090000Z
-DTEND:20260709T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Trends
-  in Global Value Chains
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/d652a08b-end3e276
-SUMMARY:[Report] Tax Co-operation for Developmen
- t 2025 - Progress report
-DESCRIPTION:*[Report] Tax Co-operation for Developme
- nt 2025 - Progress report*\n\nDirectorat
- e: Centre for Tax Policy and Administrat
- ion\nLanguage: English\nDOI: https://doi
- .org/10.1787/d652a08b-en\nPublication ty
- pe: Report\nReleased as: PDF\n\nEmbargo 
- date/time: Thursday, 9 July 2026, 9:00 (
- GMT)\n\n\niLibrary export: never\nFreepr
- eview export: never\nOECD.org export: ne
- ver\nFTI loaded: ✓\n\nFor more informati
- on see: https://oecd.github.io/embargo-c
- alendar/embargoes-by-publication.html.\n
- \nPlease note: This information was corr
- ect as of this afternoon at 23:18, it is
-  updated each night; therefore any subse
- quent updates may not yet be visible her
- e. Also, please be aware that the differ
- ent released media (PDF, HTML, etc.) are
-  not necessarily released at the same ti
- me. For complete and up-to-date informat
- ion see here: http://kappa.oecd.org/v3/s
- earch?term=d652a08b-en.
-DTSTAMP:20260710T231844Z
-DTSTART:20260709T090000Z
-DTEND:20260709T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Report] Tax Co-operation for 
- Development 2025 - Progress report
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9ee04030-end3e331
-SUMMARY:[Report] OECD Anti-Bribery Convention Ph
- ase 4 Follow-Up Report on Türkiye - Impl
- ementing the Convention and Related Lega
- l Instruments
-DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
- hase 4 Follow-Up Report on Türkiye - Imp
- lementing the Convention and Related Leg
- al Instruments*\n\nDirectorate: Director
- ate for Financial and Enterprise Affairs
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/9ee04030-en\nPublication type:
-  Report\nReleased as: PDF\n\nEmbargo dat
- e/time: Thursday, 9 July 2026, 9:00 (GMT
- )\n\n\niLibrary export: never\nFreeprevi
- ew export: never\nOECD.org export: never
- \nFTI loaded: ✓\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 23:18, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=9ee04030-en.
-DTSTAMP:20260710T231844Z
-DTSTART:20260709T090000Z
-DTEND:20260709T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
- vention Phase 4 Follow-Up Report on Türk
- iye - Implementing the Convention and Re
- lated Legal Instruments
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/49a978ad-end3e386
+UID:10.1787/49a978ad-end3e63
 SUMMARY:[Policy brief] Flexibility and investor 
  protection in share class structures
 DESCRIPTION:*[Policy brief] Flexibility and investor
@@ -142,7 +19,7 @@ DESCRIPTION:*[Policy brief] Flexibility and investor
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 23:18, it is updated each
+ s afternoon at 23:22, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -151,7 +28,7 @@ DESCRIPTION:*[Policy brief] Flexibility and investor
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=49
  a978ad-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260714T220100Z
 DTEND:20260714T221600Z
 TRANSP:TRANSPARENT
@@ -166,7 +43,7 @@ DESCRIPTION:Reminder: [Policy brief] Flexibility and
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/aa997c6e-end3e439
+UID:10.1787/aa997c6e-end3e116
 SUMMARY:[Economic survey] OECD Economic Surveys:
   United Kingdom 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -182,7 +59,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 23:18, it is updated each
+ s afternoon at 23:22, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -191,7 +68,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=aa
  997c6e-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260715T090000Z
 DTEND:20260715T091500Z
 TRANSP:TRANSPARENT
@@ -205,7 +82,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0bc9aac9-end3e492
+UID:10.1787/0bc9aac9-end3e169
 SUMMARY:[Working paper] MNE Responses to the Glo
  bal Minimum Tax
 DESCRIPTION:*[Working paper] MNE Responses to the Gl
@@ -221,7 +98,7 @@ DESCRIPTION:*[Working paper] MNE Responses to the Gl
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:18, it is
+ ect as of this afternoon at 23:22, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -230,7 +107,7 @@ DESCRIPTION:*[Working paper] MNE Responses to the Gl
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=0bc9aac9-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260715T090000Z
 DTEND:20260715T091500Z
 TRANSP:TRANSPARENT
@@ -244,7 +121,7 @@ DESCRIPTION:Reminder: [Working paper] MNE Responses
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d6b60ea7-end3e920
+UID:10.1787/d6b60ea7-end3e597
 SUMMARY:[Stand-alone monograph] Bridging the Gap
  s for Sustainable Development - Coherent
   Policies for Water, Energy, Industry an
@@ -265,7 +142,7 @@ DESCRIPTION:*[Stand-alone monograph] Bridging the Ga
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 23:18, it is updated each ni
+ fternoon at 23:22, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -274,7 +151,7 @@ DESCRIPTION:*[Stand-alone monograph] Bridging the Ga
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=d6b60
  ea7-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260715T150000Z
 DTEND:20260715T151500Z
 TRANSP:TRANSPARENT
@@ -290,7 +167,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Bridgi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dad01040-end3e1187
+UID:10.1787/dad01040-end3e864
 SUMMARY:[Policy brief] Enforcement data of the O
  ECD Anti Bribery Convention 1999-2025
 DESCRIPTION:*[Policy brief] Enforcement data of the 
@@ -307,7 +184,7 @@ DESCRIPTION:*[Policy brief] Enforcement data of the
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:18, it is updated e
+ this afternoon at 23:22, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -316,7 +193,7 @@ DESCRIPTION:*[Policy brief] Enforcement data of the
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =dad01040-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260715T220100Z
 DTEND:20260715T221600Z
 TRANSP:TRANSPARENT
@@ -331,7 +208,7 @@ DESCRIPTION:Reminder: [Policy brief] Enforcement dat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/42ed5f84-end3e1241
+UID:10.1787/42ed5f84-end3e918
 SUMMARY:[Stand-alone monograph] Environmental Ta
  x Policy Review of Romania - Policy Opti
  ons for Buildings and Transport
@@ -350,7 +227,7 @@ DESCRIPTION:*[Stand-alone monograph] Environmental T
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:18, it is updated each nig
+ ternoon at 23:22, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -359,7 +236,7 @@ DESCRIPTION:*[Stand-alone monograph] Environmental T
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=42ed5f
  84-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260716T060000Z
 DTEND:20260716T061500Z
 TRANSP:TRANSPARENT
@@ -375,7 +252,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Enviro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6ad10075-end3e1295
+UID:10.1787/6ad10075-end3e972
 SUMMARY:[Working paper] Gender and trust in publ
  ic institutions in Switzerland - An anal
  ysis of the determinants
@@ -393,7 +270,7 @@ DESCRIPTION:*[Working paper] Gender and trust in pub
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:18, it 
+ rrect as of this afternoon at 23:22, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -402,7 +279,7 @@ DESCRIPTION:*[Working paper] Gender and trust in pub
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=6ad10075-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260716T220100Z
 DTEND:20260716T221600Z
 TRANSP:TRANSPARENT
@@ -417,7 +294,7 @@ DESCRIPTION:Reminder: [Working paper] Gender and tru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/42815683-end3e1348
+UID:10.1787/42815683-end3e1025
 SUMMARY:[Working paper] Generative AI experiment
  ation in government - Learning from emer
  ging guidelines
@@ -435,7 +312,7 @@ DESCRIPTION:*[Working paper] Generative AI experimen
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:18, it is updated 
+  this afternoon at 23:22, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -444,7 +321,7 @@ DESCRIPTION:*[Working paper] Generative AI experimen
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=42815683-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260717T220100Z
 DTEND:20260717T221600Z
 TRANSP:TRANSPARENT
@@ -459,7 +336,7 @@ DESCRIPTION:Reminder: [Working paper] Generative AI
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5600c944-end3e1401
+UID:10.1787/5600c944-end3e1078
 SUMMARY:[Working paper] Measuring global value c
  hain participation in UK regions
 DESCRIPTION:*[Working paper] Measuring global value 
@@ -476,7 +353,7 @@ DESCRIPTION:*[Working paper] Measuring global value
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:18, it is updated eac
+ is afternoon at 23:22, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -485,7 +362,7 @@ DESCRIPTION:*[Working paper] Measuring global value
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=5
  600c944-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260719T220100Z
 DTEND:20260719T221600Z
 TRANSP:TRANSPARENT
@@ -500,7 +377,7 @@ DESCRIPTION:Reminder: [Working paper] Measuring glob
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f36125c4-end3e1453
+UID:10.1787/f36125c4-end3e1130
 SUMMARY:[Working paper] UK regions in the global
   economy
 DESCRIPTION:*[Working paper] UK regions in the globa
@@ -516,7 +393,7 @@ DESCRIPTION:*[Working paper] UK regions in the globa
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:18, i
+ correct as of this afternoon at 23:22, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -525,7 +402,7 @@ DESCRIPTION:*[Working paper] UK regions in the globa
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=f36125c4-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260719T220100Z
 DTEND:20260719T221600Z
 TRANSP:TRANSPARENT
@@ -539,7 +416,7 @@ DESCRIPTION:Reminder: [Working paper] UK regions in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/73af6222-end3e1610
+UID:10.1787/73af6222-end3e1287
 SUMMARY:[Book] Corporate Tax Statistics 2026
 DESCRIPTION:*[Book] Corporate Tax Statistics 2026*\n
  \nDirectorate: Centre for Tax Policy and
@@ -554,7 +431,7 @@ DESCRIPTION:*[Book] Corporate Tax Statistics 2026*\n
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 23
- :18, it is updated each night; therefore
+ :22, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -562,7 +439,7 @@ DESCRIPTION:*[Book] Corporate Tax Statistics 2026*\n
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=73af6222-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260721T090000Z
 DTEND:20260721T091500Z
 TRANSP:TRANSPARENT
@@ -576,7 +453,7 @@ DESCRIPTION:Reminder: [Book] Corporate Tax Statistic
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1d93d51d-end3e2131
+UID:10.1787/1d93d51d-end3e1808
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Hungary 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -592,7 +469,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:18, it is updated each night;
+ noon at 23:22, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -601,7 +478,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=1d93d51d-
  en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260723T100000Z
 DTEND:20260723T101500Z
 TRANSP:TRANSPARENT
@@ -615,7 +492,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50f1e10d-end3e2184
+UID:10.1787/50f1e10d-end3e1861
 SUMMARY:[Stand-alone monograph] Promoting the De
  velopment of the Semiconductor Ecosystem
   in Panama
@@ -634,7 +511,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 23
- :18, it is updated each night; therefore
+ :22, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -642,7 +519,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the D
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=50f1e10d-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260730T060000Z
 DTEND:20260730T061500Z
 TRANSP:TRANSPARENT
@@ -657,7 +534,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a9012c4c-end3e2236
+UID:10.1787/a9012c4c-end3e1913
 SUMMARY:[Book] Progress Review of Peru's Water a
  nd Sanitation Services Regulator - Drivi
  ng Performance
@@ -675,7 +552,7 @@ DESCRIPTION:*[Book] Progress Review of Peru's Water
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:18, it is update
+ of this afternoon at 23:22, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -684,7 +561,7 @@ DESCRIPTION:*[Book] Progress Review of Peru's Water
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=a9012c4c-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260802T220000Z
 DTEND:20260802T221500Z
 TRANSP:TRANSPARENT
@@ -699,7 +576,7 @@ DESCRIPTION:Reminder: [Book] Progress Review of Peru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b3c895b4-frd3e2342
+UID:10.1787/b3c895b4-frd3e2019
 SUMMARY:[Report] Coopération fiscale au service 
  du développement 2025 - Rapport d'étape
 DESCRIPTION:*[Report] Coopération fiscale au service
@@ -716,7 +593,7 @@ DESCRIPTION:*[Report] Coopération fiscale au service
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 23:18, it is updated each night; th
+ n at 23:22, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -724,7 +601,7 @@ DESCRIPTION:*[Report] Coopération fiscale au service
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=b3c895b4-fr.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260805T090000Z
 DTEND:20260805T091500Z
 TRANSP:TRANSPARENT
@@ -739,7 +616,7 @@ DESCRIPTION:Reminder: [Report] Coopération fiscale a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/47e6c63e-end3e2395
+UID:10.1787/47e6c63e-end3e2072
 SUMMARY:[Book] OECD Tax Policy Reviews: Peru 202
  6
 DESCRIPTION:*[Book] OECD Tax Policy Reviews: Peru 20
@@ -755,7 +632,7 @@ DESCRIPTION:*[Book] OECD Tax Policy Reviews: Peru 20
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 23:18, it is updated each night; t
+ on at 23:22, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -764,7 +641,7 @@ DESCRIPTION:*[Book] OECD Tax Policy Reviews: Peru 20
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=47e6c63e-en
  .
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260825T140000Z
 DTEND:20260825T141500Z
 TRANSP:TRANSPARENT
@@ -778,7 +655,7 @@ DESCRIPTION:Reminder: [Book] OECD Tax Policy Reviews
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8af2444d-end3e2447
+UID:10.1787/8af2444d-end3e2124
 SUMMARY:[Report] OECD Secretary-General Tax Repo
  rt to G20 Finance Ministers and Central 
  Bank Governors (G20 United States, Augus
@@ -798,7 +675,7 @@ DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:18, it is updated each n
+ afternoon at 23:22, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -807,7 +684,7 @@ DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=8af2
  444d-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260831T120000Z
 DTEND:20260831T121500Z
 TRANSP:TRANSPARENT
@@ -823,7 +700,7 @@ DESCRIPTION:Reminder: [Report] OECD Secretary-Genera
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/43d18a55-end3e2500
+UID:10.1787/43d18a55-end3e2177
 SUMMARY:[Book] Tax Policy Reforms 2026 - OECD an
  d Selected Partner Economies
 DESCRIPTION:*[Book] Tax Policy Reforms 2026 - OECD a
@@ -839,7 +716,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2026 - OECD a
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:18,
+ s correct as of this afternoon at 23:22,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -848,7 +725,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2026 - OECD a
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=43d18a55-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260908T090000Z
 DTEND:20260908T091500Z
 TRANSP:TRANSPARENT
@@ -862,7 +739,7 @@ DESCRIPTION:Reminder: [Book] Tax Policy Reforms 2026
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/73451bc5-end3e2553
+UID:10.1787/73451bc5-end3e2230
 SUMMARY:[Book] PISA 2025 Results (Volume I) - Fu
  ture-Ready Students
 DESCRIPTION:*[Book] PISA 2025 Results (Volume I) - F
@@ -878,7 +755,7 @@ DESCRIPTION:*[Book] PISA 2025 Results (Volume I) - F
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:18, it is update
+ of this afternoon at 23:22, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -887,7 +764,7 @@ DESCRIPTION:*[Book] PISA 2025 Results (Volume I) - F
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=73451bc5-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260908T090000Z
 DTEND:20260908T091500Z
 TRANSP:TRANSPARENT
@@ -901,7 +778,7 @@ DESCRIPTION:Reminder: [Book] PISA 2025 Results (Volu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/10379f9f-end3e2606
+UID:10.1787/10379f9f-end3e2283
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Türkiye
@@ -919,7 +796,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:18, it is update
+ of this afternoon at 23:22, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -928,7 +805,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=10379f9f-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260922T070000Z
 DTEND:20260922T071500Z
 TRANSP:TRANSPARENT
@@ -943,7 +820,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/db32e18b-end3e2658
+UID:10.1787/db32e18b-end3e2335
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Full Version) - Volum
  es I and II
@@ -961,7 +838,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:18, it is updated
+ f this afternoon at 23:22, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -970,7 +847,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=db32e18b-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260930T090000Z
 DTEND:20260930T091500Z
 TRANSP:TRANSPARENT
@@ -985,7 +862,7 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fc44d951-end3e2711
+UID:10.1787/fc44d951-end3e2388
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Condensed Version)
 DESCRIPTION:*[Book] Model Tax Convention on Income a
@@ -1002,7 +879,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 23:18, it is updated each night; t
+ on at 23:22, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -1011,7 +888,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=fc44d951-en
  .
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20260930T090000Z
 DTEND:20260930T091500Z
 TRANSP:TRANSPARENT
@@ -1026,7 +903,7 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/58c3689d-end3e2763
+UID:10.1787/58c3689d-end3e2440
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Serbia
@@ -1044,7 +921,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:18, it is updated e
+ this afternoon at 23:22, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -1053,7 +930,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =58c3689d-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20261008T070000Z
 DTEND:20261008T071500Z
 TRANSP:TRANSPARENT
@@ -1068,7 +945,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/846bbe2d-end3e2816
+UID:10.1787/846bbe2d-end3e2493
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Bosnia and Herzegovina
@@ -1086,7 +963,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:18,
+ s correct as of this afternoon at 23:22,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -1095,7 +972,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=846bbe2d-en.
-DTSTAMP:20260710T231844Z
+DTSTAMP:20260712T232249Z
 DTSTART:20261020T070000Z
 DTEND:20261020T071500Z
 TRANSP:TRANSPARENT
