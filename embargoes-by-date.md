@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 12 July 2026 at 23:22* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 13 July 2026 at 23:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 July 2026](#14-july-2026)
 * [15 July 2026](#15-july-2026)
 * [16 July 2026](#16-july-2026)
 * [17 July 2026](#17-july-2026)
@@ -18,36 +17,10 @@ Data generated on | |
 * [31 August 2026](#31-august-2026)
 * [8 September 2026](#8-september-2026)
 * [22 September 2026](#22-september-2026)
+* [29 September 2026](#29-september-2026)
 * [30 September 2026](#30-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
-
-------
-
-# 14 July 2026
-
-## [Flexibility and investor protection in share class structures](https://doi.org/10.1787/49a978ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -195,6 +168,29 @@ Thursday 16 July 2026 at 22:01 | no launch event
 
 ------
 
+## [Scaled-up crediting approaches to deliver climate change mitigation results - Paying for performance?](https://doi.org/10.1787/8116365a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 July 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 17 July 2026
@@ -284,7 +280,7 @@ Tuesday 21 July 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -293,9 +289,9 @@ Tuesday 21 July 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -533,6 +529,33 @@ Tuesday 22 September 2026 at 7:00 | no launch event
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 29 September 2026
+
+## [Education at a Glance 2026 - OECD Indicators](https://doi.org/10.1787/b4968bbc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 September 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
