@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 13 July 2026 at 23:32* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 14 July 2026 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: United Kingdom 2026](https://doi.org/10.1787/aa997c6e-en)
 
