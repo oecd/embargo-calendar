@@ -2,12 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 14 July 2026 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 15 July 2026 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 July 2026](#15-july-2026)
 * [16 July 2026](#16-july-2026)
 * [17 July 2026](#17-july-2026)
 * [19 July 2026](#19-july-2026)
+* [20 July 2026](#20-july-2026)
 * [21 July 2026](#21-july-2026)
 * [23 July 2026](#23-july-2026)
 * [30 July 2026](#30-july-2026)
@@ -92,29 +93,6 @@ Wednesday 15 July 2026 at 15:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Enforcement data of the OECD Anti Bribery Convention 1999-2025](https://doi.org/10.1787/dad01040-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy brief*
-* Format: *PDF*
 
 ------
 
@@ -270,6 +248,33 @@ Sunday 19 July 2026 at 22:01 | no launch event
 
 ------
 
+# 20 July 2026
+
+## [Artificial intelligence and personal finance](https://doi.org/10.1787/2858fdf4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 July 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 21 July 2026
 
 ## [Corporate Tax Statistics 2026](https://doi.org/10.1787/73af6222-en)
@@ -292,6 +297,75 @@ Tuesday 21 July 2026 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Density scenarios and urban expansion in Africa towards 2050](https://doi.org/10.1787/1dddc920-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 July 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Do capital markets matter for growth? - Concepts, measurement and mechanisms](https://doi.org/10.1787/7b97d06b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 July 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [The Single Project Pipeline in public investment management - Guidance for EU candidate countries and potential candidates](https://doi.org/10.1787/4c6bd582-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 July 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -322,6 +396,29 @@ Thursday 23 July 2026 at 10:00 | no launch event
 
 ------
 
+## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 July 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 30 July 2026
@@ -334,7 +431,7 @@ Thursday 30 July 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -343,9 +440,9 @@ Thursday 30 July 2026 at 6:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -370,7 +467,7 @@ Sunday 2 August 2026 at 22:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -424,7 +521,7 @@ Tuesday 25 August 2026 at 14:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -451,7 +548,7 @@ Monday 31 August 2026 at 12:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -478,7 +575,7 @@ Tuesday 8 September 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -501,7 +598,7 @@ Tuesday 8 September 2026 at 9:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
