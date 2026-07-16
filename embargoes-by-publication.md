@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 July 2026 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 16 July 2026 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: United Kingdom 2026](https://doi.org/10.1787/aa997c6e-en)
 
@@ -92,75 +92,6 @@ Thursday 16 July 2026 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Gender and trust in public institutions in Switzerland - An analysis of the determinants](https://doi.org/10.1787/6ad10075-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Scaled-up crediting approaches to deliver climate change mitigation results - Paying for performance?](https://doi.org/10.1787/8116365a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Generative AI experimentation in government - Learning from emerging guidelines](https://doi.org/10.1787/42815683-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -460,6 +391,29 @@ Tuesday 25 August 2026 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Gender and trust in public institutions in Switzerland - An analysis of the determinants](https://doi.org/10.1787/6ad10075-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 30 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
