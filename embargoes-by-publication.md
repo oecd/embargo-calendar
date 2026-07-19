@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 July 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Environmental Tax Policy Review of Romania - Policy Options for Buildings and Transport](https://doi.org/10.1787/42ed5f84-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 July 2026 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
+| *Sunday 19 July 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Corporate Tax Statistics 2026](https://doi.org/10.1787/73af6222-en)
 
