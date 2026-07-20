@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 19 July 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 20 July 2026 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Corporate Tax Statistics 2026](https://doi.org/10.1787/73af6222-en)
 
