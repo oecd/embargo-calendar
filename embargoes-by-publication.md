@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 July 2026 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 21 July 2026 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Corporate Tax Statistics 2026](https://doi.org/10.1787/73af6222-en)
 
@@ -27,52 +27,6 @@ Tuesday 21 July 2026 at 9:00 | no launch event
 
 ------
 
-## [Density scenarios and urban expansion in Africa towards 2050](https://doi.org/10.1787/1dddc920-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Do capital markets matter for growth? - Concepts, measurement and mechanisms](https://doi.org/10.1787/7b97d06b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
 ## [OECD Economic Surveys: Hungary 2026](https://doi.org/10.1787/1d93d51d-en)
 
 Embargo date | Launch date
@@ -81,7 +35,7 @@ Thursday 23 July 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -90,7 +44,7 @@ Thursday 23 July 2026 at 8:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -112,6 +66,29 @@ Thursday 23 July 2026 at 22:01 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Density scenarios and urban expansion in Africa towards 2050](https://doi.org/10.1787/1dddc920-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 July 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
@@ -257,29 +234,6 @@ Thursday 30 July 2026 at 22:01 | no launch event
 
 ------
 
-## [Progress Review of Peru's Water and Sanitation Services Regulator - Driving Performance](https://doi.org/10.1787/a9012c4c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 2 August 2026 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Coopération fiscale au service du développement 2025 - Rapport d'étape](https://doi.org/10.1787/b3c895b4-fr)
 
 Embargo date | Launch date
@@ -395,6 +349,29 @@ Sunday 30 August 2026 at 22:01 | no launch event
 
 ------
 
+## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-Unis, aôut 2026)](https://doi.org/10.1787/ab6386d7-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 August 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, August 2026)](https://doi.org/10.1787/8af2444d-en)
 
 Embargo date | Launch date
@@ -415,6 +392,29 @@ Monday 31 August 2026 at 12:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
+
+------
+
+## [Progress Review of Peru's Water and Sanitation Services Regulator - Driving Performance](https://doi.org/10.1787/a9012c4c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 September 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -460,6 +460,29 @@ Tuesday 8 September 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [The Space Economy at a Glance 2026](https://doi.org/10.1787/cbf9b240-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 September 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -552,6 +575,29 @@ Monday 14 September 2026 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Do capital markets matter for growth? - Concepts, measurement and mechanisms](https://doi.org/10.1787/7b97d06b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 20 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
