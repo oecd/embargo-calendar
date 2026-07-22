@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 21 July 2026 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 22 July 2026 at 23:25* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [21 July 2026](#21-july-2026)
 * [23 July 2026](#23-july-2026)
@@ -10,6 +10,7 @@ Data generated on | |
 * [29 July 2026](#29-july-2026)
 * [30 July 2026](#30-july-2026)
 * [5 August 2026](#5-august-2026)
+* [20 August 2026](#20-august-2026)
 * [25 August 2026](#25-august-2026)
 * [27 August 2026](#27-august-2026)
 * [30 August 2026](#30-august-2026)
@@ -77,75 +78,6 @@ Thursday 23 July 2026 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Interoperability in healthcare - Towards an interconnected future](https://doi.org/10.1787/eb71b7be-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Density scenarios and urban expansion in Africa towards 2050](https://doi.org/10.1787/1dddc920-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [​Recent policy developments on AI in the labour market](https://doi.org/10.1787/c0ffced7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -300,6 +232,33 @@ Wednesday 5 August 2026 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 20 August 2026
+
+## [Density scenarios and urban expansion in Africa towards 2050](https://doi.org/10.1787/1dddc920-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
