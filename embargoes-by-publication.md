@@ -2,36 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 July 2026 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Corporate Tax Statistics 2026](https://doi.org/10.1787/73af6222-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 July 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Thursday 23 July 2026 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Hungary 2026](https://doi.org/10.1787/1d93d51d-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 23 July 2026 at 8:00 | no launch event
+Thursday 23 July 2026 at 12:30 | no launch event
 
 ### Status Information
 
@@ -46,29 +23,6 @@ Thursday 23 July 2026 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -92,29 +46,6 @@ Tuesday 28 July 2026 at 2:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Competition in the age of AI - Initial evidence from microdata](https://doi.org/10.1787/6f88a1ea-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -184,6 +115,29 @@ Wednesday 5 August 2026 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
