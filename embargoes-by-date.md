@@ -2,13 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 July 2026 at 23:28* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 24 July 2026 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 July 2026](#23-july-2026)
 * [28 July 2026](#28-july-2026)
+* [29 July 2026](#29-july-2026)
 * [30 July 2026](#30-july-2026)
+* [3 August 2026](#3-august-2026)
 * [5 August 2026](#5-august-2026)
 * [6 August 2026](#6-august-2026)
+* [10 August 2026](#10-august-2026)
+* [13 August 2026](#13-august-2026)
 * [20 August 2026](#20-august-2026)
 * [25 August 2026](#25-august-2026)
 * [27 August 2026](#27-august-2026)
@@ -20,6 +24,7 @@ Data generated on | |
 * [10 September 2026](#10-september-2026)
 * [13 September 2026](#13-september-2026)
 * [14 September 2026](#14-september-2026)
+* [16 September 2026](#16-september-2026)
 * [20 September 2026](#20-september-2026)
 * [22 September 2026](#22-september-2026)
 * [29 September 2026](#29-september-2026)
@@ -66,7 +71,7 @@ Tuesday 28 July 2026 at 2:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -75,8 +80,104 @@ Tuesday 28 July 2026 at 2:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 29 July 2026
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Namibia 2026 (Second Round) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/60b2024d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 July 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Tanzania 2026 (Second Round) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/55831c5b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 July 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Cook Islands 2026 (Second Round) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/6eb14e18-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 July 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [An AI-enhanced granular analysis of Thailand’s mathematics performance](https://doi.org/10.1787/e26ed12c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 July 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -133,6 +234,33 @@ Thursday 30 July 2026 at 22:01 | no launch event
 
 ------
 
+# 3 August 2026
+
+## [Making intra-regional food trade count - Better data systems for food trade monitoring in West Africa](https://doi.org/10.1787/898a43ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 5 August 2026
 
 ## [Coopération fiscale au service du développement 2025 - Rapport d'étape](https://doi.org/10.1787/b3c895b4-fr)
@@ -181,6 +309,60 @@ Thursday 6 August 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 10 August 2026
+
+## [Shedding light on underexplored ways services trade impacts workers](https://doi.org/10.1787/8bfc6734-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 13 August 2026
+
+## [Using incubators and accelerators to support travel and tourism start-ups](https://doi.org/10.1787/ff127405-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -514,7 +696,7 @@ Thursday 10 September 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -570,6 +752,33 @@ Monday 14 September 2026 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 16 September 2026
+
+## [Developing a National Student Assessment Framework for the Philippines](https://doi.org/10.1787/786bff30-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 16 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
