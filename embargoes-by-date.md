@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 July 2026 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 26 July 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 July 2026](#23-july-2026)
 * [28 July 2026](#28-july-2026)
 * [29 July 2026](#29-july-2026)
 * [30 July 2026](#30-july-2026)
@@ -31,33 +30,6 @@ Data generated on | |
 * [30 September 2026](#30-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
-
-------
-
-# 23 July 2026
-
-## [OECD Economic Surveys: Hungary 2026](https://doi.org/10.1787/1d93d51d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 July 2026 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 

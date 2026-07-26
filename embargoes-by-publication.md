@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 July 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Hungary 2026](https://doi.org/10.1787/1d93d51d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 July 2026 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Sunday 26 July 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Malaysia 2026](https://doi.org/10.1787/9ab6b826-en)
 
