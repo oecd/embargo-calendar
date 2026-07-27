@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 26 July 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 27 July 2026 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 July 2026](#28-july-2026)
 * [29 July 2026](#29-july-2026)
@@ -13,6 +13,7 @@ Data generated on | |
 * [10 August 2026](#10-august-2026)
 * [13 August 2026](#13-august-2026)
 * [20 August 2026](#20-august-2026)
+* [24 August 2026](#24-august-2026)
 * [25 August 2026](#25-august-2026)
 * [27 August 2026](#27-august-2026)
 * [30 August 2026](#30-august-2026)
@@ -61,6 +62,29 @@ Tuesday 28 July 2026 at 2:00 | no launch event
 ------
 
 # 29 July 2026
+
+## [Promoting the Development of the Semiconductor Ecosystem in Panama](https://doi.org/10.1787/50f1e10d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 July 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
 
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Namibia 2026 (Second Round) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/60b2024d-en)
 
@@ -157,29 +181,6 @@ Wednesday 29 July 2026 at 22:01 | no launch event
 ------
 
 # 30 July 2026
-
-## [Promoting the Development of the Semiconductor Ecosystem in Panama](https://doi.org/10.1787/50f1e10d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 July 2026 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ## [Government involvement in sustainability initiatives - An overview](https://doi.org/10.1787/1e7b2695-en)
 
@@ -362,6 +363,33 @@ Thursday 20 August 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 24 August 2026
+
+## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 August 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -831,6 +859,29 @@ Tuesday 29 September 2026 at 9:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Regards sur l'éducation 2026 - Indicateurs de l'OCDE](https://doi.org/10.1787/cba0b622-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 September 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
