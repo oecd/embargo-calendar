@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 27 July 2026 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 28 July 2026 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 July 2026](#28-july-2026)
 * [29 July 2026](#29-july-2026)
@@ -151,29 +151,6 @@ Wednesday 29 July 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [An AI-enhanced granular analysis of Thailand’s mathematics performance](https://doi.org/10.1787/e26ed12c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -579,6 +556,29 @@ Wednesday 2 September 2026 at 22:00 | no launch event
 
 # 8 September 2026
 
+## [PISA 2025 Results (Volume I) - Future-Ready Students](https://doi.org/10.1787/73451bc5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Tax Policy Reforms 2026 - OECD and Selected Partner Economies](https://doi.org/10.1787/43d18a55-en)
 
 Embargo date | Launch date
@@ -595,29 +595,6 @@ Tuesday 8 September 2026 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [PISA 2025 Results (Volume I) - Future-Ready Students](https://doi.org/10.1787/73451bc5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -732,6 +709,29 @@ Sunday 13 September 2026 at 22:01 | no launch event
 ------
 
 # 14 September 2026
+
+## [Research and Innovation Careers Observatory 2026 - Key Indicators on Talent, Mobility and Working Conditions](https://doi.org/10.1787/138ed294-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 September 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [OECD Economic Surveys: Switzerland 2026](https://doi.org/10.1787/48b03aff-en)
 
