@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 28 July 2026 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 29 July 2026 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Malaysia 2026](https://doi.org/10.1787/9ab6b826-en)
 
@@ -115,29 +115,6 @@ Wednesday 29 July 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Government involvement in sustainability initiatives - An overview](https://doi.org/10.1787/1e7b2695-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
 * Format: *PDF*
 
 ------

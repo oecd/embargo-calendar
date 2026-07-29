@@ -2,11 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 28 July 2026 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 29 July 2026 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 July 2026](#28-july-2026)
 * [29 July 2026](#29-july-2026)
-* [30 July 2026](#30-july-2026)
 * [3 August 2026](#3-august-2026)
 * [5 August 2026](#5-august-2026)
 * [6 August 2026](#6-august-2026)
@@ -151,33 +150,6 @@ Wednesday 29 July 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
-# 30 July 2026
-
-## [Government involvement in sustainability initiatives - An overview](https://doi.org/10.1787/1e7b2695-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 July 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
 * Format: *PDF*
 
 ------
