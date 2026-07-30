@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 29 July 2026 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Malaysia 2026](https://doi.org/10.1787/9ab6b826-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 July 2026 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Thursday 30 July 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Promoting the Development of the Semiconductor Ecosystem in Panama](https://doi.org/10.1787/50f1e10d-en)
 
@@ -368,6 +345,29 @@ Sunday 30 August 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Enhancing corporate tax systems to support business dynamism](https://doi.org/10.1787/7e843e1d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 August 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------

@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 29 July 2026 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 30 July 2026 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 July 2026](#28-july-2026)
 * [29 July 2026](#29-july-2026)
 * [3 August 2026](#3-august-2026)
 * [5 August 2026](#5-august-2026)
@@ -30,33 +29,6 @@ Data generated on | |
 * [30 September 2026](#30-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
-
-------
-
-# 28 July 2026
-
-## [OECD Economic Surveys: Malaysia 2026](https://doi.org/10.1787/9ab6b826-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 July 2026 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -450,6 +422,29 @@ Sunday 30 August 2026 at 22:01 | no launch event
 ------
 
 # 31 August 2026
+
+## [Enhancing corporate tax systems to support business dynamism](https://doi.org/10.1787/7e843e1d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 August 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-Unis, aôut 2026)](https://doi.org/10.1787/ab6386d7-fr)
 
