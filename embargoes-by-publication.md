@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 July 2026 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Promoting the Development of the Semiconductor Ecosystem in Panama](https://doi.org/10.1787/50f1e10d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 July 2026 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Namibia 2026 (Second Round) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/60b2024d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 July 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Tanzania 2026 (Second Round) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/55831c5b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 July 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Cook Islands 2026 (Second Round) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/6eb14e18-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 July 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Friday 31 July 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making intra-regional food trade count - Better data systems for food trade monitoring in West Africa](https://doi.org/10.1787/898a43ac-en)
 
@@ -142,6 +50,29 @@ Wednesday 5 August 2026 at 9:00 | no launch event
 
 ------
 
+## [Which start-ups achieve scale? - Evidence from innovative start-ups in the EU and the US](https://doi.org/10.1787/9561f4da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
 
 Embargo date | Launch date
@@ -181,6 +112,29 @@ Monday 10 August 2026 at 22:01 | no launch event
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Improving diet quality in West Africa - The role of intra-regional food trade](https://doi.org/10.1787/8d459b80-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
@@ -251,7 +205,7 @@ Monday 24 August 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -441,6 +395,52 @@ Wednesday 2 September 2026 at 22:00 | no launch event
 
 ------
 
+## [Informe sobre avances del Regulador de los servicios de agua y saneamiento de Perú - Impulsando el desempeño](https://doi.org/10.1787/722a9474-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 September 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Navigating transition and excess capacity](https://doi.org/10.1787/0d519f21-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [PISA 2025 Results (Volume I) - Future-Ready Students](https://doi.org/10.1787/73451bc5-en)
 
 Embargo date | Launch date
@@ -504,7 +504,7 @@ Wednesday 9 September 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -596,7 +596,7 @@ Monday 14 September 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -644,6 +644,29 @@ Wednesday 16 September 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Participation in GVCs through capital goods and services - Capital-endogenised TiVA indicators](https://doi.org/10.1787/06da147a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
