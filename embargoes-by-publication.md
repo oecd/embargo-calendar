@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 31 July 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 2 August 2026 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making intra-regional food trade count - Better data systems for food trade monitoring in West Africa](https://doi.org/10.1787/898a43ac-en)
 
