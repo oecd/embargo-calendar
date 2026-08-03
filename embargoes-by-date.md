@@ -2,13 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 2 August 2026 at 23:28* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 3 August 2026 at 23:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 August 2026](#3-august-2026)
 * [5 August 2026](#5-august-2026)
 * [6 August 2026](#6-august-2026)
 * [10 August 2026](#10-august-2026)
 * [13 August 2026](#13-august-2026)
+* [17 August 2026](#17-august-2026)
 * [20 August 2026](#20-august-2026)
 * [24 August 2026](#24-august-2026)
 * [25 August 2026](#25-august-2026)
@@ -33,33 +33,6 @@ Data generated on | |
 
 ------
 
-# 3 August 2026
-
-## [Making intra-regional food trade count - Better data systems for food trade monitoring in West Africa](https://doi.org/10.1787/898a43ac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 3 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 5 August 2026
 
 ## [Coopération fiscale au service du développement 2025 - Rapport d'étape](https://doi.org/10.1787/b3c895b4-fr)
@@ -70,7 +43,7 @@ Wednesday 5 August 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -79,7 +52,7 @@ Wednesday 5 August 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -208,6 +181,33 @@ Thursday 13 August 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 17 August 2026
+
+## [Making intra-regional food trade count - Better data systems for food trade monitoring in West Africa](https://doi.org/10.1787/898a43ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -593,29 +593,6 @@ Wednesday 9 September 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Digital education policy in the Netherlands - Reflections from an OECD international peer-learning event](https://doi.org/10.1787/74a84f7d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------

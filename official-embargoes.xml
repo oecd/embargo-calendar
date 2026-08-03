@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-08-02T23:28:06.8085141+02:00">
+<report name="official-embargoes" generated="2026-08-03T23:27:24.2125464+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,33 +21,13 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Sahel and West Africa Club</cell>
-    <cell name="doi">10.1787/898a43ac-en</cell>
-    <cell name="title">Making intra-regional food trade count (en)</cell>
-    <cell name="subtitle">Better data systems for food trade monitoring in West Africa (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-08-04</cell>
-    <cell name="embargo date">2026-08-03T22:01:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59a4f67d</cell>
-  </row>
-  <row index="2">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b3c895b4-fr</cell>
     <cell name="title">Coopération fiscale au service du développement 2025 (fr)</cell>
     <cell name="subtitle">Rapport d'étape (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-08-05</cell>
     <cell name="embargo date">2026-08-05T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -57,10 +37,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae3dcb34</cell>
   </row>
-  <row index="3">
+  <row index="2">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9561f4da-en</cell>
     <cell name="title">Which start-ups achieve scale? (en)</cell>
@@ -80,7 +60,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/369fbf29</cell>
   </row>
-  <row index="4">
+  <row index="3">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f43500af-en</cell>
     <cell name="title">Unpacking place transformation (en)</cell>
@@ -100,7 +80,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6dc8697</cell>
   </row>
-  <row index="5">
+  <row index="4">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8bfc6734-en</cell>
     <cell name="title">Shedding light on underexplored ways services trade impacts workers (en)</cell>
@@ -120,7 +100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/090a86f6</cell>
   </row>
-  <row index="6">
+  <row index="5">
     <cell name="directorate">Sahel and West Africa Club</cell>
     <cell name="doi">10.1787/8d459b80-en</cell>
     <cell name="title">Improving diet quality in West Africa (en)</cell>
@@ -140,7 +120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7bae8857</cell>
   </row>
-  <row index="7">
+  <row index="6">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ff127405-en</cell>
     <cell name="title">Using incubators and accelerators to support travel and tourism start-ups (en)</cell>
@@ -159,6 +139,26 @@
     <cell name="catalogue type">Policy paper</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c160ce9d</cell>
+  </row>
+  <row index="7">
+    <cell name="directorate">Sahel and West Africa Club</cell>
+    <cell name="doi">10.1787/898a43ac-en</cell>
+    <cell name="title">Making intra-regional food trade count (en)</cell>
+    <cell name="subtitle">Better data systems for food trade monitoring in West Africa (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-08-18</cell>
+    <cell name="embargo date">2026-08-17T22:01:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59a4f67d</cell>
   </row>
   <row index="8">
     <cell name="directorate">Sahel and West Africa Club</cell>
@@ -501,26 +501,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bf62349</cell>
   </row>
   <row index="25">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/74a84f7d-en</cell>
-    <cell name="title">Digital education policy in the Netherlands (en)</cell>
-    <cell name="subtitle">Reflections from an OECD international peer-learning event (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-09-10</cell>
-    <cell name="embargo date">2026-09-09T22:01:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Policy paper</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36597daa</cell>
-  </row>
-  <row index="26">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3ff6655c-en</cell>
     <cell name="title">Advancing the Implementation of the EU Carbon Border Adjustment Mechanism (en)</cell>
@@ -540,7 +520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2e391b7</cell>
   </row>
-  <row index="27">
+  <row index="26">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/400e2d2a-en</cell>
     <cell name="title">Critical Raw Materials in Central Asia (en)</cell>
@@ -560,7 +540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0382a13</cell>
   </row>
-  <row index="28">
+  <row index="27">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/138ed294-en</cell>
     <cell name="title">Research and Innovation Careers Observatory 2026 (en)</cell>
@@ -580,7 +560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8026717d</cell>
   </row>
-  <row index="29">
+  <row index="28">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/138ed294-en</cell>
     <cell name="title">Research and Innovation Careers Observatory 2026 (en)</cell>
@@ -600,7 +580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/421b3e2a</cell>
   </row>
-  <row index="30">
+  <row index="29">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/48b03aff-en</cell>
     <cell name="title">OECD Economic Surveys: Switzerland 2026 (en)</cell>
@@ -620,7 +600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23e76ea4</cell>
   </row>
-  <row index="31">
+  <row index="30">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/786bff30-en</cell>
     <cell name="title">Developing a National Student Assessment Framework for the Philippines (en)</cell>
@@ -640,7 +620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07909dad</cell>
   </row>
-  <row index="32">
+  <row index="31">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/06da147a-en</cell>
     <cell name="title">Participation in GVCs through capital goods and services (en)</cell>
@@ -660,7 +640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0a9d037</cell>
   </row>
-  <row index="33">
+  <row index="32">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/7b97d06b-en</cell>
     <cell name="title">Do capital markets matter for growth? (en)</cell>
@@ -680,7 +660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/061f6045</cell>
   </row>
-  <row index="34">
+  <row index="33">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/10379f9f-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye (en)</cell>
@@ -700,7 +680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c01a3080</cell>
   </row>
-  <row index="35">
+  <row index="34">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b4968bbc-en</cell>
     <cell name="title">Education at a Glance 2026 (en)</cell>
@@ -720,7 +700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1541c558</cell>
   </row>
-  <row index="36">
+  <row index="35">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/cba0b622-fr</cell>
     <cell name="title">Regards sur l'éducation 2026 (fr)</cell>
@@ -740,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be044310</cell>
   </row>
-  <row index="37">
+  <row index="36">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/db32e18b-en</cell>
     <cell name="title">Model Tax Convention on Income and on Capital 2025 (Full Version) (en)</cell>
@@ -760,7 +740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e935a3cd</cell>
   </row>
-  <row index="38">
+  <row index="37">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fc44d951-en</cell>
     <cell name="title">Model Tax Convention on Income and on Capital 2025 (Condensed Version) (en)</cell>
@@ -780,7 +760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a8e742d</cell>
   </row>
-  <row index="39">
+  <row index="38">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/58c3689d-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia (en)</cell>
@@ -800,7 +780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/521a4c7b</cell>
   </row>
-  <row index="40">
+  <row index="39">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/846bbe2d-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Bosnia and Herzegovina (en)</cell>
