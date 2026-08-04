@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 3 August 2026 at 23:27* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 4 August 2026 at 23:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 August 2026](#5-august-2026)
 * [6 August 2026](#6-august-2026)
@@ -30,6 +30,7 @@ Data generated on | |
 * [30 September 2026](#30-september-2026)
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
+* [5 November 2026](#5-november-2026)
 
 ------
 
@@ -112,11 +113,11 @@ Thursday 6 August 2026 at 22:01 | no launch event
 
 # 10 August 2026
 
-## [Shedding light on underexplored ways services trade impacts workers](https://doi.org/10.1787/8bfc6734-en)
+## [Guidance Document on Toxicokinetics to accommodate Testing of (Nano)particles](https://doi.org/10.1787/629332c6-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 10 August 2026 at 22:01 | no launch event
+Monday 10 August 2026 at 7:00 | no launch event
 
 ### Status Information
 
@@ -127,10 +128,56 @@ Monday 10 August 2026 at 22:01 | no launch event
 
 ### Additional Information
 
-* Directorate: *Trade and Agriculture Directorate*
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Working paper*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Detailed Review Paper on Respiratory Sensitisation](https://doi.org/10.1787/b5258246-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 August 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Guidance Document for In Vitro Testing of the Intestinal Fate of Orally Ingested Nanomaterials](https://doi.org/10.1787/be2a4b9e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 August 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -373,6 +420,29 @@ Sunday 30 August 2026 at 22:01 | no launch event
 ------
 
 # 31 August 2026
+
+## [Renforcer les systèmes d’impôt sur les sociétés pour soutenir le dynamisme des entreprises](https://doi.org/10.1787/a7b4d558-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 August 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ## [Enhancing corporate tax systems to support business dynamism](https://doi.org/10.1787/7e843e1d-en)
 
@@ -959,6 +1029,33 @@ Tuesday 20 October 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 5 November 2026
+
+## [Advances in nowcasting the growth rate of the ICT sector](https://doi.org/10.1787/e7d36875-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 November 2026 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
