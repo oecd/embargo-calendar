@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 August 2026 at 23:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 5 August 2026 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Coopération fiscale au service du développement 2025 - Rapport d'étape](https://doi.org/10.1787/b3c895b4-fr)
 
