@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-08-05T23:20:07.5958626+02:00">
+<report name="official-embargoes" generated="2026-08-06T23:19:05.6344778+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,7 +34,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2026-08-05T21:48:20Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
     <cell name="fti loaded?">✓</cell>
@@ -61,26 +61,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/369fbf29</cell>
   </row>
   <row index="3">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
-    <cell name="doi">10.1787/f43500af-en</cell>
-    <cell name="title">Unpacking place transformation (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2026-08-07</cell>
-    <cell name="embargo date">2026-08-06T22:01:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6dc8697</cell>
-  </row>
-  <row index="4">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/629332c6-en</cell>
     <cell name="title">Guidance Document on Toxicokinetics to accommodate Testing of (Nano)particles (en)</cell>
@@ -100,7 +80,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da03d94a</cell>
   </row>
-  <row index="5">
+  <row index="4">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/b5258246-en</cell>
     <cell name="title">Detailed Review Paper on Respiratory Sensitisation (en)</cell>
@@ -120,7 +100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/65fb4018</cell>
   </row>
-  <row index="6">
+  <row index="5">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/be2a4b9e-en</cell>
     <cell name="title">Guidance Document for In Vitro Testing of the Intestinal Fate of Orally Ingested Nanomaterials (en)</cell>
@@ -140,7 +120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb3742db</cell>
   </row>
-  <row index="7">
+  <row index="6">
     <cell name="directorate">Sahel and West Africa Club</cell>
     <cell name="doi">10.1787/8d459b80-en</cell>
     <cell name="title">Improving diet quality in West Africa (en)</cell>
@@ -160,7 +140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7bae8857</cell>
   </row>
-  <row index="8">
+  <row index="7">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ff127405-en</cell>
     <cell name="title">Using incubators and accelerators to support travel and tourism start-ups (en)</cell>
@@ -179,6 +159,26 @@
     <cell name="catalogue type">Policy paper</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c160ce9d</cell>
+  </row>
+  <row index="8">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/f43500af-en</cell>
+    <cell name="title">Unpacking place transformation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-08-14</cell>
+    <cell name="embargo date">2026-08-13T22:01:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6dc8697</cell>
   </row>
   <row index="9">
     <cell name="directorate">Sahel and West Africa Club</cell>

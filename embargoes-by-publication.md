@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 5 August 2026 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 6 August 2026 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Coopération fiscale au service du développement 2025 - Rapport d'étape](https://doi.org/10.1787/b3c895b4-fr)
 
@@ -43,29 +43,6 @@ Thursday 6 August 2026 at 22:01 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
@@ -184,6 +161,29 @@ Thursday 13 August 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
