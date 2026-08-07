@@ -2,13 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 6 August 2026 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 7 August 2026 at 23:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 August 2026](#5-august-2026)
-* [6 August 2026](#6-august-2026)
 * [10 August 2026](#10-august-2026)
 * [13 August 2026](#13-august-2026)
-* [17 August 2026](#17-august-2026)
 * [20 August 2026](#20-august-2026)
 * [24 August 2026](#24-august-2026)
 * [25 August 2026](#25-august-2026)
@@ -16,6 +13,7 @@ Data generated on | |
 * [30 August 2026](#30-august-2026)
 * [31 August 2026](#31-august-2026)
 * [2 September 2026](#2-september-2026)
+* [6 September 2026](#6-september-2026)
 * [7 September 2026](#7-september-2026)
 * [8 September 2026](#8-september-2026)
 * [9 September 2026](#9-september-2026)
@@ -34,60 +32,6 @@ Data generated on | |
 
 ------
 
-# 5 August 2026
-
-## [Coopération fiscale au service du développement 2025 - Rapport d'étape](https://doi.org/10.1787/b3c895b4-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 5 August 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
-# 6 August 2026
-
-## [Which start-ups achieve scale? - Evidence from innovative start-ups in the EU and the US](https://doi.org/10.1787/9561f4da-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 10 August 2026
 
 ## [Guidance Document on Toxicokinetics to accommodate Testing of (Nano)particles](https://doi.org/10.1787/629332c6-en)
@@ -98,7 +42,7 @@ Monday 10 August 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -107,7 +51,7 @@ Monday 10 August 2026 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -121,7 +65,7 @@ Monday 10 August 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -130,7 +74,7 @@ Monday 10 August 2026 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -144,7 +88,7 @@ Monday 10 August 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -153,7 +97,7 @@ Monday 10 August 2026 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -225,33 +169,6 @@ Thursday 13 August 2026 at 22:01 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 17 August 2026
-
-## [Making intra-regional food trade count - Better data systems for food trade monitoring in West Africa](https://doi.org/10.1787/898a43ac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
@@ -461,7 +378,7 @@ Monday 31 August 2026 at 12:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -560,6 +477,33 @@ Wednesday 2 September 2026 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 6 September 2026
+
+## [How preferential trade agreements address market distortions from state enterprises](https://doi.org/10.1787/97485a5e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 6 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 

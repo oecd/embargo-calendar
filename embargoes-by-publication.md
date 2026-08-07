@@ -2,13 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 6 August 2026 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 7 August 2026 at 23:58* | [See embargoes by date](embargoes-by-date.md) |
 
-## [Coopération fiscale au service du développement 2025 - Rapport d'étape](https://doi.org/10.1787/b3c895b4-fr)
+## [Guidance Document on Toxicokinetics to accommodate Testing of (Nano)particles](https://doi.org/10.1787/629332c6-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 5 August 2026 at 9:00 | no launch event
+Monday 10 August 2026 at 7:00 | no launch event
 
 ### Status Information
 
@@ -19,55 +19,9 @@ Wednesday 5 August 2026 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Which start-ups achieve scale? - Evidence from innovative start-ups in the EU and the US](https://doi.org/10.1787/9561f4da-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Guidance Document on Toxicokinetics to accommodate Testing of (Nano)particles](https://doi.org/10.1787/629332c6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 August 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -81,7 +35,7 @@ Monday 10 August 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -90,7 +44,7 @@ Monday 10 August 2026 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -104,7 +58,7 @@ Monday 10 August 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -113,7 +67,7 @@ Monday 10 August 2026 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -181,29 +135,6 @@ Thursday 13 August 2026 at 22:01 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Making intra-regional food trade count - Better data systems for food trade monitoring in West Africa](https://doi.org/10.1787/898a43ac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
@@ -389,7 +320,7 @@ Monday 31 August 2026 at 12:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -484,6 +415,29 @@ Wednesday 2 September 2026 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [How preferential trade agreements address market distortions from state enterprises](https://doi.org/10.1787/97485a5e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 6 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
