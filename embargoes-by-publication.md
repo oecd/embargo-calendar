@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 August 2026 at 23:58* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 9 August 2026 at 23:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Guidance Document on Toxicokinetics to accommodate Testing of (Nano)particles](https://doi.org/10.1787/629332c6-en)
 
