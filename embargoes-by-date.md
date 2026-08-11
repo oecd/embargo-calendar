@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 10 August 2026 at 23:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 11 August 2026 at 23:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 August 2026](#10-august-2026)
 * [13 August 2026](#13-august-2026)
@@ -129,11 +129,38 @@ Thursday 13 August 2026 at 22:01 | no launch event
 
 ------
 
+------
+
+# 20 August 2026
+
+## [Density scenarios and urban expansion in Africa towards 2050](https://doi.org/10.1787/1dddc920-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Using incubators and accelerators to support travel and tourism start-ups](https://doi.org/10.1787/ff127405-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 13 August 2026 at 22:01 | no launch event
+Thursday 20 August 2026 at 22:01 | no launch event
 
 ### Status Information
 
@@ -156,33 +183,6 @@ Thursday 13 August 2026 at 22:01 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 13 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 20 August 2026
-
-## [Density scenarios and urban expansion in Africa towards 2050](https://doi.org/10.1787/1dddc920-en)
-
-Embargo date | Launch date
--------------|:------------:
 Thursday 20 August 2026 at 22:01 | no launch event
 
 ### Status Information
@@ -194,7 +194,7 @@ Thursday 20 August 2026 at 22:01 | no launch event
 
 ### Additional Information
 
-* Directorate: *Sahel and West Africa Club*
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
@@ -329,7 +329,7 @@ Sunday 30 August 2026 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -352,7 +352,7 @@ Sunday 30 August 2026 at 22:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -930,7 +930,7 @@ Thursday 8 October 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -939,7 +939,7 @@ Thursday 8 October 2026 at 7:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
