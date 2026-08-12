@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 August 2026 at 23:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 12 August 2026 at 23:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 August 2026](#10-august-2026)
 * [13 August 2026](#13-august-2026)
 * [20 August 2026](#20-august-2026)
 * [24 August 2026](#24-august-2026)
@@ -28,79 +27,6 @@ Data generated on | |
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
 * [5 November 2026](#5-november-2026)
-
-------
-
-# 10 August 2026
-
-## [Guidance Document on Toxicokinetics to accommodate Testing of (Nano)particles](https://doi.org/10.1787/629332c6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 August 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Detailed Review Paper on Respiratory Sensitisation](https://doi.org/10.1787/b5258246-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 August 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Guidance Document for In Vitro Testing of the Intestinal Fate of Orally Ingested Nanomaterials](https://doi.org/10.1787/be2a4b9e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 August 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
