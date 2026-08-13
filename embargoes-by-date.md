@@ -2,9 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 12 August 2026 at 23:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 14 August 2026 at 0:00* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [13 August 2026](#13-august-2026)
+* [18 August 2026](#18-august-2026)
 * [20 August 2026](#20-august-2026)
 * [24 August 2026](#24-august-2026)
 * [25 August 2026](#25-august-2026)
@@ -30,13 +30,13 @@ Data generated on | |
 
 ------
 
-# 13 August 2026
+# 18 August 2026
 
 ## [Improving diet quality in West Africa - The role of intra-regional food trade](https://doi.org/10.1787/8d459b80-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 13 August 2026 at 22:01 | no launch event
+Tuesday 18 August 2026 at 22:01 | no launch event
 
 ### Status Information
 
@@ -58,6 +58,29 @@ Thursday 13 August 2026 at 22:01 | no launch event
 ------
 
 # 20 August 2026
+
+## [Challenges for Young People in Greece to Reach Financial Independence](https://doi.org/10.1787/b8b55143-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 August 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [Density scenarios and urban expansion in Africa towards 2050](https://doi.org/10.1787/1dddc920-en)
 

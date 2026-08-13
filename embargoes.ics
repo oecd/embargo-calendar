@@ -12,29 +12,29 @@ DESCRIPTION:*[Working paper] Improving diet quality
  d West Africa Club\nLanguage: English\nD
  OI: https://doi.org/10.1787/8d459b80-en\
  nPublication type: Working paper\nReleas
- ed as: PDF\n\nEmbargo date/time: Thursda
- y, 13 August 2026, 22:01 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 23:56, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=8d4
- 59b80-en.
-DTSTAMP:20260812T235615Z
-DTSTART:20260813T220100Z
-DTEND:20260813T221600Z
+ ed as: PDF\n\nEmbargo date/time: Tuesday
+ , 18 August 2026, 22:01 (GMT)\n\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nOECD.org export: never\nFTI loaded
+ : ✗\n\nFor more information see: https:/
+ /oecd.github.io/embargo-calendar/embargo
+ es-by-publication.html.\n\nPlease note: 
+ This information was correct as of this 
+ morning at 0:00, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=8d459b8
+ 0-en.
+DTSTAMP:20260814T000059Z
+DTSTART:20260818T220100Z
+DTEND:20260818T221600Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -44,7 +44,48 @@ DESCRIPTION:Reminder: [Working paper] Improving diet
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1dddc920-end3e116
+UID:10.1787/b8b55143-end3e116
+SUMMARY:[Book] Challenges for Young People in Gr
+ eece to Reach Financial Independence
+DESCRIPTION:*[Book] Challenges for Young People in G
+ reece to Reach Financial Independence*\n
+ \nDirectorate: Directorate for Employmen
+ t, Labour and Social Affairs\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/b8
+ b55143-en\nPublication type: Book\nRelea
+ sed as: PDF\n\nEmbargo date/time: Thursd
+ ay, 20 August 2026, 6:00 (GMT)\n\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nOECD.org export: never\nFTI loade
+ d: ✗\n\nFor more information see: https:
+ //oecd.github.io/embargo-calendar/embarg
+ oes-by-publication.html.\n\nPlease note:
+  This information was correct as of this
+  morning at 0:00, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=b8b551
+ 43-en.
+DTSTAMP:20260814T000059Z
+DTSTART:20260820T060000Z
+DTEND:20260820T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Challenges for Young Pe
+ ople in Greece to Reach Financial Indepe
+ ndence
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1dddc920-end3e168
 SUMMARY:[Working paper] Density scenarios and ur
  ban expansion in Africa towards 2050
 DESCRIPTION:*[Working paper] Density scenarios and u
@@ -60,16 +101,16 @@ DESCRIPTION:*[Working paper] Density scenarios and u
  information see: https://oecd.github.io/
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
-  was correct as of this afternoon at 23:
- 56, it is updated each night; therefore 
- any subsequent updates may not yet be vi
- sible here. Also, please be aware that t
- he different released media (PDF, HTML, 
- etc.) are not necessarily released at th
- e same time. For complete and up-to-date
-  information see here: http://kappa.oecd
- .org/v3/search?term=1dddc920-en.
-DTSTAMP:20260812T235615Z
+  was correct as of this morning at 0:00,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=1dddc920-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260820T220100Z
 DTEND:20260820T221600Z
 TRANSP:TRANSPARENT
@@ -84,7 +125,7 @@ DESCRIPTION:Reminder: [Working paper] Density scenar
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ff127405-end3e168
+UID:10.1787/ff127405-end3e220
 SUMMARY:[Policy paper] Using incubators and acce
  lerators to support travel and tourism s
  tart-ups
@@ -102,16 +143,16 @@ DESCRIPTION:*[Policy paper] Using incubators and acc
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:56
- , it is updated each night; therefore an
- y subsequent updates may not yet be visi
- ble here. Also, please be aware that the
-  different released media (PDF, HTML, et
- c.) are not necessarily released at the 
- same time. For complete and up-to-date i
- nformation see here: http://kappa.oecd.o
- rg/v3/search?term=ff127405-en.
-DTSTAMP:20260812T235615Z
+ as correct as of this morning at 0:00, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=ff127405-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260820T220100Z
 DTEND:20260820T221600Z
 TRANSP:TRANSPARENT
@@ -126,7 +167,7 @@ DESCRIPTION:Reminder: [Policy paper] Using incubator
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f43500af-end3e220
+UID:10.1787/f43500af-end3e273
 SUMMARY:[Working paper] Unpacking place transfor
  mation
 DESCRIPTION:*[Working paper] Unpacking place transfo
@@ -142,16 +183,16 @@ DESCRIPTION:*[Working paper] Unpacking place transfo
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:56,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=f43500af-en.
-DTSTAMP:20260812T235615Z
+ s correct as of this morning at 0:00, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=f43500af-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260820T220100Z
 DTEND:20260820T221600Z
 TRANSP:TRANSPARENT
@@ -165,7 +206,7 @@ DESCRIPTION:Reminder: [Working paper] Unpacking plac
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4fcb4f91-end3e273
+UID:10.1787/4fcb4f91-end3e325
 SUMMARY:[Report] Determining the Price of Minera
  ls - A transfer pricing framework for co
  pper
@@ -182,17 +223,17 @@ DESCRIPTION:*[Report] Determining the Price of Miner
  n\nFor more information see: https://oec
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
-  information was correct as of this afte
- rnoon at 23:56, it is updated each night
- ; therefore any subsequent updates may n
- ot yet be visible here. Also, please be 
- aware that the different released media 
- (PDF, HTML, etc.) are not necessarily re
- leased at the same time. For complete an
- d up-to-date information see here: http:
- //kappa.oecd.org/v3/search?term=4fcb4f91
- -en.
-DTSTAMP:20260812T235615Z
+  information was correct as of this morn
+ ing at 0:00, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=4fcb4f91-en
+ .
+DTSTAMP:20260814T000059Z
 DTSTART:20260824T090000Z
 DTEND:20260824T091500Z
 TRANSP:TRANSPARENT
@@ -207,7 +248,7 @@ DESCRIPTION:Reminder: [Report] Determining the Price
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/47e6c63e-end3e326
+UID:10.1787/47e6c63e-end3e378
 SUMMARY:[Book] OECD Tax Policy Reviews: Peru 202
  6
 DESCRIPTION:*[Book] OECD Tax Policy Reviews: Peru 20
@@ -222,17 +263,16 @@ DESCRIPTION:*[Book] OECD Tax Policy Reviews: Peru 20
  For more information see: https://oecd.g
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 23:56, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=47e6c63e-en
- .
-DTSTAMP:20260812T235615Z
+ formation was correct as of this morning
+  at 0:00, it is updated each night; ther
+ efore any subsequent updates may not yet
+  be visible here. Also, please be aware 
+ that the different released media (PDF, 
+ HTML, etc.) are not necessarily released
+  at the same time. For complete and up-t
+ o-date information see here: http://kapp
+ a.oecd.org/v3/search?term=47e6c63e-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260825T140000Z
 DTEND:20260825T141500Z
 TRANSP:TRANSPARENT
@@ -246,7 +286,7 @@ DESCRIPTION:Reminder: [Book] OECD Tax Policy Reviews
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5600c944-end3e378
+UID:10.1787/5600c944-end3e430
 SUMMARY:[Working paper] Measuring global value c
  hain participation in UK regions
 DESCRIPTION:*[Working paper] Measuring global value 
@@ -263,16 +303,16 @@ DESCRIPTION:*[Working paper] Measuring global value
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:56, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=5600c944-en.
-DTSTAMP:20260812T235615Z
+ f this morning at 0:00, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 5600c944-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260827T220100Z
 DTEND:20260827T221600Z
 TRANSP:TRANSPARENT
@@ -287,7 +327,7 @@ DESCRIPTION:Reminder: [Working paper] Measuring glob
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f36125c4-end3e430
+UID:10.1787/f36125c4-end3e482
 SUMMARY:[Working paper] UK regions in the global
   economy
 DESCRIPTION:*[Working paper] UK regions in the globa
@@ -303,16 +343,16 @@ DESCRIPTION:*[Working paper] UK regions in the globa
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:5
- 6, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=f36125c4-en.
-DTSTAMP:20260812T235615Z
+ was correct as of this morning at 0:00, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=f36125c4-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260827T220100Z
 DTEND:20260827T221600Z
 TRANSP:TRANSPARENT
@@ -326,7 +366,7 @@ DESCRIPTION:Reminder: [Working paper] UK regions in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a9012c4c-end3e482
+UID:10.1787/a9012c4c-end3e534
 SUMMARY:[Book] Progress Review of Peru’s Water a
  nd Sanitation Services Regulator - Drivi
  ng Performance
@@ -343,17 +383,17 @@ DESCRIPTION:*[Book] Progress Review of Peru’s Water
  ✗\n\nFor more information see: https://o
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
- is information was correct as of this af
- ternoon at 23:56, it is updated each nig
- ht; therefore any subsequent updates may
-  not yet be visible here. Also, please b
- e aware that the different released medi
- a (PDF, HTML, etc.) are not necessarily 
- released at the same time. For complete 
- and up-to-date information see here: htt
- p://kappa.oecd.org/v3/search?term=a9012c
- 4c-en.
-DTSTAMP:20260812T235615Z
+ is information was correct as of this mo
+ rning at 0:00, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=a9012c4c-
+ en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260830T220000Z
 DTEND:20260830T221500Z
 TRANSP:TRANSPARENT
@@ -368,7 +408,7 @@ DESCRIPTION:Reminder: [Book] Progress Review of Peru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/722a9474-esd3e535
+UID:10.1787/722a9474-esd3e588
 SUMMARY:[Book] Informe sobre avances del Regulad
  or de los servicios de agua y saneamient
  o de Perú - Impulsando el desempeño
@@ -386,16 +426,16 @@ DESCRIPTION:*[Book] Informe sobre avances del Regula
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:56, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=722a9474-es.
-DTSTAMP:20260812T235615Z
+ correct as of this morning at 0:00, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=722a9474-es.
+DTSTAMP:20260814T000059Z
 DTSTART:20260830T220000Z
 DTEND:20260830T221500Z
 TRANSP:TRANSPARENT
@@ -411,7 +451,7 @@ DESCRIPTION:Reminder: [Book] Informe sobre avances d
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6ad10075-end3e589
+UID:10.1787/6ad10075-end3e641
 SUMMARY:[Working paper] Gender and trust in publ
  ic institutions in Switzerland - An anal
  ysis of the determinants
@@ -429,16 +469,16 @@ DESCRIPTION:*[Working paper] Gender and trust in pub
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:56, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=6ad10075-en.
-DTSTAMP:20260812T235615Z
+ rrect as of this morning at 0:00, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=6ad10075-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260830T220100Z
 DTEND:20260830T221600Z
 TRANSP:TRANSPARENT
@@ -453,7 +493,7 @@ DESCRIPTION:Reminder: [Working paper] Gender and tru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a7b4d558-frd3e642
+UID:10.1787/a7b4d558-frd3e694
 SUMMARY:[Report] Renforcer les systèmes d’impôt 
  sur les sociétés pour soutenir le dynami
  sme des entreprises
@@ -471,16 +511,16 @@ DESCRIPTION:*[Report] Renforcer les systèmes d’impôt
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:56, it is upd
- ated each night; therefore any subsequen
- t updates may not yet be visible here. A
- lso, please be aware that the different 
- released media (PDF, HTML, etc.) are not
-  necessarily released at the same time. 
- For complete and up-to-date information 
- see here: http://kappa.oecd.org/v3/searc
- h?term=a7b4d558-fr.
-DTSTAMP:20260812T235615Z
+ as of this morning at 0:00, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=a7b4d558-fr.
+DTSTAMP:20260814T000059Z
 DTSTART:20260831T120000Z
 DTEND:20260831T121500Z
 TRANSP:TRANSPARENT
@@ -495,7 +535,7 @@ DESCRIPTION:Reminder: [Report] Renforcer les système
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7e843e1d-end3e694
+UID:10.1787/7e843e1d-end3e746
 SUMMARY:[Report] Enhancing corporate tax systems
   to support business dynamism
 DESCRIPTION:*[Report] Enhancing corporate tax system
@@ -511,16 +551,16 @@ DESCRIPTION:*[Report] Enhancing corporate tax system
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:56
- , it is updated each night; therefore an
- y subsequent updates may not yet be visi
- ble here. Also, please be aware that the
-  different released media (PDF, HTML, et
- c.) are not necessarily released at the 
- same time. For complete and up-to-date i
- nformation see here: http://kappa.oecd.o
- rg/v3/search?term=7e843e1d-en.
-DTSTAMP:20260812T235615Z
+ as correct as of this morning at 0:00, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=7e843e1d-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260831T120000Z
 DTEND:20260831T121500Z
 TRANSP:TRANSPARENT
@@ -534,7 +574,7 @@ DESCRIPTION:Reminder: [Report] Enhancing corporate t
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab6386d7-frd3e746
+UID:10.1787/ab6386d7-frd3e798
 SUMMARY:[Report] Rapport sur la fiscalité du Sec
  rétaire général de l’OCDE à l’intention 
  des ministres des Finances et des gouver
@@ -556,16 +596,16 @@ DESCRIPTION:*[Report] Rapport sur la fiscalité du Se
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:56, it is upd
- ated each night; therefore any subsequen
- t updates may not yet be visible here. A
- lso, please be aware that the different 
- released media (PDF, HTML, etc.) are not
-  necessarily released at the same time. 
- For complete and up-to-date information 
- see here: http://kappa.oecd.org/v3/searc
- h?term=ab6386d7-fr.
-DTSTAMP:20260812T235615Z
+ as of this morning at 0:00, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=ab6386d7-fr.
+DTSTAMP:20260814T000059Z
 DTSTART:20260831T120000Z
 DTEND:20260831T121500Z
 TRANSP:TRANSPARENT
@@ -582,7 +622,7 @@ DESCRIPTION:Reminder: [Report] Rapport sur la fiscal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8af2444d-end3e798
+UID:10.1787/8af2444d-end3e850
 SUMMARY:[Report] OECD Secretary-General Tax Repo
  rt to G20 Finance Ministers and Central 
  Bank Governors (G20 United States, Augus
@@ -602,16 +642,16 @@ DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:56, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=8af2
- 444d-en.
-DTSTAMP:20260812T235615Z
+ morning at 0:00, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=8af2444
+ d-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260831T120000Z
 DTEND:20260831T121500Z
 TRANSP:TRANSPARENT
@@ -627,7 +667,7 @@ DESCRIPTION:Reminder: [Report] OECD Secretary-Genera
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/97485a5e-end3e850
+UID:10.1787/97485a5e-end3e903
 SUMMARY:[Policy paper] How preferential trade ag
  reements address market distortions from
   state enterprises
@@ -645,16 +685,16 @@ DESCRIPTION:*[Policy paper] How preferential trade a
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:56, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=97485a5e-en.
-DTSTAMP:20260812T235615Z
+  as of this morning at 0:00, it is updat
+ ed each night; therefore any subsequent 
+ updates may not yet be visible here. Als
+ o, please be aware that the different re
+ leased media (PDF, HTML, etc.) are not n
+ ecessarily released at the same time. Fo
+ r complete and up-to-date information se
+ e here: http://kappa.oecd.org/v3/search?
+ term=97485a5e-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260906T220100Z
 DTEND:20260906T221600Z
 TRANSP:TRANSPARENT
@@ -669,7 +709,7 @@ DESCRIPTION:Reminder: [Policy paper] How preferentia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0d519f21-end3e903
+UID:10.1787/0d519f21-end3e955
 SUMMARY:[Policy paper] Navigating transition and
   excess capacity
 DESCRIPTION:*[Policy paper] Navigating transition an
@@ -685,16 +725,16 @@ DESCRIPTION:*[Policy paper] Navigating transition an
   information see: https://oecd.github.io
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 23
- :56, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=0d519f21-en.
-DTSTAMP:20260812T235615Z
+ n was correct as of this morning at 0:00
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=0d519f21-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260907T220100Z
 DTEND:20260907T221600Z
 TRANSP:TRANSPARENT
@@ -708,7 +748,7 @@ DESCRIPTION:Reminder: [Policy paper] Navigating tran
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/73451bc5-end3e955
+UID:10.1787/73451bc5-end3e1007
 SUMMARY:[Book] PISA 2025 Results (Volume I) - Fu
  ture-Ready Students
 DESCRIPTION:*[Book] PISA 2025 Results (Volume I) - F
@@ -724,16 +764,16 @@ DESCRIPTION:*[Book] PISA 2025 Results (Volume I) - F
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:56, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=73451bc5-en.
-DTSTAMP:20260812T235615Z
+ of this morning at 0:00, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =73451bc5-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260908T073000Z
 DTEND:20260908T074500Z
 TRANSP:TRANSPARENT
@@ -747,7 +787,7 @@ DESCRIPTION:Reminder: [Book] PISA 2025 Results (Volu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/43d18a55-end3e1008
+UID:10.1787/43d18a55-end3e1060
 SUMMARY:[Book] Tax Policy Reforms 2026 - OECD an
  d Selected Partner Economies
 DESCRIPTION:*[Book] Tax Policy Reforms 2026 - OECD a
@@ -763,16 +803,16 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2026 - OECD a
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:56,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=43d18a55-en.
-DTSTAMP:20260812T235615Z
+ s correct as of this morning at 0:00, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=43d18a55-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260908T090000Z
 DTEND:20260908T091500Z
 TRANSP:TRANSPARENT
@@ -786,7 +826,7 @@ DESCRIPTION:Reminder: [Book] Tax Policy Reforms 2026
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cbf9b240-end3e1061
+UID:10.1787/cbf9b240-end3e1113
 SUMMARY:[Stand-alone monograph] The Space Econom
  y at a Glance 2026
 DESCRIPTION:*[Stand-alone monograph] The Space Econo
@@ -802,17 +842,17 @@ DESCRIPTION:*[Stand-alone monograph] The Space Econo
  ✗\n\nFor more information see: https://o
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
- is information was correct as of this af
- ternoon at 23:56, it is updated each nig
- ht; therefore any subsequent updates may
-  not yet be visible here. Also, please b
- e aware that the different released medi
- a (PDF, HTML, etc.) are not necessarily 
- released at the same time. For complete 
- and up-to-date information see here: htt
- p://kappa.oecd.org/v3/search?term=cbf9b2
- 40-en.
-DTSTAMP:20260812T235615Z
+ is information was correct as of this mo
+ rning at 0:00, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=cbf9b240-
+ en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260909T070000Z
 DTEND:20260909T071500Z
 TRANSP:TRANSPARENT
@@ -826,7 +866,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] The Sp
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3ff6655c-end3e1113
+UID:10.1787/3ff6655c-end3e1165
 SUMMARY:[Stand-alone monograph] Advancing the Im
  plementation of the EU Carbon Border Adj
  ustment Mechanism - Lessons from Romania
@@ -845,16 +885,16 @@ DESCRIPTION:*[Stand-alone monograph] Advancing the I
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:56, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=3ff6655c-en.
-DTSTAMP:20260812T235615Z
+  as of this morning at 0:00, it is updat
+ ed each night; therefore any subsequent 
+ updates may not yet be visible here. Als
+ o, please be aware that the different re
+ leased media (PDF, HTML, etc.) are not n
+ ecessarily released at the same time. Fo
+ r complete and up-to-date information se
+ e here: http://kappa.oecd.org/v3/search?
+ term=3ff6655c-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260910T090000Z
 DTEND:20260910T091500Z
 TRANSP:TRANSPARENT
@@ -870,7 +910,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Advanc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/400e2d2a-end3e1166
+UID:10.1787/400e2d2a-end3e1219
 SUMMARY:[Policy paper] Critical Raw Materials in
   Central Asia - Unlocking Investments, M
  anaging Risks
@@ -888,16 +928,16 @@ DESCRIPTION:*[Policy paper] Critical Raw Materials i
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:56, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=400e2d2a-en.
-DTSTAMP:20260812T235615Z
+ correct as of this morning at 0:00, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=400e2d2a-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260913T220100Z
 DTEND:20260913T221600Z
 TRANSP:TRANSPARENT
@@ -912,7 +952,7 @@ DESCRIPTION:Reminder: [Policy paper] Critical Raw Ma
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/138ed294-end3e1273
+UID:10.1787/138ed294-end3e1325
 SUMMARY:[Stand-alone monograph] Research and Inn
  ovation Careers Observatory 2026 - Key I
  ndicators on Talent, Mobility and Workin
@@ -933,16 +973,16 @@ DESCRIPTION:*[Stand-alone monograph] Research and In
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:56, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=138
- ed294-en.
-DTSTAMP:20260812T235615Z
+  morning at 0:00, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=138ed2
+ 94-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260914T070000Z
 DTEND:20260914T071500Z
 TRANSP:TRANSPARENT
@@ -958,7 +998,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Resear
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/48b03aff-end3e1326
+UID:10.1787/48b03aff-end3e1378
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Switzerland 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -974,16 +1014,16 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 23:56, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=48
- b03aff-en.
-DTSTAMP:20260812T235615Z
+ s morning at 0:00, it is updated each ni
+ ght; therefore any subsequent updates ma
+ y not yet be visible here. Also, please 
+ be aware that the different released med
+ ia (PDF, HTML, etc.) are not necessarily
+  released at the same time. For complete
+  and up-to-date information see here: ht
+ tp://kappa.oecd.org/v3/search?term=48b03
+ aff-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260914T220000Z
 DTEND:20260914T221500Z
 TRANSP:TRANSPARENT
@@ -997,7 +1037,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/786bff30-end3e1378
+UID:10.1787/786bff30-end3e1430
 SUMMARY:[Policy paper] Developing a National Stu
  dent Assessment Framework for the Philip
  pines
@@ -1015,16 +1055,16 @@ DESCRIPTION:*[Policy paper] Developing a National St
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:56, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=786bff30-en.
-DTSTAMP:20260812T235615Z
+  this morning at 0:00, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=7
+ 86bff30-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260916T220100Z
 DTEND:20260916T221600Z
 TRANSP:TRANSPARENT
@@ -1039,7 +1079,7 @@ DESCRIPTION:Reminder: [Policy paper] Developing a Na
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/06da147a-end3e1431
+UID:10.1787/06da147a-end3e1483
 SUMMARY:[Working paper] Participation in GVCs th
  rough capital goods and services - Capit
  al-endogenised TiVA indicators
@@ -1057,16 +1097,16 @@ DESCRIPTION:*[Working paper] Participation in GVCs t
  ore information see: https://oecd.github
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
- tion was correct as of this afternoon at
-  23:56, it is updated each night; theref
- ore any subsequent updates may not yet b
- e visible here. Also, please be aware th
- at the different released media (PDF, HT
- ML, etc.) are not necessarily released a
- t the same time. For complete and up-to-
- date information see here: http://kappa.
- oecd.org/v3/search?term=06da147a-en.
-DTSTAMP:20260812T235615Z
+ tion was correct as of this morning at 0
+ :00, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=06da147a-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260917T220100Z
 DTEND:20260917T221600Z
 TRANSP:TRANSPARENT
@@ -1081,7 +1121,7 @@ DESCRIPTION:Reminder: [Working paper] Participation
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7b97d06b-end3e1484
+UID:10.1787/7b97d06b-end3e1537
 SUMMARY:[Working paper] Do capital markets matte
  r for growth? - Concepts, measurement an
  d mechanisms
@@ -1099,16 +1139,16 @@ DESCRIPTION:*[Working paper] Do capital markets matt
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:5
- 6, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=7b97d06b-en.
-DTSTAMP:20260812T235615Z
+ was correct as of this morning at 0:00, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=7b97d06b-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260920T220100Z
 DTEND:20260920T221600Z
 TRANSP:TRANSPARENT
@@ -1123,7 +1163,7 @@ DESCRIPTION:Reminder: [Working paper] Do capital mar
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/10379f9f-end3e1538
+UID:10.1787/10379f9f-end3e1590
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Türkiye
@@ -1141,16 +1181,16 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:56, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=10379f9f-en.
-DTSTAMP:20260812T235615Z
+ of this morning at 0:00, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =10379f9f-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260922T070000Z
 DTEND:20260922T071500Z
 TRANSP:TRANSPARENT
@@ -1165,7 +1205,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b4968bbc-end3e1590
+UID:10.1787/b4968bbc-end3e1642
 SUMMARY:[Book] Education at a Glance 2026 - OECD
   Indicators
 DESCRIPTION:*[Book] Education at a Glance 2026 - OEC
@@ -1181,16 +1221,16 @@ DESCRIPTION:*[Book] Education at a Glance 2026 - OEC
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:56, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=b49
- 68bbc-en.
-DTSTAMP:20260812T235615Z
+  morning at 0:00, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=b4968b
+ bc-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260929T090000Z
 DTEND:20260929T091500Z
 TRANSP:TRANSPARENT
@@ -1204,7 +1244,7 @@ DESCRIPTION:Reminder: [Book] Education at a Glance 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cba0b622-frd3e1643
+UID:10.1787/cba0b622-frd3e1695
 SUMMARY:[Book] Regards sur l'éducation 2026 - In
  dicateurs de l'OCDE
 DESCRIPTION:*[Book] Regards sur l'éducation 2026 - I
@@ -1220,16 +1260,16 @@ DESCRIPTION:*[Book] Regards sur l'éducation 2026 - I
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:56, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=cba0b622-fr.
-DTSTAMP:20260812T235615Z
+ of this morning at 0:00, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =cba0b622-fr.
+DTSTAMP:20260814T000059Z
 DTSTART:20260929T090000Z
 DTEND:20260929T091500Z
 TRANSP:TRANSPARENT
@@ -1243,7 +1283,7 @@ DESCRIPTION:Reminder: [Book] Regards sur l'éducation
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/db32e18b-end3e1696
+UID:10.1787/db32e18b-end3e1748
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Full Version) - Volum
  es I and II
@@ -1261,16 +1301,16 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:56, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=db32e18b-en.
-DTSTAMP:20260812T235615Z
+ f this morning at 0:00, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ db32e18b-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260930T090000Z
 DTEND:20260930T091500Z
 TRANSP:TRANSPARENT
@@ -1285,7 +1325,7 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fc44d951-end3e1749
+UID:10.1787/fc44d951-end3e1801
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Condensed Version)
 DESCRIPTION:*[Book] Model Tax Convention on Income a
@@ -1301,17 +1341,16 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  For more information see: https://oecd.g
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 23:56, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=fc44d951-en
- .
-DTSTAMP:20260812T235615Z
+ formation was correct as of this morning
+  at 0:00, it is updated each night; ther
+ efore any subsequent updates may not yet
+  be visible here. Also, please be aware 
+ that the different released media (PDF, 
+ HTML, etc.) are not necessarily released
+  at the same time. For complete and up-t
+ o-date information see here: http://kapp
+ a.oecd.org/v3/search?term=fc44d951-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20260930T090000Z
 DTEND:20260930T091500Z
 TRANSP:TRANSPARENT
@@ -1326,7 +1365,7 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/58c3689d-end3e1801
+UID:10.1787/58c3689d-end3e1854
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Serbia
@@ -1344,16 +1383,16 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:56, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =58c3689d-en.
-DTSTAMP:20260812T235615Z
+ this morning at 0:00, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=58
+ c3689d-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20261008T070000Z
 DTEND:20261008T071500Z
 TRANSP:TRANSPARENT
@@ -1368,7 +1407,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/846bbe2d-end3e1855
+UID:10.1787/846bbe2d-end3e1907
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Bosnia and Herzegovina
@@ -1386,16 +1425,16 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:56,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=846bbe2d-en.
-DTSTAMP:20260812T235615Z
+ s correct as of this morning at 0:00, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=846bbe2d-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20261020T070000Z
 DTEND:20261020T071500Z
 TRANSP:TRANSPARENT
@@ -1410,7 +1449,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e7d36875-end3e1907
+UID:10.1787/e7d36875-end3e1959
 SUMMARY:[Report] Advances in nowcasting the grow
  th rate of the ICT sector
 DESCRIPTION:*[Report] Advances in nowcasting the gro
@@ -1426,16 +1465,16 @@ DESCRIPTION:*[Report] Advances in nowcasting the gro
  ore information see: https://oecd.github
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
- tion was correct as of this afternoon at
-  23:56, it is updated each night; theref
- ore any subsequent updates may not yet b
- e visible here. Also, please be aware th
- at the different released media (PDF, HT
- ML, etc.) are not necessarily released a
- t the same time. For complete and up-to-
- date information see here: http://kappa.
- oecd.org/v3/search?term=e7d36875-en.
-DTSTAMP:20260812T235615Z
+ tion was correct as of this morning at 0
+ :00, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=e7d36875-en.
+DTSTAMP:20260814T000059Z
 DTSTART:20261105T050000Z
 DTEND:20261105T051500Z
 TRANSP:TRANSPARENT
