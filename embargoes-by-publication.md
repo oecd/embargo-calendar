@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 14 August 2026 at 0:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 14 August 2026 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving diet quality in West Africa - The role of intra-regional food trade](https://doi.org/10.1787/8d459b80-en)
 
@@ -35,7 +35,7 @@ Thursday 20 August 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -44,9 +44,9 @@ Thursday 20 August 2026 at 6:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -211,52 +211,6 @@ Thursday 27 August 2026 at 22:01 | no launch event
 
 ------
 
-## [Progress Review of Peru’s Water and Sanitation Services Regulator - Driving Performance](https://doi.org/10.1787/a9012c4c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 30 August 2026 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Informe sobre avances del Regulador de los servicios de agua y saneamiento de Perú - Impulsando el desempeño](https://doi.org/10.1787/722a9474-es)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 30 August 2026 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Gender and trust in public institutions in Switzerland - An analysis of the determinants](https://doi.org/10.1787/6ad10075-en)
 
 Embargo date | Launch date
@@ -368,6 +322,52 @@ Monday 31 August 2026 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Progress Review of Peru’s Water and Sanitation Services Regulator - Driving Performance](https://doi.org/10.1787/a9012c4c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 August 2026 at 14:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Informe sobre avances del Regulador de los servicios de agua y saneamiento de Perú - Impulsando el desempeño](https://doi.org/10.1787/722a9474-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 August 2026 at 14:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -713,6 +713,29 @@ Tuesday 29 September 2026 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Economic Convergence Scoreboard for the Western Balkans 2026](https://doi.org/10.1787/0d625fbe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 September 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
