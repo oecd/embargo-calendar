@@ -2,13 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 17 August 2026 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 18 August 2026 at 23:22* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving diet quality in West Africa - The role of intra-regional food trade](https://doi.org/10.1787/8d459b80-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 18 August 2026 at 22:01 | no launch event
+Wednesday 19 August 2026 at 22:01 | no launch event
 
 ### Status Information
 
@@ -349,7 +349,7 @@ Monday 31 August 2026 at 14:30 | no launch event
 
 ------
 
-## [Informe sobre avances del Regulador de los servicios de agua y saneamiento de Perú - Impulsando el desempeño](https://doi.org/10.1787/722a9474-es)
+## [Informe sobre avances del regulador de los servicios de agua y saneamiento de Perú - Impulsando el desempeño](https://doi.org/10.1787/722a9474-es)
 
 Embargo date | Launch date
 -------------|:------------:
