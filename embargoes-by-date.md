@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 18 August 2026 at 23:22* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 19 August 2026 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 August 2026](#19-august-2026)
 * [20 August 2026](#20-august-2026)
 * [24 August 2026](#24-august-2026)
 * [25 August 2026](#25-august-2026)
@@ -20,6 +19,7 @@ Data generated on | |
 * [14 September 2026](#14-september-2026)
 * [16 September 2026](#16-september-2026)
 * [17 September 2026](#17-september-2026)
+* [18 September 2026](#18-september-2026)
 * [20 September 2026](#20-september-2026)
 * [22 September 2026](#22-september-2026)
 * [29 September 2026](#29-september-2026)
@@ -27,33 +27,6 @@ Data generated on | |
 * [8 October 2026](#8-october-2026)
 * [20 October 2026](#20-october-2026)
 * [5 November 2026](#5-november-2026)
-
-------
-
-# 19 August 2026
-
-## [Improving diet quality in West Africa - The role of intra-regional food trade](https://doi.org/10.1787/8d459b80-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -105,7 +78,7 @@ Thursday 20 August 2026 at 22:01 | no launch event
 
 ------
 
-## [Using incubators and accelerators to support travel and tourism start-ups](https://doi.org/10.1787/ff127405-en)
+## [Improving diet quality in West Africa - The role of intra-regional food trade](https://doi.org/10.1787/8d459b80-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -120,30 +93,7 @@ Thursday 20 August 2026 at 22:01 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Directorate: *Sahel and West Africa Club*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
@@ -209,6 +159,29 @@ Tuesday 25 August 2026 at 14:00 | no launch event
 
 # 27 August 2026
 
+## [Using incubators and accelerators to support travel and tourism start-ups](https://doi.org/10.1787/ff127405-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Measuring global value chain participation in UK regions](https://doi.org/10.1787/5600c944-en)
 
 Embargo date | Launch date
@@ -233,6 +206,29 @@ Thursday 27 August 2026 at 22:01 | no launch event
 ------
 
 ## [UK regions in the global economy](https://doi.org/10.1787/f36125c4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -386,7 +382,7 @@ Monday 31 August 2026 at 14:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -395,9 +391,9 @@ Monday 31 August 2026 at 14:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -409,7 +405,7 @@ Monday 31 August 2026 at 14:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -418,9 +414,9 @@ Monday 31 August 2026 at 14:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -710,6 +706,33 @@ Thursday 17 September 2026 at 22:01 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+------
+
+# 18 September 2026
+
+## [OECD Review of Investment Policies in ASEAN - Mobilising Investment for the Green and Digital Transitions](https://doi.org/10.1787/baf9c7a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 September 2026 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 

@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 18 August 2026 at 23:22* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Improving diet quality in West Africa - The role of intra-regional food trade](https://doi.org/10.1787/8d459b80-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Wednesday 19 August 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Challenges for Young People in Greece to Reach Financial Independence](https://doi.org/10.1787/b8b55143-en)
 
@@ -73,7 +50,7 @@ Thursday 20 August 2026 at 22:01 | no launch event
 
 ------
 
-## [Using incubators and accelerators to support travel and tourism start-ups](https://doi.org/10.1787/ff127405-en)
+## [Improving diet quality in West Africa - The role of intra-regional food trade](https://doi.org/10.1787/8d459b80-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -88,30 +65,7 @@ Thursday 20 August 2026 at 22:01 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Directorate: *Sahel and West Africa Club*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
@@ -165,6 +119,29 @@ Tuesday 25 August 2026 at 14:00 | no launch event
 
 ------
 
+## [Using incubators and accelerators to support travel and tourism start-ups](https://doi.org/10.1787/ff127405-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Measuring global value chain participation in UK regions](https://doi.org/10.1787/5600c944-en)
 
 Embargo date | Launch date
@@ -189,6 +166,29 @@ Thursday 27 August 2026 at 22:01 | no launch event
 ------
 
 ## [UK regions in the global economy](https://doi.org/10.1787/f36125c4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 August 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -334,7 +334,7 @@ Monday 31 August 2026 at 14:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -343,9 +343,9 @@ Monday 31 August 2026 at 14:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -357,7 +357,7 @@ Monday 31 August 2026 at 14:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -366,9 +366,9 @@ Monday 31 August 2026 at 14:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -622,6 +622,29 @@ Thursday 17 September 2026 at 22:01 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+## [OECD Review of Investment Policies in ASEAN - Mobilising Investment for the Green and Digital Transitions](https://doi.org/10.1787/baf9c7a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 September 2026 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
