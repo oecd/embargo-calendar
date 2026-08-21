@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-08-20T23:19:34.1463576+02:00">
+<report name="official-embargoes" generated="2026-08-21T23:22:31.8458292+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -54,7 +54,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2026-08-20T21:47:46Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
@@ -322,32 +322,12 @@
   </row>
   <row index="16">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/4fcb4f91-en</cell>
-    <cell name="title">Determining the Price of Minerals (en)</cell>
-    <cell name="subtitle">A transfer pricing framework for copper (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2026-08-24</cell>
-    <cell name="embargo date">2026-08-24T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56058169</cell>
-  </row>
-  <row index="17">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/47e6c63e-en</cell>
     <cell name="title">OECD Tax Policy Reviews: Peru 2026 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2026-08-25</cell>
     <cell name="embargo date">2026-08-25T14:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -358,9 +338,309 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6005ef0b</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4213a4a5</cell>
+  </row>
+  <row index="17">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/25848ee5-en</cell>
+    <cell name="title">Main tax policy challenges (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7fd5e977</cell>
   </row>
   <row index="18">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/47e6c63e-en</cell>
+    <cell name="title">OECD Tax Policy Reviews: Peru 2026 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e398bf8</cell>
+  </row>
+  <row index="19">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/47e6c63e-en</cell>
+    <cell name="title">OECD Tax Policy Reviews: Peru 2026 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/608b4a87</cell>
+  </row>
+  <row index="20">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/4ab4d911-es</cell>
+    <cell name="title">Resumen ejecutivo (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9dca4894</cell>
+  </row>
+  <row index="21">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/af134157-en</cell>
+    <cell name="title">The tax design of special economic zones in Peru and peer countries (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10ecc29c</cell>
+  </row>
+  <row index="22">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/de9a2bbe-en</cell>
+    <cell name="title">Payroll taxes and mandatory benefits (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd078205</cell>
+  </row>
+  <row index="23">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/dfe56ebe-en</cell>
+    <cell name="title">Empirical evidence on tax incentives (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da62fb0d</cell>
+  </row>
+  <row index="24">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/47e6c63e-en</cell>
+    <cell name="title">OECD Tax Policy Reviews: Peru 2026 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6005ef0b</cell>
+  </row>
+  <row index="25">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/1608169c-en</cell>
+    <cell name="title">A balanced approach to tax expenditures in Peru (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5371aad</cell>
+  </row>
+  <row index="26">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/4971ada3-en</cell>
+    <cell name="title">Executive Summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b8d50f5</cell>
+  </row>
+  <row index="27">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/47e6c63e-en</cell>
+    <cell name="title">OECD Tax Policy Reviews: Peru 2026 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a2dcf93</cell>
+  </row>
+  <row index="28">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/381c31fe-en</cell>
+    <cell name="title">The schedular design of the personal income tax in Peru (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb78b780</cell>
+  </row>
+  <row index="29">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/08fde0e2-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f3f3433f</cell>
+  </row>
+  <row index="30">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/d149f92a-en</cell>
+    <cell name="title">Improving tax buoyancy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5320a16f</cell>
+  </row>
+  <row index="31">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/7984038b-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2026-08-25</cell>
+    <cell name="embargo date">2026-08-25T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2901c779</cell>
+  </row>
+  <row index="32">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ff127405-en</cell>
     <cell name="title">Using incubators and accelerators to support travel and tourism start-ups (en)</cell>
@@ -380,7 +660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c160ce9d</cell>
   </row>
-  <row index="19">
+  <row index="33">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5600c944-en</cell>
     <cell name="title">Measuring global value chain participation in UK regions (en)</cell>
@@ -400,7 +680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22541f15</cell>
   </row>
-  <row index="20">
+  <row index="34">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f36125c4-en</cell>
     <cell name="title">UK regions in the global economy (en)</cell>
@@ -420,7 +700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e351ecb</cell>
   </row>
-  <row index="21">
+  <row index="35">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f43500af-en</cell>
     <cell name="title">Unpacking place transformation (en)</cell>
@@ -440,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6dc8697</cell>
   </row>
-  <row index="22">
+  <row index="36">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6ad10075-en</cell>
     <cell name="title">Gender and trust in public institutions in Switzerland (en)</cell>
@@ -460,7 +740,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b77e6d8b</cell>
   </row>
-  <row index="23">
+  <row index="37">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/4fcb4f91-en</cell>
+    <cell name="title">Determining the Price of Minerals (en)</cell>
+    <cell name="subtitle">A transfer pricing framework for copper (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2026-08-31</cell>
+    <cell name="embargo date">2026-08-31T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56058169</cell>
+  </row>
+  <row index="38">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a9012c4c-en</cell>
     <cell name="title">Progress Review of Peru’s Water and Sanitation Services Regulator (en)</cell>
@@ -480,7 +780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa10b49e</cell>
   </row>
-  <row index="24">
+  <row index="39">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/722a9474-es</cell>
     <cell name="title">Informe sobre avances del regulador de los servicios de agua y saneamiento de Perú (es)</cell>
@@ -500,7 +800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0dcf7a8a</cell>
   </row>
-  <row index="25">
+  <row index="40">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9dfeabd7-es</cell>
     <cell name="title">Prólogo (es)</cell>
@@ -520,7 +820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69462777</cell>
   </row>
-  <row index="26">
+  <row index="41">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/722a9474-es</cell>
     <cell name="title">Informe sobre avances del regulador de los servicios de agua y saneamiento de Perú (es)</cell>
@@ -540,7 +840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7cb23e4</cell>
   </row>
-  <row index="27">
+  <row index="42">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/57c3375a-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -560,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e3f808e</cell>
   </row>
-  <row index="28">
+  <row index="43">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/722a9474-es</cell>
     <cell name="title">Informe sobre avances del regulador de los servicios de agua y saneamiento de Perú (es)</cell>
@@ -580,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bbbdb2e1</cell>
   </row>
-  <row index="29">
+  <row index="44">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/607dcf38-en</cell>
     <cell name="title">Methodology (en)</cell>
@@ -600,7 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4202ec45</cell>
   </row>
-  <row index="30">
+  <row index="45">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/75ca3be5-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -620,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/012bc68a</cell>
   </row>
-  <row index="31">
+  <row index="46">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/783651b9-en</cell>
     <cell name="title">At a glance: Progress on 2022 recommendations (en)</cell>
@@ -640,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/601dce99</cell>
   </row>
-  <row index="32">
+  <row index="47">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/65382d18-es</cell>
     <cell name="title">Metodología (es)</cell>
@@ -660,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fef25b60</cell>
   </row>
-  <row index="33">
+  <row index="48">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/942c96b6-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -680,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5477e585</cell>
   </row>
-  <row index="34">
+  <row index="49">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a9012c4c-en</cell>
     <cell name="title">Progress Review of Peru’s Water and Sanitation Services Regulator (en)</cell>
@@ -700,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5b89bd34</cell>
   </row>
-  <row index="35">
+  <row index="50">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a9012c4c-en</cell>
     <cell name="title">Progress Review of Peru’s Water and Sanitation Services Regulator (en)</cell>
@@ -720,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e657f855</cell>
   </row>
-  <row index="36">
+  <row index="51">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6326c932-es</cell>
     <cell name="title">Resumen: Avances en las recomendaciones de 2022 (es)</cell>
@@ -740,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2af150b1</cell>
   </row>
-  <row index="37">
+  <row index="52">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a9012c4c-en</cell>
     <cell name="title">Progress Review of Peru’s Water and Sanitation Services Regulator (en)</cell>
@@ -760,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/008c161c</cell>
   </row>
-  <row index="38">
+  <row index="53">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/17dc32d1-en</cell>
     <cell name="title">Implementation of the 2022 PAFER recommendations (en)</cell>
@@ -780,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a24e1d78</cell>
   </row>
-  <row index="39">
+  <row index="54">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/722a9474-es</cell>
     <cell name="title">Informe sobre avances del regulador de los servicios de agua y saneamiento de Perú (es)</cell>
@@ -800,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bde51f8</cell>
   </row>
-  <row index="40">
+  <row index="55">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/edc660a8-es</cell>
     <cell name="title">Resumen ejecutivo (es)</cell>
@@ -820,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec29fa2c</cell>
   </row>
-  <row index="41">
+  <row index="56">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a9012c4c-en</cell>
     <cell name="title">Progress Review of Peru’s Water and Sanitation Services Regulator (en)</cell>
@@ -840,7 +1140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0b0af00</cell>
   </row>
-  <row index="42">
+  <row index="57">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a8b82e69-es</cell>
     <cell name="title">Aplicación de las recomendaciones del PAFER de 2022 (es)</cell>
@@ -860,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ed4ef2e</cell>
   </row>
-  <row index="43">
+  <row index="58">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a85348cc-es</cell>
     <cell name="title">Abreviaturas y siglas (es)</cell>
@@ -880,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a04357b9</cell>
   </row>
-  <row index="44">
+  <row index="59">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/722a9474-es</cell>
     <cell name="title">Informe sobre avances del regulador de los servicios de agua y saneamiento de Perú (es)</cell>
@@ -900,7 +1200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2234a82</cell>
   </row>
-  <row index="45">
+  <row index="60">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/97485a5e-en</cell>
     <cell name="title">How preferential trade agreements address market distortions from state enterprises (en)</cell>
@@ -920,7 +1220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/04db10f1</cell>
   </row>
-  <row index="46">
+  <row index="61">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0d519f21-en</cell>
     <cell name="title">Navigating transition and excess capacity (en)</cell>
@@ -940,7 +1240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff33bd5c</cell>
   </row>
-  <row index="47">
+  <row index="62">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/73451bc5-en</cell>
     <cell name="title">PISA 2025 Results (Volume I) (en)</cell>
@@ -960,7 +1260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df71b452</cell>
   </row>
-  <row index="48">
+  <row index="63">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/43d18a55-en</cell>
     <cell name="title">Tax Policy Reforms 2026 (en)</cell>
@@ -980,7 +1280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/167b288e</cell>
   </row>
-  <row index="49">
+  <row index="64">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/cbf9b240-en</cell>
     <cell name="title">The Space Economy at a Glance 2026 (en)</cell>
@@ -1000,7 +1300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bf62349</cell>
   </row>
-  <row index="50">
+  <row index="65">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3ff6655c-en</cell>
     <cell name="title">Advancing the Implementation of the EU Carbon Border Adjustment Mechanism (en)</cell>
@@ -1020,7 +1320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2e391b7</cell>
   </row>
-  <row index="51">
+  <row index="66">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/400e2d2a-en</cell>
     <cell name="title">Critical Raw Materials in Central Asia (en)</cell>
@@ -1040,7 +1340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0382a13</cell>
   </row>
-  <row index="52">
+  <row index="67">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/138ed294-en</cell>
     <cell name="title">Research and Innovation Careers Observatory 2026 (en)</cell>
@@ -1060,7 +1360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8026717d</cell>
   </row>
-  <row index="53">
+  <row index="68">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/138ed294-en</cell>
     <cell name="title">Research and Innovation Careers Observatory 2026 (en)</cell>
@@ -1080,7 +1380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/421b3e2a</cell>
   </row>
-  <row index="54">
+  <row index="69">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/48b03aff-en</cell>
     <cell name="title">OECD Economic Surveys: Switzerland 2026 (en)</cell>
@@ -1100,7 +1400,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23e76ea4</cell>
   </row>
-  <row index="55">
+  <row index="70">
+    <cell name="directorate">Global Relations and Cooperation Directorate</cell>
+    <cell name="doi">10.1787/7905d3f2-en</cell>
+    <cell name="title">Building better policies through public-private dialogue in ASEAN (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-09-15</cell>
+    <cell name="embargo date">2026-09-14T22:01:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Policy paper</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97b5664d</cell>
+  </row>
+  <row index="71">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/786bff30-en</cell>
     <cell name="title">Developing a National Student Assessment Framework for the Philippines (en)</cell>
@@ -1120,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07909dad</cell>
   </row>
-  <row index="56">
+  <row index="72">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/06da147a-en</cell>
     <cell name="title">Participation in GVCs through capital goods and services (en)</cell>
@@ -1140,7 +1460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0a9d037</cell>
   </row>
-  <row index="57">
+  <row index="73">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/baf9c7a4-en</cell>
     <cell name="title">OECD Review of Investment Policies in ASEAN (en)</cell>
@@ -1160,14 +1480,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2482633a</cell>
   </row>
-  <row index="58">
+  <row index="74">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/baf9c7a4-en</cell>
     <cell name="title">OECD Review of Investment Policies in ASEAN (en)</cell>
     <cell name="subtitle">Mobilising Investment for the Green and Digital Transitions (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2026-09-18</cell>
     <cell name="embargo date">2026-09-18T13:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1180,7 +1500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90bf68e6</cell>
   </row>
-  <row index="59">
+  <row index="75">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/7b97d06b-en</cell>
     <cell name="title">Do capital markets matter for growth? (en)</cell>
@@ -1200,7 +1520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/061f6045</cell>
   </row>
-  <row index="60">
+  <row index="76">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/10379f9f-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye (en)</cell>
@@ -1220,7 +1540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c01a3080</cell>
   </row>
-  <row index="61">
+  <row index="77">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b4968bbc-en</cell>
     <cell name="title">Education at a Glance 2026 (en)</cell>
@@ -1240,7 +1560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1541c558</cell>
   </row>
-  <row index="62">
+  <row index="78">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/cba0b622-fr</cell>
     <cell name="title">Regards sur l'éducation 2026 (fr)</cell>
@@ -1260,14 +1580,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be044310</cell>
   </row>
-  <row index="63">
+  <row index="79">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/0d625fbe-en</cell>
     <cell name="title">Economic Convergence Scoreboard for the Western Balkans 2026 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2026-09-30</cell>
     <cell name="embargo date">2026-09-30T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -1280,7 +1600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e04c6813</cell>
   </row>
-  <row index="64">
+  <row index="80">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/db32e18b-en</cell>
     <cell name="title">Model Tax Convention on Income and on Capital 2025 (Full Version) (en)</cell>
@@ -1300,7 +1620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e935a3cd</cell>
   </row>
-  <row index="65">
+  <row index="81">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fc44d951-en</cell>
     <cell name="title">Model Tax Convention on Income and on Capital 2025 (Condensed Version) (en)</cell>
@@ -1320,7 +1640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a8e742d</cell>
   </row>
-  <row index="66">
+  <row index="82">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/58c3689d-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia (en)</cell>
@@ -1340,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/521a4c7b</cell>
   </row>
-  <row index="67">
+  <row index="83">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a7b4d558-fr</cell>
     <cell name="title">Renforcer les systèmes d’impôt sur les sociétés pour soutenir le dynamisme des entreprises (fr)</cell>
@@ -1360,7 +1680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e605971b</cell>
   </row>
-  <row index="68">
+  <row index="84">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7e843e1d-en</cell>
     <cell name="title">Enhancing corporate tax systems to support business dynamism (en)</cell>
@@ -1380,7 +1700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/910ffd2b</cell>
   </row>
-  <row index="69">
+  <row index="85">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ab6386d7-fr</cell>
     <cell name="title">Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-Unis, aôut 2026) (fr)</cell>
@@ -1400,7 +1720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75d46273</cell>
   </row>
-  <row index="70">
+  <row index="86">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8af2444d-en</cell>
     <cell name="title">OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, August 2026) (en)</cell>
@@ -1420,7 +1740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39191777</cell>
   </row>
-  <row index="71">
+  <row index="87">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/846bbe2d-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Bosnia and Herzegovina (en)</cell>
@@ -1440,7 +1760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a4ace9f</cell>
   </row>
-  <row index="72">
+  <row index="88">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e7d36875-en</cell>
     <cell name="title">Advances in nowcasting the growth rate of the ICT sector (en)</cell>
