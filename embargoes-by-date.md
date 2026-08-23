@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 August 2026 at 23:22* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 23 August 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 August 2026](#20-august-2026)
 * [23 August 2026](#23-august-2026)
 * [25 August 2026](#25-august-2026)
 * [27 August 2026](#27-august-2026)
@@ -28,33 +27,6 @@ Data generated on | |
 * [9 October 2026](#9-october-2026)
 * [20 October 2026](#20-october-2026)
 * [5 November 2026](#5-november-2026)
-
-------
-
-# 20 August 2026
-
-## [Challenges for Young People in Greece to Reach Financial Independence](https://doi.org/10.1787/b8b55143-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 August 2026 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 

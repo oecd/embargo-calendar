@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 August 2026 at 23:22* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Challenges for Young People in Greece to Reach Financial Independence](https://doi.org/10.1787/b8b55143-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 August 2026 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 23 August 2026 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving diet quality in West Africa - The role of intra-regional food trade](https://doi.org/10.1787/8d459b80-en)
 
