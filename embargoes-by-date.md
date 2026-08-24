@@ -2,9 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 23 August 2026 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 24 August 2026 at 23:22* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 August 2026](#23-august-2026)
+* [24 August 2026](#24-august-2026)
 * [25 August 2026](#25-august-2026)
 * [27 August 2026](#27-august-2026)
 * [30 August 2026](#30-august-2026)
@@ -30,13 +30,13 @@ Data generated on | |
 
 ------
 
-# 23 August 2026
+# 24 August 2026
 
 ## [Improving diet quality in West Africa - The role of intra-regional food trade](https://doi.org/10.1787/8d459b80-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 23 August 2026 at 22:01 | no launch event
+Monday 24 August 2026 at 22:01 | no launch event
 
 ### Status Information
 
