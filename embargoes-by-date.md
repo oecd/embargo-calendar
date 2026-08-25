@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 24 August 2026 at 23:22* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 25 August 2026 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 August 2026](#24-august-2026)
 * [25 August 2026](#25-august-2026)
@@ -14,6 +14,7 @@ Data generated on | |
 * [8 September 2026](#8-september-2026)
 * [9 September 2026](#9-september-2026)
 * [10 September 2026](#10-september-2026)
+* [11 September 2026](#11-september-2026)
 * [13 September 2026](#13-september-2026)
 * [14 September 2026](#14-september-2026)
 * [16 September 2026](#16-september-2026)
@@ -209,29 +210,6 @@ Sunday 30 August 2026 at 22:01 | no launch event
 
 # 31 August 2026
 
-## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 August 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ## [Progress Review of Peru’s Water and Sanitation Services Regulator - Driving Performance](https://doi.org/10.1787/a9012c4c-en)
 
 Embargo date | Launch date
@@ -249,7 +227,7 @@ Monday 31 August 2026 at 14:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Published*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
@@ -272,7 +250,7 @@ Monday 31 August 2026 at 14:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Published*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
@@ -438,6 +416,56 @@ Thursday 10 September 2026 at 9:00 | no launch event
 
 ------
 
+# 11 September 2026
+
+## [OECD Environmental Performance Reviews: Slovenia 2026](https://doi.org/10.1787/c6e1f2ed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 September 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Examens environnementaux de l'OCDE : Slovénie 2026 (version abrégée)](https://doi.org/10.1787/c83a7a46-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 September 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
 # 13 September 2026
 
 ## [Critical Raw Materials in Central Asia - Unlocking Investments, Managing Risks](https://doi.org/10.1787/400e2d2a-en)
@@ -487,6 +515,29 @@ Monday 14 September 2026 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 September 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -911,7 +962,7 @@ Friday 9 October 2026 at 12:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
