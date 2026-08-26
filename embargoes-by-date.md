@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 August 2026 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 26 August 2026 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 August 2026](#24-august-2026)
 * [25 August 2026](#25-august-2026)
@@ -24,6 +24,7 @@ Data generated on | |
 * [22 September 2026](#22-september-2026)
 * [29 September 2026](#29-september-2026)
 * [30 September 2026](#30-september-2026)
+* [5 October 2026](#5-october-2026)
 * [8 October 2026](#8-october-2026)
 * [9 October 2026](#9-october-2026)
 * [20 October 2026](#20-october-2026)
@@ -313,6 +314,29 @@ Monday 7 September 2026 at 22:01 | no launch event
 ------
 
 # 8 September 2026
+
+## [Résultats du PISA 2025 (Volume I – version abrégée) - Des élèves prêts pour l'avenir](https://doi.org/10.1787/72cbf7bd-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [PISA 2025 Results (Volume I) - Future-Ready Students](https://doi.org/10.1787/73451bc5-en)
 
@@ -841,6 +865,33 @@ Wednesday 30 September 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 5 October 2026
+
+## [Spending Better for Children Through Social Policy](https://doi.org/10.1787/1d6fb668-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 October 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------

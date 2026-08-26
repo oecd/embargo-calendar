@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2026-08-25T23:19:40.2072608+02:00">
+<report name="official-embargoes" generated="2026-08-26T23:17:22.6081292+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -214,7 +214,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2026-08-25T21:47:16Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
@@ -942,6 +942,26 @@
   </row>
   <row index="47">
     <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/72cbf7bd-fr</cell>
+    <cell name="title">Résultats du PISA 2025 (Volume I – version abrégée) (fr)</cell>
+    <cell name="subtitle">Des élèves prêts pour l'avenir (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-09-08</cell>
+    <cell name="embargo date">2026-09-08T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdcae256</cell>
+  </row>
+  <row index="48">
+    <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/73451bc5-en</cell>
     <cell name="title">PISA 2025 Results (Volume I) (en)</cell>
     <cell name="subtitle">Future-Ready Students (en)</cell>
@@ -960,7 +980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df71b452</cell>
   </row>
-  <row index="48">
+  <row index="49">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/43d18a55-en</cell>
     <cell name="title">Tax Policy Reforms 2026 (en)</cell>
@@ -980,7 +1000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/167b288e</cell>
   </row>
-  <row index="49">
+  <row index="50">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/cbf9b240-en</cell>
     <cell name="title">The Space Economy at a Glance 2026 (en)</cell>
@@ -1000,7 +1020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bf62349</cell>
   </row>
-  <row index="50">
+  <row index="51">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3ff6655c-en</cell>
     <cell name="title">Advancing the Implementation of the EU Carbon Border Adjustment Mechanism (en)</cell>
@@ -1020,7 +1040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2e391b7</cell>
   </row>
-  <row index="51">
+  <row index="52">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/c6e1f2ed-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Slovenia 2026 (en)</cell>
@@ -1040,7 +1060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15de860b</cell>
   </row>
-  <row index="52">
+  <row index="53">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/c83a7a46-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE : Slovénie 2026 (version abrégée) (fr)</cell>
@@ -1060,7 +1080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee4db028</cell>
   </row>
-  <row index="53">
+  <row index="54">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/400e2d2a-en</cell>
     <cell name="title">Critical Raw Materials in Central Asia (en)</cell>
@@ -1080,7 +1100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0382a13</cell>
   </row>
-  <row index="54">
+  <row index="55">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/138ed294-en</cell>
     <cell name="title">Research and Innovation Careers Observatory 2026 (en)</cell>
@@ -1100,7 +1120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8026717d</cell>
   </row>
-  <row index="55">
+  <row index="56">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/138ed294-en</cell>
     <cell name="title">Research and Innovation Careers Observatory 2026 (en)</cell>
@@ -1120,7 +1140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/421b3e2a</cell>
   </row>
-  <row index="56">
+  <row index="57">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4fcb4f91-en</cell>
     <cell name="title">Determining the Price of Minerals (en)</cell>
@@ -1140,7 +1160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56058169</cell>
   </row>
-  <row index="57">
+  <row index="58">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/48b03aff-en</cell>
     <cell name="title">OECD Economic Surveys: Switzerland 2026 (en)</cell>
@@ -1160,7 +1180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23e76ea4</cell>
   </row>
-  <row index="58">
+  <row index="59">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/7905d3f2-en</cell>
     <cell name="title">Building better policies through public-private dialogue in ASEAN (en)</cell>
@@ -1180,7 +1200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97b5664d</cell>
   </row>
-  <row index="59">
+  <row index="60">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/786bff30-en</cell>
     <cell name="title">Developing a National Student Assessment Framework for the Philippines (en)</cell>
@@ -1200,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07909dad</cell>
   </row>
-  <row index="60">
+  <row index="61">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/06da147a-en</cell>
     <cell name="title">Participation in GVCs through capital goods and services (en)</cell>
@@ -1220,7 +1240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0a9d037</cell>
   </row>
-  <row index="61">
+  <row index="62">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/baf9c7a4-en</cell>
     <cell name="title">OECD Review of Investment Policies in ASEAN (en)</cell>
@@ -1240,7 +1260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2482633a</cell>
   </row>
-  <row index="62">
+  <row index="63">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/baf9c7a4-en</cell>
     <cell name="title">OECD Review of Investment Policies in ASEAN (en)</cell>
@@ -1260,7 +1280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90bf68e6</cell>
   </row>
-  <row index="63">
+  <row index="64">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/7b97d06b-en</cell>
     <cell name="title">Do capital markets matter for growth? (en)</cell>
@@ -1280,7 +1300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/061f6045</cell>
   </row>
-  <row index="64">
+  <row index="65">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/10379f9f-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye (en)</cell>
@@ -1300,7 +1320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c01a3080</cell>
   </row>
-  <row index="65">
+  <row index="66">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b4968bbc-en</cell>
     <cell name="title">Education at a Glance 2026 (en)</cell>
@@ -1320,7 +1340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1541c558</cell>
   </row>
-  <row index="66">
+  <row index="67">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/cba0b622-fr</cell>
     <cell name="title">Regards sur l'éducation 2026 (fr)</cell>
@@ -1340,7 +1360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be044310</cell>
   </row>
-  <row index="67">
+  <row index="68">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/0d625fbe-en</cell>
     <cell name="title">Economic Convergence Scoreboard for the Western Balkans 2026 (en)</cell>
@@ -1360,7 +1380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e04c6813</cell>
   </row>
-  <row index="68">
+  <row index="69">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/db32e18b-en</cell>
     <cell name="title">Model Tax Convention on Income and on Capital 2025 (Full Version) (en)</cell>
@@ -1380,7 +1400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e935a3cd</cell>
   </row>
-  <row index="69">
+  <row index="70">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fc44d951-en</cell>
     <cell name="title">Model Tax Convention on Income and on Capital 2025 (Condensed Version) (en)</cell>
@@ -1400,7 +1420,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a8e742d</cell>
   </row>
-  <row index="70">
+  <row index="71">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/1d6fb668-en</cell>
+    <cell name="title">Spending Better for Children Through Social Policy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2026-10-05</cell>
+    <cell name="embargo date">2026-10-05T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52bdf946</cell>
+  </row>
+  <row index="72">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/58c3689d-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia (en)</cell>
@@ -1420,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/521a4c7b</cell>
   </row>
-  <row index="71">
+  <row index="73">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a7b4d558-fr</cell>
     <cell name="title">Renforcer les systèmes d’impôt sur les sociétés pour soutenir le dynamisme des entreprises (fr)</cell>
@@ -1440,7 +1480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e605971b</cell>
   </row>
-  <row index="72">
+  <row index="74">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7e843e1d-en</cell>
     <cell name="title">Enhancing corporate tax systems to support business dynamism (en)</cell>
@@ -1460,7 +1500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/910ffd2b</cell>
   </row>
-  <row index="73">
+  <row index="75">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ab6386d7-fr</cell>
     <cell name="title">Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-Unis, aôut 2026) (fr)</cell>
@@ -1480,7 +1520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75d46273</cell>
   </row>
-  <row index="74">
+  <row index="76">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8af2444d-en</cell>
     <cell name="title">OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, August 2026) (en)</cell>
@@ -1500,7 +1540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39191777</cell>
   </row>
-  <row index="75">
+  <row index="77">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/846bbe2d-en</cell>
     <cell name="title">SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Bosnia and Herzegovina (en)</cell>
@@ -1520,7 +1560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a4ace9f</cell>
   </row>
-  <row index="76">
+  <row index="78">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e7d36875-en</cell>
     <cell name="title">Advances in nowcasting the growth rate of the ICT sector (en)</cell>
