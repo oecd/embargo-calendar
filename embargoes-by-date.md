@@ -2,14 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 26 August 2026 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 27 August 2026 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 August 2026](#24-august-2026)
-* [25 August 2026](#25-august-2026)
-* [27 August 2026](#27-august-2026)
 * [30 August 2026](#30-august-2026)
-* [31 August 2026](#31-august-2026)
-* [6 September 2026](#6-september-2026)
 * [7 September 2026](#7-september-2026)
 * [8 September 2026](#8-september-2026)
 * [9 September 2026](#9-september-2026)
@@ -29,156 +24,6 @@ Data generated on | |
 * [9 October 2026](#9-october-2026)
 * [20 October 2026](#20-october-2026)
 * [5 November 2026](#5-november-2026)
-
-------
-
-# 24 August 2026
-
-## [Improving diet quality in West Africa - The role of intra-regional food trade](https://doi.org/10.1787/8d459b80-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 25 August 2026
-
-## [OECD Tax Policy Reviews: Peru 2026](https://doi.org/10.1787/47e6c63e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 August 2026 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 27 August 2026
-
-## [Using incubators and accelerators to support travel and tourism start-ups](https://doi.org/10.1787/ff127405-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Measuring global value chain participation in UK regions](https://doi.org/10.1787/5600c944-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [UK regions in the global economy](https://doi.org/10.1787/f36125c4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -203,83 +48,6 @@ Sunday 30 August 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 31 August 2026
-
-## [Progress Review of Peru’s Water and Sanitation Services Regulator - Driving Performance](https://doi.org/10.1787/a9012c4c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 August 2026 at 14:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Informe sobre avances del regulador de los servicios de agua y saneamiento de Perú - Impulsando el desempeño](https://doi.org/10.1787/722a9474-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 August 2026 at 14:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 6 September 2026
-
-## [How preferential trade agreements address market distortions from state enterprises](https://doi.org/10.1787/97485a5e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 6 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -696,6 +464,29 @@ Friday 18 September 2026 at 13:00 | no launch event
 
 # 20 September 2026
 
+## [Measuring global value chain participation in UK regions](https://doi.org/10.1787/5600c944-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 20 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Do capital markets matter for growth? - Concepts, measurement and mechanisms](https://doi.org/10.1787/7b97d06b-en)
 
 Embargo date | Launch date
@@ -712,6 +503,52 @@ Sunday 20 September 2026 at 22:01 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [UK regions in the global economy](https://doi.org/10.1787/f36125c4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 20 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 20 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
@@ -740,7 +577,7 @@ Tuesday 22 September 2026 at 7:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Published*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
