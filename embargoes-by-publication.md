@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 27 August 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 28 August 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Gender and trust in public institutions in Switzerland - An analysis of the determinants](https://doi.org/10.1787/6ad10075-en)
 
@@ -20,6 +20,29 @@ Sunday 30 August 2026 at 22:01 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 3 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
@@ -182,7 +205,7 @@ Friday 11 September 2026 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -464,29 +487,6 @@ Sunday 20 September 2026 at 22:01 | no launch event
 
 ------
 
-## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 20 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
 ## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
 
 Embargo date | Launch date
@@ -506,6 +506,29 @@ Tuesday 22 September 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Outlook, Interim Report September 2026](https://doi.org/10.1787/f751d02b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 23 September 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
 * Format: *PDF*
 
 ------
@@ -552,6 +575,29 @@ Tuesday 29 September 2026 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Targeting places in national industrial strategies](https://doi.org/10.1787/284fcc80-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -625,7 +671,53 @@ Wednesday 30 September 2026 at 9:00 | no launch event
 
 ------
 
-## [Spending Better for Children Through Social Policy](https://doi.org/10.1787/1d6fb668-en)
+## [Progress Review of Peru’s Water and Sanitation Services Regulator - Driving Performance](https://doi.org/10.1787/a9012c4c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 September 2026 at 14:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Informe sobre avances del regulador de los servicios de agua y saneamiento de Perú - Impulsando el desempeño](https://doi.org/10.1787/722a9474-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 September 2026 at 14:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Spending Better for Children through Social Policy](https://doi.org/10.1787/1d6fb668-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -642,6 +734,29 @@ Monday 5 October 2026 at 7:30 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Mieux investir dans les enfants grâce aux politiques sociales (version abrégée)](https://doi.org/10.1787/734f77b2-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 October 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*

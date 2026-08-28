@@ -29,7 +29,7 @@ DESCRIPTION:*[Working paper] Gender and trust in pub
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=6ad10075-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260830T220100Z
 DTEND:20260830T221600Z
 TRANSP:TRANSPARENT
@@ -44,7 +44,46 @@ DESCRIPTION:Reminder: [Working paper] Gender and tru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0d519f21-end3e970
+UID:10.1787/f43500af-end3e116
+SUMMARY:[Working paper] Unpacking place transfor
+ mation
+DESCRIPTION:*[Working paper] Unpacking place transfo
+ rmation*\n\nDirectorate: Centre for Entr
+ epreneurship, SMEs, Regions and Cities\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/f43500af-en\nPublication type: W
+ orking paper\nReleased as: PDF\n\nEmbarg
+ o date/time: Thursday, 3 September 2026,
+  22:01 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✗\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 23:1
+ 8, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=f43500af-en.
+DTSTAMP:20260828T231824Z
+DTSTART:20260903T220100Z
+DTEND:20260903T221600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Working paper] Unpacking plac
+ e transformation
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0d519f21-end3e168
 SUMMARY:[Policy paper] Navigating transition and
   excess capacity
 DESCRIPTION:*[Policy paper] Navigating transition an
@@ -69,7 +108,7 @@ DESCRIPTION:*[Policy paper] Navigating transition an
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=0d519f21-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260907T220100Z
 DTEND:20260907T221600Z
 TRANSP:TRANSPARENT
@@ -83,7 +122,7 @@ DESCRIPTION:Reminder: [Policy paper] Navigating tran
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/72cbf7bd-frd3e1022
+UID:10.1787/72cbf7bd-frd3e220
 SUMMARY:[Book] Résultats du PISA 2025 (Volume I 
  – version abrégée) - Des élèves prêts po
  ur l'avenir
@@ -110,7 +149,7 @@ DESCRIPTION:*[Book] Résultats du PISA 2025 (Volume I
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=72cbf
  7bd-fr.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260908T073000Z
 DTEND:20260908T074500Z
 TRANSP:TRANSPARENT
@@ -125,7 +164,7 @@ DESCRIPTION:Reminder: [Book] Résultats du PISA 2025
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/73451bc5-end3e1075
+UID:10.1787/73451bc5-end3e274
 SUMMARY:[Book] PISA 2025 Results (Volume I) - Fu
  ture-Ready Students
 DESCRIPTION:*[Book] PISA 2025 Results (Volume I) - F
@@ -150,7 +189,7 @@ DESCRIPTION:*[Book] PISA 2025 Results (Volume I) - F
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=73451bc5-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260908T073000Z
 DTEND:20260908T074500Z
 TRANSP:TRANSPARENT
@@ -164,7 +203,7 @@ DESCRIPTION:Reminder: [Book] PISA 2025 Results (Volu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/43d18a55-end3e1128
+UID:10.1787/43d18a55-end3e327
 SUMMARY:[Book] Tax Policy Reforms 2026 - OECD an
  d Selected Partner Economies
 DESCRIPTION:*[Book] Tax Policy Reforms 2026 - OECD a
@@ -189,7 +228,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2026 - OECD a
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=43d18a55-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260908T090000Z
 DTEND:20260908T091500Z
 TRANSP:TRANSPARENT
@@ -203,7 +242,7 @@ DESCRIPTION:Reminder: [Book] Tax Policy Reforms 2026
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cbf9b240-end3e1181
+UID:10.1787/cbf9b240-end3e380
 SUMMARY:[Stand-alone monograph] The Space Econom
  y at a Glance 2026
 DESCRIPTION:*[Stand-alone monograph] The Space Econo
@@ -229,7 +268,7 @@ DESCRIPTION:*[Stand-alone monograph] The Space Econo
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=cbf9b2
  40-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260909T070000Z
 DTEND:20260909T071500Z
 TRANSP:TRANSPARENT
@@ -243,7 +282,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] The Sp
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3ff6655c-end3e1234
+UID:10.1787/3ff6655c-end3e432
 SUMMARY:[Stand-alone monograph] Advancing the Im
  plementation of the EU Carbon Border Adj
  ustment Mechanism - Lessons from Romania
@@ -271,7 +310,7 @@ DESCRIPTION:*[Stand-alone monograph] Advancing the I
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=3ff6655c-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260910T090000Z
 DTEND:20260910T091500Z
 TRANSP:TRANSPARENT
@@ -287,7 +326,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Advanc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c6e1f2ed-end3e1287
+UID:10.1787/c6e1f2ed-end3e485
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Slovenia 2026
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -312,7 +351,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=c6e1f2ed
  -en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260911T080000Z
 DTEND:20260911T081500Z
 TRANSP:TRANSPARENT
@@ -326,7 +365,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c83a7a46-frd3e1339
+UID:10.1787/c83a7a46-frd3e537
 SUMMARY:[Book] Examens environnementaux de l'OCD
  E : Slovénie 2026 (version abrégée)
 DESCRIPTION:*[Book] Examens environnementaux de l'OC
@@ -351,7 +390,7 @@ DESCRIPTION:*[Book] Examens environnementaux de l'OC
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=c83a7a46-fr.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260911T080000Z
 DTEND:20260911T081500Z
 TRANSP:TRANSPARENT
@@ -366,7 +405,7 @@ DESCRIPTION:Reminder: [Book] Examens environnementau
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/400e2d2a-end3e1391
+UID:10.1787/400e2d2a-end3e590
 SUMMARY:[Policy paper] Critical Raw Materials in
   Central Asia - Unlocking Investments, M
  anaging Risks
@@ -393,7 +432,7 @@ DESCRIPTION:*[Policy paper] Critical Raw Materials i
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=400e2d2a-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260913T220100Z
 DTEND:20260913T221600Z
 TRANSP:TRANSPARENT
@@ -408,7 +447,7 @@ DESCRIPTION:Reminder: [Policy paper] Critical Raw Ma
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/138ed294-end3e1497
+UID:10.1787/138ed294-end3e696
 SUMMARY:[Stand-alone monograph] Research and Inn
  ovation Careers Observatory 2026 - Key I
  ndicators on Talent, Mobility and Workin
@@ -438,7 +477,7 @@ DESCRIPTION:*[Stand-alone monograph] Research and In
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=138
  ed294-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260914T070000Z
 DTEND:20260914T071500Z
 TRANSP:TRANSPARENT
@@ -454,7 +493,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Resear
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4fcb4f91-end3e1551
+UID:10.1787/4fcb4f91-end3e749
 SUMMARY:[Report] Determining the Price of Minera
  ls - A transfer pricing framework for co
  pper
@@ -481,7 +520,7 @@ DESCRIPTION:*[Report] Determining the Price of Miner
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=4fcb4
  f91-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260914T090000Z
 DTEND:20260914T091500Z
 TRANSP:TRANSPARENT
@@ -496,7 +535,7 @@ DESCRIPTION:Reminder: [Report] Determining the Price
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/48b03aff-end3e1604
+UID:10.1787/48b03aff-end3e802
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Switzerland 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -521,7 +560,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=48
  b03aff-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260914T220000Z
 DTEND:20260914T221500Z
 TRANSP:TRANSPARENT
@@ -535,7 +574,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7905d3f2-end3e1656
+UID:10.1787/7905d3f2-end3e854
 SUMMARY:[Policy paper] Building better policies 
  through public-private dialogue in ASEAN
 DESCRIPTION:*[Policy paper] Building better policies
@@ -561,7 +600,7 @@ DESCRIPTION:*[Policy paper] Building better policies
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=7905d3f2-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260914T220100Z
 DTEND:20260914T221600Z
 TRANSP:TRANSPARENT
@@ -576,7 +615,7 @@ DESCRIPTION:Reminder: [Policy paper] Building better
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/786bff30-end3e1708
+UID:10.1787/786bff30-end3e907
 SUMMARY:[Policy paper] Developing a National Stu
  dent Assessment Framework for the Philip
  pines
@@ -603,7 +642,7 @@ DESCRIPTION:*[Policy paper] Developing a National St
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=786bff30-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260916T220100Z
 DTEND:20260916T221600Z
 TRANSP:TRANSPARENT
@@ -618,7 +657,7 @@ DESCRIPTION:Reminder: [Policy paper] Developing a Na
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/06da147a-end3e1761
+UID:10.1787/06da147a-end3e960
 SUMMARY:[Working paper] Participation in GVCs th
  rough capital goods and services - Capit
  al-endogenised TiVA indicators
@@ -645,7 +684,7 @@ DESCRIPTION:*[Working paper] Participation in GVCs t
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=06da147a-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260917T220100Z
 DTEND:20260917T221600Z
 TRANSP:TRANSPARENT
@@ -660,7 +699,7 @@ DESCRIPTION:Reminder: [Working paper] Participation
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/baf9c7a4-end3e1868
+UID:10.1787/baf9c7a4-end3e1066
 SUMMARY:[Stand-alone monograph] OECD Review of I
  nvestment Policies in ASEAN - Mobilising
   Investment for the Green and Digital Tr
@@ -690,7 +729,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Review of
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=baf9c
  7a4-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260918T130000Z
 DTEND:20260918T131500Z
 TRANSP:TRANSPARENT
@@ -706,7 +745,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD R
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5600c944-end3e1921
+UID:10.1787/5600c944-end3e1119
 SUMMARY:[Working paper] Measuring global value c
  hain participation in UK regions
 DESCRIPTION:*[Working paper] Measuring global value 
@@ -732,7 +771,7 @@ DESCRIPTION:*[Working paper] Measuring global value
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=5600c944-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260920T220100Z
 DTEND:20260920T221600Z
 TRANSP:TRANSPARENT
@@ -747,7 +786,7 @@ DESCRIPTION:Reminder: [Working paper] Measuring glob
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7b97d06b-end3e1973
+UID:10.1787/7b97d06b-end3e1171
 SUMMARY:[Working paper] Do capital markets matte
  r for growth? - Concepts, measurement an
  d mechanisms
@@ -774,7 +813,7 @@ DESCRIPTION:*[Working paper] Do capital markets matt
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=7b97d06b-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260920T220100Z
 DTEND:20260920T221600Z
 TRANSP:TRANSPARENT
@@ -789,7 +828,7 @@ DESCRIPTION:Reminder: [Working paper] Do capital mar
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f36125c4-end3e2026
+UID:10.1787/f36125c4-end3e1225
 SUMMARY:[Working paper] UK regions in the global
   economy
 DESCRIPTION:*[Working paper] UK regions in the globa
@@ -814,7 +853,7 @@ DESCRIPTION:*[Working paper] UK regions in the globa
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=f36125c4-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260920T220100Z
 DTEND:20260920T221600Z
 TRANSP:TRANSPARENT
@@ -828,46 +867,7 @@ DESCRIPTION:Reminder: [Working paper] UK regions in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f43500af-end3e2078
-SUMMARY:[Working paper] Unpacking place transfor
- mation
-DESCRIPTION:*[Working paper] Unpacking place transfo
- rmation*\n\nDirectorate: Centre for Entr
- epreneurship, SMEs, Regions and Cities\n
- Language: English\nDOI: https://doi.org/
- 10.1787/f43500af-en\nPublication type: W
- orking paper\nReleased as: PDF\n\nEmbarg
- o date/time: Sunday, 20 September 2026, 
- 22:01 (GMT)\n\n\niLibrary export: never\
- nFreepreview export: never\nOECD.org exp
- ort: never\nFTI loaded: ✗\n\nFor more in
- formation see: https://oecd.github.io/em
- bargo-calendar/embargoes-by-publication.
- html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:18
- , it is updated each night; therefore an
- y subsequent updates may not yet be visi
- ble here. Also, please be aware that the
-  different released media (PDF, HTML, et
- c.) are not necessarily released at the 
- same time. For complete and up-to-date i
- nformation see here: http://kappa.oecd.o
- rg/v3/search?term=f43500af-en.
-DTSTAMP:20260827T231826Z
-DTSTART:20260920T220100Z
-DTEND:20260920T221600Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Working paper] Unpacking plac
- e transformation
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/10379f9f-end3e2130
+UID:10.1787/10379f9f-end3e1277
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Türkiye
@@ -894,7 +894,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=10379f9f-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260922T070000Z
 DTEND:20260922T071500Z
 TRANSP:TRANSPARENT
@@ -909,7 +909,46 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b4968bbc-end3e2183
+UID:10.1787/f751d02b-end3e1329
+SUMMARY:[Issue] OECD Economic Outlook, Interim R
+ eport September 2026
+DESCRIPTION:*[Issue] OECD Economic Outlook, Interim 
+ Report September 2026*\n\nDirectorate: E
+ conomics Department\nLanguage: English\n
+ DOI: https://doi.org/10.1787/f751d02b-en
+ \nPublication type: Issue\nReleased as: 
+ PDF\n\nEmbargo date/time: Wednesday, 23 
+ September 2026, 8:00 (GMT)\n\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nOECD.org export: never\nFTI loaded: ✗
+ \n\nFor more information see: https://oe
+ cd.github.io/embargo-calendar/embargoes-
+ by-publication.html.\n\nPlease note: Thi
+ s information was correct as of this aft
+ ernoon at 23:18, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=f751d02
+ b-en.
+DTSTAMP:20260828T231824Z
+DTSTART:20260923T080000Z
+DTEND:20260923T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Issue] OECD Economic Outlook,
+  Interim Report September 2026
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b4968bbc-end3e1381
 SUMMARY:[Book] Education at a Glance 2026 - OECD
   Indicators
 DESCRIPTION:*[Book] Education at a Glance 2026 - OEC
@@ -934,7 +973,7 @@ DESCRIPTION:*[Book] Education at a Glance 2026 - OEC
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=b49
  68bbc-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260929T090000Z
 DTEND:20260929T091500Z
 TRANSP:TRANSPARENT
@@ -948,7 +987,7 @@ DESCRIPTION:Reminder: [Book] Education at a Glance 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cba0b622-frd3e2236
+UID:10.1787/cba0b622-frd3e1434
 SUMMARY:[Book] Regards sur l'éducation 2026 - In
  dicateurs de l'OCDE
 DESCRIPTION:*[Book] Regards sur l'éducation 2026 - I
@@ -973,7 +1012,7 @@ DESCRIPTION:*[Book] Regards sur l'éducation 2026 - I
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=cba0b622-fr.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260929T090000Z
 DTEND:20260929T091500Z
 TRANSP:TRANSPARENT
@@ -987,7 +1026,47 @@ DESCRIPTION:Reminder: [Book] Regards sur l'éducation
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0d625fbe-end3e2289
+UID:10.1787/284fcc80-end3e1487
+SUMMARY:[Working paper] Targeting places in nati
+ onal industrial strategies
+DESCRIPTION:*[Working paper] Targeting places in nat
+ ional industrial strategies*\n\nDirector
+ ate: Centre for Entrepreneurship, SMEs, 
+ Regions and Cities\nLanguage: English\nD
+ OI: https://doi.org/10.1787/284fcc80-en\
+ nPublication type: Working paper\nReleas
+ ed as: PDF\n\nEmbargo date/time: Tuesday
+ , 29 September 2026, 22:01 (GMT)\n\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nOECD.org export: never\nFTI loa
+ ded: ✗\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 23:18, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=2
+ 84fcc80-en.
+DTSTAMP:20260828T231824Z
+DTSTART:20260929T220100Z
+DTEND:20260929T221600Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Working paper] Targeting plac
+ es in national industrial strategies
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0d625fbe-end3e1540
 SUMMARY:[Stand-alone monograph] Economic Converg
  ence Scoreboard for the Western Balkans 
  2026
@@ -1014,7 +1093,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Conver
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=0d625fbe-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260930T070000Z
 DTEND:20260930T071500Z
 TRANSP:TRANSPARENT
@@ -1029,7 +1108,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Econom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/db32e18b-end3e2341
+UID:10.1787/db32e18b-end3e1592
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Full Version) - Volum
  es I and II
@@ -1056,7 +1135,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=db32e18b-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260930T090000Z
 DTEND:20260930T091500Z
 TRANSP:TRANSPARENT
@@ -1071,7 +1150,7 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fc44d951-end3e2394
+UID:10.1787/fc44d951-end3e1645
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Condensed Version)
 DESCRIPTION:*[Book] Model Tax Convention on Income a
@@ -1097,7 +1176,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=fc44d951-en
  .
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20260930T090000Z
 DTEND:20260930T091500Z
 TRANSP:TRANSPARENT
@@ -1112,11 +1191,98 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1d6fb668-end3e2446
+UID:10.1787/a9012c4c-end3e1697
+SUMMARY:[Book] Progress Review of Peru’s Water a
+ nd Sanitation Services Regulator - Drivi
+ ng Performance
+DESCRIPTION:*[Book] Progress Review of Peru’s Water 
+ and Sanitation Services Regulator - Driv
+ ing Performance*\n\nDirectorate: Directo
+ rate for Public Governance\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/a901
+ 2c4c-en\nPublication type: Book\nRelease
+ d as: HTML, Paperback, PDF, ZJCR, ZXML\n
+ \nEmbargo date/time: Wednesday, 30 Septe
+ mber 2026, 14:30 (GMT)\n\n\niLibrary exp
+ ort: never\nFreepreview export: never\nO
+ ECD.org export: never\nFTI loaded: ✓\n\n
+ For more information see: https://oecd.g
+ ithub.io/embargo-calendar/embargoes-by-p
+ ublication.html.\n\nPlease note: This in
+ formation was correct as of this afterno
+ on at 23:18, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=a9012c4c-en
+ .
+DTSTAMP:20260828T231824Z
+DTSTART:20260930T143000Z
+DTEND:20260930T144500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Progress Review of Peru
+ ’s Water and Sanitation Services Regulat
+ or - Driving Performance
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/722a9474-esd3e2555
+SUMMARY:[Book] Informe sobre avances del regulad
+ or de los servicios de agua y saneamient
+ o de Perú - Impulsando el desempeño
+DESCRIPTION:*[Book] Informe sobre avances del regula
+ dor de los servicios de agua y saneamien
+ to de Perú - Impulsando el desempeño*\n\
+ nDirectorate: Directorate for Public Gov
+ ernance\nLanguage: Spanish\nDOI: https:/
+ /doi.org/10.1787/722a9474-es\nPublicatio
+ n type: Book\nReleased as: HTML, Paperba
+ ck, PDF, ZJCR, ZXML\n\nEmbargo date/time
+ : Wednesday, 30 September 2026, 14:30 (G
+ MT)\n\n\niLibrary export: never\nFreepre
+ view export: never\nOECD.org export: nev
+ er\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 23:18, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=722a9474-es.
+DTSTAMP:20260828T231824Z
+DTSTART:20260930T143000Z
+DTEND:20260930T144500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Informe sobre avances d
+ el regulador de los servicios de agua y 
+ saneamiento de Perú - Impulsando el dese
+ mpeño
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1d6fb668-end3e2875
 SUMMARY:[Stand-alone monograph] Spending Better 
- for Children Through Social Policy
+ for Children through Social Policy
 DESCRIPTION:*[Stand-alone monograph] Spending Better
-  for Children Through Social Policy*\n\n
+  for Children through Social Policy*\n\n
  Directorate: Centre for Well-Being, Incl
  usion, Sustainability and Equal Opportun
  ity\nLanguage: English\nDOI: https://doi
@@ -1138,7 +1304,7 @@ DESCRIPTION:*[Stand-alone monograph] Spending Better
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=1d6fb668-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20261005T073000Z
 DTEND:20261005T074500Z
 TRANSP:TRANSPARENT
@@ -1148,12 +1314,55 @@ REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: [Stand-alone monograph] Spendi
- ng Better for Children Through Social Po
+ ng Better for Children through Social Po
  licy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/58c3689d-end3e2499
+UID:10.1787/734f77b2-frd3e2927
+SUMMARY:[Stand-alone monograph] Mieux investir d
+ ans les enfants grâce aux politiques soc
+ iales (version abrégée)
+DESCRIPTION:*[Stand-alone monograph] Mieux investir 
+ dans les enfants grâce aux politiques so
+ ciales (version abrégée)*\n\nDirectorate
+ : Centre for Well-Being, Inclusion, Sust
+ ainability and Equal Opportunity\nLangua
+ ge: French\nDOI: https://doi.org/10.1787
+ /734f77b2-fr\nPublication type: Stand-al
+ one monograph\nReleased as: PDF\n\nEmbar
+ go date/time: Monday, 5 October 2026, 7:
+ 30 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✗\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:18, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=734f77b2-fr.
+DTSTAMP:20260828T231824Z
+DTSTART:20261005T073000Z
+DTEND:20261005T074500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] Mieux 
+ investir dans les enfants grâce aux poli
+ tiques sociales (version abrégée)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/58c3689d-end3e2979
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Serbia
@@ -1180,7 +1389,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =58c3689d-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20261008T070000Z
 DTEND:20261008T071500Z
 TRANSP:TRANSPARENT
@@ -1195,7 +1404,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a7b4d558-frd3e2552
+UID:10.1787/a7b4d558-frd3e3032
 SUMMARY:[Report] Renforcer les systèmes d’impôt 
  sur les sociétés pour soutenir le dynami
  sme des entreprises
@@ -1222,7 +1431,7 @@ DESCRIPTION:*[Report] Renforcer les systèmes d’impôt
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=a7b4d558-fr.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20261009T120000Z
 DTEND:20261009T121500Z
 TRANSP:TRANSPARENT
@@ -1237,7 +1446,7 @@ DESCRIPTION:Reminder: [Report] Renforcer les système
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7e843e1d-end3e2604
+UID:10.1787/7e843e1d-end3e3084
 SUMMARY:[Report] Enhancing corporate tax systems
   to support business dynamism
 DESCRIPTION:*[Report] Enhancing corporate tax system
@@ -1262,7 +1471,7 @@ DESCRIPTION:*[Report] Enhancing corporate tax system
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=7e843e1d-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20261009T120000Z
 DTEND:20261009T121500Z
 TRANSP:TRANSPARENT
@@ -1276,7 +1485,7 @@ DESCRIPTION:Reminder: [Report] Enhancing corporate t
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ab6386d7-frd3e2656
+UID:10.1787/ab6386d7-frd3e3137
 SUMMARY:[Report] Rapport sur la fiscalité du Sec
  rétaire général de l’OCDE à l’intention 
  des ministres des Finances et des gouver
@@ -1307,7 +1516,7 @@ DESCRIPTION:*[Report] Rapport sur la fiscalité du Se
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=ab6386d7-fr.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20261009T120000Z
 DTEND:20261009T121500Z
 TRANSP:TRANSPARENT
@@ -1324,7 +1533,7 @@ DESCRIPTION:Reminder: [Report] Rapport sur la fiscal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8af2444d-end3e2708
+UID:10.1787/8af2444d-end3e3189
 SUMMARY:[Report] OECD Secretary-General Tax Repo
  rt to G20 Finance Ministers and Central 
  Bank Governors (G20 United States, Augus
@@ -1353,7 +1562,7 @@ DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=8af2
  444d-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20261009T120000Z
 DTEND:20261009T121500Z
 TRANSP:TRANSPARENT
@@ -1369,7 +1578,7 @@ DESCRIPTION:Reminder: [Report] OECD Secretary-Genera
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/846bbe2d-end3e2760
+UID:10.1787/846bbe2d-end3e3241
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Bosnia and Herzegovina
@@ -1396,7 +1605,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=846bbe2d-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20261020T070000Z
 DTEND:20261020T071500Z
 TRANSP:TRANSPARENT
@@ -1411,7 +1620,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e7d36875-end3e2813
+UID:10.1787/e7d36875-end3e3293
 SUMMARY:[Report] Advances in nowcasting the grow
  th rate of the ICT sector
 DESCRIPTION:*[Report] Advances in nowcasting the gro
@@ -1436,7 +1645,7 @@ DESCRIPTION:*[Report] Advances in nowcasting the gro
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=e7d36875-en.
-DTSTAMP:20260827T231826Z
+DTSTAMP:20260828T231824Z
 DTSTART:20261105T050000Z
 DTEND:20261105T051500Z
 TRANSP:TRANSPARENT
