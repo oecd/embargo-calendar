@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 28 August 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 30 August 2026 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Gender and trust in public institutions in Switzerland - An analysis of the determinants](https://doi.org/10.1787/6ad10075-en)
 
