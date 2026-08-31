@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 30 August 2026 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Gender and trust in public institutions in Switzerland - An analysis of the determinants](https://doi.org/10.1787/6ad10075-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 30 August 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Monday 31 August 2026 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
 
@@ -50,6 +27,29 @@ Thursday 3 September 2026 at 22:01 | no launch event
 
 ------
 
+## [Higher education institutions as partners for sustainable development in Cleveland (Ohio), US](https://doi.org/10.1787/3f5326f2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Navigating transition and excess capacity](https://doi.org/10.1787/0d519f21-en)
 
 Embargo date | Launch date
@@ -66,6 +66,29 @@ Monday 7 September 2026 at 22:01 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Higher education institutions as partners for sustainable development in Los Angeles (California), US](https://doi.org/10.1787/f79b4f78-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
@@ -142,6 +165,29 @@ Tuesday 8 September 2026 at 9:00 | no launch event
 
 ------
 
+## [Artificial Intelligence and tourism in APEC economies - Boosting innovation and enhancing sustainability](https://doi.org/10.1787/4549486a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [The Space Economy at a Glance 2026](https://doi.org/10.1787/cbf9b240-en)
 
 Embargo date | Launch date
@@ -161,6 +207,29 @@ Wednesday 9 September 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Assessing the macroeconomic and fiscal effects of non-communicable diseases](https://doi.org/10.1787/0955beb4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -234,7 +303,7 @@ Friday 11 September 2026 at 8:00 | no launch event
 
 ------
 
-## [Critical Raw Materials in Central Asia - Unlocking Investments, Managing Risks](https://doi.org/10.1787/400e2d2a-en)
+## [Critical raw materials in Central Asia - Unlocking investments, managing risks](https://doi.org/10.1787/400e2d2a-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -303,25 +372,25 @@ Monday 14 September 2026 at 9:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Switzerland 2026](https://doi.org/10.1787/48b03aff-en)
+## [Planning ahead for the next pandemic - Acting early saves lives and protects economies](https://doi.org/10.1787/c5602a1c-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 14 September 2026 at 22:00 | no launch event
+Monday 14 September 2026 at 22:01 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Economic survey*
+* Type of publication: *Policy brief*
 * Format: *PDF*
 
 ------
@@ -345,6 +414,29 @@ Monday 14 September 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Switzerland 2026](https://doi.org/10.1787/48b03aff-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2026 at 12:45 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
@@ -575,6 +667,29 @@ Tuesday 29 September 2026 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Gender and trust in public institutions in Switzerland - An analysis of the determinants](https://doi.org/10.1787/6ad10075-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
