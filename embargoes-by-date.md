@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 September 2026 at 15:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 1 September 2026 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [1 September 2026](#1-september-2026)
 * [3 September 2026](#3-september-2026)
@@ -339,7 +339,7 @@ Friday 11 September 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -503,6 +503,29 @@ Monday 14 September 2026 at 22:01 | no launch event
 ------
 
 # 15 September 2026
+
+## [Études économiques de l'OCDE : Suisse 2026](https://doi.org/10.1787/ed0ae959-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2026 at 12:45 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [OECD Economic Surveys: Switzerland 2026](https://doi.org/10.1787/48b03aff-en)
 

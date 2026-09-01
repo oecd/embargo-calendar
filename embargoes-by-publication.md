@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 September 2026 at 15:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 1 September 2026 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [New Data for Africa’s Changing Climate - Mapping Risks, Readiness and Policy Action](https://doi.org/10.1787/27d083ca-en)
 
@@ -288,7 +288,7 @@ Friday 11 September 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -438,6 +438,29 @@ Monday 14 September 2026 at 22:01 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
 * Format: *PDF*
+
+------
+
+## [Études économiques de l'OCDE : Suisse 2026](https://doi.org/10.1787/ed0ae959-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2026 at 12:45 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
