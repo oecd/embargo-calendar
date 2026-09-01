@@ -2,8 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 31 August 2026 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 1 September 2026 at 15:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
+* [1 September 2026](#1-september-2026)
 * [3 September 2026](#3-september-2026)
 * [7 September 2026](#7-september-2026)
 * [8 September 2026](#8-september-2026)
@@ -17,7 +18,6 @@ Data generated on | |
 * [17 September 2026](#17-september-2026)
 * [18 September 2026](#18-september-2026)
 * [20 September 2026](#20-september-2026)
-* [22 September 2026](#22-september-2026)
 * [23 September 2026](#23-september-2026)
 * [29 September 2026](#29-september-2026)
 * [30 September 2026](#30-september-2026)
@@ -26,6 +26,33 @@ Data generated on | |
 * [9 October 2026](#9-october-2026)
 * [20 October 2026](#20-october-2026)
 * [5 November 2026](#5-november-2026)
+
+------
+
+# 1 September 2026
+
+## [New Data for Africa’s Changing Climate - Mapping Risks, Readiness and Policy Action](https://doi.org/10.1787/27d083ca-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 September 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ------
 
@@ -185,7 +212,7 @@ Tuesday 8 September 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -194,9 +221,9 @@ Tuesday 8 September 2026 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -277,25 +304,25 @@ Wednesday 9 September 2026 at 22:01 | no launch event
 
 # 10 September 2026
 
-## [Advancing the Implementation of the EU Carbon Border Adjustment Mechanism - Lessons from Romania](https://doi.org/10.1787/3ff6655c-en)
+## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 10 September 2026 at 9:00 | no launch event
+Thursday 10 September 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
+* Availability: *Published*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -531,6 +558,29 @@ Wednesday 16 September 2026 at 22:01 | no launch event
 
 # 17 September 2026
 
+## [Advancing the Implementation of the EU Carbon Border Adjustment Mechanism - Lessons from Romania](https://doi.org/10.1787/3ff6655c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 September 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Participation in GVCs through capital goods and services - Capital-endogenised TiVA indicators](https://doi.org/10.1787/06da147a-en)
 
 Embargo date | Launch date
@@ -650,33 +700,6 @@ Sunday 20 September 2026 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 22 September 2026
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 September 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
 * Format: *PDF*
 
 ------
