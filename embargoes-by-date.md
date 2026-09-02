@@ -2,10 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 September 2026 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 2 September 2026 at 23:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [1 September 2026](#1-september-2026)
-* [3 September 2026](#3-september-2026)
 * [7 September 2026](#7-september-2026)
 * [8 September 2026](#8-september-2026)
 * [9 September 2026](#9-september-2026)
@@ -24,6 +23,7 @@ Data generated on | |
 * [5 October 2026](#5-october-2026)
 * [8 October 2026](#8-october-2026)
 * [9 October 2026](#9-october-2026)
+* [12 October 2026](#12-october-2026)
 * [20 October 2026](#20-october-2026)
 * [5 November 2026](#5-november-2026)
 
@@ -50,33 +50,6 @@ Tuesday 1 September 2026 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
-# 3 September 2026
-
-## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -189,7 +162,7 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -198,7 +171,30 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [PISA 2025 Ergebnisse (Band I – Auszugsweise Übersetzung) - Bereit für die Zukunft?](https://doi.org/10.1787/1562a447-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -262,7 +258,7 @@ Wednesday 9 September 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -271,7 +267,30 @@ Wednesday 9 September 2026 at 7:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Panorama de l’économie spatiale 2026](https://doi.org/10.1787/436f94f1-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 September 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -327,6 +346,29 @@ Thursday 10 September 2026 at 7:00 | no launch event
 
 ------
 
+## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 September 2026 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 11 September 2026
@@ -348,9 +390,9 @@ Friday 11 September 2026 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1138,6 +1180,33 @@ Friday 9 October 2026 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 12 October 2026
+
+## [Economic Valuation of Chemicals-Related Health Effects - A Practical Guide to Quantifying Morbidity Effects in Environmental Cost-Benefit Analysis](https://doi.org/10.1787/b58b7451-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 October 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
