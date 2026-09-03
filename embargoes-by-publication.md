@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 2 September 2026 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
-
-## [New Data for Africa’s Changing Climate - Mapping Risks, Readiness and Policy Action](https://doi.org/10.1787/27d083ca-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 September 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Thursday 3 September 2026 at 23:22* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Higher education institutions as partners for sustainable development in Cleveland (Ohio), US](https://doi.org/10.1787/3f5326f2-en)
 
@@ -150,7 +127,7 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -159,9 +136,9 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -878,6 +855,29 @@ Wednesday 30 September 2026 at 9:00 | no launch event
 
 ------
 
+## [Financing Social Protection in Paraguay - The Role of General Revenues and Social Security Contributions](https://doi.org/10.1787/60f236f5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 September 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Progress Review of Peru’s Water and Sanitation Services Regulator - Driving Performance](https://doi.org/10.1787/a9012c4c-en)
 
 Embargo date | Launch date
@@ -1039,52 +1039,6 @@ Friday 9 October 2026 at 12:00 | no launch event
 
 ------
 
-## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-Unis, aôut 2026)](https://doi.org/10.1787/ab6386d7-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 October 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, August 2026)](https://doi.org/10.1787/8af2444d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 October 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ## [Economic Valuation of Chemicals-Related Health Effects - A Practical Guide to Quantifying Morbidity Effects in Environmental Cost-Benefit Analysis](https://doi.org/10.1787/b58b7451-en)
 
 Embargo date | Launch date
@@ -1104,6 +1058,52 @@ Monday 12 October 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-Unis, septembre 2026)](https://doi.org/10.1787/ab6386d7-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 October 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, September 2026)](https://doi.org/10.1787/8af2444d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 October 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
