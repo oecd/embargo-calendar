@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 4 September 2026 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 6 September 2026 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Navigating transition and excess capacity](https://doi.org/10.1787/0d519f21-en)
 
