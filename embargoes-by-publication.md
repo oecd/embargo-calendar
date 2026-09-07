@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 6 September 2026 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Navigating transition and excess capacity](https://doi.org/10.1787/0d519f21-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
+| *Monday 7 September 2026 at 10:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [France](https://doi.org/10.1787/6d229453-en)
 
@@ -36,8 +13,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -59,8 +34,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -82,8 +55,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -105,8 +76,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -128,8 +97,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -151,8 +118,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -174,8 +139,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -197,8 +160,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -220,8 +181,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -243,8 +202,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -266,8 +223,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -289,8 +244,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -312,8 +265,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -335,8 +286,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -358,8 +307,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -381,8 +328,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -404,8 +349,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -427,8 +370,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -450,8 +391,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -473,8 +412,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -496,8 +433,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -519,8 +454,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -542,8 +475,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -556,29 +487,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 ------
 
-## [Résultats du PISA 2025 (Volume I – version abrégée) - Des élèves prêts pour l'avenir](https://doi.org/10.1787/72cbf7bd-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 September 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Georgia](https://doi.org/10.1787/daa9b940-en)
 
 Embargo date | Launch date
@@ -588,8 +496,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -611,8 +517,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -634,8 +538,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -657,8 +559,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -680,8 +580,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -703,8 +601,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -726,8 +622,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -749,8 +643,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -772,8 +664,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -795,8 +685,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -818,8 +706,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -841,8 +727,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -864,8 +748,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -887,8 +769,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -910,8 +790,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -933,8 +811,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -956,8 +832,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -979,8 +853,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1002,8 +874,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1025,8 +895,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1048,8 +916,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1071,8 +937,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1094,8 +958,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1117,8 +979,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1140,8 +1000,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1163,8 +1021,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1186,8 +1042,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1209,8 +1063,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1232,8 +1084,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1255,8 +1105,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1278,8 +1126,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1301,8 +1147,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1324,8 +1168,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1347,8 +1189,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1370,8 +1210,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1393,8 +1231,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1416,8 +1252,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1439,8 +1273,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1462,8 +1294,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1485,8 +1315,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1508,8 +1336,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1531,8 +1357,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1554,8 +1378,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1577,8 +1399,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1600,8 +1420,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1623,8 +1441,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1646,8 +1462,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1669,8 +1483,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1692,8 +1504,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1715,8 +1525,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1738,8 +1546,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1761,8 +1567,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1784,8 +1588,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1807,8 +1609,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1830,8 +1630,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1853,8 +1651,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1876,8 +1672,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1899,8 +1693,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1922,8 +1714,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1945,8 +1735,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1968,8 +1756,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -1991,8 +1777,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2014,8 +1798,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2037,8 +1819,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2060,8 +1840,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2083,8 +1861,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2106,8 +1882,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2129,8 +1903,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2152,8 +1924,6 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2175,8 +1945,6 @@ Tuesday 8 September 2026 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2198,8 +1966,6 @@ Wednesday 9 September 2026 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2212,52 +1978,6 @@ Wednesday 9 September 2026 at 7:00 | no launch event
 
 ------
 
-## [Panorama de l’économie spatiale 2026](https://doi.org/10.1787/436f94f1-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 September 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Assessing the macroeconomic and fiscal effects of non-communicable diseases](https://doi.org/10.1787/0955beb4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
 ## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
 
 Embargo date | Launch date
@@ -2267,8 +1987,6 @@ Thursday 10 September 2026 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2277,52 +1995,6 @@ Thursday 10 September 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (September 2026) - Inclusive Framework on BEPS](https://doi.org/10.1787/0f9da895-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Unpacking place transformation](https://doi.org/10.1787/f43500af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -2336,8 +2008,6 @@ Friday 11 September 2026 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2350,52 +2020,6 @@ Friday 11 September 2026 at 8:00 | no launch event
 
 ------
 
-## [Examens environnementaux de l'OCDE : Slovénie 2026 (version abrégée)](https://doi.org/10.1787/c83a7a46-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 September 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Critical raw materials in Central Asia - Unlocking investments, managing risks](https://doi.org/10.1787/400e2d2a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 13 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ## [Research and Innovation Careers Observatory 2026 - Key Indicators on Talent, Mobility and Working Conditions](https://doi.org/10.1787/138ed294-en)
 
 Embargo date | Launch date
@@ -2405,8 +2029,6 @@ Monday 14 September 2026 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2428,8 +2050,6 @@ Monday 14 September 2026 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2438,121 +2058,6 @@ Monday 14 September 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Planning ahead for the next pandemic - Acting early saves lives and protects economies](https://doi.org/10.1787/c5602a1c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
-
-## [Building better policies through public-private dialogue in ASEAN](https://doi.org/10.1787/7905d3f2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l'OCDE : Suisse 2026](https://doi.org/10.1787/ed0ae959-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2026 at 12:45 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Switzerland 2026](https://doi.org/10.1787/48b03aff-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2026 at 12:45 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Developing a National Student Assessment Framework for the Philippines](https://doi.org/10.1787/786bff30-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -2566,8 +2071,6 @@ Thursday 17 September 2026 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2576,29 +2079,6 @@ Thursday 17 September 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Participation in GVCs through capital goods and services - Capital-endogenised TiVA indicators](https://doi.org/10.1787/06da147a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -2612,8 +2092,6 @@ Friday 18 September 2026 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2626,98 +2104,6 @@ Friday 18 September 2026 at 13:00 | no launch event
 
 ------
 
-## [Measuring global value chain participation in UK regions](https://doi.org/10.1787/5600c944-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 20 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Do capital markets matter for growth? - Concepts, measurement and mechanisms](https://doi.org/10.1787/7b97d06b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 20 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [UK regions in the global economy](https://doi.org/10.1787/f36125c4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 20 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Outlook, Interim Report September 2026](https://doi.org/10.1787/f751d02b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 23 September 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Issue*
-* Format: *PDF*
-
-------
-
 ## [Education at a Glance 2026 - OECD Indicators](https://doi.org/10.1787/b4968bbc-en)
 
 Embargo date | Launch date
@@ -2727,8 +2113,6 @@ Tuesday 29 September 2026 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2737,75 +2121,6 @@ Tuesday 29 September 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Regards sur l'éducation 2026 - Indicateurs de l'OCDE](https://doi.org/10.1787/cba0b622-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 29 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Gender and trust in public institutions in Switzerland - An analysis of the determinants](https://doi.org/10.1787/6ad10075-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 29 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Targeting places in national industrial strategies](https://doi.org/10.1787/284fcc80-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 29 September 2026 at 22:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -2819,8 +2134,6 @@ Wednesday 30 September 2026 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2842,8 +2155,6 @@ Wednesday 30 September 2026 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2865,8 +2176,6 @@ Wednesday 30 September 2026 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -2875,144 +2184,6 @@ Wednesday 30 September 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Financing Social Protection in Paraguay - The Role of General Revenues and Social Security Contributions](https://doi.org/10.1787/60f236f5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Progress Review of Peru’s Water and Sanitation Services Regulator - Driving Performance](https://doi.org/10.1787/a9012c4c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 September 2026 at 14:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Informe sobre avances del regulador de los servicios de agua y saneamiento de Perú - Impulsando el desempeño](https://doi.org/10.1787/722a9474-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 September 2026 at 14:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Spending Better for Children through Social Policy](https://doi.org/10.1787/1d6fb668-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 October 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Mieux investir dans les enfants grâce aux politiques sociales (version abrégée)](https://doi.org/10.1787/734f77b2-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 October 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Colombia 2026](https://doi.org/10.1787/977d1f11-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 October 2026 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
@@ -3026,8 +2197,6 @@ Thursday 8 October 2026 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -3036,29 +2205,6 @@ Thursday 8 October 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Renforcer les systèmes d’impôt sur les sociétés pour soutenir le dynamisme des entreprises](https://doi.org/10.1787/a7b4d558-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 October 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -3072,8 +2218,6 @@ Friday 9 October 2026 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -3081,121 +2225,6 @@ Friday 9 October 2026 at 12:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Economic Valuation of Chemicals-Related Health Effects - A Practical Guide to Quantifying Morbidity Effects in Environmental Cost-Benefit Analysis](https://doi.org/10.1787/b58b7451-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 October 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-Unis, septembre 2026)](https://doi.org/10.1787/ab6386d7-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 October 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, September 2026)](https://doi.org/10.1787/8af2444d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 October 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Bosnia and Herzegovina](https://doi.org/10.1787/846bbe2d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 October 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Advances in nowcasting the growth rate of the ICT sector](https://doi.org/10.1787/e7d36875-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 November 2026 at 5:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
