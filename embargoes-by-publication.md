@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 7 September 2026 at 10:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 7 September 2026 at 23:32* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [France](https://doi.org/10.1787/6d229453-en)
 
@@ -298,6 +298,27 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 ------
 
+## [Deutschland](https://doi.org/10.1787/8a1ce578-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Brunei Darussalam](https://doi.org/10.1787/4b00c39f-en)
 
 Embargo date | Launch date
@@ -403,6 +424,27 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 ------
 
+## [الأردن](https://doi.org/10.1787/5aa80881-ar)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Arabic*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Mongolia](https://doi.org/10.1787/dd294b78-en)
 
 Embargo date | Launch date
@@ -466,6 +508,27 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 ------
 
+## [France](https://doi.org/10.1787/9840dc6b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Brazil](https://doi.org/10.1787/d65ba095-en)
 
 Embargo date | Launch date
@@ -484,6 +547,27 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Résultats du PISA 2025 (Volume I – version abrégée) - Des élèves prêts pour l'avenir](https://doi.org/10.1787/72cbf7bd-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -586,6 +670,27 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Costa Rica](https://doi.org/10.1787/af0893b5-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -697,6 +802,27 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 ------
 
+## [Latvija](https://doi.org/10.1787/b51ec000-lv)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Latvian*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Saudi Arabia](https://doi.org/10.1787/5948545b-en)
 
 Embargo date | Launch date
@@ -775,6 +901,27 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [España](https://doi.org/10.1787/84d4f595-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -1264,6 +1411,27 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 ------
 
+## [Brasil](https://doi.org/10.1787/c7e013c5-pt)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Portuguese*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Colombia](https://doi.org/10.1787/d64a60a2-en)
 
 Embargo date | Launch date
@@ -1432,6 +1600,27 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 ------
 
+## [Қазақстан](https://doi.org/10.1787/dafefb09-kk)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Kazakh*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Italy](https://doi.org/10.1787/a9ab1acb-en)
 
 Embargo date | Launch date
@@ -1510,6 +1699,27 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Italia](https://doi.org/10.1787/77586842-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Italian*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -1678,6 +1888,27 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Казахстан](https://doi.org/10.1787/7d50ea0b-ru)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 September 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Russian*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -2028,37 +2259,16 @@ Monday 14 September 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -2101,6 +2311,27 @@ Friday 18 September 2026 at 13:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 September 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
