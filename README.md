@@ -19,7 +19,6 @@ Apart from the [ICS format](https://oecd.github.io/embargo-calendar/embargoes.ic
 * [RSS](embargoes.rss)
 * [Markdown, by date](embargoes-by-date.md)
 * [Markdown, by publication](embargoes-by-publication.md)
-* [XML, original format](official-embargoes.xml)
 
 ## On reminders
 
