@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 7 September 2026 at 23:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 8 September 2026 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [8 September 2026](#8-september-2026)
 * [9 September 2026](#9-september-2026)
 * [10 September 2026](#10-september-2026)
 * [11 September 2026](#11-september-2026)
 * [14 September 2026](#14-september-2026)
-* [17 September 2026](#17-september-2026)
+* [15 September 2026](#15-september-2026)
 * [18 September 2026](#18-september-2026)
 * [21 September 2026](#21-september-2026)
 * [29 September 2026](#29-september-2026)
@@ -567,7 +567,7 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 ------
 
-## [Résultats du PISA 2025 (Volume I – version abrégée) - Des élèves prêts pour l'avenir](https://doi.org/10.1787/72cbf7bd-fr)
+## [Résultats du PISA 2025 (Volume I – version abrégée) - Des élèves prêts pour l'avenir](https://doi.org/10.1787/72cbf7bd-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1134,7 +1134,7 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 ------
 
-## [PISA 2025 Results (Volume I) - Future-Ready Students](https://doi.org/10.1787/73451bc5-en)
+## [PISA 2025 Results (Volume I) - Future-Ready Students](https://doi.org/10.1787/73451bc5-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1848,7 +1848,7 @@ Tuesday 8 September 2026 at 7:30 | no launch event
 
 ------
 
-## [PISA 2025 Ergebnisse (Band I – Auszugsweise Übersetzung) - Bereit für die Zukunft?](https://doi.org/10.1787/1562a447-de)
+## [PISA 2025 Ergebnisse (Band I – Auszugsweise Übersetzung) - Bereit für die Zukunft?](https://doi.org/10.1787/1562a447-de)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -2213,7 +2213,7 @@ Tuesday 8 September 2026 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 9 September 2026 at 7:00 | no launch event
+Wednesday 9 September 2026 at 9:00 | no launch event
 
 ### Status Information
 
@@ -2307,26 +2307,26 @@ Monday 14 September 2026 at 7:00 | no launch event
 
 ------
 
-# 17 September 2026
+# 15 September 2026
 
-## [Advancing the Implementation of the EU Carbon Border Adjustment Mechanism - Lessons from Romania](https://doi.org/10.1787/3ff6655c-en)
+## [The Economic Case for Pandemic Preparedness and Response - Beyond Lockdowns](https://doi.org/10.1787/b7b3852e-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 17 September 2026 at 9:00 | no launch event
+Tuesday 15 September 2026 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -2447,6 +2447,27 @@ Wednesday 30 September 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Advancing the Implementation of the EU Carbon Border Adjustment Mechanism - Lessons from Romania](https://doi.org/10.1787/3ff6655c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 September 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
