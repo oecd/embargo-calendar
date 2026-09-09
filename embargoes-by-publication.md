@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 8 September 2026 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 9 September 2026 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [France](https://doi.org/10.1787/6d229453-en)
 
@@ -2209,6 +2209,27 @@ Wednesday 9 September 2026 at 9:00 | no launch event
 
 ------
 
+## [Panorama de l’économie spatiale 2026](https://doi.org/10.1787/436f94f1-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 September 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
 
 Embargo date | Launch date
@@ -2272,6 +2293,27 @@ Monday 14 September 2026 at 7:00 | no launch event
 
 ------
 
+## [Planning ahead for the next pandemic - Acting early saves lives and protects economies](https://doi.org/10.1787/c5602a1c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2026 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [The Economic Case for Pandemic Preparedness and Response - Beyond Lockdowns](https://doi.org/10.1787/b7b3852e-en)
 
 Embargo date | Launch date
@@ -2301,16 +2343,16 @@ Friday 18 September 2026 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -2377,7 +2419,7 @@ Wednesday 30 September 2026 at 7:00 | no launch event
 
 ------
 
-## [Model Tax Convention on Income and on Capital 2025 (Full Version) - Volumes I and II](https://doi.org/10.1787/db32e18b-en)
+## [Model Tax Convention on Income and on Capital 2025 (Full Version)](https://doi.org/10.1787/db32e18b-en)
 
 Embargo date | Launch date
 -------------|:------------:
