@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 10 September 2026 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 11 September 2026 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 September 2026](#9-september-2026)
 * [10 September 2026](#10-september-2026)
 * [11 September 2026](#11-september-2026)
 * [14 September 2026](#14-september-2026)
@@ -16,52 +15,6 @@ Data generated on | |
 * [30 September 2026](#30-september-2026)
 * [9 October 2026](#9-october-2026)
 * [12 October 2026](#12-october-2026)
-
-------
-
-# 9 September 2026
-
-## [The Space Economy at a Glance 2026](https://doi.org/10.1787/cbf9b240-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Panorama de l’économie spatiale 2026](https://doi.org/10.1787/436f94f1-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -121,14 +74,14 @@ Friday 11 September 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -202,6 +155,48 @@ Tuesday 15 September 2026 at 11:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Études économiques de l'OCDE : Suisse 2026](https://doi.org/10.1787/ed0ae959-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2026 at 12:45 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Switzerland 2026](https://doi.org/10.1787/48b03aff-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 September 2026 at 12:45 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
