@@ -2,70 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 11 September 2026 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 September 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Slovenia 2026](https://doi.org/10.1787/c6e1f2ed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 September 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (September 2026) - Inclusive Framework on BEPS](https://doi.org/10.1787/0f9da895-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Sunday 13 September 2026 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Research and Innovation Careers Observatory 2026 - Key Indicators on Talent, Mobility and Working Conditions](https://doi.org/10.1787/138ed294-en)
 

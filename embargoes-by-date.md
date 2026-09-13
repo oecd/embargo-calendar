@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 11 September 2026 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 13 September 2026 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 September 2026](#10-september-2026)
-* [11 September 2026](#11-september-2026)
 * [14 September 2026](#14-september-2026)
 * [15 September 2026](#15-september-2026)
 * [16 September 2026](#16-september-2026)
@@ -15,77 +13,6 @@ Data generated on | |
 * [30 September 2026](#30-september-2026)
 * [9 October 2026](#9-october-2026)
 * [12 October 2026](#12-october-2026)
-
-------
-
-# 10 September 2026
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Türkiye](https://doi.org/10.1787/10379f9f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 September 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 11 September 2026
-
-## [OECD Environmental Performance Reviews: Slovenia 2026](https://doi.org/10.1787/c6e1f2ed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 September 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (September 2026) - Inclusive Framework on BEPS](https://doi.org/10.1787/0f9da895-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
