@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 13 September 2026 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 14 September 2026 at 23:22* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Research and Innovation Careers Observatory 2026 - Key Indicators on Talent, Mobility and Working Conditions](https://doi.org/10.1787/138ed294-en)
 
@@ -117,16 +117,16 @@ Wednesday 16 September 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -189,6 +189,27 @@ Tuesday 29 September 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Financing Social Protection in Paraguay - The Role of General Revenues and Social Security Contributions](https://doi.org/10.1787/60f236f5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 September 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -277,11 +298,11 @@ Wednesday 30 September 2026 at 9:00 | no launch event
 
 ------
 
-## [Financing Social Protection in Paraguay - The Role of General Revenues and Social Security Contributions](https://doi.org/10.1787/60f236f5-en)
+## [Spending Better for Children through Social Policy](https://doi.org/10.1787/1d6fb668-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 30 September 2026 at 9:00 | no launch event
+Monday 5 October 2026 at 7:30 | no launch event
 
 ### Status Information
 
@@ -290,7 +311,7 @@ Wednesday 30 September 2026 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
