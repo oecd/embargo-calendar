@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 14 September 2026 at 23:22* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 15 September 2026 at 22:55* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Research and Innovation Careers Observatory 2026 - Key Indicators on Talent, Mobility and Working Conditions](https://doi.org/10.1787/138ed294-en)
 
