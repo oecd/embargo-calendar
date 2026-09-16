@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 15 September 2026 at 22:55* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 16 September 2026 at 22:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 September 2026](#14-september-2026)
 * [15 September 2026](#15-september-2026)
 * [16 September 2026](#16-september-2026)
 * [18 September 2026](#18-september-2026)
@@ -14,31 +13,6 @@ Data generated on | |
 * [5 October 2026](#5-october-2026)
 * [9 October 2026](#9-october-2026)
 * [12 October 2026](#12-october-2026)
-
-------
-
-# 14 September 2026
-
-## [Research and Innovation Careers Observatory 2026 - Key Indicators on Talent, Mobility and Working Conditions](https://doi.org/10.1787/138ed294-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 September 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 

@@ -2,28 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 15 September 2026 at 22:55* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Research and Innovation Careers Observatory 2026 - Key Indicators on Talent, Mobility and Working Conditions](https://doi.org/10.1787/138ed294-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 September 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 16 September 2026 at 22:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Planning ahead for the next pandemic - Acting early saves lives and protects economies](https://doi.org/10.1787/c5602a1c-en)
 
