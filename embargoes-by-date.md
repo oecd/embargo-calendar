@@ -2,105 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 16 September 2026 at 22:54* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 17 September 2026 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 September 2026](#15-september-2026)
 * [16 September 2026](#16-september-2026)
 * [18 September 2026](#18-september-2026)
 * [21 September 2026](#21-september-2026)
+* [22 September 2026](#22-september-2026)
 * [29 September 2026](#29-september-2026)
 * [30 September 2026](#30-september-2026)
 * [5 October 2026](#5-october-2026)
 * [9 October 2026](#9-october-2026)
 * [12 October 2026](#12-october-2026)
-
-------
-
-# 15 September 2026
-
-## [Planning ahead for the next pandemic - Acting early saves lives and protects economies](https://doi.org/10.1787/c5602a1c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2026 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [The Economic Case for Pandemic Preparedness and Response - Beyond Lockdowns](https://doi.org/10.1787/b7b3852e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2026 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Études économiques de l'OCDE : Suisse 2026](https://doi.org/10.1787/ed0ae959-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2026 at 12:45 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Switzerland 2026](https://doi.org/10.1787/48b03aff-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 September 2026 at 12:45 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -173,6 +85,31 @@ Monday 21 September 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 22 September 2026
+
+## [Navigating the Steel Transition amid Global Excess Capacity](https://doi.org/10.1787/0d519f21-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 September 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
