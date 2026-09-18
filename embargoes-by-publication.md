@@ -2,28 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 September 2026 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
-
-## [A Digital Financial Literacy Strategy for Finland](https://doi.org/10.1787/3f77ed3f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 September 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
+| *Friday 18 September 2026 at 22:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Review of Investment Policies in ASEAN - Mobilising Investment for the Green and Digital Transitions](https://doi.org/10.1787/baf9c7a4-en)
 
@@ -270,6 +249,27 @@ Monday 12 October 2026 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Policies for Developing Advanced STEM Skills in Higher Education](https://doi.org/10.1787/257230ec-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 October 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*

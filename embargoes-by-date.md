@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 September 2026 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 18 September 2026 at 22:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 September 2026](#16-september-2026)
 * [18 September 2026](#18-september-2026)
 * [21 September 2026](#21-september-2026)
 * [22 September 2026](#22-september-2026)
@@ -13,31 +12,7 @@ Data generated on | |
 * [5 October 2026](#5-october-2026)
 * [9 October 2026](#9-october-2026)
 * [12 October 2026](#12-october-2026)
-
-------
-
-# 16 September 2026
-
-## [A Digital Financial Literacy Strategy for Finland](https://doi.org/10.1787/3f77ed3f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 September 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
+* [23 October 2026](#23-october-2026)
 
 ------
 
@@ -316,6 +291,31 @@ Monday 12 October 2026 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 23 October 2026
+
+## [Policies for Developing Advanced STEM Skills in Higher Education](https://doi.org/10.1787/257230ec-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 October 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
