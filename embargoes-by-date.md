@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 18 September 2026 at 22:49* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 20 September 2026 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 September 2026](#18-september-2026)
 * [21 September 2026](#21-september-2026)
 * [22 September 2026](#22-september-2026)
 * [29 September 2026](#29-september-2026)
@@ -13,31 +12,6 @@ Data generated on | |
 * [9 October 2026](#9-october-2026)
 * [12 October 2026](#12-october-2026)
 * [23 October 2026](#23-october-2026)
-
-------
-
-# 18 September 2026
-
-## [OECD Review of Investment Policies in ASEAN - Mobilising Investment for the Green and Digital Transitions](https://doi.org/10.1787/baf9c7a4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 18 September 2026 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 

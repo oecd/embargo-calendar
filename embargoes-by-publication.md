@@ -2,28 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 18 September 2026 at 22:49* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Review of Investment Policies in ASEAN - Mobilising Investment for the Green and Digital Transitions](https://doi.org/10.1787/baf9c7a4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 18 September 2026 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 20 September 2026 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
 
