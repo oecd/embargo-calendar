@@ -2,28 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 20 September 2026 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Monday 21 September 2026 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Navigating the Steel Transition amid Global Excess Capacity](https://doi.org/10.1787/0d519f21-en)
 
@@ -43,6 +22,48 @@ Tuesday 22 September 2026 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
+
+------
+
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire de septembre 2026 - Surmonter des chocs successifs](https://doi.org/10.1787/3fa63f86-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 23 September 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Issue*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Economic Outlook, Interim Report September 2026 - Weathering Successive Shocks](https://doi.org/10.1787/f751d02b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 23 September 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Issue*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -151,27 +172,6 @@ Wednesday 30 September 2026 at 9:00 | no launch event
 
 ------
 
-## [Model Tax Convention on Income and on Capital 2025 (Condensed Version)](https://doi.org/10.1787/fc44d951-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Spending Better for Children through Social Policy](https://doi.org/10.1787/1d6fb668-en)
 
 Embargo date | Launch date
@@ -189,6 +189,27 @@ Monday 5 October 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 October 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -231,6 +252,27 @@ Monday 12 October 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Model Tax Convention on Income and on Capital 2025 (Condensed Version)](https://doi.org/10.1787/fc44d951-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 October 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------

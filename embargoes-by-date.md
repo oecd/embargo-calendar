@@ -2,41 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 20 September 2026 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 21 September 2026 at 22:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 September 2026](#21-september-2026)
 * [22 September 2026](#22-september-2026)
+* [23 September 2026](#23-september-2026)
 * [29 September 2026](#29-september-2026)
 * [30 September 2026](#30-september-2026)
 * [5 October 2026](#5-october-2026)
 * [9 October 2026](#9-october-2026)
 * [12 October 2026](#12-october-2026)
+* [14 October 2026](#14-october-2026)
 * [23 October 2026](#23-october-2026)
-
-------
-
-# 21 September 2026
-
-## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -60,6 +36,52 @@ Tuesday 22 September 2026 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
+
+------
+
+------
+
+# 23 September 2026
+
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire de septembre 2026 - Surmonter des chocs successifs](https://doi.org/10.1787/3fa63f86-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 23 September 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Issue*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Economic Outlook, Interim Report September 2026 - Weathering Successive Shocks](https://doi.org/10.1787/f751d02b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 23 September 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Issue*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -176,27 +198,6 @@ Wednesday 30 September 2026 at 9:00 | no launch event
 
 ------
 
-## [Model Tax Convention on Income and on Capital 2025 (Condensed Version)](https://doi.org/10.1787/fc44d951-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ------
 
 # 5 October 2026
@@ -218,6 +219,27 @@ Monday 5 October 2026 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 October 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -268,6 +290,31 @@ Monday 12 October 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 14 October 2026
+
+## [Model Tax Convention on Income and on Capital 2025 (Condensed Version)](https://doi.org/10.1787/fc44d951-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 October 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
