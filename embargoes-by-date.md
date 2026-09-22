@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 21 September 2026 at 22:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 22 September 2026 at 22:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 September 2026](#22-september-2026)
 * [23 September 2026](#23-september-2026)
@@ -85,11 +85,53 @@ Wednesday 23 September 2026 at 8:00 | no launch event
 
 ------
 
+## [Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2026 - Superare shock consecutivi](https://doi.org/10.1787/66ace9dc-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 23 September 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Italian*
+* Availability: *Published*
+* Type of publication: *Issue*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
 ------
 
 # 29 September 2026
 
 ## [Education at a Glance 2026 - OECD Indicators](https://doi.org/10.1787/b4968bbc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 September 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Regards sur l'éducation 2026 - Indicateurs de l'OCDE](https://doi.org/10.1787/cba0b622-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -103,10 +145,10 @@ Tuesday 29 September 2026 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Forthcoming*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 

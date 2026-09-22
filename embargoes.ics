@@ -18,7 +18,7 @@ DESCRIPTION:*[Policy paper] Navigating the Steel Tra
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 22:58, it is updated each night; the
+  at 22:56, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -26,7 +26,7 @@ DESCRIPTION:*[Policy paper] Navigating the Steel Tra
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=0d519f21-en.
-DTSTAMP:20260921T225834Z
+DTSTAMP:20260922T225605Z
 DTSTART:20260922T060000Z
 DTEND:20260922T061500Z
 TRANSP:TRANSPARENT
@@ -58,7 +58,7 @@ DESCRIPTION:*[Issue] Perspectives économiques de l'O
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 22:58, it 
+ rrect as of this afternoon at 22:56, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -67,7 +67,7 @@ DESCRIPTION:*[Issue] Perspectives économiques de l'O
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=3fa63f86-fr.
-DTSTAMP:20260921T225834Z
+DTSTAMP:20260922T225605Z
 DTSTART:20260923T080000Z
 DTEND:20260923T081500Z
 TRANSP:TRANSPARENT
@@ -100,7 +100,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Interim
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:58, it is updated each night; t
+ on at 22:56, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -109,7 +109,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Interim
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=f751d02b-en
  .
-DTSTAMP:20260921T225834Z
+DTSTAMP:20260922T225605Z
 DTSTART:20260923T080000Z
 DTEND:20260923T081500Z
 TRANSP:TRANSPARENT
@@ -124,7 +124,48 @@ DESCRIPTION:Reminder: [Issue] OECD Economic Outlook,
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b4968bbc-end3e1334
+UID:10.1787/66ace9dc-itd3e546
+SUMMARY:[Issue] Prospettive economiche dell'OCSE
+ , Rapporto intermedio, settembre 2026 - 
+ Superare shock consecutivi
+DESCRIPTION:*[Issue] Prospettive economiche dell'OCS
+ E, Rapporto intermedio, settembre 2026 -
+  Superare shock consecutivi*\n\nDirector
+ ate: Economics Department\nLanguage: Ita
+ lian\nDOI: https://doi.org/10.1787/66ace
+ 9dc-it\nPublication type: Issue\nRelease
+ d as: HTML, PDF, ZJCR, ZXML\n\nEmbargo d
+ ate/time: Wednesday, 23 September 2026, 
+ 8:00 (GMT)\n\nOECD.org export: never\nFT
+ I loaded: ✓\n\nFor more information see:
+  https://oecd.github.io/embargo-calendar
+ /embargoes-by-publication.html.\n\nPleas
+ e note: This information was correct as 
+ of this afternoon at 22:56, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=66ace9dc-it.
+DTSTAMP:20260922T225605Z
+DTSTART:20260923T080000Z
+DTEND:20260923T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Issue] Prospettive economiche
+  dell'OCSE, Rapporto intermedio, settemb
+ re 2026 - Superare shock consecutivi
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b4968bbc-end3e1613
 SUMMARY:[Book] Education at a Glance 2026 - OECD
   Indicators
 DESCRIPTION:*[Book] Education at a Glance 2026 - OEC
@@ -132,22 +173,23 @@ DESCRIPTION:*[Book] Education at a Glance 2026 - OEC
  e for Education and Skills\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/b496
  8bbc-en\nPublication type: Book\nRelease
- d as: PDF\n\nEmbargo date/time: Tuesday,
-  29 September 2026, 9:00 (GMT)\n\nOECD.o
- rg export: never\nFTI loaded: ✗\n\nFor m
- ore information see: https://oecd.github
- .io/embargo-calendar/embargoes-by-public
- ation.html.\n\nPlease note: This informa
- tion was correct as of this afternoon at
-  22:58, it is updated each night; theref
- ore any subsequent updates may not yet b
- e visible here. Also, please be aware th
- at the different released media (PDF, HT
- ML, etc.) are not necessarily released a
- t the same time. For complete and up-to-
- date information see here: http://kappa.
- oecd.org/v3/search?term=b4968bbc-en.
-DTSTAMP:20260921T225834Z
+ d as: HTML, Paperback, PDF, ZJCR, ZXML\n
+ \nEmbargo date/time: Tuesday, 29 Septemb
+ er 2026, 9:00 (GMT)\n\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 22:56, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=b4968bbc-en.
+DTSTAMP:20260922T225605Z
 DTSTART:20260929T090000Z
 DTEND:20260929T091500Z
 TRANSP:TRANSPARENT
@@ -161,7 +203,45 @@ DESCRIPTION:Reminder: [Book] Education at a Glance 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/60f236f5-end3e1805
+UID:10.1787/cba0b622-frd3e2093
+SUMMARY:[Book] Regards sur l'éducation 2026 - In
+ dicateurs de l'OCDE
+DESCRIPTION:*[Book] Regards sur l'éducation 2026 - I
+ ndicateurs de l'OCDE*\n\nDirectorate: Di
+ rectorate for Education and Skills\nLang
+ uage: French\nDOI: https://doi.org/10.17
+ 87/cba0b622-fr\nPublication type: Book\n
+ Released as: HTML, Paperback, PDF\n\nEmb
+ argo date/time: Tuesday, 29 September 20
+ 26, 9:00 (GMT)\n\nOECD.org export: never
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 22:56, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=cba0b622-fr.
+DTSTAMP:20260922T225605Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Regards sur l'éducation
+  2026 - Indicateurs de l'OCDE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/60f236f5-end3e2254
 SUMMARY:[Stand-alone monograph] Financing Social
   Protection in Paraguay - The Role of Ge
  neral Revenues and Social Security Contr
@@ -180,7 +260,7 @@ DESCRIPTION:*[Stand-alone monograph] Financing Socia
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 22:58, it is updated 
+  this afternoon at 22:56, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -189,7 +269,7 @@ DESCRIPTION:*[Stand-alone monograph] Financing Socia
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=60f236f5-en.
-DTSTAMP:20260921T225834Z
+DTSTAMP:20260922T225605Z
 DTSTART:20260929T090000Z
 DTEND:20260929T091500Z
 TRANSP:TRANSPARENT
@@ -205,7 +285,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Financ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0d625fbe-end3e2696
+UID:10.1787/0d625fbe-end3e3211
 SUMMARY:[Stand-alone monograph] Economic Converg
  ence Scoreboard for the Western Balkans 
  2026
@@ -222,7 +302,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Conver
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 22:58, it is update
+ of this afternoon at 22:56, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -231,7 +311,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Conver
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=0d625fbe-en.
-DTSTAMP:20260921T225834Z
+DTSTAMP:20260922T225605Z
 DTSTART:20260930T070000Z
 DTEND:20260930T071500Z
 TRANSP:TRANSPARENT
@@ -246,7 +326,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Econom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/db32e18b-end3e2748
+UID:10.1787/db32e18b-end3e3263
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Full Version)
 DESCRIPTION:*[Book] Model Tax Convention on Income a
@@ -261,7 +341,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 22:58, it is
+ ect as of this afternoon at 22:56, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -270,7 +350,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=db32e18b-en.
-DTSTAMP:20260921T225834Z
+DTSTAMP:20260922T225605Z
 DTSTART:20260930T090000Z
 DTEND:20260930T091500Z
 TRANSP:TRANSPARENT
@@ -285,7 +365,7 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3ff6655c-end3e2801
+UID:10.1787/3ff6655c-end3e3315
 SUMMARY:[Stand-alone monograph] Advancing the Im
  plementation of the EU Carbon Border Adj
  ustment Mechanism - Lessons from Romania
@@ -303,7 +383,7 @@ DESCRIPTION:*[Stand-alone monograph] Advancing the I
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 22:58, it is updated each n
+ afternoon at 22:56, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -312,7 +392,7 @@ DESCRIPTION:*[Stand-alone monograph] Advancing the I
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=3ff6
  655c-en.
-DTSTAMP:20260921T225834Z
+DTSTAMP:20260922T225605Z
 DTSTART:20260930T090000Z
 DTEND:20260930T091500Z
 TRANSP:TRANSPARENT
@@ -328,7 +408,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Advanc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1d6fb668-end3e3596
+UID:10.1787/1d6fb668-end3e4111
 SUMMARY:[Stand-alone monograph] Spending Better 
  for Children through Social Policy
 DESCRIPTION:*[Stand-alone monograph] Spending Better
@@ -344,7 +424,7 @@ DESCRIPTION:*[Stand-alone monograph] Spending Better
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 22:58, it
+ orrect as of this afternoon at 22:56, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -353,7 +433,7 @@ DESCRIPTION:*[Stand-alone monograph] Spending Better
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=1d6fb668-en.
-DTSTAMP:20260921T225834Z
+DTSTAMP:20260922T225605Z
 DTSTART:20261005T073000Z
 DTEND:20261005T074500Z
 TRANSP:TRANSPARENT
@@ -368,7 +448,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Spendi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4fcb4f91-end3e3700
+UID:10.1787/4fcb4f91-end3e4215
 SUMMARY:[Report] Determining the Price of Minera
  ls - A transfer pricing framework for co
  pper
@@ -385,7 +465,7 @@ DESCRIPTION:*[Report] Determining the Price of Miner
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 22:5
- 8, it is updated each night; therefore a
+ 6, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -393,7 +473,7 @@ DESCRIPTION:*[Report] Determining the Price of Miner
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=4fcb4f91-en.
-DTSTAMP:20260921T225834Z
+DTSTAMP:20260922T225605Z
 DTSTART:20261005T090000Z
 DTEND:20261005T091500Z
 TRANSP:TRANSPARENT
@@ -408,7 +488,7 @@ DESCRIPTION:Reminder: [Report] Determining the Price
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7e843e1d-end3e4173
+UID:10.1787/7e843e1d-end3e4687
 SUMMARY:[Report] Enhancing corporate tax systems
   to support business dynamism
 DESCRIPTION:*[Report] Enhancing corporate tax system
@@ -423,7 +503,7 @@ DESCRIPTION:*[Report] Enhancing corporate tax system
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 22:58, it is updat
+  of this afternoon at 22:56, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -432,7 +512,7 @@ DESCRIPTION:*[Report] Enhancing corporate tax system
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=7e843e1d-en.
-DTSTAMP:20260921T225834Z
+DTSTAMP:20260922T225605Z
 DTSTART:20261009T120000Z
 DTEND:20261009T121500Z
 TRANSP:TRANSPARENT
@@ -446,7 +526,7 @@ DESCRIPTION:Reminder: [Report] Enhancing corporate t
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b58b7451-end3e4225
+UID:10.1787/b58b7451-end3e4740
 SUMMARY:[Stand-alone monograph] Economic Valuati
  on of Chemicals-Related Health Effects -
   A Practical Guide to Quantifying Morbid
@@ -467,7 +547,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Valuat
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  22:58, it is updated each night; theref
+  22:56, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -475,7 +555,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Valuat
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=b58b7451-en.
-DTSTAMP:20260921T225834Z
+DTSTAMP:20260922T225605Z
 DTSTART:20261012T070000Z
 DTEND:20261012T071500Z
 TRANSP:TRANSPARENT
@@ -492,7 +572,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Econom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fc44d951-end3e4278
+UID:10.1787/fc44d951-end3e4793
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Condensed Version)
 DESCRIPTION:*[Book] Model Tax Convention on Income a
@@ -507,7 +587,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 22:58, it
+ orrect as of this afternoon at 22:56, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -516,7 +596,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=fc44d951-en.
-DTSTAMP:20260921T225834Z
+DTSTAMP:20260922T225605Z
 DTSTART:20261014T090000Z
 DTEND:20261014T091500Z
 TRANSP:TRANSPARENT
@@ -531,7 +611,7 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/257230ec-end3e4487
+UID:10.1787/257230ec-end3e5001
 SUMMARY:[Stand-alone monograph] Policies for Dev
  eloping Advanced STEM Skills in Higher E
  ducation
@@ -548,7 +628,7 @@ DESCRIPTION:*[Stand-alone monograph] Policies for De
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 22:58, it is updated each ni
+ fternoon at 22:56, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -557,7 +637,7 @@ DESCRIPTION:*[Stand-alone monograph] Policies for De
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=25723
  0ec-en.
-DTSTAMP:20260921T225834Z
+DTSTAMP:20260922T225605Z
 DTSTART:20261023T070000Z
 DTEND:20261023T071500Z
 TRANSP:TRANSPARENT
