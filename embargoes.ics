@@ -2,63 +2,197 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/0d519f21-end3e63
-SUMMARY:[Policy paper] Navigating the Steel Tran
- sition amid Global Excess Capacity
-DESCRIPTION:*[Policy paper] Navigating the Steel Tra
- nsition amid Global Excess Capacity*\n\n
- Directorate: Directorate for Science, Te
- chnology and Industry\nLanguage: English
- \nDOI: https://doi.org/10.1787/0d519f21-
- en\nPublication type: Policy paper\nRele
- ased as: PDF\n\nEmbargo date/time: Tuesd
- ay, 22 September 2026, 6:00 (GMT)\n\nOEC
- D.org export: never\nFTI loaded: ✓\n\nFo
- r more information see: https://oecd.git
- hub.io/embargo-calendar/embargoes-by-pub
- lication.html.\n\nPlease note: This info
- rmation was correct as of this afternoon
-  at 22:56, it is updated each night; the
- refore any subsequent updates may not ye
- t be visible here. Also, please be aware
-  that the different released media (PDF,
-  HTML, etc.) are not necessarily release
- d at the same time. For complete and up-
- to-date information see here: http://kap
- pa.oecd.org/v3/search?term=0d519f21-en.
-DTSTAMP:20260922T225605Z
-DTSTART:20260922T060000Z
-DTEND:20260922T061500Z
+UID:10.1787/c3a5c616-end3e330
+SUMMARY:[Short content] Iceland
+DESCRIPTION:*[Short content] Iceland*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/c3a5c616-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=c3a5c616-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Policy paper] Navigating the 
- Steel Transition amid Global Excess Capa
- city
+DESCRIPTION:Reminder: [Short content] Iceland
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3fa63f86-frd3e278
-SUMMARY:[Issue] Perspectives économiques de l'OC
- DE, Rapport intermédiaire de septembre 2
- 026 - Surmonter des chocs successifs
-DESCRIPTION:*[Issue] Perspectives économiques de l'O
- CDE, Rapport intermédiaire de septembre 
- 2026 - Surmonter des chocs successifs*\n
- \nDirectorate: Economics Department\nLan
- guage: French\nDOI: https://doi.org/10.1
- 787/3fa63f86-fr\nPublication type: Issue
- \nReleased as: HTML, PDF, ZJCR, ZXML\n\n
- Embargo date/time: Wednesday, 23 Septemb
- er 2026, 8:00 (GMT)\n\nOECD.org export: 
- never\nFTI loaded: ✓\n\nFor more informa
+UID:10.1787/cd794bc2-end3e383
+SUMMARY:[Short content] Costa Rica
+DESCRIPTION:*[Short content] Costa Rica*\n\nDirector
+ ate: Directorate for Education and Skill
+ s\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/cd794bc2-en\nPublication type
+ : Short content\nReleased as: DOCX, PDF,
+  ZJCR\n\nEmbargo date/time: Tuesday, 29 
+ September 2026, 9:00 (GMT)\n\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 22:
+ 50, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=cd794bc2-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Costa Rica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/af9b24f5-end3e702
+SUMMARY:[Short content] Norway
+DESCRIPTION:*[Short content] Norway*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/af9b24f5-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF, ZJC
+ R\n\nEmbargo date/time: Tuesday, 29 Sept
+ ember 2026, 9:00 (GMT)\n\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:50, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=af9b24f5-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Norway
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8a64c682-end3e861
+SUMMARY:[Short content] Japan
+DESCRIPTION:*[Short content] Japan*\n\nDirectorate: 
+ Directorate for Education and Skills\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/8a64c682-en\nPublication type: Sho
+ rt content\nReleased as: DOCX, PDF, ZJCR
+ \n\nEmbargo date/time: Tuesday, 29 Septe
+ mber 2026, 9:00 (GMT)\n\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 22:50, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=8a64c682-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Japan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/659909ab-end3e1287
+SUMMARY:[Short content] Ireland
+DESCRIPTION:*[Short content] Ireland*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/659909ab-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=659909ab-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Ireland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/dcf64a14-end3e1446
+SUMMARY:[Report] Education at a Glance 2026 Sour
+ ces, Methodologies and Technical Notes
+DESCRIPTION:*[Report] Education at a Glance 2026 Sou
+ rces, Methodologies and Technical Notes*
+ \n\nDirectorate: Directorate for Educati
+ on and Skills\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/dcf64a14-en\nPubl
+ ication type: Report\nReleased as: PDF\n
+ \nEmbargo date/time: Tuesday, 29 Septemb
+ er 2026, 9:00 (GMT)\n\nOECD.org export: 
+ never\nFTI loaded: ✗\n\nFor more informa
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 22:56, it 
+ rrect as of this afternoon at 22:50, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -66,106 +200,233 @@ DESCRIPTION:*[Issue] Perspectives économiques de l'O
  re not necessarily released at the same 
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
- /search?term=3fa63f86-fr.
-DTSTAMP:20260922T225605Z
-DTSTART:20260923T080000Z
-DTEND:20260923T081500Z
+ /search?term=dcf64a14-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Issue] Perspectives économiqu
- es de l'OCDE, Rapport intermédiaire de s
- eptembre 2026 - Surmonter des chocs succ
- essifs
+DESCRIPTION:Reminder: [Report] Education at a Glance
+  2026 Sources, Methodologies and Technic
+ al Notes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f751d02b-end3e332
-SUMMARY:[Issue] OECD Economic Outlook, Interim R
- eport September 2026 - Weathering Succes
- sive Shocks
-DESCRIPTION:*[Issue] OECD Economic Outlook, Interim 
- Report September 2026 - Weathering Succe
- ssive Shocks*\n\nDirectorate: Economics 
- Department\nLanguage: English\nDOI: http
- s://doi.org/10.1787/f751d02b-en\nPublica
- tion type: Issue\nReleased as: HTML, PDF
- , ZJCR, ZXML\n\nEmbargo date/time: Wedne
- sday, 23 September 2026, 8:00 (GMT)\n\nO
- ECD.org export: never\nFTI loaded: ✓\n\n
- For more information see: https://oecd.g
- ithub.io/embargo-calendar/embargoes-by-p
- ublication.html.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 22:56, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=f751d02b-en
- .
-DTSTAMP:20260922T225605Z
-DTSTART:20260923T080000Z
-DTEND:20260923T081500Z
+UID:10.1787/555ee057-lvd3e1498
+SUMMARY:[Short content] Latvija
+DESCRIPTION:*[Short content] Latvija*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: Latvian\nDOI: https://doi.org/
+ 10.1787/555ee057-lv\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=555ee057-lv.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Issue] OECD Economic Outlook,
-  Interim Report September 2026 - Weather
- ing Successive Shocks
+DESCRIPTION:Reminder: [Short content] Latvija
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/66ace9dc-itd3e546
-SUMMARY:[Issue] Prospettive economiche dell'OCSE
- , Rapporto intermedio, settembre 2026 - 
- Superare shock consecutivi
-DESCRIPTION:*[Issue] Prospettive economiche dell'OCS
- E, Rapporto intermedio, settembre 2026 -
-  Superare shock consecutivi*\n\nDirector
- ate: Economics Department\nLanguage: Ita
- lian\nDOI: https://doi.org/10.1787/66ace
- 9dc-it\nPublication type: Issue\nRelease
- d as: HTML, PDF, ZJCR, ZXML\n\nEmbargo d
- ate/time: Wednesday, 23 September 2026, 
- 8:00 (GMT)\n\nOECD.org export: never\nFT
- I loaded: ✓\n\nFor more information see:
-  https://oecd.github.io/embargo-calendar
- /embargoes-by-publication.html.\n\nPleas
- e note: This information was correct as 
- of this afternoon at 22:56, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=66ace9dc-it.
-DTSTAMP:20260922T225605Z
-DTSTART:20260923T080000Z
-DTEND:20260923T081500Z
+UID:10.1787/cc3cfa5a-end3e2774
+SUMMARY:[Short content] Thailand
+DESCRIPTION:*[Short content] Thailand*\n\nDirectorat
+ e: Directorate for Education and Skills\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/cc3cfa5a-en\nPublication type: 
+ Short content\nReleased as: DOCX, PDF, Z
+ JCR\n\nEmbargo date/time: Tuesday, 29 Se
+ ptember 2026, 9:00 (GMT)\n\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 22:50
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=cc3cfa5a-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Issue] Prospettive economiche
-  dell'OCSE, Rapporto intermedio, settemb
- re 2026 - Superare shock consecutivi
+DESCRIPTION:Reminder: [Short content] Thailand
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b4968bbc-end3e1613
+UID:10.1787/b61ec67f-end3e2828
+SUMMARY:[Short content] Israel
+DESCRIPTION:*[Short content] Israel*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/b61ec67f-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF, ZJC
+ R\n\nEmbargo date/time: Tuesday, 29 Sept
+ ember 2026, 9:00 (GMT)\n\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:50, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=b61ec67f-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Israel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b0c26314-end3e3200
+SUMMARY:[Short content] Argentina
+DESCRIPTION:*[Short content] Argentina*\n\nDirectora
+ te: Directorate for Education and Skills
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/b0c26314-en\nPublication type:
+  Short content\nReleased as: DOCX, PDF, 
+ ZJCR\n\nEmbargo date/time: Tuesday, 29 S
+ eptember 2026, 9:00 (GMT)\n\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 22:5
+ 0, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=b0c26314-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Argentina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/fa1d68b0-end3e3253
+SUMMARY:[Short content] Austria
+DESCRIPTION:*[Short content] Austria*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/fa1d68b0-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=fa1d68b0-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Austria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/da0c3097-end3e3731
+SUMMARY:[Short content] Italy
+DESCRIPTION:*[Short content] Italy*\n\nDirectorate: 
+ Directorate for Education and Skills\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/da0c3097-en\nPublication type: Sho
+ rt content\nReleased as: DOCX, PDF, ZJCR
+ \n\nEmbargo date/time: Tuesday, 29 Septe
+ mber 2026, 9:00 (GMT)\n\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 22:50, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=da0c3097-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Italy
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b4968bbc-end3e3785
 SUMMARY:[Book] Education at a Glance 2026 - OECD
   Indicators
 DESCRIPTION:*[Book] Education at a Glance 2026 - OEC
@@ -180,7 +441,7 @@ DESCRIPTION:*[Book] Education at a Glance 2026 - OEC
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 22:56, it 
+ rrect as of this afternoon at 22:50, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -189,7 +450,7 @@ DESCRIPTION:*[Book] Education at a Glance 2026 - OEC
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=b4968bbc-en.
-DTSTAMP:20260922T225605Z
+DTSTAMP:20260925T225016Z
 DTSTART:20260929T090000Z
 DTEND:20260929T091500Z
 TRANSP:TRANSPARENT
@@ -203,7 +464,463 @@ DESCRIPTION:Reminder: [Book] Education at a Glance 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cba0b622-frd3e2093
+UID:10.1787/24cf07cf-jad3e3839
+SUMMARY:[Short content] 日本
+DESCRIPTION:*[Short content] 日本*\n\nDirectorate: Dir
+ ectorate for Education and Skills\nLangu
+ age: Japanese\nDOI: https://doi.org/10.1
+ 787/24cf07cf-ja\nPublication type: Short
+  content\nReleased as: DOCX, PDF, ZJCR\n
+ \nEmbargo date/time: Tuesday, 29 Septemb
+ er 2026, 9:00 (GMT)\n\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 22:50, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=24cf07cf-ja.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] 日本
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/d412b71f-end3e4158
+SUMMARY:[Short content] United States
+DESCRIPTION:*[Short content] United States*\n\nDirec
+ torate: Directorate for Education and Sk
+ ills\nLanguage: English\nDOI: https://do
+ i.org/10.1787/d412b71f-en\nPublication t
+ ype: Short content\nReleased as: DOCX, P
+ DF, ZJCR\n\nEmbargo date/time: Tuesday, 
+ 29 September 2026, 9:00 (GMT)\n\nOECD.or
+ g export: never\nFTI loaded: ✓\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 22:50, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=d412b71f-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] United States
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/127ea657-end3e4211
+SUMMARY:[Short content] United Kingdom
+DESCRIPTION:*[Short content] United Kingdom*\n\nDire
+ ctorate: Directorate for Education and S
+ kills\nLanguage: English\nDOI: https://d
+ oi.org/10.1787/127ea657-en\nPublication 
+ type: Short content\nReleased as: DOCX, 
+ PDF, ZJCR\n\nEmbargo date/time: Tuesday,
+  29 September 2026, 9:00 (GMT)\n\nOECD.o
+ rg export: never\nFTI loaded: ✓\n\nFor m
+ ore information see: https://oecd.github
+ .io/embargo-calendar/embargoes-by-public
+ ation.html.\n\nPlease note: This informa
+ tion was correct as of this afternoon at
+  22:50, it is updated each night; theref
+ ore any subsequent updates may not yet b
+ e visible here. Also, please be aware th
+ at the different released media (PDF, HT
+ ML, etc.) are not necessarily released a
+ t the same time. For complete and up-to-
+ date information see here: http://kappa.
+ oecd.org/v3/search?term=127ea657-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] United Kingdom
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c75b2cc7-end3e4317
+SUMMARY:[Short content] France
+DESCRIPTION:*[Short content] France*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/c75b2cc7-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF, ZJC
+ R\n\nEmbargo date/time: Tuesday, 29 Sept
+ ember 2026, 9:00 (GMT)\n\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:50, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=c75b2cc7-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] France
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/669bc713-end3e4425
+SUMMARY:[Short content] Germany
+DESCRIPTION:*[Short content] Germany*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/669bc713-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=669bc713-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Germany
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0c0d8b23-end3e4478
+SUMMARY:[Short content] Mexico
+DESCRIPTION:*[Short content] Mexico*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/0c0d8b23-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF, ZJC
+ R\n\nEmbargo date/time: Tuesday, 29 Sept
+ ember 2026, 9:00 (GMT)\n\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:50, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=0c0d8b23-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Mexico
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a3d9d136-end3e4531
+SUMMARY:[Short content] Latvia
+DESCRIPTION:*[Short content] Latvia*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/a3d9d136-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF, ZJC
+ R\n\nEmbargo date/time: Tuesday, 29 Sept
+ ember 2026, 9:00 (GMT)\n\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:50, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=a3d9d136-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Latvia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c5a82926-end3e5116
+SUMMARY:[Short content] Colombia
+DESCRIPTION:*[Short content] Colombia*\n\nDirectorat
+ e: Directorate for Education and Skills\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/c5a82926-en\nPublication type: 
+ Short content\nReleased as: DOCX, PDF, Z
+ JCR\n\nEmbargo date/time: Tuesday, 29 Se
+ ptember 2026, 9:00 (GMT)\n\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 22:50
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=c5a82926-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Colombia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/933c7cb8-end3e5328
+SUMMARY:[Short content] Slovak Republic
+DESCRIPTION:*[Short content] Slovak Republic*\n\nDir
+ ectorate: Directorate for Education and 
+ Skills\nLanguage: English\nDOI: https://
+ doi.org/10.1787/933c7cb8-en\nPublication
+  type: Short content\nReleased as: DOCX,
+  PDF, ZJCR\n\nEmbargo date/time: Tuesday
+ , 29 September 2026, 9:00 (GMT)\n\nOECD.
+ org export: never\nFTI loaded: ✓\n\nFor 
+ more information see: https://oecd.githu
+ b.io/embargo-calendar/embargoes-by-publi
+ cation.html.\n\nPlease note: This inform
+ ation was correct as of this afternoon a
+ t 22:50, it is updated each night; there
+ fore any subsequent updates may not yet 
+ be visible here. Also, please be aware t
+ hat the different released media (PDF, H
+ TML, etc.) are not necessarily released 
+ at the same time. For complete and up-to
+ -date information see here: http://kappa
+ .oecd.org/v3/search?term=933c7cb8-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Slovak Republi
+ c
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/99acb2b4-end3e5435
+SUMMARY:[Short content] Australia
+DESCRIPTION:*[Short content] Australia*\n\nDirectora
+ te: Directorate for Education and Skills
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/99acb2b4-en\nPublication type:
+  Short content\nReleased as: DOCX, PDF, 
+ ZJCR\n\nEmbargo date/time: Tuesday, 29 S
+ eptember 2026, 9:00 (GMT)\n\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 22:5
+ 0, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=99acb2b4-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Australia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9722bb43-end3e5701
+SUMMARY:[Short content] Luxembourg
+DESCRIPTION:*[Short content] Luxembourg*\n\nDirector
+ ate: Directorate for Education and Skill
+ s\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/9722bb43-en\nPublication type
+ : Short content\nReleased as: DOCX, PDF,
+  ZJCR\n\nEmbargo date/time: Tuesday, 29 
+ September 2026, 9:00 (GMT)\n\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 22:
+ 50, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=9722bb43-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Luxembourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cc3d1ec2-end3e6020
+SUMMARY:[Short content] Netherlands
+DESCRIPTION:*[Short content] Netherlands*\n\nDirecto
+ rate: Directorate for Education and Skil
+ ls\nLanguage: English\nDOI: https://doi.
+ org/10.1787/cc3d1ec2-en\nPublication typ
+ e: Short content\nReleased as: DOCX, PDF
+ , ZJCR\n\nEmbargo date/time: Tuesday, 29
+  September 2026, 9:00 (GMT)\n\nOECD.org 
+ export: never\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 22
+ :50, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=cc3d1ec2-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Netherlands
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8d211c39-end3e6286
+SUMMARY:[Short content] South Africa
+DESCRIPTION:*[Short content] South Africa*\n\nDirect
+ orate: Directorate for Education and Ski
+ lls\nLanguage: English\nDOI: https://doi
+ .org/10.1787/8d211c39-en\nPublication ty
+ pe: Short content\nReleased as: DOCX, PD
+ F, ZJCR\n\nEmbargo date/time: Tuesday, 2
+ 9 September 2026, 9:00 (GMT)\n\nOECD.org
+  export: never\nFTI loaded: ✓\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 2:50, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=8d211c39-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] South Africa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cba0b622-frd3e6393
 SUMMARY:[Book] Regards sur l'éducation 2026 - In
  dicateurs de l'OCDE
 DESCRIPTION:*[Book] Regards sur l'éducation 2026 - I
@@ -211,23 +928,23 @@ DESCRIPTION:*[Book] Regards sur l'éducation 2026 - I
  rectorate for Education and Skills\nLang
  uage: French\nDOI: https://doi.org/10.17
  87/cba0b622-fr\nPublication type: Book\n
- Released as: HTML, Paperback, PDF\n\nEmb
- argo date/time: Tuesday, 29 September 20
- 26, 9:00 (GMT)\n\nOECD.org export: never
- \nFTI loaded: ✗\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 22:56, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=cba0b622-fr.
-DTSTAMP:20260922T225605Z
+ Released as: HTML, Paperback, PDF, ZJCR,
+  ZXML\n\nEmbargo date/time: Tuesday, 29 
+ September 2026, 9:00 (GMT)\n\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 22:
+ 50, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=cba0b622-fr.
+DTSTAMP:20260925T225016Z
 DTSTART:20260929T090000Z
 DTEND:20260929T091500Z
 TRANSP:TRANSPARENT
@@ -241,7 +958,77 @@ DESCRIPTION:Reminder: [Book] Regards sur l'éducation
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/60f236f5-end3e2254
+UID:10.1787/72b4b19a-end3e6554
+SUMMARY:[Short content] Spain
+DESCRIPTION:*[Short content] Spain*\n\nDirectorate: 
+ Directorate for Education and Skills\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/72b4b19a-en\nPublication type: Sho
+ rt content\nReleased as: DOCX, PDF, ZJCR
+ \n\nEmbargo date/time: Tuesday, 29 Septe
+ mber 2026, 9:00 (GMT)\n\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 22:50, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=72b4b19a-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Spain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/d68169ee-frd3e6662
+SUMMARY:[Short content] France
+DESCRIPTION:*[Short content] France*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: French\nDOI: https://doi.org/10
+ .1787/d68169ee-fr\nPublication type: Sho
+ rt content\nReleased as: DOCX, PDF, ZJCR
+ \n\nEmbargo date/time: Tuesday, 29 Septe
+ mber 2026, 9:00 (GMT)\n\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 22:50, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=d68169ee-fr.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] France
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/60f236f5-end3e6821
 SUMMARY:[Stand-alone monograph] Financing Social
   Protection in Paraguay - The Role of Ge
  neral Revenues and Social Security Contr
@@ -253,23 +1040,24 @@ DESCRIPTION:*[Stand-alone monograph] Financing Socia
  x Policy and Administration\nLanguage: E
  nglish\nDOI: https://doi.org/10.1787/60f
  236f5-en\nPublication type: Stand-alone 
- monograph\nReleased as: PDF\n\nEmbargo d
- ate/time: Tuesday, 29 September 2026, 9:
- 00 (GMT)\n\nOECD.org export: never\nFTI 
- loaded: ✗\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 22:56, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=60f236f5-en.
-DTSTAMP:20260922T225605Z
+ monograph\nReleased as: HTML, Paperback,
+  PDF, ZJCR, ZXML\n\nEmbargo date/time: T
+ uesday, 29 September 2026, 9:00 (GMT)\n\
+ nOECD.org export: never\nFTI loaded: ✓\n
+ \nFor more information see: https://oecd
+ .github.io/embargo-calendar/embargoes-by
+ -publication.html.\n\nPlease note: This 
+ information was correct as of this after
+ noon at 22:50, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=60f236f5-
+ en.
+DTSTAMP:20260925T225016Z
 DTSTART:20260929T090000Z
 DTEND:20260929T091500Z
 TRANSP:TRANSPARENT
@@ -285,7 +1073,1034 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Financ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0d625fbe-end3e3211
+UID:10.1787/d5ee27fd-end3e7088
+SUMMARY:[Short content] Poland
+DESCRIPTION:*[Short content] Poland*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/d5ee27fd-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF, ZJC
+ R\n\nEmbargo date/time: Tuesday, 29 Sept
+ ember 2026, 9:00 (GMT)\n\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:50, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=d5ee27fd-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Poland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e1b14def-end3e7247
+SUMMARY:[Short content] Portugal
+DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
+ e: Directorate for Education and Skills\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/e1b14def-en\nPublication type: 
+ Short content\nReleased as: DOCX, PDF, Z
+ JCR\n\nEmbargo date/time: Tuesday, 29 Se
+ ptember 2026, 9:00 (GMT)\n\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 22:50
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=e1b14def-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Portugal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5ce8a297-end3e7461
+SUMMARY:[Short content] Finland
+DESCRIPTION:*[Short content] Finland*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/5ce8a297-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=5ce8a297-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Finland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/31b4295b-end3e7567
+SUMMARY:[Short content] Slovenia
+DESCRIPTION:*[Short content] Slovenia*\n\nDirectorat
+ e: Directorate for Education and Skills\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/31b4295b-en\nPublication type: 
+ Short content\nReleased as: DOCX, PDF, Z
+ JCR\n\nEmbargo date/time: Tuesday, 29 Se
+ ptember 2026, 9:00 (GMT)\n\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 22:50
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=31b4295b-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Slovenia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/79c3e727-end3e7833
+SUMMARY:[Short content] Denmark
+DESCRIPTION:*[Short content] Denmark*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/79c3e727-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=79c3e727-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Denmark
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f39a43ca-end3e8046
+SUMMARY:[Short content] Sweden
+DESCRIPTION:*[Short content] Sweden*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/f39a43ca-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF, ZJC
+ R\n\nEmbargo date/time: Tuesday, 29 Sept
+ ember 2026, 9:00 (GMT)\n\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:50, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=f39a43ca-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Sweden
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/6b7432bd-end3e8152
+SUMMARY:[Short content] Bulgaria
+DESCRIPTION:*[Short content] Bulgaria*\n\nDirectorat
+ e: Directorate for Education and Skills\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/6b7432bd-en\nPublication type: 
+ Short content\nReleased as: DOCX, PDF, Z
+ JCR\n\nEmbargo date/time: Tuesday, 29 Se
+ ptember 2026, 9:00 (GMT)\n\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 22:50
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=6b7432bd-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Bulgaria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/52fe9100-end3e8259
+SUMMARY:[Short content] Czechia
+DESCRIPTION:*[Short content] Czechia*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/52fe9100-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=52fe9100-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Czechia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5e4f6d39-end3e8365
+SUMMARY:[Short content] Korea
+DESCRIPTION:*[Short content] Korea*\n\nDirectorate: 
+ Directorate for Education and Skills\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/5e4f6d39-en\nPublication type: Sho
+ rt content\nReleased as: DOCX, PDF, ZJCR
+ \n\nEmbargo date/time: Tuesday, 29 Septe
+ mber 2026, 9:00 (GMT)\n\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 22:50, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=5e4f6d39-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Korea
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/38212d92-end3e8578
+SUMMARY:[Short content] Türkiye
+DESCRIPTION:*[Short content] Türkiye*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/38212d92-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=38212d92-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Türkiye
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0e5bdeec-end3e8631
+SUMMARY:[Short content] Lithuania
+DESCRIPTION:*[Short content] Lithuania*\n\nDirectora
+ te: Directorate for Education and Skills
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/0e5bdeec-en\nPublication type:
+  Short content\nReleased as: DOCX, PDF, 
+ ZJCR\n\nEmbargo date/time: Tuesday, 29 S
+ eptember 2026, 9:00 (GMT)\n\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 22:5
+ 0, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=0e5bdeec-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Lithuania
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/d149b552-end3e8684
+SUMMARY:[Short content] Brazil
+DESCRIPTION:*[Short content] Brazil*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/d149b552-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF, ZJC
+ R\n\nEmbargo date/time: Tuesday, 29 Sept
+ ember 2026, 9:00 (GMT)\n\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:50, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=d149b552-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Brazil
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/3d2922bb-esd3e9109
+SUMMARY:[Short content] España
+DESCRIPTION:*[Short content] España*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: Spanish\nDOI: https://doi.org/1
+ 0.1787/3d2922bb-es\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF, ZJC
+ R\n\nEmbargo date/time: Tuesday, 29 Sept
+ ember 2026, 9:00 (GMT)\n\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:50, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=3d2922bb-es.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] España
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c0f0229d-end3e9216
+SUMMARY:[Short content] Romania
+DESCRIPTION:*[Short content] Romania*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/c0f0229d-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=c0f0229d-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Romania
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/885b68e5-itd3e10013
+SUMMARY:[Short content] Italia
+DESCRIPTION:*[Short content] Italia*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: Italian\nDOI: https://doi.org/1
+ 0.1787/885b68e5-it\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF, ZJC
+ R\n\nEmbargo date/time: Tuesday, 29 Sept
+ ember 2026, 9:00 (GMT)\n\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:50, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=885b68e5-it.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Italia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ffe30439-end3e10066
+SUMMARY:[Short content] Canada
+DESCRIPTION:*[Short content] Canada*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/ffe30439-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF, ZJC
+ R\n\nEmbargo date/time: Tuesday, 29 Sept
+ ember 2026, 9:00 (GMT)\n\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:50, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=ffe30439-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Canada
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4dd544b0-end3e10226
+SUMMARY:[Short content] Hungary
+DESCRIPTION:*[Short content] Hungary*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/4dd544b0-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=4dd544b0-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Hungary
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e47c8f35-end3e10385
+SUMMARY:[Short content] Peru
+DESCRIPTION:*[Short content] Peru*\n\nDirectorate: D
+ irectorate for Education and Skills\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/e47c8f35-en\nPublication type: Shor
+ t content\nReleased as: DOCX, PDF, ZJCR\
+ n\nEmbargo date/time: Tuesday, 29 Septem
+ ber 2026, 9:00 (GMT)\n\nOECD.org export:
+  never\nFTI loaded: ✓\n\nFor more inform
+ ation see: https://oecd.github.io/embarg
+ o-calendar/embargoes-by-publication.html
+ .\n\nPlease note: This information was c
+ orrect as of this afternoon at 22:50, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=e47c8f35-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Peru
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2497b8f7-end3e10704
+SUMMARY:[Short content] New Zealand
+DESCRIPTION:*[Short content] New Zealand*\n\nDirecto
+ rate: Directorate for Education and Skil
+ ls\nLanguage: English\nDOI: https://doi.
+ org/10.1787/2497b8f7-en\nPublication typ
+ e: Short content\nReleased as: DOCX, PDF
+ , ZJCR\n\nEmbargo date/time: Tuesday, 29
+  September 2026, 9:00 (GMT)\n\nOECD.org 
+ export: never\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 22
+ :50, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=2497b8f7-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] New Zealand
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5785904a-end3e10917
+SUMMARY:[Short content] Belgium
+DESCRIPTION:*[Short content] Belgium*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/5785904a-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=5785904a-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Belgium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/108468b4-end3e11131
+SUMMARY:[Short content] Chile
+DESCRIPTION:*[Short content] Chile*\n\nDirectorate: 
+ Directorate for Education and Skills\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/108468b4-en\nPublication type: Sho
+ rt content\nReleased as: DOCX, PDF, ZJCR
+ \n\nEmbargo date/time: Tuesday, 29 Septe
+ mber 2026, 9:00 (GMT)\n\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 22:50, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=108468b4-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Chile
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8fbfbf58-nod3e11290
+SUMMARY:[Short content] Noreg
+DESCRIPTION:*[Short content] Noreg*\n\nDirectorate: 
+ Directorate for Education and Skills\nLa
+ nguage: Norwegian\nDOI: https://doi.org/
+ 10.1787/8fbfbf58-no\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=8fbfbf58-no.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Noreg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/05e5fc1c-end3e11450
+SUMMARY:[Short content] Croatia
+DESCRIPTION:*[Short content] Croatia*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/05e5fc1c-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=05e5fc1c-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Croatia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/798cffe9-end3e11609
+SUMMARY:[Short content] Switzerland
+DESCRIPTION:*[Short content] Switzerland*\n\nDirecto
+ rate: Directorate for Education and Skil
+ ls\nLanguage: English\nDOI: https://doi.
+ org/10.1787/798cffe9-en\nPublication typ
+ e: Short content\nReleased as: DOCX, PDF
+ , ZJCR\n\nEmbargo date/time: Tuesday, 29
+  September 2026, 9:00 (GMT)\n\nOECD.org 
+ export: never\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 22
+ :50, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=798cffe9-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Switzerland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1c115451-end3e12301
+SUMMARY:[Short content] Estonia
+DESCRIPTION:*[Short content] Estonia*\n\nDirectorate
+ : Directorate for Education and Skills\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/1c115451-en\nPublication type: S
+ hort content\nReleased as: DOCX, PDF, ZJ
+ CR\n\nEmbargo date/time: Tuesday, 29 Sep
+ tember 2026, 9:00 (GMT)\n\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 22:50,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=1c115451-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Estonia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/eb64d3c3-end3e12514
+SUMMARY:[Short content] Greece
+DESCRIPTION:*[Short content] Greece*\n\nDirectorate:
+  Directorate for Education and Skills\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/eb64d3c3-en\nPublication type: Sh
+ ort content\nReleased as: DOCX, PDF, ZJC
+ R\n\nEmbargo date/time: Tuesday, 29 Sept
+ ember 2026, 9:00 (GMT)\n\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:50, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=eb64d3c3-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Greece
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/640bd9b5-ptd3e12780
+SUMMARY:[Short content] Portugal
+DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
+ e: Directorate for Education and Skills\
+ nLanguage: Portuguese\nDOI: https://doi.
+ org/10.1787/640bd9b5-pt\nPublication typ
+ e: Short content\nReleased as: DOCX, PDF
+ , ZJCR\n\nEmbargo date/time: Tuesday, 29
+  September 2026, 9:00 (GMT)\n\nOECD.org 
+ export: never\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 22
+ :50, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=640bd9b5-pt.
+DTSTAMP:20260925T225016Z
+DTSTART:20260929T090000Z
+DTEND:20260929T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Portugal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/701f4390-end3e13152
+SUMMARY:[Short content] Mobilising private capit
+ al for Bogotá’s inclusive PPP bikeshare 
+ system
+DESCRIPTION:*[Short content] Mobilising private capi
+ tal for Bogotá’s inclusive PPP bikeshare
+  system*\n\nDirectorate: Development Co-
+ operation Directorate\nLanguage: English
+ \nDOI: https://doi.org/10.1787/701f4390-
+ en\nPublication type: Short content\nRel
+ eased as: DOCX, PDF, ZJCR\n\nEmbargo dat
+ e/time: Wednesday, 30 September 2026, 7:
+ 00 (GMT)\n\nOECD.org export: never\nFTI 
+ loaded: ✓\n\nFor more information see: h
+ ttps://oecd.github.io/embargo-calendar/e
+ mbargoes-by-publication.html.\n\nPlease 
+ note: This information was correct as of
+  this afternoon at 22:50, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=701f4390-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260930T070000Z
+DTEND:20260930T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Mobilising pri
+ vate capital for Bogotá’s inclusive PPP 
+ bikeshare system
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5ea795c1-end3e13365
+SUMMARY:[Short content] Establishing Sub-Saharan
+  Africa’s first green-certified REIT for
+  housing in Kenya
+DESCRIPTION:*[Short content] Establishing Sub-Sahara
+ n Africa’s first green-certified REIT fo
+ r housing in Kenya*\n\nDirectorate: Deve
+ lopment Co-operation Directorate\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/5ea795c1-en\nPublication type: Short c
+ ontent\nReleased as: DOCX, PDF, ZJCR\n\n
+ Embargo date/time: Wednesday, 30 Septemb
+ er 2026, 7:00 (GMT)\n\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 22:50, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=5ea795c1-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20260930T070000Z
+DTEND:20260930T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Establishing S
+ ub-Saharan Africa’s first green-certifie
+ d REIT for housing in Kenya
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0d625fbe-end3e13418
 SUMMARY:[Stand-alone monograph] Economic Converg
  ence Scoreboard for the Western Balkans 
  2026
@@ -298,11 +2113,11 @@ DESCRIPTION:*[Stand-alone monograph] Economic Conver
  monograph\nReleased as: PDF\n\nEmbargo d
  ate/time: Wednesday, 30 September 2026, 
  7:00 (GMT)\n\nOECD.org export: never\nFT
- I loaded: ✗\n\nFor more information see:
+ I loaded: ✓\n\nFor more information see:
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 22:56, it is update
+ of this afternoon at 22:50, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -311,7 +2126,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Conver
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=0d625fbe-en.
-DTSTAMP:20260922T225605Z
+DTSTAMP:20260925T225016Z
 DTSTART:20260930T070000Z
 DTEND:20260930T071500Z
 TRANSP:TRANSPARENT
@@ -326,7 +2141,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Econom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/db32e18b-end3e3263
+UID:10.1787/db32e18b-end3e13524
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Full Version)
 DESCRIPTION:*[Book] Model Tax Convention on Income a
@@ -337,11 +2152,11 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  ation type: Book\nReleased as: PDF\n\nEm
  bargo date/time: Wednesday, 30 September
   2026, 9:00 (GMT)\n\nOECD.org export: ne
- ver\nFTI loaded: ✗\n\nFor more informati
+ ver\nFTI loaded: ✓\n\nFor more informati
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 22:56, it is
+ ect as of this afternoon at 22:50, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -350,7 +2165,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=db32e18b-en.
-DTSTAMP:20260922T225605Z
+DTSTAMP:20260925T225016Z
 DTSTART:20260930T090000Z
 DTEND:20260930T091500Z
 TRANSP:TRANSPARENT
@@ -365,7 +2180,7 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3ff6655c-end3e3315
+UID:10.1787/3ff6655c-end3e13684
 SUMMARY:[Stand-alone monograph] Advancing the Im
  plementation of the EU Carbon Border Adj
  ustment Mechanism - Lessons from Romania
@@ -376,23 +2191,23 @@ DESCRIPTION:*[Stand-alone monograph] Advancing the I
   and Administration\nLanguage: English\n
  DOI: https://doi.org/10.1787/3ff6655c-en
  \nPublication type: Stand-alone monograp
- h\nReleased as: PDF\n\nEmbargo date/time
- : Wednesday, 30 September 2026, 9:00 (GM
- T)\n\nOECD.org export: never\nFTI loaded
- : ✗\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 22:56, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=3ff6
- 655c-en.
-DTSTAMP:20260922T225605Z
+ h\nReleased as: HTML, Paperback, PDF, ZJ
+ CR, ZXML\n\nEmbargo date/time: Wednesday
+ , 30 September 2026, 9:00 (GMT)\n\nOECD.
+ org export: never\nFTI loaded: ✓\n\nFor 
+ more information see: https://oecd.githu
+ b.io/embargo-calendar/embargoes-by-publi
+ cation.html.\n\nPlease note: This inform
+ ation was correct as of this afternoon a
+ t 22:50, it is updated each night; there
+ fore any subsequent updates may not yet 
+ be visible here. Also, please be aware t
+ hat the different released media (PDF, H
+ TML, etc.) are not necessarily released 
+ at the same time. For complete and up-to
+ -date information see here: http://kappa
+ .oecd.org/v3/search?term=3ff6655c-en.
+DTSTAMP:20260925T225016Z
 DTSTART:20260930T090000Z
 DTEND:20260930T091500Z
 TRANSP:TRANSPARENT
@@ -408,7 +2223,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Advanc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1d6fb668-end3e4111
+UID:10.1787/1d6fb668-end3e15121
 SUMMARY:[Stand-alone monograph] Spending Better 
  for Children through Social Policy
 DESCRIPTION:*[Stand-alone monograph] Spending Better
@@ -424,7 +2239,7 @@ DESCRIPTION:*[Stand-alone monograph] Spending Better
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 22:56, it
+ orrect as of this afternoon at 22:50, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -433,7 +2248,7 @@ DESCRIPTION:*[Stand-alone monograph] Spending Better
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=1d6fb668-en.
-DTSTAMP:20260922T225605Z
+DTSTAMP:20260925T225016Z
 DTSTART:20261005T073000Z
 DTEND:20261005T074500Z
 TRANSP:TRANSPARENT
@@ -448,7 +2263,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Spendi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4fcb4f91-end3e4215
+UID:10.1787/4fcb4f91-end3e15225
 SUMMARY:[Report] Determining the Price of Minera
  ls - A transfer pricing framework for co
  pper
@@ -465,7 +2280,7 @@ DESCRIPTION:*[Report] Determining the Price of Miner
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 22:5
- 6, it is updated each night; therefore a
+ 0, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -473,7 +2288,7 @@ DESCRIPTION:*[Report] Determining the Price of Miner
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=4fcb4f91-en.
-DTSTAMP:20260922T225605Z
+DTSTAMP:20260925T225016Z
 DTSTART:20261005T090000Z
 DTEND:20261005T091500Z
 TRANSP:TRANSPARENT
@@ -488,45 +2303,7 @@ DESCRIPTION:Reminder: [Report] Determining the Price
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7e843e1d-end3e4687
-SUMMARY:[Report] Enhancing corporate tax systems
-  to support business dynamism
-DESCRIPTION:*[Report] Enhancing corporate tax system
- s to support business dynamism*\n\nDirec
- torate: Centre for Tax Policy and Admini
- stration\nLanguage: English\nDOI: https:
- //doi.org/10.1787/7e843e1d-en\nPublicati
- on type: Report\nReleased as: PDF\n\nEmb
- argo date/time: Friday, 9 October 2026, 
- 12:00 (GMT)\n\nOECD.org export: never\nF
- TI loaded: ✗\n\nFor more information see
- : https://oecd.github.io/embargo-calenda
- r/embargoes-by-publication.html.\n\nPlea
- se note: This information was correct as
-  of this afternoon at 22:56, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=7e843e1d-en.
-DTSTAMP:20260922T225605Z
-DTSTART:20261009T120000Z
-DTEND:20261009T121500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Report] Enhancing corporate t
- ax systems to support business dynamism
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/b58b7451-end3e4740
+UID:10.1787/b58b7451-end3e15594
 SUMMARY:[Stand-alone monograph] Economic Valuati
  on of Chemicals-Related Health Effects -
   A Practical Guide to Quantifying Morbid
@@ -547,7 +2324,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Valuat
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  22:56, it is updated each night; theref
+  22:50, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -555,7 +2332,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Valuat
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=b58b7451-en.
-DTSTAMP:20260922T225605Z
+DTSTAMP:20260925T225016Z
 DTSTART:20261012T070000Z
 DTEND:20261012T071500Z
 TRANSP:TRANSPARENT
@@ -572,7 +2349,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Econom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fc44d951-end3e4793
+UID:10.1787/fc44d951-end3e15647
 SUMMARY:[Book] Model Tax Convention on Income an
  d on Capital 2025 (Condensed Version)
 DESCRIPTION:*[Book] Model Tax Convention on Income a
@@ -587,7 +2364,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 22:56, it
+ orrect as of this afternoon at 22:50, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -596,7 +2373,7 @@ DESCRIPTION:*[Book] Model Tax Convention on Income a
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=fc44d951-en.
-DTSTAMP:20260922T225605Z
+DTSTAMP:20260925T225016Z
 DTSTART:20261014T090000Z
 DTEND:20261014T091500Z
 TRANSP:TRANSPARENT
@@ -611,7 +2388,89 @@ DESCRIPTION:Reminder: [Book] Model Tax Convention on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/257230ec-end3e5001
+UID:10.1787/7e843e1d-end3e15751
+SUMMARY:[Report] Enhancing corporate tax systems
+  to support business dynamism
+DESCRIPTION:*[Report] Enhancing corporate tax system
+ s to support business dynamism*\n\nDirec
+ torate: Centre for Tax Policy and Admini
+ stration\nLanguage: English\nDOI: https:
+ //doi.org/10.1787/7e843e1d-en\nPublicati
+ on type: Report\nReleased as: PDF\n\nEmb
+ argo date/time: Thursday, 15 October 202
+ 6, 12:00 (GMT)\n\nOECD.org export: never
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 22:50, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=7e843e1d-en.
+DTSTAMP:20260925T225016Z
+DTSTART:20261015T120000Z
+DTEND:20261015T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] Enhancing corporate t
+ ax systems to support business dynamism
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8af2444d-end3e15855
+SUMMARY:[Report] OECD Secretary-General Tax Repo
+ rt to G20 Finance Ministers and Central 
+ Bank Governors (G20 United States, Septe
+ mber 2026)
+DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
+ ort to G20 Finance Ministers and Central
+  Bank Governors (G20 United States, Sept
+ ember 2026)*\n\nDirectorate: Centre for 
+ Tax Policy and Administration\nLanguage:
+  English\nDOI: https://doi.org/10.1787/8
+ af2444d-en\nPublication type: Report\nRe
+ leased as: PDF\n\nEmbargo date/time: Thu
+ rsday, 15 October 2026, 12:00 (GMT)\n\nO
+ ECD.org export: never\nFTI loaded: ✗\n\n
+ For more information see: https://oecd.g
+ ithub.io/embargo-calendar/embargoes-by-p
+ ublication.html.\n\nPlease note: This in
+ formation was correct as of this afterno
+ on at 22:50, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=8af2444d-en
+ .
+DTSTAMP:20260925T225016Z
+DTSTART:20261015T120000Z
+DTEND:20261015T121500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] OECD Secretary-Genera
+ l Tax Report to G20 Finance Ministers an
+ d Central Bank Governors (G20 United Sta
+ tes, September 2026)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/257230ec-end3e15960
 SUMMARY:[Stand-alone monograph] Policies for Dev
  eloping Advanced STEM Skills in Higher E
  ducation
@@ -628,7 +2487,7 @@ DESCRIPTION:*[Stand-alone monograph] Policies for De
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 22:56, it is updated each ni
+ fternoon at 22:50, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -637,7 +2496,7 @@ DESCRIPTION:*[Stand-alone monograph] Policies for De
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=25723
  0ec-en.
-DTSTAMP:20260922T225605Z
+DTSTAMP:20260925T225016Z
 DTSTART:20261023T070000Z
 DTEND:20261023T071500Z
 TRANSP:TRANSPARENT
