@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 25 September 2026 at 22:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 27 September 2026 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Iceland](https://doi.org/10.1787/c3a5c616-en)
 
