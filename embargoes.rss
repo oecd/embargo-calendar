@@ -8,13 +8,13 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sun, 27 Sep 2026 22:53:01 GMT</pubDate>
+      <pubDate>Mon, 28 Sep 2026 22:57:27 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
       <item>
-         <guid isPermaLink="false">10.1787/c3a5c616-en-d3e330</guid>
+         <guid isPermaLink="false">10.1787/c3a5c616-en-d3e383</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Iceland</title>
          <link>https://doi.org/10.1787/c3a5c616-en</link>
@@ -28,7 +28,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/cd794bc2-en-d3e383</guid>
+         <guid isPermaLink="false">10.1787/cd794bc2-en-d3e436</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Costa Rica</title>
          <link>https://doi.org/10.1787/cd794bc2-en</link>
@@ -42,7 +42,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/af9b24f5-en-d3e702</guid>
+         <guid isPermaLink="false">10.1787/af9b24f5-en-d3e755</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Norway</title>
          <link>https://doi.org/10.1787/af9b24f5-en</link>
@@ -56,7 +56,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/8a64c682-en-d3e861</guid>
+         <guid isPermaLink="false">10.1787/8a64c682-en-d3e915</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Japan</title>
          <link>https://doi.org/10.1787/8a64c682-en</link>
@@ -70,7 +70,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/659909ab-en-d3e1287</guid>
+         <guid isPermaLink="false">10.1787/659909ab-en-d3e1340</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Ireland</title>
          <link>https://doi.org/10.1787/659909ab-en</link>
@@ -84,7 +84,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/dcf64a14-en-d3e1446</guid>
+         <guid isPermaLink="false">10.1787/dcf64a14-en-d3e1499</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Education at a Glance 2026 Sources, Methodologies and Technical Notes</title>
          <link>https://doi.org/10.1787/dcf64a14-en</link>
@@ -93,12 +93,12 @@
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Directorate for Education and Skills</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:oecdOrgExport/>
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/555ee057-lv-d3e1498</guid>
+         <guid isPermaLink="false">10.1787/555ee057-lv-d3e1553</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Latvija</title>
          <link>https://doi.org/10.1787/555ee057-lv</link>
@@ -112,7 +112,21 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/cc3cfa5a-en-d3e2774</guid>
+         <guid isPermaLink="false">10.1787/ebf28745-de-d3e2084</guid>
+         <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
+         <title>Deutschland</title>
+         <link>https://doi.org/10.1787/ebf28745-de</link>
+         <description>Deutschland by Directorate for Education and Skills has an embargo on Tuesday 29 September 2026 at 11:00.</description>
+         <oe:embargoTime>Tue, 29 Sep 2026 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>German</oe:languages>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Short content</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/cc3cfa5a-en-d3e2882</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Thailand</title>
          <link>https://doi.org/10.1787/cc3cfa5a-en</link>
@@ -126,7 +140,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b61ec67f-en-d3e2828</guid>
+         <guid isPermaLink="false">10.1787/b61ec67f-en-d3e2935</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Israel</title>
          <link>https://doi.org/10.1787/b61ec67f-en</link>
@@ -140,7 +154,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b0c26314-en-d3e3200</guid>
+         <guid isPermaLink="false">10.1787/b0c26314-en-d3e3307</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Argentina</title>
          <link>https://doi.org/10.1787/b0c26314-en</link>
@@ -154,7 +168,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/fa1d68b0-en-d3e3253</guid>
+         <guid isPermaLink="false">10.1787/fa1d68b0-en-d3e3360</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Austria</title>
          <link>https://doi.org/10.1787/fa1d68b0-en</link>
@@ -168,7 +182,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/da0c3097-en-d3e3731</guid>
+         <guid isPermaLink="false">10.1787/da0c3097-en-d3e3839</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Italy</title>
          <link>https://doi.org/10.1787/da0c3097-en</link>
@@ -182,7 +196,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b4968bbc-en-d3e3785</guid>
+         <guid isPermaLink="false">10.1787/b4968bbc-en-d3e3892</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Education at a Glance 2026 - OECD Indicators</title>
          <link>https://doi.org/10.1787/b4968bbc-en</link>
@@ -196,7 +210,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/24cf07cf-ja-d3e3839</guid>
+         <guid isPermaLink="false">10.1787/24cf07cf-ja-d3e3946</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>日本</title>
          <link>https://doi.org/10.1787/24cf07cf-ja</link>
@@ -210,7 +224,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d412b71f-en-d3e4158</guid>
+         <guid isPermaLink="false">10.1787/d412b71f-en-d3e4265</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>United States</title>
          <link>https://doi.org/10.1787/d412b71f-en</link>
@@ -224,7 +238,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/127ea657-en-d3e4211</guid>
+         <guid isPermaLink="false">10.1787/127ea657-en-d3e4318</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>United Kingdom</title>
          <link>https://doi.org/10.1787/127ea657-en</link>
@@ -238,7 +252,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/c75b2cc7-en-d3e4317</guid>
+         <guid isPermaLink="false">10.1787/c75b2cc7-en-d3e4425</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>France</title>
          <link>https://doi.org/10.1787/c75b2cc7-en</link>
@@ -252,7 +266,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/669bc713-en-d3e4425</guid>
+         <guid isPermaLink="false">10.1787/669bc713-en-d3e4532</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Germany</title>
          <link>https://doi.org/10.1787/669bc713-en</link>
@@ -266,7 +280,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0c0d8b23-en-d3e4478</guid>
+         <guid isPermaLink="false">10.1787/0c0d8b23-en-d3e4585</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Mexico</title>
          <link>https://doi.org/10.1787/0c0d8b23-en</link>
@@ -280,7 +294,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a3d9d136-en-d3e4531</guid>
+         <guid isPermaLink="false">10.1787/a3d9d136-en-d3e4638</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Latvia</title>
          <link>https://doi.org/10.1787/a3d9d136-en</link>
@@ -294,7 +308,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/c5a82926-en-d3e5116</guid>
+         <guid isPermaLink="false">10.1787/c5a82926-en-d3e5223</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Colombia</title>
          <link>https://doi.org/10.1787/c5a82926-en</link>
@@ -308,7 +322,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/933c7cb8-en-d3e5328</guid>
+         <guid isPermaLink="false">10.1787/933c7cb8-en-d3e5436</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Slovak Republic</title>
          <link>https://doi.org/10.1787/933c7cb8-en</link>
@@ -322,7 +336,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/99acb2b4-en-d3e5435</guid>
+         <guid isPermaLink="false">10.1787/99acb2b4-en-d3e5542</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Australia</title>
          <link>https://doi.org/10.1787/99acb2b4-en</link>
@@ -336,7 +350,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9722bb43-en-d3e5701</guid>
+         <guid isPermaLink="false">10.1787/9722bb43-en-d3e5808</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Luxembourg</title>
          <link>https://doi.org/10.1787/9722bb43-en</link>
@@ -350,7 +364,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/cc3d1ec2-en-d3e6020</guid>
+         <guid isPermaLink="false">10.1787/cc3d1ec2-en-d3e6127</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Netherlands</title>
          <link>https://doi.org/10.1787/cc3d1ec2-en</link>
@@ -364,7 +378,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/8d211c39-en-d3e6286</guid>
+         <guid isPermaLink="false">10.1787/8d211c39-en-d3e6394</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>South Africa</title>
          <link>https://doi.org/10.1787/8d211c39-en</link>
@@ -378,7 +392,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/cba0b622-fr-d3e6393</guid>
+         <guid isPermaLink="false">10.1787/cba0b622-fr-d3e6500</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Regards sur l'éducation 2026 - Indicateurs de l'OCDE</title>
          <link>https://doi.org/10.1787/cba0b622-fr</link>
@@ -392,7 +406,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/72b4b19a-en-d3e6554</guid>
+         <guid isPermaLink="false">10.1787/72b4b19a-en-d3e6662</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Spain</title>
          <link>https://doi.org/10.1787/72b4b19a-en</link>
@@ -406,7 +420,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d68169ee-fr-d3e6662</guid>
+         <guid isPermaLink="false">10.1787/d68169ee-fr-d3e6769</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>France</title>
          <link>https://doi.org/10.1787/d68169ee-fr</link>
@@ -420,7 +434,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/60f236f5-en-d3e6821</guid>
+         <guid isPermaLink="false">10.1787/60f236f5-en-d3e6928</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Financing Social Protection in Paraguay - The Role of General Revenues and Social Security Contributions</title>
          <link>https://doi.org/10.1787/60f236f5-en</link>
@@ -434,7 +448,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d5ee27fd-en-d3e7088</guid>
+         <guid isPermaLink="false">10.1787/d5ee27fd-en-d3e7195</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Poland</title>
          <link>https://doi.org/10.1787/d5ee27fd-en</link>
@@ -448,7 +462,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/e1b14def-en-d3e7247</guid>
+         <guid isPermaLink="false">10.1787/e1b14def-en-d3e7355</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Portugal</title>
          <link>https://doi.org/10.1787/e1b14def-en</link>
@@ -462,7 +476,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/5ce8a297-en-d3e7461</guid>
+         <guid isPermaLink="false">10.1787/5ce8a297-en-d3e7568</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Finland</title>
          <link>https://doi.org/10.1787/5ce8a297-en</link>
@@ -476,7 +490,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/31b4295b-en-d3e7567</guid>
+         <guid isPermaLink="false">10.1787/31b4295b-en-d3e7728</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Slovenia</title>
          <link>https://doi.org/10.1787/31b4295b-en</link>
@@ -490,7 +504,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/79c3e727-en-d3e7833</guid>
+         <guid isPermaLink="false">10.1787/79c3e727-en-d3e7994</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Denmark</title>
          <link>https://doi.org/10.1787/79c3e727-en</link>
@@ -504,7 +518,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/f39a43ca-en-d3e8046</guid>
+         <guid isPermaLink="false">10.1787/f39a43ca-en-d3e8206</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Sweden</title>
          <link>https://doi.org/10.1787/f39a43ca-en</link>
@@ -518,7 +532,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/6b7432bd-en-d3e8152</guid>
+         <guid isPermaLink="false">10.1787/6b7432bd-en-d3e8313</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Bulgaria</title>
          <link>https://doi.org/10.1787/6b7432bd-en</link>
@@ -532,7 +546,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/52fe9100-en-d3e8259</guid>
+         <guid isPermaLink="false">10.1787/52fe9100-en-d3e8419</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Czechia</title>
          <link>https://doi.org/10.1787/52fe9100-en</link>
@@ -546,7 +560,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/5e4f6d39-en-d3e8365</guid>
+         <guid isPermaLink="false">10.1787/5e4f6d39-en-d3e8525</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Korea</title>
          <link>https://doi.org/10.1787/5e4f6d39-en</link>
@@ -560,7 +574,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/38212d92-en-d3e8578</guid>
+         <guid isPermaLink="false">10.1787/38212d92-en-d3e8738</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Türkiye</title>
          <link>https://doi.org/10.1787/38212d92-en</link>
@@ -574,7 +588,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0e5bdeec-en-d3e8631</guid>
+         <guid isPermaLink="false">10.1787/0e5bdeec-en-d3e8791</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Lithuania</title>
          <link>https://doi.org/10.1787/0e5bdeec-en</link>
@@ -588,7 +602,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d149b552-en-d3e8684</guid>
+         <guid isPermaLink="false">10.1787/d149b552-en-d3e8844</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Brazil</title>
          <link>https://doi.org/10.1787/d149b552-en</link>
@@ -602,7 +616,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/3d2922bb-es-d3e9109</guid>
+         <guid isPermaLink="false">10.1787/3d2922bb-es-d3e9270</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>España</title>
          <link>https://doi.org/10.1787/3d2922bb-es</link>
@@ -616,7 +630,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/c0f0229d-en-d3e9216</guid>
+         <guid isPermaLink="false">10.1787/c0f0229d-en-d3e9376</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Romania</title>
          <link>https://doi.org/10.1787/c0f0229d-en</link>
@@ -630,7 +644,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/885b68e5-it-d3e10013</guid>
+         <guid isPermaLink="false">10.1787/885b68e5-it-d3e10174</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Italia</title>
          <link>https://doi.org/10.1787/885b68e5-it</link>
@@ -644,7 +658,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/ffe30439-en-d3e10066</guid>
+         <guid isPermaLink="false">10.1787/ffe30439-en-d3e10227</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Canada</title>
          <link>https://doi.org/10.1787/ffe30439-en</link>
@@ -658,7 +672,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/4dd544b0-en-d3e10226</guid>
+         <guid isPermaLink="false">10.1787/4dd544b0-en-d3e10386</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Hungary</title>
          <link>https://doi.org/10.1787/4dd544b0-en</link>
@@ -672,7 +686,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/e47c8f35-en-d3e10385</guid>
+         <guid isPermaLink="false">10.1787/e47c8f35-en-d3e10546</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Peru</title>
          <link>https://doi.org/10.1787/e47c8f35-en</link>
@@ -686,7 +700,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/2497b8f7-en-d3e10704</guid>
+         <guid isPermaLink="false">10.1787/2497b8f7-en-d3e10865</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>New Zealand</title>
          <link>https://doi.org/10.1787/2497b8f7-en</link>
@@ -700,7 +714,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/5785904a-en-d3e10917</guid>
+         <guid isPermaLink="false">10.1787/5785904a-en-d3e11077</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Belgium</title>
          <link>https://doi.org/10.1787/5785904a-en</link>
@@ -714,7 +728,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/108468b4-en-d3e11131</guid>
+         <guid isPermaLink="false">10.1787/108468b4-en-d3e11291</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Chile</title>
          <link>https://doi.org/10.1787/108468b4-en</link>
@@ -728,7 +742,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/8fbfbf58-no-d3e11290</guid>
+         <guid isPermaLink="false">10.1787/8fbfbf58-no-d3e11451</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Noreg</title>
          <link>https://doi.org/10.1787/8fbfbf58-no</link>
@@ -742,7 +756,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/05e5fc1c-en-d3e11450</guid>
+         <guid isPermaLink="false">10.1787/05e5fc1c-en-d3e11610</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Croatia</title>
          <link>https://doi.org/10.1787/05e5fc1c-en</link>
@@ -756,7 +770,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/798cffe9-en-d3e11609</guid>
+         <guid isPermaLink="false">10.1787/798cffe9-en-d3e11770</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Switzerland</title>
          <link>https://doi.org/10.1787/798cffe9-en</link>
@@ -770,7 +784,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/1c115451-en-d3e12301</guid>
+         <guid isPermaLink="false">10.1787/1c115451-en-d3e12462</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Estonia</title>
          <link>https://doi.org/10.1787/1c115451-en</link>
@@ -784,7 +798,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/eb64d3c3-en-d3e12514</guid>
+         <guid isPermaLink="false">10.1787/eb64d3c3-en-d3e12674</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Greece</title>
          <link>https://doi.org/10.1787/eb64d3c3-en</link>
@@ -798,7 +812,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/640bd9b5-pt-d3e12780</guid>
+         <guid isPermaLink="false">10.1787/640bd9b5-pt-d3e12940</guid>
          <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
          <title>Portugal</title>
          <link>https://doi.org/10.1787/640bd9b5-pt</link>
@@ -812,7 +826,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/701f4390-en-d3e13152</guid>
+         <guid isPermaLink="false">10.1787/701f4390-en-d3e13312</guid>
          <pubDate>Wed, 30 Sep 2026 09:00:00 GMT</pubDate>
          <title>Mobilising private capital for Bogotá’s inclusive PPP bikeshare system</title>
          <link>https://doi.org/10.1787/701f4390-en</link>
@@ -826,7 +840,21 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/5ea795c1-en-d3e13365</guid>
+         <guid isPermaLink="false">10.2767/9050347-d3e13419</guid>
+         <pubDate>Wed, 30 Sep 2026 09:00:00 GMT</pubDate>
+         <title>The EU automotive industry at a crossroads - The implications of structural transformation for employment and skills</title>
+         <link>https://doi.org/10.2767/9050347</link>
+         <description>The EU automotive industry at a crossroads - The implications of structural transformation for employment and skills by Directorate for Employment, Labour and Social Affairs has an embargo on Wednesday 30 September 2026 at 9:00.</description>
+         <oe:embargoTime>Wed, 30 Sep 2026 09:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Policy paper</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/5ea795c1-en-d3e13579</guid>
          <pubDate>Wed, 30 Sep 2026 09:00:00 GMT</pubDate>
          <title>Establishing Sub-Saharan Africa’s first green-certified REIT for housing in Kenya</title>
          <link>https://doi.org/10.1787/5ea795c1-en</link>
@@ -840,7 +868,7 @@
          <oe:catalogueType>Short content</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0d625fbe-en-d3e13418</guid>
+         <guid isPermaLink="false">10.1787/0d625fbe-en-d3e13632</guid>
          <pubDate>Wed, 30 Sep 2026 09:00:00 GMT</pubDate>
          <title>Economic Convergence Scoreboard for the Western Balkans 2026</title>
          <link>https://doi.org/10.1787/0d625fbe-en</link>
@@ -854,7 +882,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/db32e18b-en-d3e13524</guid>
+         <guid isPermaLink="false">10.1787/db32e18b-en-d3e13739</guid>
          <pubDate>Wed, 30 Sep 2026 11:00:00 GMT</pubDate>
          <title>Model Tax Convention on Income and on Capital 2025 (Full Version)</title>
          <link>https://doi.org/10.1787/db32e18b-en</link>
@@ -868,7 +896,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/3ff6655c-en-d3e13684</guid>
+         <guid isPermaLink="false">10.1787/3ff6655c-en-d3e13898</guid>
          <pubDate>Wed, 30 Sep 2026 11:00:00 GMT</pubDate>
          <title>Advancing the Implementation of the EU Carbon Border Adjustment Mechanism - Lessons from Romania</title>
          <link>https://doi.org/10.1787/3ff6655c-en</link>
@@ -882,7 +910,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/1d6fb668-en-d3e15121</guid>
+         <guid isPermaLink="false">10.1787/1d6fb668-en-d3e15389</guid>
          <pubDate>Mon, 05 Oct 2026 09:30:00 GMT</pubDate>
          <title>Spending Better for Children through Social Policy</title>
          <link>https://doi.org/10.1787/1d6fb668-en</link>
@@ -896,7 +924,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/4fcb4f91-en-d3e15225</guid>
+         <guid isPermaLink="false">10.1787/4fcb4f91-en-d3e15493</guid>
          <pubDate>Mon, 05 Oct 2026 11:00:00 GMT</pubDate>
          <title>Determining the Price of Minerals - A transfer pricing framework for copper</title>
          <link>https://doi.org/10.1787/4fcb4f91-en</link>
@@ -910,7 +938,21 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b58b7451-en-d3e15594</guid>
+         <guid isPermaLink="false">10.1787/b5dea5f5-en-d3e15756</guid>
+         <pubDate>Tue, 06 Oct 2026 09:30:00 GMT</pubDate>
+         <title>Better Borders for Trade, Traceability and Enforcement</title>
+         <link>https://doi.org/10.1787/b5dea5f5-en</link>
+         <description>Better Borders for Trade, Traceability and Enforcement by Trade and Agriculture Directorate has an embargo on Tuesday 6 October 2026 at 9:30.</description>
+         <oe:embargoTime>Tue, 06 Oct 2026 09:30:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/b58b7451-en-d3e16072</guid>
          <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
          <title>Economic Valuation of Chemicals-Related Health Effects - A Practical Guide to Quantifying Morbidity Effects in Environmental Cost-Benefit Analysis</title>
          <link>https://doi.org/10.1787/b58b7451-en</link>
@@ -924,7 +966,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/fc44d951-en-d3e15647</guid>
+         <guid isPermaLink="false">10.1787/fc44d951-en-d3e16125</guid>
          <pubDate>Wed, 14 Oct 2026 11:00:00 GMT</pubDate>
          <title>Model Tax Convention on Income and on Capital 2025 (Condensed Version)</title>
          <link>https://doi.org/10.1787/fc44d951-en</link>
@@ -938,7 +980,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/7e843e1d-en-d3e15751</guid>
+         <guid isPermaLink="false">10.1787/7e843e1d-en-d3e16230</guid>
          <pubDate>Thu, 15 Oct 2026 14:00:00 GMT</pubDate>
          <title>Enhancing corporate tax systems to support business dynamism</title>
          <link>https://doi.org/10.1787/7e843e1d-en</link>
@@ -952,7 +994,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/8af2444d-en-d3e15855</guid>
+         <guid isPermaLink="false">10.1787/8af2444d-en-d3e16334</guid>
          <pubDate>Thu, 15 Oct 2026 14:00:00 GMT</pubDate>
          <title>OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, September 2026)</title>
          <link>https://doi.org/10.1787/8af2444d-en</link>
@@ -966,7 +1008,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/257230ec-en-d3e15960</guid>
+         <guid isPermaLink="false">10.1787/257230ec-en-d3e16438</guid>
          <pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
          <title>Policies for Developing Advanced STEM Skills in Higher Education</title>
          <link>https://doi.org/10.1787/257230ec-en</link>

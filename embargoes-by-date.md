@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 27 September 2026 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 28 September 2026 at 22:57* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [29 September 2026](#29-september-2026)
 * [30 September 2026](#30-september-2026)
 * [5 October 2026](#5-october-2026)
+* [6 October 2026](#6-october-2026)
 * [12 October 2026](#12-october-2026)
 * [14 October 2026](#14-october-2026)
 * [15 October 2026](#15-october-2026)
@@ -129,14 +130,14 @@ Tuesday 29 September 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -157,6 +158,27 @@ Tuesday 29 September 2026 at 9:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *Latvian*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Deutschland](https://doi.org/10.1787/ebf28745-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 September 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -1238,6 +1260,27 @@ Wednesday 30 September 2026 at 7:00 | no launch event
 
 ------
 
+## [The EU automotive industry at a crossroads - The implications of structural transformation for employment and skills](https://doi.org/10.2767/9050347)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 September 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Establishing Sub-Saharan Africa’s first green-certified REIT for housing in Kenya](https://doi.org/10.1787/5ea795c1-en)
 
 Embargo date | Launch date
@@ -1365,6 +1408,31 @@ Monday 5 October 2026 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
+
+------
+
+------
+
+# 6 October 2026
+
+## [Better Borders for Trade, Traceability and Enforcement](https://doi.org/10.1787/b5dea5f5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 October 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
