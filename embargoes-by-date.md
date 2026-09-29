@@ -2,12 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 28 September 2026 at 22:57* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 29 September 2026 at 22:55* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [29 September 2026](#29-september-2026)
 * [30 September 2026](#30-september-2026)
 * [5 October 2026](#5-october-2026)
 * [6 October 2026](#6-october-2026)
+* [8 October 2026](#8-october-2026)
 * [12 October 2026](#12-october-2026)
 * [14 October 2026](#14-october-2026)
 * [15 October 2026](#15-october-2026)
@@ -1390,27 +1391,6 @@ Monday 5 October 2026 at 7:30 | no launch event
 
 ------
 
-## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 October 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ------
 
 # 6 October 2026
@@ -1423,16 +1403,41 @@ Tuesday 6 October 2026 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 8 October 2026
+
+## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia](https://doi.org/10.1787/58c3689d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 October 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -1457,6 +1462,27 @@ Monday 12 October 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 October 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
