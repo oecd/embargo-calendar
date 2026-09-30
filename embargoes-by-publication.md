@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 29 September 2026 at 22:55* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 30 September 2026 at 22:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Iceland](https://doi.org/10.1787/c3a5c616-en)
 
@@ -1356,16 +1356,37 @@ Monday 5 October 2026 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Mieux investir dans les enfants grâce aux politiques sociales (version abrégée)](https://doi.org/10.1787/734f77b2-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 October 2026 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
