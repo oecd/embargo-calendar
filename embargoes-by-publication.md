@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 October 2026 at 13:17* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 2 October 2026 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [An overview of global biodiversity finance](https://doi.org/10.1787/f3379e8d-en)
 
