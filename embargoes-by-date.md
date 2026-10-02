@@ -2,147 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 1 October 2026 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 2 October 2026 at 13:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 September 2026](#30-september-2026)
 * [1 October 2026](#1-october-2026)
 * [5 October 2026](#5-october-2026)
 * [6 October 2026](#6-october-2026)
 * [8 October 2026](#8-october-2026)
 * [12 October 2026](#12-october-2026)
-* [14 October 2026](#14-october-2026)
 * [15 October 2026](#15-october-2026)
 * [23 October 2026](#23-october-2026)
-
-------
-
-# 30 September 2026
-
-## [Mobilising private capital for Bogotá’s inclusive PPP bikeshare system](https://doi.org/10.1787/701f4390-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 September 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [The EU automotive industry at a crossroads - The implications of structural transformation for employment and skills](https://doi.org/10.2767/9050347)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 September 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Establishing Sub-Saharan Africa’s first green-certified REIT for housing in Kenya](https://doi.org/10.1787/5ea795c1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 September 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Economic Convergence Scoreboard for the Western Balkans 2026](https://doi.org/10.1787/0d625fbe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 September 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Model Tax Convention on Income and on Capital 2025 (Full Version)](https://doi.org/10.1787/db32e18b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Advancing the Implementation of the EU Carbon Border Adjustment Mechanism - Lessons from Romania](https://doi.org/10.1787/3ff6655c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 September 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -307,31 +175,6 @@ Monday 12 October 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
-# 14 October 2026
-
-## [Model Tax Convention on Income and on Capital 2025 (Condensed Version)](https://doi.org/10.1787/fc44d951-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 October 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
 * Format: *PDF*
 
 ------
