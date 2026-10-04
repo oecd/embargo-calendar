@@ -2,28 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 October 2026 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
-
-## [An overview of global biodiversity finance](https://doi.org/10.1787/f3379e8d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 1 October 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
+| *Sunday 4 October 2026 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Spending Better for Children through Social Policy](https://doi.org/10.1787/1d6fb668-en)
 

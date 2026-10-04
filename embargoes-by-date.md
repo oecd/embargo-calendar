@@ -2,40 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 October 2026 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 4 October 2026 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [1 October 2026](#1-october-2026)
 * [5 October 2026](#5-october-2026)
 * [6 October 2026](#6-october-2026)
 * [8 October 2026](#8-october-2026)
 * [12 October 2026](#12-october-2026)
 * [15 October 2026](#15-october-2026)
 * [23 October 2026](#23-october-2026)
-
-------
-
-# 1 October 2026
-
-## [An overview of global biodiversity finance](https://doi.org/10.1787/f3379e8d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 1 October 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
