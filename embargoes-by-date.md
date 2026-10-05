@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 4 October 2026 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 5 October 2026 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 October 2026](#5-october-2026)
 * [6 October 2026](#6-october-2026)
@@ -10,6 +10,8 @@ Data generated on | |
 * [12 October 2026](#12-october-2026)
 * [15 October 2026](#15-october-2026)
 * [23 October 2026](#23-october-2026)
+* [25 October 2026](#25-october-2026)
+* [5 November 2026](#5-november-2026)
 
 ------
 
@@ -101,7 +103,7 @@ Thursday 8 October 2026 at 7:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -221,5 +223,97 @@ Friday 23 October 2026 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+------
+
+# 25 October 2026
+
+## [The Value of School Principals in TALIS 2024](https://doi.org/10.1787/a2cdb777-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 25 October 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 5 November 2026
+
+## [Advances in nowcasting the growth rate of the ICT sector](https://doi.org/10.1787/e7d36875-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 November 2026 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Digital Economy and Society Outlook 2026](https://doi.org/10.1787/022ed474-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 November 2026 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [The Ocean Economy at a Glance](https://doi.org/10.1787/da6da926-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
