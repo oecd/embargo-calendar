@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 October 2026 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 6 October 2026 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Spending Better for Children through Social Policy](https://doi.org/10.1787/1d6fb668-en)
 
