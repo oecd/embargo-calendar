@@ -2,49 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 6 October 2026 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Spending Better for Children through Social Policy](https://doi.org/10.1787/1d6fb668-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 October 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Mieux investir dans les enfants grâce aux politiques sociales (version abrégée)](https://doi.org/10.1787/734f77b2-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 October 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 7 October 2026 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Better Borders for Trade, Traceability and Enforcement](https://doi.org/10.1787/b5dea5f5-en)
 
@@ -109,6 +67,27 @@ Monday 12 October 2026 at 7:00 | no launch event
 
 ------
 
+## [Tour d’horizon du financement mondial de la protection de la biodiversité](https://doi.org/10.1787/7f1304e1-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 October 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
 
 Embargo date | Launch date
@@ -130,6 +109,27 @@ Monday 12 October 2026 at 9:00 | no launch event
 
 ------
 
+## [Renforcer les systèmes d’impôt sur les sociétés pour soutenir la dynamique des entreprises](https://doi.org/10.1787/a7b4d558-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 October 2026 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Enhancing corporate tax systems to support business dynamism](https://doi.org/10.1787/7e843e1d-en)
 
 Embargo date | Launch date
@@ -138,20 +138,20 @@ Thursday 15 October 2026 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
 ------
 
-## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, September 2026)](https://doi.org/10.1787/8af2444d-en)
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, October 2026)](https://doi.org/10.1787/8af2444d-en)
 
 Embargo date | Launch date
 -------------|:------------:
