@@ -2,28 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 7 October 2026 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Better Borders for Trade, Traceability and Enforcement](https://doi.org/10.1787/b5dea5f5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 October 2026 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Thursday 8 October 2026 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia](https://doi.org/10.1787/58c3689d-en)
 
@@ -67,27 +46,6 @@ Monday 12 October 2026 at 7:00 | no launch event
 
 ------
 
-## [Tour d’horizon du financement mondial de la protection de la biodiversité](https://doi.org/10.1787/7f1304e1-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 October 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
 ## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
 
 Embargo date | Launch date
@@ -105,6 +63,27 @@ Monday 12 October 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Tour d’horizon du financement mondial de la protection de la biodiversité](https://doi.org/10.1787/7f1304e1-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 October 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------

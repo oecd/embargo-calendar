@@ -2,47 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/b5dea5f5-end3e594
-SUMMARY:[Stand-alone monograph] Better Borders f
- or Trade, Traceability and Enforcement
-DESCRIPTION:*[Stand-alone monograph] Better Borders 
- for Trade, Traceability and Enforcement*
- \n\nDirectorate: Trade and Agriculture D
- irectorate\nLanguage: English\nDOI: http
- s://doi.org/10.1787/b5dea5f5-en\nPublica
- tion type: Stand-alone monograph\nReleas
- ed as: HTML, Paperback, PDF, ZJCR, ZXML\
- n\nEmbargo date/time: Tuesday, 6 October
-  2026, 7:30 (GMT)\n\nOECD.org export: ne
- ver\nFTI loaded: ✓\n\nFor more informati
- on see: https://oecd.github.io/embargo-c
- alendar/embargoes-by-publication.html.\n
- \nPlease note: This information was corr
- ect as of this afternoon at 22:52, it is
-  updated each night; therefore any subse
- quent updates may not yet be visible her
- e. Also, please be aware that the differ
- ent released media (PDF, HTML, etc.) are
-  not necessarily released at the same ti
- me. For complete and up-to-date informat
- ion see here: http://kappa.oecd.org/v3/s
- earch?term=b5dea5f5-en.
-DTSTAMP:20261007T225230Z
-DTSTART:20261006T073000Z
-DTEND:20261006T074500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Better
-  Borders for Trade, Traceability and Enf
- orcement
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/58c3689d-end3e807
+UID:10.1787/58c3689d-end3e63
 SUMMARY:[Book] SME Policy Index for Western Balk
  ans and Türkiye 2026 – Economy Profile f
  or Serbia
@@ -59,7 +19,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 22:52, it is updated each night; th
+ n at 22:53, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -67,7 +27,7 @@ DESCRIPTION:*[Book] SME Policy Index for Western Bal
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=58c3689d-en.
-DTSTAMP:20261007T225230Z
+DTSTAMP:20261008T225339Z
 DTSTART:20261008T070000Z
 DTEND:20261008T071500Z
 TRANSP:TRANSPARENT
@@ -82,7 +42,7 @@ DESCRIPTION:Reminder: [Book] SME Policy Index for We
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b58b7451-end3e1018
+UID:10.1787/b58b7451-end3e169
 SUMMARY:[Stand-alone monograph] Economic Valuati
  on of Chemicals-Related Health Effects -
   A Practical Guide to Quantifying Morbid
@@ -103,7 +63,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Valuat
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  22:52, it is updated each night; theref
+  22:53, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -111,7 +71,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Valuat
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=b58b7451-en.
-DTSTAMP:20261007T225230Z
+DTSTAMP:20261008T225339Z
 DTSTART:20261012T070000Z
 DTEND:20261012T071500Z
 TRANSP:TRANSPARENT
@@ -128,47 +88,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Econom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7f1304e1-frd3e1071
-SUMMARY:[Policy paper] Tour d’horizon du finance
- ment mondial de la protection de la biod
- iversité
-DESCRIPTION:*[Policy paper] Tour d’horizon du financ
- ement mondial de la protection de la bio
- diversité*\n\nDirectorate: Environment D
- irectorate\nLanguage: French\nDOI: https
- ://doi.org/10.1787/7f1304e1-fr\nPublicat
- ion type: Policy paper\nReleased as: PDF
- \n\nEmbargo date/time: Monday, 12 Octobe
- r 2026, 8:00 (GMT)\n\nOECD.org export: n
- ever\nFTI loaded: ✓\n\nFor more informat
- ion see: https://oecd.github.io/embargo-
- calendar/embargoes-by-publication.html.\
- n\nPlease note: This information was cor
- rect as of this afternoon at 22:52, it i
- s updated each night; therefore any subs
- equent updates may not yet be visible he
- re. Also, please be aware that the diffe
- rent released media (PDF, HTML, etc.) ar
- e not necessarily released at the same t
- ime. For complete and up-to-date informa
- tion see here: http://kappa.oecd.org/v3/
- search?term=7f1304e1-fr.
-DTSTAMP:20261007T225230Z
-DTSTART:20261012T080000Z
-DTEND:20261012T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Policy paper] Tour d’horizon 
- du financement mondial de la protection 
- de la biodiversité
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/4fcb4f91-end3e1124
+UID:10.1787/4fcb4f91-end3e222
 SUMMARY:[Report] Determining the Price of Minera
  ls - A transfer pricing framework for co
  pper
@@ -185,7 +105,7 @@ DESCRIPTION:*[Report] Determining the Price of Miner
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 22:
- 52, it is updated each night; therefore 
+ 53, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -193,7 +113,7 @@ DESCRIPTION:*[Report] Determining the Price of Miner
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=4fcb4f91-en.
-DTSTAMP:20261007T225230Z
+DTSTAMP:20261008T225339Z
 DTSTART:20261012T090000Z
 DTEND:20261012T091500Z
 TRANSP:TRANSPARENT
@@ -208,7 +128,47 @@ DESCRIPTION:Reminder: [Report] Determining the Price
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a7b4d558-frd3e1336
+UID:10.1787/7f1304e1-frd3e381
+SUMMARY:[Policy paper] Tour d’horizon du finance
+ ment mondial de la protection de la biod
+ iversité
+DESCRIPTION:*[Policy paper] Tour d’horizon du financ
+ ement mondial de la protection de la bio
+ diversité*\n\nDirectorate: Environment D
+ irectorate\nLanguage: French\nDOI: https
+ ://doi.org/10.1787/7f1304e1-fr\nPublicat
+ ion type: Policy paper\nReleased as: PDF
+ \n\nEmbargo date/time: Wednesday, 14 Oct
+ ober 2026, 8:00 (GMT)\n\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 22:53, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=7f1304e1-fr.
+DTSTAMP:20261008T225339Z
+DTSTART:20261014T080000Z
+DTEND:20261014T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Policy paper] Tour d’horizon 
+ du financement mondial de la protection 
+ de la biodiversité
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a7b4d558-frd3e434
 SUMMARY:[Report] Renforcer les systèmes d’impôt 
  sur les sociétés pour soutenir la dynami
  que des entreprises
@@ -225,7 +185,7 @@ DESCRIPTION:*[Report] Renforcer les systèmes d’impôt
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 22:52, it is updated each 
+  afternoon at 22:53, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -234,7 +194,7 @@ DESCRIPTION:*[Report] Renforcer les systèmes d’impôt
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=a7b
  4d558-fr.
-DTSTAMP:20261007T225230Z
+DTSTAMP:20261008T225339Z
 DTSTART:20261015T120000Z
 DTEND:20261015T121500Z
 TRANSP:TRANSPARENT
@@ -249,7 +209,7 @@ DESCRIPTION:Reminder: [Report] Renforcer les système
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7e843e1d-end3e1389
+UID:10.1787/7e843e1d-end3e487
 SUMMARY:[Report] Enhancing corporate tax systems
   to support business dynamism
 DESCRIPTION:*[Report] Enhancing corporate tax system
@@ -264,7 +224,7 @@ DESCRIPTION:*[Report] Enhancing corporate tax system
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 22:52, it is up
+  as of this afternoon at 22:53, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -273,7 +233,7 @@ DESCRIPTION:*[Report] Enhancing corporate tax system
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=7e843e1d-en.
-DTSTAMP:20261007T225230Z
+DTSTAMP:20261008T225339Z
 DTSTART:20261015T120000Z
 DTEND:20261015T121500Z
 TRANSP:TRANSPARENT
@@ -287,7 +247,7 @@ DESCRIPTION:Reminder: [Report] Enhancing corporate t
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8af2444d-end3e1494
+UID:10.1787/8af2444d-end3e593
 SUMMARY:[Report] OECD Secretary-General Tax Repo
  rt to G20 Finance Ministers and Central 
  Bank Governors (G20 United States, Octob
@@ -306,7 +266,7 @@ DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 22:52, it is updated each night; the
+  at 22:53, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -314,7 +274,7 @@ DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=8af2444d-en.
-DTSTAMP:20261007T225230Z
+DTSTAMP:20261008T225339Z
 DTSTART:20261015T120000Z
 DTEND:20261015T121500Z
 TRANSP:TRANSPARENT
@@ -330,7 +290,7 @@ DESCRIPTION:Reminder: [Report] OECD Secretary-Genera
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/257230ec-end3e1652
+UID:10.1787/257230ec-end3e750
 SUMMARY:[Stand-alone monograph] Policies for Dev
  eloping Advanced STEM Skills in Higher E
  ducation
@@ -347,7 +307,7 @@ DESCRIPTION:*[Stand-alone monograph] Policies for De
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 22:52, it is updated each ni
+ fternoon at 22:53, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -356,7 +316,7 @@ DESCRIPTION:*[Stand-alone monograph] Policies for De
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=25723
  0ec-en.
-DTSTAMP:20261007T225230Z
+DTSTAMP:20261008T225339Z
 DTSTART:20261023T070000Z
 DTEND:20261023T071500Z
 TRANSP:TRANSPARENT
@@ -371,7 +331,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Polici
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a2cdb777-end3e1704
+UID:10.1787/a2cdb777-end3e802
 SUMMARY:[Stand-alone monograph] The Value of Sch
  ool Principals in TALIS 2024
 DESCRIPTION:*[Stand-alone monograph] The Value of Sc
@@ -386,7 +346,7 @@ DESCRIPTION:*[Stand-alone monograph] The Value of Sc
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 22:52, 
+  correct as of this afternoon at 22:53, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -395,7 +355,7 @@ DESCRIPTION:*[Stand-alone monograph] The Value of Sc
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=a2cdb777-en.
-DTSTAMP:20261007T225230Z
+DTSTAMP:20261008T225339Z
 DTSTART:20261025T230100Z
 DTEND:20261025T231600Z
 TRANSP:TRANSPARENT
@@ -409,7 +369,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] The Va
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e7d36875-end3e2284
+UID:10.1787/e7d36875-end3e1382
 SUMMARY:[Report] Advances in nowcasting the grow
  th rate of the ICT sector
 DESCRIPTION:*[Report] Advances in nowcasting the gro
@@ -424,7 +384,7 @@ DESCRIPTION:*[Report] Advances in nowcasting the gro
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 22:52, it is
+ ect as of this afternoon at 22:53, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -433,7 +393,7 @@ DESCRIPTION:*[Report] Advances in nowcasting the gro
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=e7d36875-en.
-DTSTAMP:20261007T225230Z
+DTSTAMP:20261008T225339Z
 DTSTART:20261105T050000Z
 DTEND:20261105T051500Z
 TRANSP:TRANSPARENT
@@ -447,7 +407,7 @@ DESCRIPTION:Reminder: [Report] Advances in nowcastin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/022ed474-end3e2336
+UID:10.1787/022ed474-end3e1434
 SUMMARY:[Stand-alone monograph] OECD Digital Eco
  nomy and Society Outlook 2026
 DESCRIPTION:*[Stand-alone monograph] OECD Digital Ec
@@ -463,7 +423,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Digital Ec
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 22:52, it is updated each night; 
+ oon at 22:53, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -472,7 +432,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Digital Ec
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=022ed474-e
  n.
-DTSTAMP:20261007T225230Z
+DTSTAMP:20261008T225339Z
 DTSTART:20261105T060000Z
 DTEND:20261105T061500Z
 TRANSP:TRANSPARENT
@@ -486,7 +446,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/da6da926-end3e2388
+UID:10.1787/da6da926-end3e1486
 SUMMARY:[Stand-alone monograph] The Ocean Econom
  y at a Glance
 DESCRIPTION:*[Stand-alone monograph] The Ocean Econo
@@ -502,7 +462,7 @@ DESCRIPTION:*[Stand-alone monograph] The Ocean Econo
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 22:52, it is updated each night; there
+ t 22:53, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -510,7 +470,7 @@ DESCRIPTION:*[Stand-alone monograph] The Ocean Econo
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=da6da926-en.
-DTSTAMP:20261007T225230Z
+DTSTAMP:20261008T225339Z
 DTSTART:20261105T080000Z
 DTEND:20261105T081500Z
 TRANSP:TRANSPARENT
