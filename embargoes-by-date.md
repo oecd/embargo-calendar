@@ -2,15 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 8 October 2026 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 9 October 2026 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [8 October 2026](#8-october-2026)
 * [12 October 2026](#12-october-2026)
 * [14 October 2026](#14-october-2026)
 * [15 October 2026](#15-october-2026)
+* [20 October 2026](#20-october-2026)
 * [23 October 2026](#23-october-2026)
 * [25 October 2026](#25-october-2026)
 * [5 November 2026](#5-november-2026)
+* [6 November 2026](#6-november-2026)
 
 ------
 
@@ -49,37 +51,16 @@ Monday 12 October 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 October 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -87,11 +68,11 @@ Monday 12 October 2026 at 9:00 | no launch event
 
 # 14 October 2026
 
-## [Tour d’horizon du financement mondial de la protection de la biodiversité](https://doi.org/10.1787/7f1304e1-fr)
+## [Guidance note for implementing flexible learning pathways into healthcare occupations](https://doi.org/10.1787/cc0d82b6-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 14 October 2026 at 8:00 | no launch event
+Wednesday 14 October 2026 at 22:01 | no launch event
 
 ### Status Information
 
@@ -100,10 +81,10 @@ Wednesday 14 October 2026 at 8:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Environment Directorate*
-* Language: *French*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Policy paper*
+* Type of publication: *Policy brief*
 * Format: *PDF*
 
 ------
@@ -177,6 +158,31 @@ Thursday 15 October 2026 at 12:00 | no launch event
 
 ------
 
+# 20 October 2026
+
+## [Data Spaces between Co-ordination Challenges, Financial Viability and Public Policy](https://doi.org/10.1787/0066f11b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 20 October 2026 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
 # 23 October 2026
 
 ## [Policies for Developing Advanced STEM Skills in Higher Education](https://doi.org/10.1787/257230ec-en)
@@ -196,6 +202,27 @@ Friday 23 October 2026 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Tour d’horizon du financement mondial de la protection de la biodiversité](https://doi.org/10.1787/7f1304e1-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 October 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -289,5 +316,30 @@ Thursday 5 November 2026 at 8:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 6 November 2026
+
+## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 6 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
