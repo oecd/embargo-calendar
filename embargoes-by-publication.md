@@ -2,28 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 9 October 2026 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia](https://doi.org/10.1787/58c3689d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 October 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Sunday 11 October 2026 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Economic Valuation of Chemicals-Related Health Effects - A Practical Guide to Quantifying Morbidity Effects in Environmental Cost-Benefit Analysis](https://doi.org/10.1787/b58b7451-en)
 

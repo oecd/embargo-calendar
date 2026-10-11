@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 9 October 2026 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 11 October 2026 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [8 October 2026](#8-october-2026)
 * [12 October 2026](#12-october-2026)
 * [14 October 2026](#14-october-2026)
 * [15 October 2026](#15-october-2026)
@@ -13,31 +12,6 @@ Data generated on | |
 * [25 October 2026](#25-october-2026)
 * [5 November 2026](#5-november-2026)
 * [6 November 2026](#6-november-2026)
-
-------
-
-# 8 October 2026
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia](https://doi.org/10.1787/58c3689d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 October 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
