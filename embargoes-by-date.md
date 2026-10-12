@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 11 October 2026 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 12 October 2026 at 22:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 October 2026](#12-october-2026)
-* [14 October 2026](#14-october-2026)
 * [15 October 2026](#15-october-2026)
 * [20 October 2026](#20-october-2026)
 * [23 October 2026](#23-october-2026)
 * [25 October 2026](#25-october-2026)
+* [2 November 2026](#2-november-2026)
 * [5 November 2026](#5-november-2026)
 * [6 November 2026](#6-november-2026)
 
@@ -40,13 +40,13 @@ Monday 12 October 2026 at 7:00 | no launch event
 
 ------
 
-# 14 October 2026
+# 15 October 2026
 
-## [Guidance note for implementing flexible learning pathways into healthcare occupations](https://doi.org/10.1787/cc0d82b6-en)
+## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-Unis, octobre 2026)](https://doi.org/10.1787/ab6386d7-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 14 October 2026 at 22:01 | no launch event
+Thursday 15 October 2026 at 9:00 | no launch event
 
 ### Status Information
 
@@ -55,17 +55,34 @@ Wednesday 14 October 2026 at 22:01 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
-* Type of publication: *Policy brief*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
 
-------
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, October 2026)](https://doi.org/10.1787/8af2444d-en)
 
-# 15 October 2026
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 October 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ## [Renforcer les systèmes d’impôt sur les sociétés pour soutenir la dynamique des entreprises](https://doi.org/10.1787/a7b4d558-fr)
 
@@ -109,27 +126,6 @@ Thursday 15 October 2026 at 12:00 | no launch event
 
 ------
 
-## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, October 2026)](https://doi.org/10.1787/8af2444d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 October 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ------
 
 # 20 October 2026
@@ -151,6 +147,27 @@ Tuesday 20 October 2026 at 4:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Bosnia and Herzegovina](https://doi.org/10.1787/846bbe2d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 20 October 2026 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -221,7 +238,32 @@ Sunday 25 October 2026 at 23:01 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 2 November 2026
+
+## [OECD Economic Surveys: Belgium 2026](https://doi.org/10.1787/e40fe757-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 November 2026 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
