@@ -2,14 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 12 October 2026 at 22:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 13 October 2026 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 October 2026](#12-october-2026)
 * [15 October 2026](#15-october-2026)
+* [19 October 2026](#19-october-2026)
 * [20 October 2026](#20-october-2026)
 * [23 October 2026](#23-october-2026)
 * [25 October 2026](#25-october-2026)
 * [2 November 2026](#2-november-2026)
+* [4 November 2026](#4-november-2026)
 * [5 November 2026](#5-november-2026)
 * [6 November 2026](#6-november-2026)
 
@@ -128,6 +130,31 @@ Thursday 15 October 2026 at 12:00 | no launch event
 
 ------
 
+# 19 October 2026
+
+## [Country-by-Country Reporting – Compilation of 2026 Peer Review Reports - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/353cb719-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 October 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
 # 20 October 2026
 
 ## [Data Spaces between Co-ordination Challenges, Financial Viability and Public Policy](https://doi.org/10.1787/0066f11b-en)
@@ -159,14 +186,14 @@ Tuesday 20 October 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -247,6 +274,27 @@ Sunday 25 October 2026 at 23:01 | no launch event
 
 # 2 November 2026
 
+## [Agricultural Policy Monitoring and Evaluation 2026 - Enhancing resilience in a world of interconnected risks](https://doi.org/10.1787/2c7f3be1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 November 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Belgium 2026](https://doi.org/10.1787/e40fe757-en)
 
 Embargo date | Launch date
@@ -264,6 +312,73 @@ Monday 2 November 2026 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 4 November 2026
+
+## [OECD Regions and Cities at a Glance 2026](https://doi.org/10.1787/1fc64125-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 November 2026 at 0:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Exploring Korea’s Fertility, Work, and Family Policy Trends](https://doi.org/10.1787/1155864e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 November 2026 at 1:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [OECD Pensions Outlook 2026 - Are We Saving Enough for Retirement?](https://doi.org/10.1787/a51aa775-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 November 2026 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -338,6 +453,27 @@ Thursday 5 November 2026 at 8:00 | no launch event
 ------
 
 # 6 November 2026
+
+## [Africa Capital Markets Report 2026](https://doi.org/10.1787/aced796a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 6 November 2026 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
 
