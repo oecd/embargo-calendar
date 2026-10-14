@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 October 2026 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 14 October 2026 at 22:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 October 2026](#12-october-2026)
 * [15 October 2026](#15-october-2026)
 * [19 October 2026](#19-october-2026)
 * [20 October 2026](#20-october-2026)
@@ -14,31 +13,6 @@ Data generated on | |
 * [4 November 2026](#4-november-2026)
 * [5 November 2026](#5-november-2026)
 * [6 November 2026](#6-november-2026)
-
-------
-
-# 12 October 2026
-
-## [Economic Valuation of Chemicals-Related Health Effects - A Practical Guide to Quantifying Morbidity Effects in Environmental Cost-Benefit Analysis](https://doi.org/10.1787/b58b7451-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 October 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -140,16 +114,16 @@ Monday 19 October 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 

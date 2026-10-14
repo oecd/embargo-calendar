@@ -2,28 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 October 2026 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Economic Valuation of Chemicals-Related Health Effects - A Practical Guide to Quantifying Morbidity Effects in Environmental Cost-Benefit Analysis](https://doi.org/10.1787/b58b7451-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 October 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 14 October 2026 at 22:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-Unis, octobre 2026)](https://doi.org/10.1787/ab6386d7-fr)
 
@@ -117,16 +96,16 @@ Monday 19 October 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
