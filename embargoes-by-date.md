@@ -2,21 +2,64 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 14 October 2026 at 22:54* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 15 October 2026 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 October 2026](#15-october-2026)
 * [19 October 2026](#19-october-2026)
 * [20 October 2026](#20-october-2026)
 * [23 October 2026](#23-october-2026)
-* [25 October 2026](#25-october-2026)
+* [26 October 2026](#26-october-2026)
 * [2 November 2026](#2-november-2026)
 * [4 November 2026](#4-november-2026)
 * [5 November 2026](#5-november-2026)
 * [6 November 2026](#6-november-2026)
+* [16 November 2026](#16-november-2026)
 
 ------
 
 # 15 October 2026
+
+## [Renforcer les systèmes d’impôt sur les sociétés pour soutenir la dynamique des entreprises](https://doi.org/10.1787/a7b4d558-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 October 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Enhancing corporate tax systems to support business dynamism](https://doi.org/10.1787/7e843e1d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 October 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-Unis, octobre 2026)](https://doi.org/10.1787/ab6386d7-fr)
 
@@ -44,48 +87,6 @@ Thursday 15 October 2026 at 9:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Thursday 15 October 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Renforcer les systèmes d’impôt sur les sociétés pour soutenir la dynamique des entreprises](https://doi.org/10.1787/a7b4d558-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 October 2026 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Enhancing corporate tax systems to support business dynamism](https://doi.org/10.1787/7e843e1d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 October 2026 at 12:00 | no launch event
 
 ### Status Information
 
@@ -173,6 +174,27 @@ Tuesday 20 October 2026 at 7:00 | no launch event
 
 ------
 
+## [GloBE Information Return (Pillar Two) XML Schema, October 2026 - User Guide for Tax Administrations](https://doi.org/10.1787/1552c9aa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 20 October 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ------
 
 # 23 October 2026
@@ -185,16 +207,16 @@ Friday 23 October 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -221,13 +243,13 @@ Friday 23 October 2026 at 8:00 | no launch event
 
 ------
 
-# 25 October 2026
+# 26 October 2026
 
 ## [The Value of School Principals in TALIS 2024](https://doi.org/10.1787/a2cdb777-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 25 October 2026 at 23:01 | no launch event
+Monday 26 October 2026 at 11:00 | no launch event
 
 ### Status Information
 
@@ -466,6 +488,31 @@ Friday 6 November 2026 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 16 November 2026
+
+## [OECD Reviews of Innovation Policy: United Kingdom - Turning Strong Science into Growth for All](https://doi.org/10.1787/2b4e8382-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
