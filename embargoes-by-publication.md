@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 15 October 2026 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 16 October 2026 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Renforcer les systèmes d’impôt sur les sociétés pour soutenir la dynamique des entreprises](https://doi.org/10.1787/a7b4d558-fr)
 
@@ -88,6 +88,27 @@ Thursday 15 October 2026 at 9:00 | no launch event
 
 ------
 
+## [Déclaration pays par pays – Recueil 2026 de rapports d’examen par les pairs (version abrégée) - Cadre inclusif sur le BEPS : Action 13](https://doi.org/10.1787/c2831e37-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 October 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
 ## [Country-by-Country Reporting – Compilation of 2026 Peer Review Reports - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/353cb719-en)
 
 Embargo date | Launch date
@@ -117,16 +138,16 @@ Tuesday 20 October 2026 at 4:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
