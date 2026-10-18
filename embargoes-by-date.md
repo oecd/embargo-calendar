@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 16 October 2026 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 18 October 2026 at 22:51* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 October 2026](#15-october-2026)
 * [19 October 2026](#19-october-2026)
 * [20 October 2026](#20-october-2026)
 * [23 October 2026](#23-october-2026)
@@ -14,94 +13,6 @@ Data generated on | |
 * [5 November 2026](#5-november-2026)
 * [6 November 2026](#6-november-2026)
 * [16 November 2026](#16-november-2026)
-
-------
-
-# 15 October 2026
-
-## [Renforcer les systèmes d’impôt sur les sociétés pour soutenir la dynamique des entreprises](https://doi.org/10.1787/a7b4d558-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 October 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Enhancing corporate tax systems to support business dynamism](https://doi.org/10.1787/7e843e1d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 October 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 États-Unis, octobre 2026)](https://doi.org/10.1787/ab6386d7-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 October 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, October 2026)](https://doi.org/10.1787/8af2444d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 October 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
