@@ -2,8 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 18 October 2026 at 22:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 19 October 2026 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
+* [18 October 2026](#18-october-2026)
 * [19 October 2026](#19-october-2026)
 * [20 October 2026](#20-october-2026)
 * [23 October 2026](#23-october-2026)
@@ -13,6 +14,52 @@ Data generated on | |
 * [5 November 2026](#5-november-2026)
 * [6 November 2026](#6-november-2026)
 * [16 November 2026](#16-november-2026)
+
+------
+
+# 18 October 2026
+
+## [United States](https://doi.org/10.1787/884f742e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 18 October 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Monaco](https://doi.org/10.1787/a757fe24-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 18 October 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
 
 ------
 
@@ -114,14 +161,14 @@ Tuesday 20 October 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -185,22 +232,43 @@ Monday 26 October 2026 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
 ------
 
 # 2 November 2026
+
+## [Reforming agricultural policies for greater resilience](https://doi.org/10.1787/2cb067af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 November 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
 
 ## [Agricultural Policy Monitoring and Evaluation 2026 - Enhancing resilience in a world of interconnected risks](https://doi.org/10.1787/2c7f3be1-en)
 

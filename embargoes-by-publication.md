@@ -2,7 +2,49 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 18 October 2026 at 22:51* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 19 October 2026 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
+
+## [United States](https://doi.org/10.1787/884f742e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 18 October 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Monaco](https://doi.org/10.1787/a757fe24-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 18 October 2026 at 22:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
 
 ## [Déclaration pays par pays – Recueil 2026 de rapports d’examen par les pairs (version abrégée) - Cadre inclusif sur le BEPS : Action 13](https://doi.org/10.1787/c2831e37-fr)
 
@@ -96,14 +138,14 @@ Tuesday 20 October 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -159,16 +201,37 @@ Monday 26 October 2026 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Reforming agricultural policies for greater resilience](https://doi.org/10.1787/2cb067af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 November 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
