@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 19 October 2026 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 20 October 2026 at 22:51* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 October 2026](#18-october-2026)
 * [19 October 2026](#19-october-2026)
@@ -278,16 +278,16 @@ Monday 2 November 2026 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
