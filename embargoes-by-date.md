@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 20 October 2026 at 22:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 21 October 2026 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 October 2026](#18-october-2026)
-* [19 October 2026](#19-october-2026)
 * [20 October 2026](#20-october-2026)
 * [23 October 2026](#23-october-2026)
 * [26 October 2026](#26-october-2026)
@@ -14,98 +12,6 @@ Data generated on | |
 * [5 November 2026](#5-november-2026)
 * [6 November 2026](#6-november-2026)
 * [16 November 2026](#16-november-2026)
-
-------
-
-# 18 October 2026
-
-## [United States](https://doi.org/10.1787/884f742e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 18 October 2026 at 22:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Monaco](https://doi.org/10.1787/a757fe24-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 18 October 2026 at 22:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-------
-
-# 19 October 2026
-
-## [Déclaration pays par pays – Recueil 2026 de rapports d’examen par les pairs (version abrégée) - Cadre inclusif sur le BEPS : Action 13](https://doi.org/10.1787/c2831e37-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 October 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Country-by-Country Reporting – Compilation of 2026 Peer Review Reports - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/353cb719-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 October 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -245,6 +151,27 @@ Monday 26 October 2026 at 11:00 | no launch event
 
 ------
 
+## [Le rôle déterminant des chefs d’établissement à la lumière de l’Enquête TALIS 2024 (version abrégée)](https://doi.org/10.1787/1fe23b0b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 October 2026 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
 ------
 
 # 2 November 2026
@@ -345,16 +272,16 @@ Wednesday 4 November 2026 at 1:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
