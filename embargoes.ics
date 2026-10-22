@@ -2,131 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/0066f11b-end3e753
-SUMMARY:[Stand-alone monograph] Data Spaces betw
- een Co-ordination Challenges, Financial 
- Viability and Public Policy
-DESCRIPTION:*[Stand-alone monograph] Data Spaces bet
- ween Co-ordination Challenges, Financial
-  Viability and Public Policy*\n\nDirecto
- rate: Directorate for Science, Technolog
- y and Industry\nLanguage: English\nDOI: 
- https://doi.org/10.1787/0066f11b-en\nPub
- lication type: Stand-alone monograph\nRe
- leased as: HTML, Paperback, PDF, ZJCR, Z
- XML\n\nEmbargo date/time: Tuesday, 20 Oc
- tober 2026, 4:00 (GMT)\n\nOECD.org expor
- t: never\nFTI loaded: ✓\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 22:53, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=0066f11b-en.
-DTSTAMP:20261021T225321Z
-DTSTART:20261020T040000Z
-DTEND:20261020T041500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Data S
- paces between Co-ordination Challenges, 
- Financial Viability and Public Policy
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/846bbe2d-end3e807
-SUMMARY:[Book] SME Policy Index for Western Balk
- ans and Türkiye 2026 – Economy Profile f
- or Bosnia and Herzegovina
-DESCRIPTION:*[Book] SME Policy Index for Western Bal
- kans and Türkiye 2026 – Economy Profile 
- for Bosnia and Herzegovina*\n\nDirectora
- te: Global Relations and Cooperation Dir
- ectorate\nLanguage: English\nDOI: https:
- //doi.org/10.1787/846bbe2d-en\nPublicati
- on type: Book\nReleased as: PDF\n\nEmbar
- go date/time: Tuesday, 20 October 2026, 
- 7:00 (GMT)\n\nOECD.org export: never\nFT
- I loaded: ✓\n\nFor more information see:
-  https://oecd.github.io/embargo-calendar
- /embargoes-by-publication.html.\n\nPleas
- e note: This information was correct as 
- of this afternoon at 22:53, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=846bbe2d-en.
-DTSTAMP:20261021T225321Z
-DTSTART:20261020T070000Z
-DTEND:20261020T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] SME Policy Index for We
- stern Balkans and Türkiye 2026 – Economy
-  Profile for Bosnia and Herzegovina
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/1552c9aa-end3e861
-SUMMARY:[Report] GloBE Information Return (Pilla
- r Two) XML Schema, October 2026 - User G
- uide for Tax Administrations
-DESCRIPTION:*[Report] GloBE Information Return (Pill
- ar Two) XML Schema, October 2026 - User 
- Guide for Tax Administrations*\n\nDirect
- orate: Centre for Tax Policy and Adminis
- tration\nLanguage: English\nDOI: https:/
- /doi.org/10.1787/1552c9aa-en\nPublicatio
- n type: Report\nReleased as: PDF\n\nEmba
- rgo date/time: Tuesday, 20 October 2026,
-  9:00 (GMT)\n\nOECD.org export: never\nF
- TI loaded: ✓\n\nFor more information see
- : https://oecd.github.io/embargo-calenda
- r/embargoes-by-publication.html.\n\nPlea
- se note: This information was correct as
-  of this afternoon at 22:53, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=1552c9aa-en.
-DTSTAMP:20261021T225321Z
-DTSTART:20261020T090000Z
-DTEND:20261020T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Report] GloBE Information Ret
- urn (Pillar Two) XML Schema, October 202
- 6 - User Guide for Tax Administrations
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/257230ec-end3e969
+UID:10.1787/257230ec-end3e115
 SUMMARY:[Stand-alone monograph] Policies for Dev
  eloping Advanced STEM Skills in Higher E
  ducation
@@ -144,7 +20,7 @@ DESCRIPTION:*[Stand-alone monograph] Policies for De
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  22:53, it is updated each night; theref
+  23:06, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -152,7 +28,7 @@ DESCRIPTION:*[Stand-alone monograph] Policies for De
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=257230ec-en.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261023T070000Z
 DTEND:20261023T071500Z
 TRANSP:TRANSPARENT
@@ -167,7 +43,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Polici
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7f1304e1-frd3e1554
+UID:10.1787/7f1304e1-frd3e700
 SUMMARY:[Policy paper] Tour d’horizon du finance
  ment mondial de la protection de la biod
  iversité
@@ -183,7 +59,7 @@ DESCRIPTION:*[Policy paper] Tour d’horizon du financ
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 22:53, it i
+ rect as of this afternoon at 23:06, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -192,7 +68,7 @@ DESCRIPTION:*[Policy paper] Tour d’horizon du financ
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=7f1304e1-fr.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261023T080000Z
 DTEND:20261023T081500Z
 TRANSP:TRANSPARENT
@@ -207,7 +83,7 @@ DESCRIPTION:Reminder: [Policy paper] Tour d’horizon
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a2cdb777-end3e1765
+UID:10.1787/a2cdb777-end3e859
 SUMMARY:[Book] The Value of School Principals in
   TALIS 2024
 DESCRIPTION:*[Book] The Value of School Principals i
@@ -222,7 +98,7 @@ DESCRIPTION:*[Book] The Value of School Principals i
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 22:53, it is
+ ect as of this afternoon at 23:06, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -231,7 +107,7 @@ DESCRIPTION:*[Book] The Value of School Principals i
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=a2cdb777-en.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261026T110000Z
 DTEND:20261026T111500Z
 TRANSP:TRANSPARENT
@@ -245,7 +121,7 @@ DESCRIPTION:Reminder: [Book] The Value of School Pri
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1fe23b0b-frd3e2720
+UID:10.1787/1fe23b0b-frd3e1814
 SUMMARY:[Book] Le rôle déterminant des chefs d’é
  tablissement à la lumière de l’Enquête T
  ALIS 2024 (version abrégée)
@@ -262,7 +138,7 @@ DESCRIPTION:*[Book] Le rôle déterminant des chefs d’
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 22:53, i
+ correct as of this afternoon at 23:06, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -271,7 +147,7 @@ DESCRIPTION:*[Book] Le rôle déterminant des chefs d’
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=1fe23b0b-fr.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261026T110000Z
 DTEND:20261026T111500Z
 TRANSP:TRANSPARENT
@@ -286,7 +162,45 @@ DESCRIPTION:Reminder: [Book] Le rôle déterminant des
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2cb067af-end3e3891
+UID:10.1787/c8be6585-end3e2503
+SUMMARY:[Book] Global Insurance Market Trends 20
+ 26
+DESCRIPTION:*[Book] Global Insurance Market Trends 2
+ 026*\n\nDirectorate: Directorate for Fin
+ ancial and Enterprise Affairs\nLanguage:
+  English\nDOI: https://doi.org/10.1787/c
+ 8be6585-en\nPublication type: Book\nRele
+ ased as: HTML, Paperback, PDF, ZJCR, ZXM
+ L\n\nEmbargo date/time: Monday, 2 Novemb
+ er 2026, 8:15 (GMT)\n\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 23:06, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=c8be6585-en.
+DTSTAMP:20261022T230628Z
+DTSTART:20261102T081500Z
+DTEND:20261102T083000Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Global Insurance Market
+  Trends 2026
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2cb067af-end3e3250
 SUMMARY:[Policy brief] Reforming agricultural po
  licies for greater resilience
 DESCRIPTION:*[Policy brief] Reforming agricultural p
@@ -301,7 +215,7 @@ DESCRIPTION:*[Policy brief] Reforming agricultural p
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 22:53, 
+  correct as of this afternoon at 23:06, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -310,7 +224,7 @@ DESCRIPTION:*[Policy brief] Reforming agricultural p
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=2cb067af-en.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261102T090000Z
 DTEND:20261102T091500Z
 TRANSP:TRANSPARENT
@@ -324,7 +238,7 @@ DESCRIPTION:Reminder: [Policy brief] Reforming agric
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2c7f3be1-end3e4369
+UID:10.1787/2c7f3be1-end3e3728
 SUMMARY:[Book] Agricultural Policy Monitoring an
  d Evaluation 2026 - Enhancing resilience
   in a world of interconnected risks
@@ -342,7 +256,7 @@ DESCRIPTION:*[Book] Agricultural Policy Monitoring a
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 22:53, it is updated each night;
+ noon at 23:06, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -351,7 +265,7 @@ DESCRIPTION:*[Book] Agricultural Policy Monitoring a
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=2c7f3be1-
  en.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261102T090000Z
 DTEND:20261102T091500Z
 TRANSP:TRANSPARENT
@@ -367,7 +281,7 @@ DESCRIPTION:Reminder: [Book] Agricultural Policy Mon
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e40fe757-end3e5593
+UID:10.1787/e40fe757-end3e4952
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Belgium 2026
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -381,8 +295,8 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 22:5
- 3, it is updated each night; therefore a
+ was correct as of this afternoon at 23:0
+ 6, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -390,7 +304,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=e40fe757-en.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261102T230000Z
 DTEND:20261102T231500Z
 TRANSP:TRANSPARENT
@@ -404,7 +318,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1fc64125-end3e6070
+UID:10.1787/1fc64125-end3e5429
 SUMMARY:[Book] OECD Regions and Cities at a Glan
  ce 2026
 DESCRIPTION:*[Book] OECD Regions and Cities at a Gla
@@ -419,7 +333,7 @@ DESCRIPTION:*[Book] OECD Regions and Cities at a Gla
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 22:53, it is updated each 
+  afternoon at 23:06, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -428,7 +342,7 @@ DESCRIPTION:*[Book] OECD Regions and Cities at a Gla
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=1fc
  64125-en.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261104T000000Z
 DTEND:20261104T001500Z
 TRANSP:TRANSPARENT
@@ -442,7 +356,7 @@ DESCRIPTION:Reminder: [Book] OECD Regions and Cities
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1155864e-end3e6122
+UID:10.1787/1155864e-end3e5481
 SUMMARY:[Stand-alone monograph] Exploring Korea’
  s Fertility, Work, and Family Policy Tre
  nds
@@ -460,7 +374,7 @@ DESCRIPTION:*[Stand-alone monograph] Exploring Korea
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 22:53, it is updated eac
+ is afternoon at 23:06, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -469,7 +383,7 @@ DESCRIPTION:*[Stand-alone monograph] Exploring Korea
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=1
  155864e-en.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261104T010000Z
 DTEND:20261104T011500Z
 TRANSP:TRANSPARENT
@@ -484,7 +398,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Explor
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a51aa775-end3e6812
+UID:10.1787/a51aa775-end3e6171
 SUMMARY:[Book] OECD Pensions Outlook 2026 - Are 
  We Saving Enough for Retirement?
 DESCRIPTION:*[Book] OECD Pensions Outlook 2026 - Are
@@ -499,7 +413,7 @@ DESCRIPTION:*[Book] OECD Pensions Outlook 2026 - Are
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 22:53
+ as correct as of this afternoon at 23:06
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -508,7 +422,7 @@ DESCRIPTION:*[Book] OECD Pensions Outlook 2026 - Are
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=a51aa775-en.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261104T130000Z
 DTEND:20261104T131500Z
 TRANSP:TRANSPARENT
@@ -523,7 +437,7 @@ DESCRIPTION:Reminder: [Book] OECD Pensions Outlook 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e7d36875-end3e6865
+UID:10.1787/e7d36875-end3e6224
 SUMMARY:[Report] Advances in nowcasting the grow
  th rate of the ICT sector
 DESCRIPTION:*[Report] Advances in nowcasting the gro
@@ -534,11 +448,11 @@ DESCRIPTION:*[Report] Advances in nowcasting the gro
  cation type: Report\nReleased as: PDF\n\
  nEmbargo date/time: Thursday, 5 November
   2026, 5:00 (GMT)\n\nOECD.org export: ne
- ver\nFTI loaded: ✗\n\nFor more informati
+ ver\nFTI loaded: ✓\n\nFor more informati
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 22:53, it is
+ ect as of this afternoon at 23:06, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -547,7 +461,7 @@ DESCRIPTION:*[Report] Advances in nowcasting the gro
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=e7d36875-en.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261105T050000Z
 DTEND:20261105T051500Z
 TRANSP:TRANSPARENT
@@ -561,7 +475,7 @@ DESCRIPTION:Reminder: [Report] Advances in nowcastin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/022ed474-end3e6917
+UID:10.1787/022ed474-end3e6277
 SUMMARY:[Stand-alone monograph] OECD Digital Eco
  nomy and Society Outlook 2026
 DESCRIPTION:*[Stand-alone monograph] OECD Digital Ec
@@ -577,7 +491,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Digital Ec
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 22:53, it is updated each night; 
+ oon at 23:06, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -586,7 +500,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Digital Ec
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=022ed474-e
  n.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261105T060000Z
 DTEND:20261105T061500Z
 TRANSP:TRANSPARENT
@@ -600,7 +514,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/da6da926-end3e7022
+UID:10.1787/da6da926-end3e6382
 SUMMARY:[Stand-alone monograph] The Ocean Econom
  y at a Glance
 DESCRIPTION:*[Stand-alone monograph] The Ocean Econo
@@ -616,7 +530,7 @@ DESCRIPTION:*[Stand-alone monograph] The Ocean Econo
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 22:53, it is updated each night; there
+ t 23:06, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -624,7 +538,7 @@ DESCRIPTION:*[Stand-alone monograph] The Ocean Econo
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=da6da926-en.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261105T080000Z
 DTEND:20261105T081500Z
 TRANSP:TRANSPARENT
@@ -638,7 +552,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] The Oc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/aced796a-end3e7126
+UID:10.1787/aced796a-end3e6538
 SUMMARY:[Book] Africa Capital Markets Report 202
  6
 DESCRIPTION:*[Book] Africa Capital Markets Report 20
@@ -653,7 +567,7 @@ DESCRIPTION:*[Book] Africa Capital Markets Report 20
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 22:53, it is updated each night; therefo
+ 23:06, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -661,7 +575,7 @@ DESCRIPTION:*[Book] Africa Capital Markets Report 20
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=aced796a-en.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261106T083000Z
 DTEND:20261106T084500Z
 TRANSP:TRANSPARENT
@@ -675,7 +589,7 @@ DESCRIPTION:Reminder: [Book] Africa Capital Markets
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4fcb4f91-end3e7230
+UID:10.1787/4fcb4f91-end3e6643
 SUMMARY:[Report] Determining the Price of Minera
  ls - A transfer pricing framework for co
  pper
@@ -691,8 +605,8 @@ DESCRIPTION:*[Report] Determining the Price of Miner
   information see: https://oecd.github.io
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 22
- :53, it is updated each night; therefore
+ n was correct as of this afternoon at 23
+ :06, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -700,7 +614,7 @@ DESCRIPTION:*[Report] Determining the Price of Miner
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=4fcb4f91-en.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261106T100000Z
 DTEND:20261106T101500Z
 TRANSP:TRANSPARENT
@@ -715,7 +629,7 @@ DESCRIPTION:Reminder: [Report] Determining the Price
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2b4e8382-end3e7337
+UID:10.1787/2b4e8382-end3e6749
 SUMMARY:[Book] OECD Reviews of Innovation Policy
  : United Kingdom - Turning Strong Scienc
  e into Growth for All
@@ -732,7 +646,7 @@ DESCRIPTION:*[Book] OECD Reviews of Innovation Polic
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 22:53, it is updat
+  of this afternoon at 23:06, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -741,7 +655,7 @@ DESCRIPTION:*[Book] OECD Reviews of Innovation Polic
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=2b4e8382-en.
-DTSTAMP:20261021T225321Z
+DTSTAMP:20261022T230628Z
 DTSTART:20261116T100000Z
 DTEND:20261116T101500Z
 TRANSP:TRANSPARENT

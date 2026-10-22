@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 21 October 2026 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 22 October 2026 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 October 2026](#20-october-2026)
 * [23 October 2026](#23-october-2026)
 * [26 October 2026](#26-october-2026)
 * [2 November 2026](#2-november-2026)
@@ -12,73 +11,6 @@ Data generated on | |
 * [5 November 2026](#5-november-2026)
 * [6 November 2026](#6-november-2026)
 * [16 November 2026](#16-november-2026)
-
-------
-
-# 20 October 2026
-
-## [Data Spaces between Co-ordination Challenges, Financial Viability and Public Policy](https://doi.org/10.1787/0066f11b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 October 2026 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Bosnia and Herzegovina](https://doi.org/10.1787/846bbe2d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 October 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [GloBE Information Return (Pillar Two) XML Schema, October 2026 - User Guide for Tax Administrations](https://doi.org/10.1787/1552c9aa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 October 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -175,6 +107,27 @@ Monday 26 October 2026 at 11:00 | no launch event
 ------
 
 # 2 November 2026
+
+## [Global Insurance Market Trends 2026](https://doi.org/10.1787/c8be6585-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 November 2026 at 8:15 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
 
 ## [Reforming agricultural policies for greater resilience](https://doi.org/10.1787/2cb067af-en)
 
@@ -318,14 +271,14 @@ Thursday 5 November 2026 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
