@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 24 October 2026 at 6:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 25 October 2026 at 22:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 October 2026](#23-october-2026)
 * [26 October 2026](#26-october-2026)
 * [30 October 2026](#30-october-2026)
 * [2 November 2026](#2-november-2026)
@@ -16,52 +15,6 @@ Data generated on | |
 * [20 November 2026](#20-november-2026)
 * [24 November 2026](#24-november-2026)
 * [26 November 2026](#26-november-2026)
-
-------
-
-# 23 October 2026
-
-## [Policies for Developing Advanced STEM Skills in Higher Education](https://doi.org/10.1787/257230ec-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 October 2026 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Tour d’horizon du financement mondial de la protection de la biodiversité](https://doi.org/10.1787/7f1304e1-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 October 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
