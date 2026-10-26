@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 25 October 2026 at 22:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 26 October 2026 at 22:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [United Arab Emirates](https://doi.org/10.1787/b6b14b63-en)
 
@@ -1237,6 +1237,27 @@ Monday 2 November 2026 at 9:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Politiques agricoles : suivi et évaluation 2026 (version abrégée) - Renforcer la résilience dans un monde aux risques interdépendants](https://doi.org/10.1787/e1922cbe-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 November 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
