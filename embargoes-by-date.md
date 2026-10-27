@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 26 October 2026 at 22:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 27 October 2026 at 22:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [26 October 2026](#26-october-2026)
 * [30 October 2026](#30-october-2026)
@@ -1222,27 +1222,6 @@ Monday 2 November 2026 at 8:15 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Reforming agricultural policies for greater resilience](https://doi.org/10.1787/2cb067af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 November 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
