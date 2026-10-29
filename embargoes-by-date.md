@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 28 October 2026 at 22:48* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 29 October 2026 at 22:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [29 October 2026](#29-october-2026)
 * [30 October 2026](#30-october-2026)
@@ -11,6 +11,7 @@ Data generated on | |
 * [4 November 2026](#4-november-2026)
 * [5 November 2026](#5-november-2026)
 * [6 November 2026](#6-november-2026)
+* [12 November 2026](#12-november-2026)
 * [16 November 2026](#16-november-2026)
 * [20 November 2026](#20-november-2026)
 * [24 November 2026](#24-november-2026)
@@ -229,14 +230,14 @@ Tuesday 3 November 2026 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -254,16 +255,16 @@ Wednesday 4 November 2026 at 0:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -439,6 +440,48 @@ Thursday 5 November 2026 at 8:00 | no launch event
 
 ------
 
+## [Panorama de l’économie de la mer](https://doi.org/10.1787/1f8a77d7-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [The Climate Action Monitor 2026](https://doi.org/10.1787/8f3c692e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ------
 
 # 6 November 2026
@@ -481,6 +524,31 @@ Friday 6 November 2026 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 12 November 2026
+
+## [International Migration Outlook 2026](https://doi.org/10.1787/a9eab36b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------

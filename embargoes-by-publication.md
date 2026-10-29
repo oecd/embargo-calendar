@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 28 October 2026 at 22:48* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 29 October 2026 at 22:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Two Decades of Trade and Development Partnerships - Trends and Impact of the Aid for Trade Initiative](https://doi.org/10.30875/9789287083975)
 
@@ -201,14 +201,14 @@ Tuesday 3 November 2026 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -222,16 +222,16 @@ Wednesday 4 November 2026 at 0:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -403,6 +403,48 @@ Thursday 5 November 2026 at 8:00 | no launch event
 
 ------
 
+## [Panorama de l’économie de la mer](https://doi.org/10.1787/1f8a77d7-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [The Climate Action Monitor 2026](https://doi.org/10.1787/8f3c692e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ## [Africa Capital Markets Report 2026](https://doi.org/10.1787/aced796a-en)
 
 Embargo date | Launch date
@@ -441,6 +483,27 @@ Friday 6 November 2026 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [International Migration Outlook 2026](https://doi.org/10.1787/a9eab36b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
