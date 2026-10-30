@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 29 October 2026 at 22:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 30 October 2026 at 22:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Two Decades of Trade and Development Partnerships - Trends and Impact of the Aid for Trade Initiative](https://doi.org/10.30875/9789287083975)
 
@@ -67,6 +67,27 @@ Monday 2 November 2026 at 8:15 | no launch event
 
 ------
 
+## [Reforming agricultural policies for greater resilience](https://doi.org/10.1787/2cb067af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 November 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
 ## [Agricultural Policy Monitoring and Evaluation 2026 - Enhancing resilience in a world of interconnected risks](https://doi.org/10.1787/2c7f3be1-en)
 
 Embargo date | Launch date
@@ -106,6 +127,27 @@ Monday 2 November 2026 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Réformer les politiques agricoles pour gagner en résilience](https://doi.org/10.1787/331ec70c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 November 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -208,6 +250,27 @@ Tuesday 3 November 2026 at 13:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Études économiques de l'OCDE : Belgique 2026](https://doi.org/10.1787/9c8b6648-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 November 2026 at 13:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
@@ -348,16 +411,16 @@ Thursday 5 November 2026 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -550,6 +613,48 @@ Friday 20 November 2026 at 7:00 | no launch event
 
 ------
 
+## [Improving Corporate Governance in Malaysia](https://doi.org/10.1787/25eca1eb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 November 2026 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Promoting the Development of the Semiconductor Ecosystem in Indonesia](https://doi.org/10.1787/9c789c63-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 November 2026 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Promoting the Development of the Semiconductor Ecosystem in Viet Nam](https://doi.org/10.1787/f2037017-en)
 
 Embargo date | Launch date
@@ -571,6 +676,27 @@ Tuesday 24 November 2026 at 11:00 | no launch event
 
 ------
 
+## [Revenue Statistics in Africa 2026 - Foundations for Effective Taxation of High-net-worth Individuals in African Countries](https://doi.org/10.1787/16257e2b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 November 2026 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Capital Market Review of Viet Nam 2026](https://doi.org/10.1787/7a3aeb01-en)
 
 Embargo date | Launch date
@@ -585,6 +711,90 @@ Thursday 26 November 2026 at 8:30 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Competitiveness Outlook 2026: Armenia, Republic of Moldova, Ukraine](https://doi.org/10.1787/ca38ae70-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 6 December 2026 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Review of Digital Education Policy in Lithuania](https://doi.org/10.1787/60dfcafb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 December 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Revenue Statistics 2026 - Convergence of Tax Revenues in OECD Countries](https://doi.org/10.1787/a8a96038-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 December 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Consumption Tax Trends 2026 - VAT/GST and Excise, Core Features and Trends](https://doi.org/10.1787/1597a636-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 December 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
