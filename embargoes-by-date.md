@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 30 October 2026 at 22:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 1 November 2026 at 22:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 October 2026](#29-october-2026)
-* [30 October 2026](#30-october-2026)
 * [2 November 2026](#2-november-2026)
 * [3 November 2026](#3-november-2026)
 * [4 November 2026](#4-november-2026)
@@ -20,56 +18,6 @@ Data generated on | |
 * [6 December 2026](#6-december-2026)
 * [8 December 2026](#8-december-2026)
 * [10 December 2026](#10-december-2026)
-
-------
-
-# 29 October 2026
-
-## [Two Decades of Trade and Development Partnerships - Trends and Impact of the Aid for Trade Initiative](https://doi.org/10.30875/9789287083975)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 October 2026 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-------
-
-# 30 October 2026
-
-## [Strengthening Pro-Productivity Institutions and Policymaking in Portugal](https://doi.org/10.1787/82ebc713-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 October 2026 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 

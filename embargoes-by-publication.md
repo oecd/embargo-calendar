@@ -2,49 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 30 October 2026 at 22:44* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Two Decades of Trade and Development Partnerships - Trends and Impact of the Aid for Trade Initiative](https://doi.org/10.30875/9789287083975)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 October 2026 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Strengthening Pro-Productivity Institutions and Policymaking in Portugal](https://doi.org/10.1787/82ebc713-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 October 2026 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 1 November 2026 at 22:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Global Insurance Market Trends 2026](https://doi.org/10.1787/c8be6585-en)
 
