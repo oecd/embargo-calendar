@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 2 November 2026 at 22:48* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 3 November 2026 at 22:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 November 2026](#2-november-2026)
 * [3 November 2026](#3-november-2026)
@@ -86,7 +86,7 @@ Monday 2 November 2026 at 9:00 | no launch event
 
 ------
 
-## [Politiques agricoles : suivi et évaluation 2026 (version abrégée) - Renforcer la résilience dans un monde aux risques interdépendants](https://doi.org/10.1787/e1922cbe-fr)
+## [Politiques agricoles : Suivi et évaluation 2026 (version abrégée) - Renforcer la résilience dans un monde aux risques interdépendants](https://doi.org/10.1787/e1922cbe-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -346,6 +346,27 @@ Wednesday 4 November 2026 at 1:00 | no launch event
 
 ------
 
+## [Tour d’horizon du financement mondial de la protection de la biodiversité](https://doi.org/10.1787/7f1304e1-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 November 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Latin American Economic Outlook 2026 - Deepening Integration into a Changing Global Economy](https://doi.org/10.1787/83a299be-en)
 
 Embargo date | Launch date
@@ -434,27 +455,6 @@ Thursday 5 November 2026 at 5:00 | no launch event
 
 ------
 
-## [OECD Digital Economy and Society Outlook 2026](https://doi.org/10.1787/022ed474-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 November 2026 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Measuring Connectivity across the India-Middle East-Europe Corridor](https://doi.org/10.1787/0117c321-en)
 
 Embargo date | Launch date
@@ -494,6 +494,27 @@ Thursday 5 November 2026 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Digital Economy and Society Outlook 2026](https://doi.org/10.1787/022ed474-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -639,16 +660,16 @@ Thursday 12 November 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -773,7 +794,7 @@ Tuesday 24 November 2026 at 11:00 | no launch event
 
 ------
 
-## [Revenue Statistics in Africa 2026 - Foundations for Effective Taxation of High-net-worth Individuals in African Countries](https://doi.org/10.1787/16257e2b-en)
+## [Revenue Statistics in Africa 2026 - Taxation of High-Net-Worth Individuals in African Countries](https://doi.org/10.1787/16257e2b-en)
 
 Embargo date | Launch date
 -------------|:------------:
