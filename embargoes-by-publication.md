@@ -2,112 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 3 November 2026 at 22:49* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Global Insurance Market Trends 2026](https://doi.org/10.1787/c8be6585-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 November 2026 at 8:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Reforming agricultural policies for greater resilience](https://doi.org/10.1787/2cb067af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 November 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
-
-## [Agricultural Policy Monitoring and Evaluation 2026 - Enhancing resilience in a world of interconnected risks](https://doi.org/10.1787/2c7f3be1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 November 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Politiques agricoles : Suivi et évaluation 2026 (version abrégée) - Renforcer la résilience dans un monde aux risques interdépendants](https://doi.org/10.1787/e1922cbe-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 November 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Réformer les politiques agricoles pour gagner en résilience](https://doi.org/10.1787/331ec70c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 November 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Formats: *DOCX, PDF, ZJCR*
-
-------
+| *Wednesday 4 November 2026 at 22:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Algérie 2026 (Deuxième cycle) - Rapport d'examen par les pairs sur la transparence et l'échange de renseignements sur demande](https://doi.org/10.1787/57b13aa5-fr)
 
@@ -483,7 +378,7 @@ Thursday 5 November 2026 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -505,6 +400,27 @@ Thursday 5 November 2026 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [L'Observateur de l'action climatique 2026](https://doi.org/10.1787/9ff7b386-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -592,27 +508,6 @@ Friday 6 November 2026 at 8:30 | no launch event
 
 ------
 
-## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 6 November 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ## [International Migration Outlook 2026](https://doi.org/10.1787/a9eab36b-en)
 
 Embargo date | Launch date
@@ -651,6 +546,27 @@ Monday 16 November 2026 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Determining the Price of Minerals - A transfer pricing framework for copper](https://doi.org/10.1787/4fcb4f91-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 18 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
