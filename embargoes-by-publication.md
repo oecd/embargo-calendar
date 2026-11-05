@@ -2,175 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 4 November 2026 at 22:48* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Algérie 2026 (Deuxième cycle) - Rapport d'examen par les pairs sur la transparence et l'échange de renseignements sur demande](https://doi.org/10.1787/57b13aa5-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 November 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Maldives 2026 (Second Round) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/c958a55b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 November 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Congo 2026 (Second Round, Phase 1) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/ecd16e8c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 November 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Uzbekistan 2026 (Second Round) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/053cb2f0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 November 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Algeria 2026 (Second Round) - Peer Review on Transparency and Exchange of Information on Request](https://doi.org/10.1787/a8ad6b5a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 November 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Congo 2026 (Deuxième cycle, Phase 1) - Rapport d’examen par les pairs sur la transparence et l’échange de renseignements sur demande](https://doi.org/10.1787/cc84a5fc-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 November 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Belgium 2026](https://doi.org/10.1787/e40fe757-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 November 2026 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l'OCDE : Belgique 2026](https://doi.org/10.1787/9c8b6648-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 November 2026 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Thursday 5 November 2026 at 22:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Regions and Cities at a Glance 2026](https://doi.org/10.1787/1fc64125-en)
 
@@ -501,6 +333,48 @@ Friday 6 November 2026 at 8:30 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Digitalisation and Digital Transformation in Tax Administrations - Regional Trends and Insights](https://doi.org/10.1787/5976063c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Perspectives des migrations internationales 2026](https://doi.org/10.1787/5e3f3048-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
