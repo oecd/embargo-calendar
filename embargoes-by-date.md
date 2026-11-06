@@ -2,15 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 5 November 2026 at 22:48* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 6 November 2026 at 22:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 November 2026](#4-november-2026)
 * [5 November 2026](#5-november-2026)
 * [6 November 2026](#6-november-2026)
 * [10 November 2026](#10-november-2026)
 * [12 November 2026](#12-november-2026)
-* [16 November 2026](#16-november-2026)
 * [18 November 2026](#18-november-2026)
+* [19 November 2026](#19-november-2026)
 * [20 November 2026](#20-november-2026)
 * [23 November 2026](#23-november-2026)
 * [24 November 2026](#24-november-2026)
@@ -18,136 +17,6 @@ Data generated on | |
 * [6 December 2026](#6-december-2026)
 * [8 December 2026](#8-december-2026)
 * [10 December 2026](#10-december-2026)
-
-------
-
-# 4 November 2026
-
-## [OECD Regions and Cities at a Glance 2026](https://doi.org/10.1787/1fc64125-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 November 2026 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Exploring Korea’s Fertility, Work, and Family Policy Trends](https://doi.org/10.1787/1155864e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 November 2026 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Tour d’horizon du financement mondial de la protection de la biodiversité](https://doi.org/10.1787/7f1304e1-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 November 2026 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Latin American Economic Outlook 2026 - Deepening Integration into a Changing Global Economy](https://doi.org/10.1787/83a299be-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 November 2026 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives de l’OCDE sur les pensions 2026 (version abrégée) - Épargnons-nous suffisamment pour la retraite ?](https://doi.org/10.1787/9d8a8489-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 November 2026 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Pensions Outlook 2026 - Are We Saving Enough for Retirement?](https://doi.org/10.1787/a51aa775-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 November 2026 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -396,11 +265,32 @@ Tuesday 10 November 2026 at 10:00 | no launch event
 
 # 12 November 2026
 
+## [Productivity review of the Netherlands - Supporting business dynamism to revive productivity growth](https://doi.org/10.1787/1628d921-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Perspectives des migrations internationales 2026](https://doi.org/10.1787/5e3f3048-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 12 November 2026 at 10:00 | no launch event
+Thursday 12 November 2026 at 12:30 | no launch event
 
 ### Status Information
 
@@ -421,7 +311,7 @@ Thursday 12 November 2026 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 12 November 2026 at 10:00 | no launch event
+Thursday 12 November 2026 at 12:30 | no launch event
 
 ### Status Information
 
@@ -435,31 +325,6 @@ Thursday 12 November 2026 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 16 November 2026
-
-## [OECD Reviews of Innovation Policy: United Kingdom - Turning Strong Science into Growth for All](https://doi.org/10.1787/2b4e8382-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 November 2026 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
@@ -484,6 +349,73 @@ Wednesday 18 November 2026 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 19 November 2026
+
+## [Making Dispute Resolution More Effective – MAP Full Peer Reviews for Czechia, France, Italy, Japan, Latvia and Malaysia (Cycle 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/060a9e00-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Full Peer Reviews for Denmark, Finland, Morocco, Norway, Romania and Spain (Cycle 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ca038f2c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Full Peer Reviews for Austria, Germany, Ireland, Luxembourg, Malta and the United States (Cycle 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/f3443e7f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -680,9 +612,51 @@ Tuesday 8 December 2026 at 8:00 | no launch event
 
 ------
 
+## [Strengthening Women’s Economic Self-Sufficiency in Germany](https://doi.org/10.1787/a12f5525-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 December 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ------
 
 # 10 December 2026
+
+## [Drivers of Growth in All Types of Regions](https://doi.org/10.1787/8426959d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 December 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [Revenue Statistics 2026 - Convergence of Tax Revenues in OECD Countries](https://doi.org/10.1787/a8a96038-en)
 
