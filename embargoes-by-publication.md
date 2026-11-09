@@ -2,13 +2,55 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 8 November 2026 at 22:46* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 9 November 2026 at 22:48* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Evaluating the effectiveness of Switzerland's climate and energy policies - Insights from a model linking approach](https://doi.org/10.1787/c711551a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 November 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Productivity review of the Netherlands - Supporting business dynamism to revive productivity growth](https://doi.org/10.1787/1628d921-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [Digitalisation and Digital Transformation in Tax Administrations - Regional Trends and Insights](https://doi.org/10.1787/5976063c-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 10 November 2026 at 10:00 | no launch event
+Thursday 12 November 2026 at 10:00 | no launch event
 
 ### Status Information
 
@@ -22,27 +64,6 @@ Tuesday 10 November 2026 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Productivity review of the Netherlands - Supporting business dynamism to revive productivity growth](https://doi.org/10.1787/1628d921-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 November 2026 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
 
 ------
 

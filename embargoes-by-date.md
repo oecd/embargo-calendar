@@ -2,9 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 8 November 2026 at 22:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 9 November 2026 at 22:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 November 2026](#10-november-2026)
+* [9 November 2026](#9-november-2026)
 * [12 November 2026](#12-november-2026)
 * [18 November 2026](#18-november-2026)
 * [19 November 2026](#19-november-2026)
@@ -18,13 +18,13 @@ Data generated on | |
 
 ------
 
-# 10 November 2026
+# 9 November 2026
 
-## [Digitalisation and Digital Transformation in Tax Administrations - Regional Trends and Insights](https://doi.org/10.1787/5976063c-en)
+## [Evaluating the effectiveness of Switzerland's climate and energy policies - Insights from a model linking approach](https://doi.org/10.1787/c711551a-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 10 November 2026 at 10:00 | no launch event
+Monday 9 November 2026 at 23:01 | no launch event
 
 ### Status Information
 
@@ -33,11 +33,11 @@ Tuesday 10 November 2026 at 10:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *General Secretariat*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
@@ -53,7 +53,7 @@ Thursday 12 November 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
@@ -63,6 +63,27 @@ Thursday 12 November 2026 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
+
+------
+
+## [Digitalisation and Digital Transformation in Tax Administrations - Regional Trends and Insights](https://doi.org/10.1787/5976063c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
