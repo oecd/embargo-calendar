@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 November 2026 at 22:48* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 10 November 2026 at 22:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 November 2026](#9-november-2026)
 * [12 November 2026](#12-november-2026)
@@ -154,6 +154,27 @@ Wednesday 18 November 2026 at 10:00 | no launch event
 
 ------
 
+## [OECD Development Co‑operation Peer Reviews: Sweden 2026](https://doi.org/10.1787/88710625-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 18 November 2026 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ------
 
 # 19 November 2026
@@ -293,27 +314,6 @@ Tuesday 24 November 2026 at 11:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
-
-------
-
-## [Promoting the Development of the Semiconductor Ecosystem in Viet Nam](https://doi.org/10.1787/f2037017-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 November 2026 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
 
 ------
 
