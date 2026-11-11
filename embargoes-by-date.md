@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 10 November 2026 at 22:49* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 11 November 2026 at 22:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 November 2026](#9-november-2026)
 * [12 November 2026](#12-november-2026)

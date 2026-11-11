@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 10 November 2026 at 22:49* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 11 November 2026 at 22:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Evaluating the effectiveness of Switzerland's climate and energy policies - Insights from a model linking approach](https://doi.org/10.1787/c711551a-en)
 
