@@ -2,10 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 11 November 2026 at 22:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 12 November 2026 at 22:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 November 2026](#9-november-2026)
 * [12 November 2026](#12-november-2026)
+* [13 November 2026](#13-november-2026)
 * [18 November 2026](#18-november-2026)
 * [19 November 2026](#19-november-2026)
 * [20 November 2026](#20-november-2026)
@@ -15,31 +15,6 @@ Data generated on | |
 * [6 December 2026](#6-december-2026)
 * [8 December 2026](#8-december-2026)
 * [10 December 2026](#10-december-2026)
-
-------
-
-# 9 November 2026
-
-## [Evaluating the effectiveness of Switzerland's climate and energy policies - Insights from a model linking approach](https://doi.org/10.1787/c711551a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 November 2026 at 23:01 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *General Secretariat*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -125,6 +100,31 @@ Thursday 12 November 2026 at 12:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 13 November 2026
+
+## [Overcoming Financial and Capacity Barriers to Empower Small-Scale Enterprises in South Africa - Focus on Renewable, Reliable, Secure and Affordable Energy in Mpumalanga and the Western Cape](https://doi.org/10.1787/acc7ded7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 November 2026 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
@@ -267,6 +267,27 @@ Friday 20 November 2026 at 7:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Colombia 2026](https://doi.org/10.1787/977d1f11-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 November 2026 at 15:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ------
 
 # 23 November 2026
@@ -279,16 +300,16 @@ Monday 23 November 2026 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
