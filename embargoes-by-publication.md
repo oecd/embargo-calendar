@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 November 2026 at 22:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 13 November 2026 at 22:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Productivity review of the Netherlands - Supporting business dynamism to revive productivity growth](https://doi.org/10.1787/1628d921-en)
 
@@ -106,6 +106,27 @@ Friday 13 November 2026 at 4:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Statistics and Data Quality Assurance Framework](https://doi.org/10.1787/1d7d2416-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 18 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -222,16 +243,16 @@ Friday 20 November 2026 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -250,6 +271,27 @@ Friday 20 November 2026 at 15:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Estudios Económicos de la OCDE: Colombia 2026](https://doi.org/10.1787/5562cb92-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 November 2026 at 15:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
@@ -277,27 +319,6 @@ Monday 23 November 2026 at 8:30 | no launch event
 
 ------
 
-## [Promoting the Development of the Semiconductor Ecosystem in Indonesia](https://doi.org/10.1787/9c789c63-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 November 2026 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [Revenue Statistics in Africa 2026 - Taxation of High-Net-Worth Individuals in African Countries](https://doi.org/10.1787/16257e2b-en)
 
 Embargo date | Launch date
@@ -316,6 +337,27 @@ Tuesday 24 November 2026 at 13:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Promoting the Development of the Semiconductor Ecosystem in Indonesia](https://doi.org/10.1787/9c789c63-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 November 2026 at 23:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -462,6 +504,48 @@ Thursday 10 December 2026 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Supporting Investment in Energy Efficiency and Digitalisation in Italy - Evidence from the Evaluation of the Transition 5.0 Tax Credit](https://doi.org/10.1787/8d03a19e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 December 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Building a Quality Framework for Better Long-Term Care in Poland](https://doi.org/10.1787/9491ba42-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 December 2026 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
