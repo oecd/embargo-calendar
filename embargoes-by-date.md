@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 15 November 2026 at 22:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 16 November 2026 at 22:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 November 2026](#18-november-2026)
 * [19 November 2026](#19-november-2026)
@@ -34,7 +34,7 @@ Wednesday 18 November 2026 at 10:00 | no launch event
 
 * Directorate: *Statistics and Data Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -79,6 +79,27 @@ Wednesday 18 November 2026 at 14:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Unequal fortunes - Inheritances and gifts in the European Union](https://doi.org/10.1787/2ca376b4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 18 November 2026 at 15:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -245,7 +266,7 @@ Monday 23 November 2026 at 8:30 | no launch event
 
 # 24 November 2026
 
-## [Revenue Statistics in Africa 2026 - Taxation of High-Net-Worth Individuals in African Countries](https://doi.org/10.1787/16257e2b-en)
+## [Revenue Statistics in Africa 2026](https://doi.org/10.1787/16257e2b-en)
 
 Embargo date | Launch date
 -------------|:------------:
