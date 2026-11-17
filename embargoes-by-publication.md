@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 16 November 2026 at 22:48* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 17 November 2026 at 22:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Statistics and Data Quality Assurance Framework](https://doi.org/10.1787/1d7d2416-en)
 
@@ -33,14 +33,14 @@ Wednesday 18 November 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -88,6 +88,405 @@ Wednesday 18 November 2026 at 15:00 | no launch event
 
 ------
 
+## [France](https://doi.org/10.1787/11a1c8d6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Colombia](https://doi.org/10.1787/189a8b9f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Costa Rica](https://doi.org/10.1787/a52f5a90-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Belgium](https://doi.org/10.1787/cff1ac00-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Switzerland](https://doi.org/10.1787/8cb6bc05-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Canada](https://doi.org/10.1787/d8e794b6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Czechia](https://doi.org/10.1787/2a407a70-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Finland](https://doi.org/10.1787/51dfbb21-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Estonia](https://doi.org/10.1787/00b67cf2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [South Africa](https://doi.org/10.1787/91ce8ba4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Spain](https://doi.org/10.1787/ef0a785e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [United Kingdom](https://doi.org/10.1787/47eaa0a3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Brazil](https://doi.org/10.1787/80c4460b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Argentina](https://doi.org/10.1787/e02d5bba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Germany](https://doi.org/10.1787/a3a3149f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Austria](https://doi.org/10.1787/91d786f4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Denmark](https://doi.org/10.1787/2fb9db12-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Chile](https://doi.org/10.1787/17d1ccdb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [United States](https://doi.org/10.1787/7b474500-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 November 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective – MAP Full Peer Reviews for Czechia, France, Italy, Japan, Latvia and Malaysia (Cycle 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/060a9e00-en)
 
 Embargo date | Launch date
@@ -117,14 +516,14 @@ Thursday 19 November 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -273,6 +672,27 @@ Tuesday 24 November 2026 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Health at a Glance: Europe 2026 - State of Health in the EU Cycle](https://doi.org/10.1787/64707ff8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 November 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
