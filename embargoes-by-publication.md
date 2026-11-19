@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 November 2026 at 22:48* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 19 November 2026 at 22:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Statistics and Data Quality Assurance Framework](https://doi.org/10.1787/1d7d2416-en)
 
@@ -1083,14 +1083,14 @@ Thursday 19 November 2026 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1218,6 +1218,27 @@ Friday 20 November 2026 at 15:00 | no launch event
 * Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [33rd OECD/UNCTAD report on G20 investment measures](https://doi.org/10.1787/418cfab1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 November 2026 at 16:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -2020,6 +2041,27 @@ Monday 23 November 2026 at 10:00 | no launch event
 
 ------
 
+## [Tax Administration 2026 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/14d5750f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ## [Latvia](https://doi.org/10.1787/3489e13e-en)
 
 Embargo date | Launch date
@@ -2545,6 +2587,27 @@ Tuesday 24 November 2026 at 23:01 | no launch event
 
 ------
 
+## [Philanthropy, Blended Finance and Catalytic Capital for Development - A Handbook](https://doi.org/10.1787/29307c52-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 November 2026 at 23:01 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Promoting the Development of the Semiconductor Ecosystem in Indonesia](https://doi.org/10.1787/9c789c63-en)
 
 Embargo date | Launch date
@@ -2591,7 +2654,7 @@ Thursday 26 November 2026 at 8:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 6 December 2026 at 11:00 | no launch event
+Saturday 5 December 2026 at 23:00 | no launch event
 
 ### Status Information
 
@@ -2625,6 +2688,27 @@ Tuesday 8 December 2026 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Global Investment Outlook - Big Shifts, Uncertain Gains](https://doi.org/10.1787/77e85b04-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 December 2026 at 8:15 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -2709,6 +2793,48 @@ Thursday 10 December 2026 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Global Landscape of Extended Producer Responsibility - Policies, Progress, Practice](https://doi.org/10.1787/cdab7f59-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 December 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Assessing Progress Towards the Nordic Vision 2030](https://doi.org/10.1787/122288e5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 December 2026 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
