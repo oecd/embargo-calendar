@@ -2,19 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 22 November 2026 at 22:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 23 November 2026 at 22:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 November 2026](#23-november-2026)
 * [24 November 2026](#24-november-2026)
 * [25 November 2026](#25-november-2026)
 * [26 November 2026](#26-november-2026)
-* [29 November 2026](#29-november-2026)
+* [4 December 2026](#4-december-2026)
 * [5 December 2026](#5-december-2026)
 * [8 December 2026](#8-december-2026)
 * [10 December 2026](#10-december-2026)
 * [11 December 2026](#11-december-2026)
 * [17 December 2026](#17-december-2026)
-* [31 March 2027](#31-march-2027)
 
 ------
 
@@ -1150,6 +1149,27 @@ Monday 23 November 2026 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [33rd OECD/UNCTAD report on G20 investment measures](https://doi.org/10.1787/418cfab1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 November 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -3073,15 +3093,11 @@ Wednesday 25 November 2026 at 3:30 | no launch event
 
 ------
 
-------
-
-# 26 November 2026
-
-## [OECD Capital Market Review of Viet Nam 2026](https://doi.org/10.1787/7a3aeb01-en)
+## [Africa’s Development Dynamics 2026 - Managing Debt for Transformation](https://doi.org/10.1787/92938db2-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 26 November 2026 at 8:30 | no launch event
+Wednesday 25 November 2026 at 13:45 | no launch event
 
 ### Status Information
 
@@ -3090,7 +3106,7 @@ Thursday 26 November 2026 at 8:30 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
@@ -3100,13 +3116,13 @@ Thursday 26 November 2026 at 8:30 | no launch event
 
 ------
 
-# 29 November 2026
+# 26 November 2026
 
-## [Competition dynamics in evolving communication markets and the connectivity ecosystem](https://doi.org/10.1787/bf651e38-en)
+## [OECD Economic Surveys: Indonesia 2026](https://doi.org/10.1787/88fb7181-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 29 November 2026 at 23:01 | no launch event
+Thursday 26 November 2026 at 2:30 | no launch event
 
 ### Status Information
 
@@ -3115,19 +3131,19 @@ Sunday 29 November 2026 at 23:01 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Policy paper*
-* Formats: *PDF, ZJCR, ZXML*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
-## [Impact assessment of competition authorities’ activities - Expanding the dialogue](https://doi.org/10.1787/9e940fa7-en)
+## [OECD Capital Market Review of Viet Nam 2026](https://doi.org/10.1787/7a3aeb01-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 29 November 2026 at 23:01 | no launch event
+Thursday 26 November 2026 at 8:30 | no launch event
 
 ### Status Information
 
@@ -3139,8 +3155,33 @@ Sunday 29 November 2026 at 23:01 | no launch event
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Policy paper*
-* Formats: *PDF, ZJCR, ZXML*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 4 December 2026
+
+## [OECD Economic Outlook, Volume 2026 Issue 2](https://doi.org/10.1787/7d1b78b8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 4 December 2026 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Issue*
+* Format: *PDF*
 
 ------
 
@@ -3181,16 +3222,16 @@ Tuesday 8 December 2026 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -3261,7 +3302,7 @@ Thursday 10 December 2026 at 8:00 | no launch event
 
 ------
 
-## [Revenue Statistics 2026 - Convergence of Tax Revenues in OECD Countries](https://doi.org/10.1787/a8a96038-en)
+## [Revenue Statistics 2026 - Convergence of Tax Revenues](https://doi.org/10.1787/a8a96038-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -3391,31 +3432,6 @@ Thursday 17 December 2026 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-------
-
-# 31 March 2027
-
-## [33rd OECD/UNCTAD report on G20 investment measures](https://doi.org/10.1787/418cfab1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 March 2027 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
 * Format: *PDF*
 
 ------
