@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 23 November 2026 at 22:46* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 24 November 2026 at 22:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving Corporate Governance in Malaysia](https://doi.org/10.1787/25eca1eb-en)
 
@@ -3070,6 +3070,27 @@ Wednesday 25 November 2026 at 3:30 | no launch event
 
 ------
 
+## [Dynamiques du développement en Afrique 2026 - Gérer la dette au service de la transformation](https://doi.org/10.1787/431eb3d2-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 November 2026 at 13:45 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ## [Africa’s Development Dynamics 2026 - Managing Debt for Transformation](https://doi.org/10.1787/92938db2-en)
 
 Embargo date | Launch date
@@ -3078,16 +3099,16 @@ Wednesday 25 November 2026 at 13:45 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
